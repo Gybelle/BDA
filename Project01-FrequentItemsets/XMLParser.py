@@ -1,6 +1,3 @@
-# Assignment 1: Collaboration Groups
-# Authors: Michelle Gybels & Anaïs Ools
-
 #!/usr/bin/python
 import xml.sax
 
