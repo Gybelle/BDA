@@ -3,3 +3,8 @@
 
 print("test")
 print("hello world")
+
+data = open("dblp50000.xml", "r");
+
+for i in data:
+    print(i);
