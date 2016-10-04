@@ -48,5 +48,5 @@ class ListOfAuthorsPerPublication(xml.sax.ContentHandler):
 f = open("authorsperpublication.txt", "w")
 parser = xml.sax.make_parser()
 parser.setContentHandler(ListOfAuthorsPerPublication())
-parser.parse(open("dblp50000.xml", "r"))
+parser.parse(open("../Input/dblp50000.xml", "r", encoding="utf8"))
 f.close()
