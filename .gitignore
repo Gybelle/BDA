@@ -1,2 +1,5 @@
 .idea/*
 Project01-FrequentItemsets/.idea/*
+Input/dblp.xml
+Input/authorsperpublicationBIG.txt
+Input/dblp.dtd
