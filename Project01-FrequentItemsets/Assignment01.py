@@ -3,7 +3,7 @@
 
 index = 0
 buckets = {}
-threshold = 15
+threshold = 10
 
 with open("../Input/authorsperpublication.txt", "r") as file:
     for line in file:
@@ -16,7 +16,7 @@ with open("../Input/authorsperpublication.txt", "r") as file:
 
 
 for author in buckets:
-    if(buckets[author] > threshold):
+    if(buckets[author] >= threshold):
         print("%s -> %s" % (author, buckets[author]))
 
 file.close()
