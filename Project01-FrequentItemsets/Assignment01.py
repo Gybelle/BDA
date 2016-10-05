@@ -7,8 +7,11 @@ threshold = 25
 
 def aPriori():
     list = applyThreshold(firstStep())
-    for i in range(2, 4):
+
+    i = 2
+    while list:
         list = applyThreshold(step(i, list))
+        i += 1
 
 def firstStep():
     candidates = {}
@@ -45,7 +48,8 @@ def step(k, list):
                     candidates[authors] += 1
     file.close()
     for authors in candidates:
-        print("%s -> %s" % (authors, candidates[authors]))
+        if candidates[authors] != 0:
+            print("%s -> %s" % (authors, candidates[authors]))
     return candidates
 
 
