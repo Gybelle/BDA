@@ -1,0 +1,4552 @@
+Threshold: 25 
+Groupsize: 1 
+Results: 14 
+	 25 : {'Christos H. Papadimitriou'} 
+	 35 : {'Micha Sharir'} 
+	 25 : {'Amir Pnueli'} 
+	 30 : {'Elisa Bertino'} 
+	 25 : {'Zvi Galil'} 
+	 27 : {'Oded Goldreich'} 
+	 31 : {'Moshe Y. Vardi'} 
+	 27 : {'Moti Yung'} 
+	 25 : {'Hector Garcia-Molina'} 
+	 26 : {'Grzegorz Rozenberg'} 
+	 31 : {'Sudhakar M. Reddy'} 
+	 35 : {'Philip S. Yu'} 
+	 25 : {'Prithviraj Banerjee'} 
+	 27 : {'Leonidas J. Guibas'} 
+
+Threshold: 25 
+Groupsize: 2 
+Results: 0 
+Threshold: 20 
+Groupsize: 1 
+Results: 36 
+	 24 : {'Kang G. Shin'} 
+	 20 : {'Hartmut Ehrig'} 
+	 22 : {'Alok N. Choudhary'} 
+	 25 : {'Christos H. Papadimitriou'} 
+	 27 : {'Moti Yung'} 
+	 21 : {'Pankaj K. Agarwal'} 
+	 23 : {'Hans-Peter Kriegel'} 
+	 25 : {'Hector Garcia-Molina'} 
+	 21 : {'Thomas A. Henzinger'} 
+	 24 : {'Michael Stonebraker'} 
+	 22 : {'Hermann A. Maurer'} 
+	 25 : {'Amir Pnueli'} 
+	 24 : {'Robert Endre Tarjan'} 
+	 22 : {'Michel Raynal'} 
+	 22 : {'Irith Pomeranz'} 
+	 25 : {'Prithviraj Banerjee'} 
+	 22 : {'Kurt Mehlhorn'} 
+	 21 : {'Joseph Y. Halpern'} 
+	 20 : {'Nancy A. Lynch'} 
+	 31 : {'Moshe Y. Vardi'} 
+	 27 : {'Oded Goldreich'} 
+	 30 : {'Elisa Bertino'} 
+	 27 : {'Leonidas J. Guibas'} 
+	 21 : {'Oscar H. Ibarra'} 
+	 31 : {'Sudhakar M. Reddy'} 
+	 20 : {'Krithi Ramamritham'} 
+	 22 : {'Jiawei Han'} 
+	 35 : {'Micha Sharir'} 
+	 21 : {'Michael Wooldridge'} 
+	 21 : {'Alan M. Frieze'} 
+	 20 : {'Divyakant Agrawal'} 
+	 25 : {'Zvi Galil'} 
+	 21 : {'Arto Salomaa'} 
+	 26 : {'Grzegorz Rozenberg'} 
+	 35 : {'Philip S. Yu'} 
+	 20 : {'Sushil Jajodia'} 
+
+Threshold: 20 
+Groupsize: 2 
+Results: 1 
+	 40 : {'Irith Pomeranz', 'Sudhakar M. Reddy'} 
+
+Threshold: 20 
+Groupsize: 3 
+Results: 0 
+Threshold: 15 
+Groupsize: 1 
+Results: 129 
+	 19 : {'Saharon Shelah'} 
+	 15 : {'Edward G. Coffman Jr.'} 
+	 17 : {'Madhu Sudan'} 
+	 15 : {'Miron Livny'} 
+	 15 : {'Stefano Ceri'} 
+	 18 : {'Didier Dubois'} 
+	 17 : {'Stephan Olariu'} 
+	 31 : {'Sudhakar M. Reddy'} 
+	 18 : {'Janak H. Patel'} 
+	 16 : {'Ralf Steinmetz'} 
+	 21 : {'Joseph Y. Halpern'} 
+	 35 : {'Micha Sharir'} 
+	 18 : {'David P. Dobkin'} 
+	 16 : {'Shamkant B. Navathe'} 
+	 18 : {'Mahmut T. Kandemir'} 
+	 16 : {'Bharat K. Bhargava'} 
+	 16 : {'Daniel Thalmann'} 
+	 23 : {'Hans-Peter Kriegel'} 
+	 16 : {'Horst Bunke'} 
+	 15 : {'Victor R. Basili'} 
+	 17 : {'Benjamin W. Wah'} 
+	 17 : {'Joachim W. Schmidt'} 
+	 16 : {'Herbert Edelsbrunner'} 
+	 22 : {'Alok N. Choudhary'} 
+	 16 : {'Rajeev Motwani'} 
+	 15 : {'Armin B. Cremers'} 
+	 15 : {'Viktor K. Prasanna'} 
+	 21 : {'Thomas A. Henzinger'} 
+	 15 : {'David Lorge Parnas'} 
+	 18 : {'Donald F. Towsley'} 
+	 15 : {'Sanjay Jain'} 
+	 22 : {'Hermann A. Maurer'} 
+	 15 : {'Rajeev Alur'} 
+	 16 : {'Elke A. Rundensteiner'} 
+	 17 : {'Bernard Chazelle'} 
+	 15 : {'Sebastian Thrun'} 
+	 19 : {'Jack Dongarra'} 
+	 25 : {'Hector Garcia-Molina'} 
+	 15 : {'Jeffrey Scott Vitter'} 
+	 19 : {'Noga Alon'} 
+	 24 : {'Robert Endre Tarjan'} 
+	 26 : {'Grzegorz Rozenberg'} 
+	 18 : {'Abraham Silberschatz'} 
+	 18 : {'Ben Shneiderman'} 
+	 22 : {'Kurt Mehlhorn'} 
+	 18 : {'Mark H. Overmars'} 
+	 20 : {'Sushil Jajodia'} 
+	 16 : {'Georg Gottlob'} 
+	 22 : {'Irith Pomeranz'} 
+	 17 : {'Lionel M. Ni'} 
+	 17 : {'Ian H. Witten'} 
+	 18 : {'Henri Prade'} 
+	 16 : {'David Eppstein'} 
+	 18 : {'John Mylopoulos'} 
+	 19 : {'Gio Wiederhold'} 
+	 16 : {'Jeff Kramer'} 
+	 16 : {'Maurice Herlihy'} 
+	 27 : {'Leonidas J. Guibas'} 
+	 15 : {'K. Mani Chandy'} 
+	 18 : {'Marek Karpinski'} 
+	 15 : {'Randy H. Katz'} 
+	 16 : {'Alberto L. Sangiovanni-Vincentelli'} 
+	 17 : {'Adi Shamir'} 
+	 16 : {'Klaus R. Dittrich'} 
+	 19 : {'Sartaj Sahni'} 
+	 16 : {'John H. Reif'} 
+	 16 : {'Juraj Hromkovic'} 
+	 17 : {'Jin-yi Cai'} 
+	 21 : {'Pankaj K. Agarwal'} 
+	 19 : {'David J. DeWitt'} 
+	 15 : {'Ming Li'} 
+	 20 : {'Hartmut Ehrig'} 
+	 17 : {'Karel Culik II'} 
+	 16 : {'Maurizio Lenzerini'} 
+	 16 : {'Paul G. Spirakis'} 
+	 19 : {'Torben Hagerup'} 
+	 15 : {'Nicholas R. Jennings'} 
+	 16 : {'Michael J. Carey'} 
+	 15 : {'Wolfgang Maass'} 
+	 15 : {'Mart�n Abadi'} 
+	 21 : {'Alan M. Frieze'} 
+	 18 : {'Matthias Jarke'} 
+	 18 : {'Juhani Karhum�ki'} 
+	 21 : {'Arto Salomaa'} 
+	 15 : {'Richard J. Lipton'} 
+	 17 : {'Jeffrey D. Ullman'} 
+	 24 : {'Michael Stonebraker'} 
+	 27 : {'Oded Goldreich'} 
+	 17 : {'Chin-Chen Chang'} 
+	 20 : {'Krithi Ramamritham'} 
+	 21 : {'Michael Wooldridge'} 
+	 16 : {'Rina Dechter'} 
+	 16 : {'Robert L. Glass'} 
+	 24 : {'Kang G. Shin'} 
+	 15 : {'Peter G. Neumann'} 
+	 22 : {'Michel Raynal'} 
+	 18 : {'D. T. Lee'} 
+	 15 : {'Howard Jay Siegel'} 
+	 16 : {'Robert K. Brayton'} 
+	 17 : {'Guang R. Gao'} 
+	 16 : {'Michael P. Wellman'} 
+	 16 : {'Edwin R. Hancock'} 
+	 20 : {'Nancy A. Lynch'} 
+	 19 : {'Ugo Montanari'} 
+	 22 : {'Jiawei Han'} 
+	 30 : {'Elisa Bertino'} 
+	 15 : {'Gerhard J. Woeginger'} 
+	 15 : {'Bill Hancock'} 
+	 18 : {'Christoph Meinel'} 
+	 15 : {'Roberto Tamassia'} 
+	 16 : {'Gregor von Bochmann'} 
+	 18 : {'Anil K. Jain'} 
+	 15 : {'Won Kim'} 
+	 16 : {'Philip A. Bernstein'} 
+	 25 : {'Zvi Galil'} 
+	 17 : {'David Maier'} 
+	 15 : {'W. Bruce Croft'} 
+	 31 : {'Moshe Y. Vardi'} 
+	 15 : {'Anoop Gupta'} 
+	 21 : {'Oscar H. Ibarra'} 
+	 20 : {'Divyakant Agrawal'} 
+	 15 : {'Erol Gelenbe'} 
+	 25 : {'Prithviraj Banerjee'} 
+	 27 : {'Moti Yung'} 
+	 25 : {'Christos H. Papadimitriou'} 
+	 16 : {'Wei Zhao'} 
+	 15 : {'Yishay Mansour'} 
+	 25 : {'Amir Pnueli'} 
+	 35 : {'Philip S. Yu'} 
+
+Threshold: 15 
+Groupsize: 2 
+Results: 4 
+	 34 : {'Didier Dubois', 'Henri Prade'} 
+	 20 : {'Alok N. Choudhary', 'Mahmut T. Kandemir'} 
+	 40 : {'Sudhakar M. Reddy', 'Irith Pomeranz'} 
+	 16 : {'Micha Sharir', 'Pankaj K. Agarwal'} 
+
+Threshold: 15 
+Groupsize: 3 
+Results: 0 
+Threshold: 10 
+Groupsize: 1 
+Results: 541 
+	 16 : {'Wei Zhao'} 
+	 12 : {'Rajeev Rastogi'} 
+	 11 : {'Don S. Batory'} 
+	 13 : {'Philippe Flajolet'} 
+	 14 : {'Sang Hyuk Son'} 
+	 13 : {'R�diger Reischuk'} 
+	 14 : {'Antonio Gonz�lez'} 
+	 18 : {'Donald F. Towsley'} 
+	 25 : {'Hector Garcia-Molina'} 
+	 15 : {'Yishay Mansour'} 
+	 11 : {'Ness B. Shroff'} 
+	 10 : {'Akinori Yonezawa'} 
+	 21 : {'Oscar H. Ibarra'} 
+	 15 : {'Nicholas R. Jennings'} 
+	 14 : {'Michel Dubois'} 
+	 16 : {'Michael J. Carey'} 
+	 11 : {'Hagit Attiya'} 
+	 13 : {'Bruno Courcelle'} 
+	 10 : {'Andrew B. Whinston'} 
+	 10 : {'Eyal Kushilevitz'} 
+	 16 : {'Rina Dechter'} 
+	 11 : {'Jorge Urrutia'} 
+	 30 : {'Elisa Bertino'} 
+	 13 : {'Kyung-Yong Chwa'} 
+	 13 : {'Mikkel Thorup'} 
+	 10 : {'Alfredo De Santis'} 
+	 11 : {'Martin Farach'} 
+	 11 : {'Diane Crawford'} 
+	 15 : {'Randy H. Katz'} 
+	 13 : {'Debasis Mitra'} 
+	 12 : {'Martin E. Dyer'} 
+	 15 : {'W. Bruce Croft'} 
+	 10 : {'P. M. Melliar-Smith'} 
+	 13 : {'Christos Faloutsos'} 
+	 15 : {'David Lorge Parnas'} 
+	 25 : {'Amir Pnueli'} 
+	 16 : {'Philip A. Bernstein'} 
+	 10 : {'Gruia-Catalin Roman'} 
+	 12 : {'Jan Paredaens'} 
+	 15 : {'Jeffrey Scott Vitter'} 
+	 11 : {'Jean-Loup Baer'} 
+	 10 : {'Matthias Felleisen'} 
+	 12 : {'Simon S. Lam'} 
+	 17 : {'Jeffrey D. Ullman'} 
+	 12 : {'Doron Rotem'} 
+	 10 : {'Dinesh Manocha'} 
+	 10 : {'Boris Aronov'} 
+	 14 : {'Danny Dolev'} 
+	 11 : {'Roberto Gorrieri'} 
+	 19 : {'Jack Dongarra'} 
+	 10 : {'Sanjeev Khanna'} 
+	 21 : {'Arto Salomaa'} 
+	 11 : {'Paris C. Kanellakis'} 
+	 10 : {'Philip Wadler'} 
+	 17 : {'Karel Culik II'} 
+	 10 : {'Allen D. Malony'} 
+	 12 : {'Pat Langley'} 
+	 17 : {'Ian H. Witten'} 
+	 11 : {'Oded Shmueli'} 
+	 14 : {'Karsten Schwan'} 
+	 19 : {'Sartaj Sahni'} 
+	 10 : {'Alexander Borgida'} 
+	 10 : {'Mateo Valero'} 
+	 11 : {'Theo H�rder'} 
+	 13 : {'C. A. R. Hoare'} 
+	 13 : {'Dan Suciu'} 
+	 12 : {'Kamalakar Karlapalem'} 
+	 27 : {'Moti Yung'} 
+	 12 : {'Emilio L. Zapata'} 
+	 12 : {'Hans-Peter Meinzer'} 
+	 18 : {'Anil K. Jain'} 
+	 11 : {'Richard D. Schlichting'} 
+	 12 : {'Hans-J�rg Kreowski'} 
+	 11 : {'Gilbert Held'} 
+	 11 : {'Lane A. Hemachandra'} 
+	 11 : {'Rusins Freivalds'} 
+	 13 : {'Takeo Kanade'} 
+	 12 : {'Ching Y. Suen'} 
+	 13 : {'Jim Gray'} 
+	 11 : {'Zohar Manna'} 
+	 12 : {'Danny Krizanc'} 
+	 11 : {'Rolf Drechsler'} 
+	 11 : {'Mary K. Vernon'} 
+	 10 : {'Rocco De Nicola'} 
+	 18 : {'Didier Dubois'} 
+	 17 : {'Adi Shamir'} 
+	 12 : {'Deepak Kapur'} 
+	 13 : {'Subhash Suri'} 
+	 10 : {'Richard R. Muntz'} 
+	 13 : {'Thomas S. Huang'} 
+	 13 : {'Serge Abiteboul'} 
+	 16 : {'Bharat K. Bhargava'} 
+	 10 : {'Amos Fiat'} 
+	 11 : {'Nick Cercone'} 
+	 22 : {'Irith Pomeranz'} 
+	 10 : {'Bertrand Meyer'} 
+	 10 : {'C. L. Liu'} 
+	 15 : {'Peter G. Neumann'} 
+	 11 : {'David A. Basin'} 
+	 10 : {'Bart Preneel'} 
+	 35 : {'Micha Sharir'} 
+	 10 : {'Leonid Libkin'} 
+	 12 : {'Arie Segev'} 
+	 10 : {'Susanne E. Hambrusch'} 
+	 11 : {'Erik D. Demaine'} 
+	 27 : {'Leonidas J. Guibas'} 
+	 16 : {'Alberto L. Sangiovanni-Vincentelli'} 
+	 13 : {'Grigoris Antoniou'} 
+	 10 : {'Martin L. Kersten'} 
+	 10 : {'Alok Aggarwal'} 
+	 10 : {'Friedhelm Meyer auf der Heide'} 
+	 12 : {'Carey L. Williamson'} 
+	 10 : {'Jae-Woo Chang'} 
+	 10 : {'Wei-Tek Tsai'} 
+	 12 : {'Frank Stephan'} 
+	 12 : {'Dima Grigoriev'} 
+	 11 : {'Peter Widmayer'} 
+	 16 : {'Daniel Thalmann'} 
+	 16 : {'Rajeev Motwani'} 
+	 17 : {'Benjamin W. Wah'} 
+	 11 : {'Myoung-Ho Kim'} 
+	 11 : {'Jens Palsberg'} 
+	 14 : {'Barry W. Boehm'} 
+	 11 : {'Moni Naor'} 
+	 18 : {'Mahmut T. Kandemir'} 
+	 10 : {'Ronald Morrison'} 
+	 10 : {'Letizia Tanca'} 
+	 11 : {'Sampath Kannan'} 
+	 12 : {'Alexandru Nicolau'} 
+	 12 : {'Alan Bundy'} 
+	 20 : {'Sushil Jajodia'} 
+	 13 : {'Stuart E. Madnick'} 
+	 12 : {'Edward A. Fox'} 
+	 12 : {'Gheorghe Paun'} 
+	 10 : {'Andrzej Lingas'} 
+	 15 : {'Armin B. Cremers'} 
+	 10 : {'S. Muthukrishnan'} 
+	 14 : {'Raghu Ramakrishnan'} 
+	 10 : {'Katia P. Sycara'} 
+	 14 : {'Richard T. Snodgrass'} 
+	 10 : {'Stanley B. Zdonik'} 
+	 15 : {'Stefano Ceri'} 
+	 10 : {'Ian Sommerville'} 
+	 13 : {'J. Ian Munro'} 
+	 11 : {'J�rg Nievergelt'} 
+	 15 : {'Mart�n Abadi'} 
+	 13 : {'Ahmed K. Elmagarmid'} 
+	 18 : {'Henri Prade'} 
+	 15 : {'Roberto Tamassia'} 
+	 10 : {'Evelina Lamma'} 
+	 12 : {'Jeffrey F. Naughton'} 
+	 10 : {'Ian F. Akyildiz'} 
+	 10 : {'Tom�s Lang'} 
+	 12 : {'Boi Faltings'} 
+	 13 : {'Josef Kittler'} 
+	 13 : {'Evangelos Kranakis'} 
+	 11 : {'Michael N. Huhns'} 
+	 13 : {'Seymour Ginsburg'} 
+	 18 : {'Marek Karpinski'} 
+	 12 : {'Selim G. Akl'} 
+	 17 : {'David Maier'} 
+	 11 : {'Mohamed Ould-Khaoua'} 
+	 15 : {'Viktor K. Prasanna'} 
+	 14 : {'Daphne Koller'} 
+	 15 : {'Erol Gelenbe'} 
+	 10 : {'Paul Erd�s'} 
+	 10 : {'Simon Parsons'} 
+	 13 : {'Norman W. Paton'} 
+	 10 : {'Vijay V. Vazirani'} 
+	 11 : {'Laks V. S. Lakshmanan'} 
+	 10 : {'Pavol Duris'} 
+	 11 : {'Jan Van den Bussche'} 
+	 12 : {'Leslie G. Valiant'} 
+	 10 : {'Paul M. B. Vit�nyi'} 
+	 17 : {'Guang R. Gao'} 
+	 17 : {'Bernard Chazelle'} 
+	 10 : {'Jan Treur'} 
+	 19 : {'Ugo Montanari'} 
+	 10 : {'Manuel Blum'} 
+	 12 : {'Terrence J. Sejnowski'} 
+	 11 : {'Ingo Wegener'} 
+	 12 : {'Shlomo Moran'} 
+	 15 : {'Won Kim'} 
+	 21 : {'Alan M. Frieze'} 
+	 10 : {'Frank Wolter'} 
+	 10 : {'Kotagiri Ramamohanarao'} 
+	 10 : {'Yves Robert'} 
+	 10 : {'Godfried T. Toussaint'} 
+	 10 : {'Yoshihide Igarashi'} 
+	 10 : {'Jos� D. P. Rolim'} 
+	 11 : {'Joseph S. B. Mitchell'} 
+	 14 : {'Wayne Wolf'} 
+	 11 : {'Amit P. Sheth'} 
+	 11 : {'Michael K. Reiter'} 
+	 11 : {'Erich Kaltofen'} 
+	 15 : {'Bill Hancock'} 
+	 11 : {'Frank Pfenning'} 
+	 16 : {'Edwin R. Hancock'} 
+	 14 : {'J. Ramanujam'} 
+	 10 : {'Jennifer Widom'} 
+	 12 : {'Heinrich Niemann'} 
+	 13 : {'Ken Kennedy'} 
+	 14 : {'Mark de Berg'} 
+	 10 : {'Jack Minker'} 
+	 10 : {'Beng Chin Ooi'} 
+	 10 : {'Gultekin �zsoyoglu'} 
+	 11 : {'Hsinchun Chen'} 
+	 12 : {'Wojciech Rytter'} 
+	 10 : {'W. Eric L. Grimson'} 
+	 12 : {'C. S. Raghavendra'} 
+	 13 : {'V. S. Subrahmanian'} 
+	 11 : {'Don Coppersmith'} 
+	 16 : {'Michael P. Wellman'} 
+	 12 : {'Stephen S. Yau'} 
+	 14 : {'Hans-Peter Seidel'} 
+	 18 : {'Matthias Jarke'} 
+	 10 : {'C. Lee Giles'} 
+	 11 : {'Masaru Kitsuregawa'} 
+	 19 : {'Saharon Shelah'} 
+	 14 : {'Avi Wigderson'} 
+	 13 : {'C. K. Wong'} 
+	 11 : {'D. F. Wong'} 
+	 10 : {'A. Prasad Sistla'} 
+	 13 : {'Ramesh Jain'} 
+	 10 : {'Milind Tambe'} 
+	 12 : {'Neil D. Jones'} 
+	 11 : {'Egidio Astesiano'} 
+	 21 : {'Pankaj K. Agarwal'} 
+	 11 : {'Douglas C. Schmidt'} 
+	 35 : {'Philip S. Yu'} 
+	 15 : {'Howard Jay Siegel'} 
+	 13 : {'Douglas R. Stinson'} 
+	 11 : {'Yehoshua Sagiv'} 
+	 10 : {'David A. McAllester'} 
+	 11 : {'Jane W.-S. Liu'} 
+	 13 : {'Alex Pentland'} 
+	 15 : {'Sanjay Jain'} 
+	 10 : {'Saumya K. Debray'} 
+	 19 : {'Noga Alon'} 
+	 10 : {'Am�lcar Sernadas'} 
+	 16 : {'Georg Gottlob'} 
+	 12 : {'Victor R. Lesser'} 
+	 11 : {'Giorgio Levi'} 
+	 12 : {'Calton Pu'} 
+	 15 : {'Anoop Gupta'} 
+	 10 : {'Raymond J. Mooney'} 
+	 12 : {'John C. Mitchell'} 
+	 12 : {'Zolt�n �sik'} 
+	 11 : {'Gordon S. Blair'} 
+	 12 : {'Alan Jay Smith'} 
+	 18 : {'D. T. Lee'} 
+	 12 : {'Dov M. Gabbay'} 
+	 10 : {'Uzi Vishkin'} 
+	 10 : {'Rakesh Agrawal'} 
+	 11 : {'C. Mohan'} 
+	 10 : {'I. V. Ramakrishnan'} 
+	 11 : {'Wolfgang A. Halang'} 
+	 11 : {'Piotr Indyk'} 
+	 13 : {'Edward J. McCluskey'} 
+	 16 : {'David Eppstein'} 
+	 10 : {'Aurel A. Lazar'} 
+	 21 : {'Michael Wooldridge'} 
+	 11 : {'Klaus Jansen'} 
+	 10 : {'Nader H. Bshouty'} 
+	 17 : {'Chin-Chen Chang'} 
+	 11 : {'Wei Wang'} 
+	 11 : {'Jack Snoeyink'} 
+	 11 : {'Josep Torrellas'} 
+	 12 : {'Tao Jiang'} 
+	 16 : {'Maurizio Lenzerini'} 
+	 14 : {'Heikki Mannila'} 
+	 12 : {'Munindar P. Singh'} 
+	 21 : {'Thomas A. Henzinger'} 
+	 20 : {'Divyakant Agrawal'} 
+	 11 : {'Andrzej Ehrenfeucht'} 
+	 18 : {'John Mylopoulos'} 
+	 26 : {'Grzegorz Rozenberg'} 
+	 21 : {'Joseph Y. Halpern'} 
+	 10 : {'Giovanni Soda'} 
+	 11 : {'Jia-Huai You'} 
+	 14 : {'Juris Hartmanis'} 
+	 16 : {'Maurice Herlihy'} 
+	 11 : {'Claus-Peter Schnorr'} 
+	 12 : {'Jos� Meseguer'} 
+	 11 : {'Marco Ajmone Marsan'} 
+	 11 : {'Frank Thomson Leighton'} 
+	 12 : {'Miodrag Potkonjak'} 
+	 14 : {'Ricardo A. Baeza-Yates'} 
+	 15 : {'Richard J. Lipton'} 
+	 10 : {'Tom Rodden'} 
+	 13 : {'Lance Fortnow'} 
+	 11 : {'Kenneth A. Ross'} 
+	 22 : {'Michel Raynal'} 
+	 10 : {'Nicola Leone'} 
+	 10 : {'Ivan Damg�rd'} 
+	 12 : {'Charu C. Aggarwal'} 
+	 12 : {'Manfred Glesner'} 
+	 10 : {'Georges Gardarin'} 
+	 11 : {'Joseph J�J�'} 
+	 12 : {'Wendy Hall'} 
+	 31 : {'Sudhakar M. Reddy'} 
+	 11 : {'Thomas G. Dietterich'} 
+	 10 : {'Luca Trevisan'} 
+	 13 : {'P. Sadayappan'} 
+	 12 : {'Nachum Dershowitz'} 
+	 14 : {'Patrick Valduriez'} 
+	 10 : {'Daniel Barbar�'} 
+	 24 : {'Robert Endre Tarjan'} 
+	 13 : {'Tok Wang Ling'} 
+	 10 : {'Christos Levcopoulos'} 
+	 10 : {'Edmund H. Durfee'} 
+	 15 : {'Gerhard J. Woeginger'} 
+	 19 : {'Torben Hagerup'} 
+	 10 : {'Carlo Zaniolo'} 
+	 10 : {'Xiaolei Qian'} 
+	 17 : {'Lionel M. Ni'} 
+	 10 : {'Wesley W. Chu'} 
+	 25 : {'Prithviraj Banerjee'} 
+	 19 : {'David J. DeWitt'} 
+	 11 : {'Sariel Har-Peled'} 
+	 10 : {'Yechiam Yemini'} 
+	 11 : {'Rudi Studer'} 
+	 13 : {'Sajal K. Das'} 
+	 13 : {'Fred B. Schneider'} 
+	 16 : {'Robert K. Brayton'} 
+	 18 : {'Christoph Meinel'} 
+	 10 : {'Leon J. Osterweil'} 
+	 13 : {'Majid Sarrafzadeh'} 
+	 14 : {'Chee-Keng Yap'} 
+	 10 : {'Janusz A. Brzozowski'} 
+	 14 : {'Jianwen Su'} 
+	 14 : {'Nadia Magnenat-Thalmann'} 
+	 18 : {'David P. Dobkin'} 
+	 12 : {'Tuomas Sandholm'} 
+	 12 : {'Joel H. Saltz'} 
+	 12 : {'Miroslaw Truszczynski'} 
+	 10 : {'Danny Z. Chen'} 
+	 12 : {'Barbara Liskov'} 
+	 11 : {'Vipin Kumar'} 
+	 10 : {'Rama Chellappa'} 
+	 10 : {'Harald Ganzinger'} 
+	 11 : {'David A. Padua'} 
+	 13 : {'Ian T. Foster'} 
+	 12 : {'Gordon D. Plotkin'} 
+	 11 : {'Edmund M. Clarke'} 
+	 16 : {'Horst Bunke'} 
+	 12 : {'John-Jules Ch. Meyer'} 
+	 16 : {'Herbert Edelsbrunner'} 
+	 10 : {'Flemming Nielson'} 
+	 11 : {'Dana Ron'} 
+	 10 : {'Pascal Van Hentenryck'} 
+	 10 : {'David B. Lomet'} 
+	 11 : {'Alfons Kemper'} 
+	 10 : {'Matteo Sonza Reorda'} 
+	 20 : {'Krithi Ramamritham'} 
+	 12 : {'Thomas Eiter'} 
+	 18 : {'Juhani Karhum�ki'} 
+	 16 : {'Gregor von Bochmann'} 
+	 10 : {'Hiroaki Kitano'} 
+	 15 : {'Edward G. Coffman Jr.'} 
+	 10 : {'Le Gruenwald'} 
+	 14 : {'Azriel Rosenfeld'} 
+	 14 : {'Amr El Abbadi'} 
+	 22 : {'Alok N. Choudhary'} 
+	 27 : {'Oded Goldreich'} 
+	 15 : {'Wolfgang Maass'} 
+	 10 : {'Steven Feiner'} 
+	 12 : {'Mary Lou Soffa'} 
+	 22 : {'Hermann A. Maurer'} 
+	 10 : {'Peter J. Stuckey'} 
+	 10 : {'Theodore Johnson'} 
+	 10 : {'Yanchun Zhang'} 
+	 10 : {'Laxmi N. Bhuyan'} 
+	 12 : {'Reihaneh Safavi-Naini'} 
+	 15 : {'Victor R. Basili'} 
+	 13 : {'Udi Manber'} 
+	 12 : {'Burkhard Monien'} 
+	 31 : {'Moshe Y. Vardi'} 
+	 12 : {'Andrei Z. Broder'} 
+	 12 : {'Dharma P. Agrawal'} 
+	 10 : {'Clement T. Yu'} 
+	 14 : {'John A. Stankovic'} 
+	 11 : {'Ronald Fagin'} 
+	 13 : {'David Hung-Chang Du'} 
+	 24 : {'Michael Stonebraker'} 
+	 13 : {'Monika Rauch Henzinger'} 
+	 13 : {'Ling Liu'} 
+	 11 : {'Bhavani M. Thuraisingham'} 
+	 13 : {'Thomas W. Reps'} 
+	 10 : {'Franz Baader'} 
+	 10 : {'Ravi Kumar'} 
+	 10 : {'Hideo Fujiwara'} 
+	 16 : {'Jeff Kramer'} 
+	 13 : {'Aidong Zhang'} 
+	 13 : {'Lu�s Moniz Pereira'} 
+	 10 : {'Manuela M. Veloso'} 
+	 16 : {'Ralf Steinmetz'} 
+	 10 : {'Olivier Danvy'} 
+	 13 : {'Gerald Sommer'} 
+	 11 : {'Jos� Duato'} 
+	 14 : {'Mikhail J. Atallah'} 
+	 10 : {'Hong Va Leong'} 
+	 16 : {'Klaus R. Dittrich'} 
+	 12 : {'Gershon Elber'} 
+	 12 : {'David Peleg'} 
+	 11 : {'Emo Welzl'} 
+	 12 : {'Thomas Fahringer'} 
+	 11 : {'Thomas Ertl'} 
+	 14 : {'Judea Pearl'} 
+	 14 : {'Eric Allender'} 
+	 10 : {'Ravishankar K. Iyer'} 
+	 10 : {'Dennis Shasha'} 
+	 12 : {'Christoph M. Hoffmann'} 
+	 10 : {'Hanne Riis Nielson'} 
+	 16 : {'Juraj Hromkovic'} 
+	 10 : {'Yi Pan'} 
+	 15 : {'Ming Li'} 
+	 10 : {'Robert Harper'} 
+	 11 : {'Arnold L. Rosenberg'} 
+	 13 : {'Udo Hahn'} 
+	 11 : {'David L. Dill'} 
+	 11 : {'Jie Wu'} 
+	 10 : {'Howard J. Hamilton'} 
+	 17 : {'Joachim W. Schmidt'} 
+	 24 : {'Kang G. Shin'} 
+	 10 : {'Marc J. van Kreveld'} 
+	 10 : {'Joachim Biskup'} 
+	 10 : {'Mary Jane Irwin'} 
+	 10 : {'Wilfried Brauer'} 
+	 13 : {'Mostafa H. Ammar'} 
+	 14 : {'Michael T. Goodrich'} 
+	 12 : {'Santosh K. Shrivastava'} 
+	 10 : {'Tomasz Imielinski'} 
+	 12 : {'Richard M. Karp'} 
+	 14 : {'Yahiko Kambayashi'} 
+	 16 : {'Shamkant B. Navathe'} 
+	 11 : {'Sanjay Kumar Madria'} 
+	 16 : {'Robert L. Glass'} 
+	 20 : {'Nancy A. Lynch'} 
+	 11 : {'Volker Gruhn'} 
+	 11 : {'David S. Johnson'} 
+	 16 : {'Paul G. Spirakis'} 
+	 13 : {'Joost Engelfriet'} 
+	 14 : {'Giuseppe Di Battista'} 
+	 22 : {'Kurt Mehlhorn'} 
+	 10 : {'David B. Fogel'} 
+	 15 : {'Rajeev Alur'} 
+	 10 : {'Joe Kilian'} 
+	 25 : {'Zvi Galil'} 
+	 10 : {'Georg Hartmann'} 
+	 13 : {'John F. Canny'} 
+	 14 : {'Yossi Azar'} 
+	 20 : {'Hartmut Ehrig'} 
+	 11 : {'Jean-Luc Gaudiot'} 
+	 12 : {'Alon Itai'} 
+	 12 : {'Hans-J�rg Schek'} 
+	 16 : {'John H. Reif'} 
+	 15 : {'Sebastian Thrun'} 
+	 11 : {'David R. Karger'} 
+	 13 : {'Allen Van Gelder'} 
+	 10 : {'Ali Mili'} 
+	 10 : {'Mukesh Singhal'} 
+	 12 : {'Efim B. Kinber'} 
+	 13 : {'Maurice Bruynooghe'} 
+	 12 : {'Chandrajit L. Bajaj'} 
+	 10 : {'Mike Paterson'} 
+	 10 : {'Jean-Jacques Quisquater'} 
+	 11 : {'John Hershberger'} 
+	 10 : {'Alberto H. F. Laender'} 
+	 10 : {'Norio Shiratori'} 
+	 10 : {'Taghi M. Khoshgoftaar'} 
+	 10 : {'Frank K. H. A. Dehne'} 
+	 11 : {'Ee-Peng Lim'} 
+	 10 : {'Elena Ferrari'} 
+	 18 : {'Janak H. Patel'} 
+	 10 : {'Alberto Marchetti-Spaccamela'} 
+	 12 : {'Jir� Matousek'} 
+	 13 : {'Rajiv Gupta'} 
+	 10 : {'Jacob A. Abraham'} 
+	 10 : {'Peter Lee'} 
+	 11 : {'V. Wiktor Marek'} 
+	 15 : {'Miron Livny'} 
+	 12 : {'Hui Zhang'} 
+	 18 : {'Mark H. Overmars'} 
+	 22 : {'Jiawei Han'} 
+	 13 : {'Aloysius K. Mok'} 
+	 12 : {'Terence C. Fogarty'} 
+	 11 : {'Robert L. Constable'} 
+	 12 : {'Nick Roussopoulos'} 
+	 10 : {'E. Allen Emerson'} 
+	 10 : {'Barbara Pernici'} 
+	 10 : {'Bernhard Nebel'} 
+	 10 : {'Rachid Guerraoui'} 
+	 12 : {'Wee Keong Ng'} 
+	 12 : {'Gopal Gupta'} 
+	 17 : {'Madhu Sudan'} 
+	 11 : {'Wen-Syan Li'} 
+	 11 : {'Marco Gori'} 
+	 14 : {'H. V. Jagadish'} 
+	 15 : {'K. Mani Chandy'} 
+	 13 : {'Derick Wood'} 
+	 11 : {'Asuman Dogac'} 
+	 10 : {'Fillia Makedon'} 
+	 11 : {'Robert E. Filman'} 
+	 10 : {'Masahiro Fujita'} 
+	 11 : {'Kenneth C. Sevcik'} 
+	 25 : {'Christos H. Papadimitriou'} 
+	 14 : {'Manfred Broy'} 
+	 10 : {'Evaggelia Pitoura'} 
+	 10 : {'Yannis E. Ioannidis'} 
+	 18 : {'Ben Shneiderman'} 
+	 12 : {'Uri Zwick'} 
+	 16 : {'Elke A. Rundensteiner'} 
+	 13 : {'Baruch Awerbuch'} 
+	 12 : {'Manuel V. Hermenegildo'} 
+	 17 : {'Stephan Olariu'} 
+	 11 : {'Benny Chor'} 
+	 10 : {'Starr Roxanne Hiltz'} 
+	 11 : {'Norman Y. Foo'} 
+	 17 : {'Jin-yi Cai'} 
+	 14 : {'Robert P. Kurshan'} 
+	 12 : {'Fausto Giunchiglia'} 
+	 10 : {'Marianne Winslett'} 
+	 13 : {'Prabhakar Raghavan'} 
+	 14 : {'Daniel P. Siewiorek'} 
+	 12 : {'Jaideep Srivastava'} 
+	 12 : {'Uriel Feige'} 
+	 10 : {'Andrzej Pelc'} 
+	 12 : {'Abdelsalam Helal'} 
+	 10 : {'David Gries'} 
+	 11 : {'Michael Hanus'} 
+	 12 : {'Silvio Micali'} 
+	 10 : {'Ouri Wolfson'} 
+	 19 : {'Gio Wiederhold'} 
+	 12 : {'Domenico Sacc�'} 
+	 18 : {'Abraham Silberschatz'} 
+	 11 : {'Peter Mertens'} 
+	 10 : {'Ishfaq Ahmad'} 
+	 10 : {'Andrew B. Kahng'} 
+	 11 : {'Arif Ghafoor'} 
+	 23 : {'Hans-Peter Kriegel'} 
+
+Threshold: 10 
+Groupsize: 2 
+Results: 36 
+	 10 : {'John A. Stankovic', 'Sang Hyuk Son'} 
+	 14 : {'Rajiv Gupta', 'Mary Lou Soffa'} 
+	 14 : {'Evangelos Kranakis', 'Danny Krizanc'} 
+	 16 : {'Roberto Tamassia', 'Giuseppe Di Battista'} 
+	 16 : {'Micha Sharir', 'Pankaj K. Agarwal'} 
+	 14 : {'Philip S. Yu', 'Charu C. Aggarwal'} 
+	 12 : {'Zohar Manna', 'Amir Pnueli'} 
+	 12 : {'Prithviraj Banerjee', 'J. Ramanujam'} 
+	 18 : {'Elena Ferrari', 'Elisa Bertino'} 
+	 12 : {'Leonidas J. Guibas', 'John Hershberger'} 
+	 12 : {'Thomas A. Henzinger', 'Rajeev Alur'} 
+	 18 : {'Mahmut T. Kandemir', 'J. Ramanujam'} 
+	 10 : {'Ling Liu', 'Calton Pu'} 
+	 10 : {'Yehoshua Sagiv', 'Oded Shmueli'} 
+	 10 : {'D. T. Lee', 'C. K. Wong'} 
+	 10 : {'Wee Keong Ng', 'Sanjay Kumar Madria'} 
+	 40 : {'Sudhakar M. Reddy', 'Irith Pomeranz'} 
+	 12 : {'Giovanni Soda', 'Marco Gori'} 
+	 34 : {'Didier Dubois', 'Henri Prade'} 
+	 14 : {'Alok N. Choudhary', 'Prithviraj Banerjee'} 
+	 10 : {'Alan M. Frieze', 'Martin E. Dyer'} 
+	 16 : {'Miroslaw Truszczynski', 'V. Wiktor Marek'} 
+	 16 : {'Pavol Duris', 'Zvi Galil'} 
+	 12 : {'Prithviraj Banerjee', 'Mahmut T. Kandemir'} 
+	 20 : {'Alok N. Choudhary', 'Mahmut T. Kandemir'} 
+	 12 : {'Michael Wooldridge', 'Nicholas R. Jennings'} 
+	 12 : {'Boris Aronov', 'Micha Sharir'} 
+	 10 : {'Juhani Karhum�ki', 'Karel Culik II'} 
+	 16 : {'Alok N. Choudhary', 'J. Ramanujam'} 
+	 20 : {'Grzegorz Rozenberg', 'Andrzej Ehrenfeucht'} 
+	 14 : {'Ee-Peng Lim', 'Wee Keong Ng'} 
+	 10 : {'Hans-J�rg Kreowski', 'Hartmut Ehrig'} 
+	 10 : {'Domenico Sacc�', 'Carlo Zaniolo'} 
+	 10 : {'Abraham Silberschatz', 'Rajeev Rastogi'} 
+	 24 : {'Divyakant Agrawal', 'Amr El Abbadi'} 
+	 20 : {'Flemming Nielson', 'Hanne Riis Nielson'} 
+
+Threshold: 10 
+Groupsize: 3 
+Results: 4 
+	 18 : {'Alok N. Choudhary', 'Prithviraj Banerjee', 'J. Ramanujam'} 
+	 18 : {'Alok N. Choudhary', 'Prithviraj Banerjee', 'Mahmut T. Kandemir'} 
+	 24 : {'Alok N. Choudhary', 'Mahmut T. Kandemir', 'J. Ramanujam'} 
+	 18 : {'Prithviraj Banerjee', 'Mahmut T. Kandemir', 'J. Ramanujam'} 
+
+Threshold: 10 
+Groupsize: 4 
+Results: 1 
+	 24 : {'Alok N. Choudhary', 'Prithviraj Banerjee', 'Mahmut T. Kandemir', 'J. Ramanujam'} 
+
+Threshold: 10 
+Groupsize: 5 
+Results: 0 
+Threshold: 5 
+Groupsize: 1 
+Results: 3036 
+	 8 : {'Heribert Vollmer'} 
+	 6 : {'Lawrence H. Landweber'} 
+	 9 : {'J. J. Garcia-Luna-Aceves'} 
+	 7 : {'Jos� Luiz Fiadeiro'} 
+	 11 : {'Wolfgang A. Halang'} 
+	 5 : {'Peter Druschel'} 
+	 5 : {'Yves Kodratoff'} 
+	 8 : {'Rupak Biswas'} 
+	 11 : {'Mohamed Ould-Khaoua'} 
+	 5 : {'Rajendran Panda'} 
+	 5 : {'Peter Buneman'} 
+	 5 : {'M. Ray Mercer'} 
+	 8 : {'Ashok K. Agrawala'} 
+	 6 : {'B�atrice B�rard'} 
+	 7 : {'Furio Honsell'} 
+	 9 : {'Paola Mello'} 
+	 7 : {'Roberto Baldoni'} 
+	 7 : {'Volker Diekert'} 
+	 17 : {'Madhu Sudan'} 
+	 7 : {'Andrea De Lucia'} 
+	 9 : {'Richard Hull'} 
+	 15 : {'Miron Livny'} 
+	 5 : {'Jan Willem Klop'} 
+	 8 : {'David A. Plaisted'} 
+	 5 : {'Charles D. Hansen'} 
+	 9 : {'Jayadev Misra'} 
+	 5 : {'Marc Feeley'} 
+	 8 : {'Andrew W. Appel'} 
+	 6 : {'Omran A. Bukhres'} 
+	 6 : {'Giorgio Ausiello'} 
+	 6 : {'David Kotz'} 
+	 5 : {'Ashok Malhotra'} 
+	 5 : {'Harry B. Hunt III'} 
+	 7 : {'Dieter Fox'} 
+	 10 : {'Katia P. Sycara'} 
+	 5 : {'Marc H. Graham'} 
+	 6 : {'Oded Regev'} 
+	 6 : {'Thomas Linke'} 
+	 6 : {'David S. Wise'} 
+	 5 : {'Huan Liu'} 
+	 12 : {'Uri Zwick'} 
+	 5 : {'H. Dieter Rombach'} 
+	 6 : {'Angi Vo�'} 
+	 6 : {'Andr� van der Hoek'} 
+	 13 : {'Thomas S. Huang'} 
+	 8 : {'Christoph Schn�rr'} 
+	 5 : {'Chunnian Liu'} 
+	 5 : {'Julian F. Miller'} 
+	 8 : {'Ken Sakamura'} 
+	 7 : {'Prosenjit Bose'} 
+	 10 : {'Wei-Tek Tsai'} 
+	 11 : {'Rolf Drechsler'} 
+	 7 : {'Jerry L. Trahan'} 
+	 15 : {'Won Kim'} 
+	 7 : {'Ming-Chien Shan'} 
+	 7 : {'Franco Zambonelli'} 
+	 6 : {'Catherine Plaisant'} 
+	 6 : {'Darrell Woelk'} 
+	 5 : {'Markus Fischer'} 
+	 5 : {'Harald Gall'} 
+	 6 : {'Dan Roth'} 
+	 6 : {'Robert B. Fisher'} 
+	 6 : {'Prakash Panangaden'} 
+	 6 : {'Prathima Agrawal'} 
+	 6 : {'Sakti Pramanik'} 
+	 16 : {'Wei Zhao'} 
+	 9 : {'Malcolm P. Atkinson'} 
+	 6 : {'Xiaoyang Sean Wang'} 
+	 10 : {'C. Lee Giles'} 
+	 5 : {'Erica Melis'} 
+	 8 : {'Ralph-Johan Back'} 
+	 7 : {'Chita R. Das'} 
+	 8 : {'S. Sitharama Iyengar'} 
+	 8 : {'Keith Marzullo'} 
+	 6 : {'Michael Burrows'} 
+	 8 : {'Radha Jagadeesan'} 
+	 15 : {'Victor R. Basili'} 
+	 6 : {'Kewal K. Saluja'} 
+	 5 : {'Patrick Horster'} 
+	 5 : {'Per Brinch Hansen'} 
+	 6 : {'Andreas Zell'} 
+	 8 : {'Maciej Koutny'} 
+	 12 : {'Mary Lou Soffa'} 
+	 8 : {'Darrell D. E. Long'} 
+	 12 : {'Richard M. Karp'} 
+	 6 : {'David M. Nicol'} 
+	 6 : {'Lei Xu'} 
+	 12 : {'Jan Paredaens'} 
+	 6 : {'Hasan M. Jamil'} 
+	 5 : {'Nathan S. Netanyahu'} 
+	 14 : {'Jianwen Su'} 
+	 20 : {'Sushil Jajodia'} 
+	 5 : {'Roger Mohr'} 
+	 6 : {'Helmut Prodinger'} 
+	 11 : {'Myoung-Ho Kim'} 
+	 10 : {'W. Eric L. Grimson'} 
+	 5 : {'Serge Belongie'} 
+	 7 : {'Irene Pimenta Rodrigues'} 
+	 9 : {'Gerd Wechsung'} 
+	 14 : {'Mark de Berg'} 
+	 7 : {'Jing-Yang Jou'} 
+	 6 : {'Uday S. Reddy'} 
+	 6 : {'Z. Meral �zsoyoglu'} 
+	 8 : {'Philippe Smets'} 
+	 6 : {'Ing-Ray Chen'} 
+	 6 : {'Peter L. Hammer'} 
+	 31 : {'Sudhakar M. Reddy'} 
+	 10 : {'Le Gruenwald'} 
+	 6 : {'Yutaka Hata'} 
+	 8 : {'Katsumi Tanaka'} 
+	 9 : {'C. Murray Woodside'} 
+	 10 : {'Ivan Damg�rd'} 
+	 7 : {'Michael Rabinovich'} 
+	 7 : {'S. Sudarshan'} 
+	 18 : {'Ben Shneiderman'} 
+	 5 : {'Michael E. Saks'} 
+	 6 : {'Jean E. Sammet'} 
+	 10 : {'David Gries'} 
+	 12 : {'Terence C. Fogarty'} 
+	 6 : {'Gustavo Alonso'} 
+	 13 : {'Serge Abiteboul'} 
+	 15 : {'Wolfgang Maass'} 
+	 8 : {'Michael Werman'} 
+	 15 : {'Peter G. Neumann'} 
+	 10 : {'Paul Erd�s'} 
+	 5 : {'Amit Sahai'} 
+	 5 : {'Kurt Keutzer'} 
+	 6 : {'Colin Boyd'} 
+	 7 : {'David A. Wood'} 
+	 8 : {'Amihood Amir'} 
+	 11 : {'Jens Palsberg'} 
+	 15 : {'Mart�n Abadi'} 
+	 6 : {'Giorgio Delzanno'} 
+	 5 : {'Se�n Matthews'} 
+	 5 : {'Ed Dawson'} 
+	 11 : {'Norman Y. Foo'} 
+	 5 : {'David P. Williamson'} 
+	 7 : {'Carl E. Landwehr'} 
+	 5 : {'Jerry Ray Dias'} 
+	 6 : {'Helge Ritter'} 
+	 7 : {'Michael Thielscher'} 
+	 5 : {'Gad M. Landau'} 
+	 5 : {'David W. Murray'} 
+	 7 : {'Jan M. Zytkow'} 
+	 13 : {'David Hung-Chang Du'} 
+	 5 : {'Francesca Rossi'} 
+	 7 : {'Chong-Sun Hwang'} 
+	 5 : {'John T. Robinson'} 
+	 6 : {'Brian R. Gaines'} 
+	 5 : {'Gustavo Deco'} 
+	 5 : {'Duane Szafron'} 
+	 6 : {'Michael Luby'} 
+	 6 : {'Xin He'} 
+	 7 : {'Roy Rada'} 
+	 8 : {'Peter Steenkiste'} 
+	 12 : {'Gheorghe Paun'} 
+	 6 : {'Ali Jaoua'} 
+	 5 : {'Andreas Schmietendorf'} 
+	 14 : {'Judea Pearl'} 
+	 10 : {'Andrzej Lingas'} 
+	 5 : {'Sven Oliver Krumke'} 
+	 6 : {'Wolfgang K. Giloi'} 
+	 6 : {'Lawrence A. Rowe'} 
+	 7 : {'Lefteris M. Kirousis'} 
+	 6 : {'Vadim E. Kotov'} 
+	 5 : {'Sukhamay Kundu'} 
+	 5 : {'Peter Fritzson'} 
+	 6 : {'Michael R. Williams'} 
+	 5 : {'Leonid Reyzin'} 
+	 10 : {'David A. McAllester'} 
+	 5 : {'Steven Homer'} 
+	 14 : {'Raghu Ramakrishnan'} 
+	 8 : {'Giovanna Guerrini'} 
+	 6 : {'Jean Vuillemin'} 
+	 5 : {'Gabriel Baum'} 
+	 5 : {'Esther M. Arkin'} 
+	 10 : {'Sanjeev Khanna'} 
+	 6 : {'Robert F. Cohen'} 
+	 10 : {'Yannis E. Ioannidis'} 
+	 8 : {'Richard A. Shore'} 
+	 5 : {'Stephen G. Eick'} 
+	 5 : {'Setsuo Arikawa'} 
+	 6 : {'Gregor Engels'} 
+	 11 : {'Giorgio Levi'} 
+	 8 : {'Roy H. Campbell'} 
+	 6 : {'Pierangela Samarati'} 
+	 6 : {'Jan Chomicki'} 
+	 7 : {'Jay F. Nunamaker'} 
+	 5 : {'Hans L. Bodlaender'} 
+	 5 : {'Masayuki Takeda'} 
+	 27 : {'Moti Yung'} 
+	 7 : {'Antonio Si'} 
+	 6 : {'Allen L. Ambler'} 
+	 8 : {'Timothy M. Chan'} 
+	 5 : {'Kwan-Liu Ma'} 
+	 5 : {'Gustavus J. Simmons'} 
+	 15 : {'Howard Jay Siegel'} 
+	 5 : {'Ver�nica Dahl'} 
+	 7 : {'John Shawe-Taylor'} 
+	 19 : {'Sartaj Sahni'} 
+	 15 : {'Jeffrey Scott Vitter'} 
+	 10 : {'Yves Robert'} 
+	 5 : {'Leandros Tassiulas'} 
+	 14 : {'Yahiko Kambayashi'} 
+	 5 : {'Alfred V. Aho'} 
+	 5 : {'Peter van Beek'} 
+	 13 : {'Edward J. McCluskey'} 
+	 9 : {'Yuri Gurevich'} 
+	 5 : {'Melvin Fitting'} 
+	 6 : {'Roberto Scopigno'} 
+	 6 : {'Naotake Kamiura'} 
+	 6 : {'Thomas Strothotte'} 
+	 6 : {'Ning Zhong'} 
+	 6 : {'David B. Leake'} 
+	 5 : {'Antoni Oliv�'} 
+	 9 : {'Andrei Voronkov'} 
+	 6 : {'Peter H. Schmitt'} 
+	 10 : {'Pascal Van Hentenryck'} 
+	 10 : {'Evelina Lamma'} 
+	 5 : {'Jay M. Tenenbaum'} 
+	 9 : {'Toby Walsh'} 
+	 9 : {'Kian-Lee Tan'} 
+	 5 : {'Ajay K. Gupta'} 
+	 10 : {'Luca Trevisan'} 
+	 8 : {'Pierre McKenzie'} 
+	 5 : {'Seinosuke Toda'} 
+	 8 : {'Atsushi Imiya'} 
+	 7 : {'Francesco M. Donini'} 
+	 7 : {'Ron Sacks-Davis'} 
+	 9 : {'Xiaotie Deng'} 
+	 5 : {'Alan Mycroft'} 
+	 5 : {'Bruce Schneier'} 
+	 5 : {'Jeffrey S. Rosenschein'} 
+	 12 : {'Abdelsalam Helal'} 
+	 18 : {'Donald F. Towsley'} 
+	 5 : {'Michael Brady'} 
+	 6 : {'Gregory Kucherov'} 
+	 6 : {'Norishige Chiba'} 
+	 9 : {'Jehoshua Bruck'} 
+	 5 : {'Samuel A. Rebelsky'} 
+	 5 : {'Neeraj Suri'} 
+	 5 : {'Derek Partridge'} 
+	 5 : {'Jianhua Zhao'} 
+	 11 : {'Michael K. Reiter'} 
+	 5 : {'Peter Kirschenhofer'} 
+	 7 : {'Fabio Neri'} 
+	 5 : {'Gary D. Hachtel'} 
+	 6 : {'Gerhard Knolmayer'} 
+	 9 : {'Guozhu Dong'} 
+	 8 : {'Roy Friedman'} 
+	 7 : {'Ketan Mulmuley'} 
+	 6 : {'Ran Canetti'} 
+	 5 : {'Kiyoharu Aizawa'} 
+	 14 : {'Heikki Mannila'} 
+	 7 : {'Luc Devroye'} 
+	 7 : {'Peter F. Patel-Schneider'} 
+	 7 : {'Allan Borodin'} 
+	 9 : {'Thomas B�ck'} 
+	 6 : {'Ian Gorton'} 
+	 9 : {'Brian Henderson-Sellers'} 
+	 7 : {'Faith E. Fich'} 
+	 9 : {'Nir Friedman'} 
+	 7 : {'David Hutchison'} 
+	 5 : {'Nils J. Nilsson'} 
+	 7 : {'Krzysztof Diks'} 
+	 8 : {'Toshihide Ibaraki'} 
+	 5 : {'Alistair G. Sutcliffe'} 
+	 8 : {'C. Pandu Rangan'} 
+	 14 : {'Robert P. Kurshan'} 
+	 11 : {'Martin Farach'} 
+	 9 : {'Thomas Lengauer'} 
+	 5 : {'Ken Barker'} 
+	 7 : {'Richard Kennaway'} 
+	 5 : {'Paolo Tonella'} 
+	 5 : {'Amruth N. Kumar'} 
+	 8 : {'Gianna Reggio'} 
+	 12 : {'Leslie G. Valiant'} 
+	 10 : {'Jennifer Widom'} 
+	 8 : {'Frank S. de Boer'} 
+	 8 : {'M. Howard Williams'} 
+	 6 : {'Thomas Zeugmann'} 
+	 5 : {'Alan R. Hevner'} 
+	 20 : {'Nancy A. Lynch'} 
+	 14 : {'Richard T. Snodgrass'} 
+	 5 : {'Maria Grazia Fugini'} 
+	 12 : {'John C. Mitchell'} 
+	 8 : {'Marian Bubak'} 
+	 5 : {'Milan Randic'} 
+	 7 : {'Anupam Joshi'} 
+	 12 : {'Gershon Elber'} 
+	 5 : {'Alfredo Benso'} 
+	 6 : {'Keith Cheverst'} 
+	 12 : {'Wojciech Rytter'} 
+	 5 : {'Yoshinori Hara'} 
+	 8 : {'Johannes Gehrke'} 
+	 5 : {'Jesse B. Wright'} 
+	 5 : {'Gerhard Barth'} 
+	 10 : {'Steven Feiner'} 
+	 6 : {'Claudio Moraga'} 
+	 6 : {'Lori A. Clarke'} 
+	 5 : {'Refael Hassin'} 
+	 13 : {'C. A. R. Hoare'} 
+	 9 : {'Andrzej Skowron'} 
+	 5 : {'Andrew Chi-Chih Yao'} 
+	 9 : {'Ambuj K. Singh'} 
+	 7 : {'Zvonko G. Vranesic'} 
+	 6 : {'Yoram Singer'} 
+	 5 : {'Linda C. van der Gaag'} 
+	 6 : {'Thierry J�ron'} 
+	 5 : {'Peter van Emde Boas'} 
+	 5 : {'Ramesh Karri'} 
+	 5 : {'Robert Fox'} 
+	 6 : {'Nada Lavrac'} 
+	 6 : {'David R. Cheriton'} 
+	 5 : {'Alberto Leon-Garcia'} 
+	 8 : {'Arun K. Somani'} 
+	 21 : {'Alan M. Frieze'} 
+	 6 : {'Andreas Meier'} 
+	 9 : {'Simon L. Peyton Jones'} 
+	 8 : {'Joost N. Kok'} 
+	 5 : {'Yuan F. Zheng'} 
+	 6 : {'Finn Verner Jensen'} 
+	 7 : {'Andreas Weber'} 
+	 5 : {'Witold Lukaszewicz'} 
+	 6 : {'Sven Koenig'} 
+	 15 : {'Roberto Tamassia'} 
+	 5 : {'Andrea E. F. Clementi'} 
+	 5 : {'Michael G. Strintzis'} 
+	 5 : {'Qing Yang'} 
+	 7 : {'Naftali Tishby'} 
+	 7 : {'Andreas Heuer'} 
+	 8 : {'Karsten Weihe'} 
+	 15 : {'Armin B. Cremers'} 
+	 10 : {'Edmund H. Durfee'} 
+	 5 : {'Vaduvur Bharghavan'} 
+	 5 : {'Thomas Dean'} 
+	 7 : {'Hiroshi Imai'} 
+	 11 : {'David S. Johnson'} 
+	 13 : {'Norman W. Paton'} 
+	 5 : {'Frank M. Shipman III'} 
+	 6 : {'Nicholas M. Patrikalakis'} 
+	 8 : {'B. Chandrasekaran'} 
+	 6 : {'Ravi S. Sandhu'} 
+	 5 : {'Jaswinder Pal Singh'} 
+	 8 : {'Udo Kelter'} 
+	 8 : {'Katsumi Inoue'} 
+	 5 : {'Riccardo Silvestri'} 
+	 7 : {'Adam L. Buchsbaum'} 
+	 6 : {'Werner Purgathofer'} 
+	 11 : {'Piotr Indyk'} 
+	 6 : {'David Carmel'} 
+	 8 : {'Albert R. Meyer'} 
+	 6 : {'Qing Li'} 
+	 5 : {'Svend Fr�lund'} 
+	 6 : {'Yuzuru Tanaka'} 
+	 8 : {'Mariangiola Dezani-Ciancaglini'} 
+	 5 : {'Ettore Merlo'} 
+	 9 : {'Witold Pedrycz'} 
+	 6 : {'Usama M. Fayyad'} 
+	 6 : {'Howard J. Karloff'} 
+	 10 : {'Mukesh Singhal'} 
+	 6 : {'Walter Cunto'} 
+	 13 : {'Mikkel Thorup'} 
+	 6 : {'Li-Yan Yuan'} 
+	 6 : {'Michael Leuschel'} 
+	 6 : {'Bruce G. Lindsay'} 
+	 5 : {'Bing Liu'} 
+	 6 : {'Reiko Heckel'} 
+	 5 : {'Peter Meer'} 
+	 12 : {'Jeffrey F. Naughton'} 
+	 7 : {'David A. Bell'} 
+	 5 : {'Elmar N�th'} 
+	 8 : {'Virgil D. Gligor'} 
+	 7 : {'Ming-Syan Chen'} 
+	 5 : {'Benjamin C. Pierce'} 
+	 5 : {'Alfons G. Hoekstra'} 
+	 6 : {'J�rg Sander'} 
+	 11 : {'Marco Gori'} 
+	 9 : {'Joan Feigenbaum'} 
+	 6 : {'Michael Zakharyaschev'} 
+	 5 : {'Ramamohan Paturi'} 
+	 16 : {'David Eppstein'} 
+	 6 : {'Wolfgang Effelsberg'} 
+	 7 : {'Vince Grolmusz'} 
+	 6 : {'Radu Horaud'} 
+	 5 : {'Desh Ranjan'} 
+	 7 : {'Luc J. Van Gool'} 
+	 5 : {'Patrick Lincoln'} 
+	 12 : {'Miodrag Potkonjak'} 
+	 6 : {'Peter Wegner'} 
+	 5 : {'Himabindu Gurla'} 
+	 5 : {'Jana Kosecka'} 
+	 5 : {'Eduard Gr�ller'} 
+	 5 : {'Scott Henninger'} 
+	 5 : {'Mark A. Livingston'} 
+	 5 : {'Kei Hiraki'} 
+	 5 : {'Marcel Worring'} 
+	 5 : {'Paul Stodghill'} 
+	 7 : {'Craig Chambers'} 
+	 7 : {'Gabriella Sanniti di Baja'} 
+	 7 : {'Ian J. Hayes'} 
+	 5 : {'Eldar Fischer'} 
+	 8 : {'Sonia Bergamaschi'} 
+	 5 : {'Paul Molitor'} 
+	 5 : {'Capers Jones'} 
+	 6 : {'Attilio Giordana'} 
+	 9 : {'Daniel J. Lehmann'} 
+	 5 : {'Klaus Reinhardt'} 
+	 6 : {'Peter L. Bartlett'} 
+	 5 : {'G�bor Sz�kely'} 
+	 5 : {'G�raud S�nizergues'} 
+	 10 : {'Rama Chellappa'} 
+	 8 : {'Leslie Lamport'} 
+	 6 : {'Steven Skiena'} 
+	 5 : {'Kingsley C. Nwosu'} 
+	 5 : {'Kurt Rothermel'} 
+	 5 : {'Ravi Mukkamala'} 
+	 9 : {'Osamu Watanabe'} 
+	 5 : {'Anthony Skjellum'} 
+	 10 : {'Norio Shiratori'} 
+	 5 : {'Ho-Fung Leung'} 
+	 7 : {'Pradeep K. Khosla'} 
+	 6 : {'Mark Sanderson'} 
+	 12 : {'Dima Grigoriev'} 
+	 7 : {'Andrew T. Campbell'} 
+	 6 : {'Chris Greenhalgh'} 
+	 7 : {'John P. McDermott'} 
+	 6 : {'Sandeep Sen'} 
+	 10 : {'Manuela M. Veloso'} 
+	 6 : {'Chunming Qiao'} 
+	 5 : {'Michal Irani'} 
+	 9 : {'Sape J. Mullender'} 
+	 12 : {'Domenico Sacc�'} 
+	 6 : {'Jifeng He'} 
+	 8 : {'Andrea Maggiolo-Schettini'} 
+	 8 : {'Giorgio Ghelli'} 
+	 5 : {'Maciej Liskiewicz'} 
+	 5 : {'John McCarthy'} 
+	 7 : {'Paola Inverardi'} 
+	 8 : {'Sheng Yu'} 
+	 5 : {'Roland N. Ibbett'} 
+	 11 : {'C. Mohan'} 
+	 7 : {'Alan K. Mackworth'} 
+	 10 : {'Masahiro Fujita'} 
+	 8 : {'Enrico Nardelli'} 
+	 5 : {'Nello Cristianini'} 
+	 5 : {'J�rg Liebeherr'} 
+	 6 : {'Ross Wilkinson'} 
+	 8 : {'Kun-Lung Wu'} 
+	 6 : {'Jing Huang'} 
+	 5 : {'Hanno Lefmann'} 
+	 7 : {'Francesco Bergadano'} 
+	 12 : {'Danny Krizanc'} 
+	 6 : {'Hugues Hoppe'} 
+	 7 : {'Vincent Rijmen'} 
+	 6 : {'Frank van Harmelen'} 
+	 9 : {'Mengchi Liu'} 
+	 10 : {'Ali Mili'} 
+	 7 : {'S. S. Ravi'} 
+	 11 : {'Nick Cercone'} 
+	 7 : {'Paul De Bra'} 
+	 6 : {'Oded Maler'} 
+	 9 : {'Nigel Shadbolt'} 
+	 15 : {'K. Mani Chandy'} 
+	 6 : {'Andre Scedrov'} 
+	 16 : {'Ralf Steinmetz'} 
+	 8 : {'Nissim Francez'} 
+	 5 : {'Werner Kie�ling'} 
+	 25 : {'Zvi Galil'} 
+	 7 : {'Stefano Spaccapietra'} 
+	 8 : {'Venu Govindaraju'} 
+	 5 : {'Mich�le Sebag'} 
+	 5 : {'Robert C. Moore'} 
+	 13 : {'Sajal K. Das'} 
+	 7 : {'Shaul Markovitch'} 
+	 11 : {'Bhavani M. Thuraisingham'} 
+	 5 : {'Peter Z. Revesz'} 
+	 7 : {'Tomoyuki Nishita'} 
+	 6 : {'Tosiyasu L. Kunii'} 
+	 6 : {'Geert Deconinck'} 
+	 10 : {'Richard R. Muntz'} 
+	 8 : {'Pietro Perona'} 
+	 10 : {'Ravishankar K. Iyer'} 
+	 5 : {'Felipe Cucker'} 
+	 7 : {'F. Warren Burton'} 
+	 7 : {'James E. Rumbaugh'} 
+	 8 : {'Ariel Orda'} 
+	 9 : {'Paolo Bottoni'} 
+	 14 : {'Avi Wigderson'} 
+	 6 : {'Daniele Frigioni'} 
+	 9 : {'Sung Yong Shin'} 
+	 6 : {'Geoffrey E. Hinton'} 
+	 5 : {'Bernhard Pfahringer'} 
+	 5 : {'Mark Weiser'} 
+	 5 : {'Emilia Mendes'} 
+	 6 : {'Jiong Yang'} 
+	 6 : {'Steven Minton'} 
+	 5 : {'Francesc Esteva'} 
+	 5 : {'David Gilbert'} 
+	 7 : {'Jay Hoeflinger'} 
+	 5 : {'Ioannis Stavrakakis'} 
+	 5 : {'Eduardo Rivera-Campo'} 
+	 15 : {'Nicholas R. Jennings'} 
+	 13 : {'V. S. Subrahmanian'} 
+	 5 : {'Richmond H. Thomason'} 
+	 10 : {'Leonid Libkin'} 
+	 5 : {'Giorgio De Michelis'} 
+	 7 : {'Torsten Braun'} 
+	 6 : {'Gilles Bertrand'} 
+	 5 : {'N. Ranganathan'} 
+	 11 : {'Hagit Attiya'} 
+	 7 : {'Roland Wism�ller'} 
+	 11 : {'Jane W.-S. Liu'} 
+	 5 : {'Leah H. Jamieson'} 
+	 8 : {'Ronald L. Graham'} 
+	 11 : {'Rudi Studer'} 
+	 5 : {'Ricardo Caferra'} 
+	 6 : {'Asit Dan'} 
+	 10 : {'Susanne E. Hambrusch'} 
+	 7 : {'Jason Cong'} 
+	 6 : {'Kate A. Smith'} 
+	 6 : {'Steven Fortune'} 
+	 6 : {'Subhash C. Agrawal'} 
+	 6 : {'Zolt�n F�redi'} 
+	 13 : {'Gerald Sommer'} 
+	 10 : {'Danny Z. Chen'} 
+	 22 : {'Michel Raynal'} 
+	 9 : {'Manfred K. Warmuth'} 
+	 6 : {'Yuji Matsumoto'} 
+	 7 : {'Robert Wilensky'} 
+	 5 : {'John Case'} 
+	 7 : {'Eugene L. Lawler'} 
+	 6 : {'Pamela Samuelson'} 
+	 5 : {'Tim Hendtlass'} 
+	 11 : {'Andrzej Ehrenfeucht'} 
+	 7 : {'Ronald A. Olsson'} 
+	 9 : {'Janusz Rajski'} 
+	 6 : {'Chi-Jen Lu'} 
+	 8 : {'Albrecht Beutelspacher'} 
+	 5 : {'Michael J. Butler'} 
+	 10 : {'Vijay V. Vazirani'} 
+	 6 : {'Per Stenstr�m'} 
+	 9 : {'Erkki M�kinen'} 
+	 8 : {'Silvana Castano'} 
+	 8 : {'Yuval Rabani'} 
+	 8 : {'Martina Zitterbart'} 
+	 9 : {'Nathan Goodman'} 
+	 8 : {'Paavo Turakainen'} 
+	 14 : {'Azriel Rosenfeld'} 
+	 13 : {'Dan Suciu'} 
+	 8 : {'Stefano Leonardi'} 
+	 6 : {'Donald S. Fussell'} 
+	 7 : {'Klaus Weihrauch'} 
+	 9 : {'Panos K. Chrysanthis'} 
+	 5 : {'Luc Boug�'} 
+	 5 : {'Lucian Ilie'} 
+	 6 : {'Herwig Bruneel'} 
+	 5 : {'Schahram Dustdar'} 
+	 11 : {'Erik D. Demaine'} 
+	 7 : {'Christopher J. Taylor'} 
+	 6 : {'Michael Luck'} 
+	 5 : {'Omer F. Rana'} 
+	 6 : {'Anna R. Karlin'} 
+	 7 : {'Theo P. van der Weide'} 
+	 9 : {'Andrew Blake'} 
+	 7 : {'Antonio Brogi'} 
+	 5 : {'Ajay D. Kshemkalyani'} 
+	 7 : {'Christos D. Zaroliagis'} 
+	 7 : {'Wolfgang Nejdl'} 
+	 9 : {'Lane A. Hemaspaandra'} 
+	 9 : {'Andrew M. Pitts'} 
+	 6 : {'Enrico Motta'} 
+	 5 : {'Brian C. Williams'} 
+	 6 : {'Dana H. Ballard'} 
+	 5 : {'Riccardo Focardi'} 
+	 5 : {'Karl Kurbel'} 
+	 9 : {'Stanley Y. W. Su'} 
+	 5 : {'Carlos F. Bunge'} 
+	 8 : {'Peter Stone'} 
+	 5 : {'Jean-Raymond Abrial'} 
+	 5 : {'Peter W. Glynn'} 
+	 5 : {'Rolf Niedermeier'} 
+	 7 : {'Luca de Alfaro'} 
+	 5 : {'William M. Waite'} 
+	 6 : {'Kenneth Y. Goldberg'} 
+	 8 : {'Jeffrey B. Remmel'} 
+	 10 : {'Ian F. Akyildiz'} 
+	 10 : {'Rakesh Agrawal'} 
+	 9 : {'Subbarao Kambhampati'} 
+	 10 : {'Alok Aggarwal'} 
+	 6 : {'Robin Milner'} 
+	 6 : {'C. Michael Overstreet'} 
+	 5 : {'Dong Xiang'} 
+	 7 : {'John Fox'} 
+	 6 : {'Marcin Paprzycki'} 
+	 5 : {'Robert Sedgewick'} 
+	 6 : {'Larry A. Rendell'} 
+	 7 : {'M. Ronan Sleep'} 
+	 6 : {'David W. Embley'} 
+	 7 : {'Emilio Leonardi'} 
+	 5 : {'Monica S. Lam'} 
+	 6 : {'Ronald V. Book'} 
+	 5 : {'Barbara M. Chapman'} 
+	 5 : {'Mikhail S. Gelfand'} 
+	 5 : {'Pieter H. Hartel'} 
+	 5 : {'Antti Valmari'} 
+	 9 : {'Eduard Ayguad�'} 
+	 11 : {'Ingo Wegener'} 
+	 5 : {'Sorin Istrail'} 
+	 10 : {'E. Allen Emerson'} 
+	 9 : {'Franco P. Preparata'} 
+	 5 : {'Marisa Venturini Zilli'} 
+	 6 : {'Randall Davis'} 
+	 11 : {'Hsinchun Chen'} 
+	 9 : {'Vladimir Estivill-Castro'} 
+	 5 : {'Paul Tarau'} 
+	 5 : {'Yuko Sakurai'} 
+	 7 : {'Malcolm Munro'} 
+	 7 : {'Anindya Datta'} 
+	 13 : {'Evangelos Kranakis'} 
+	 6 : {'Freimut Bodendorf'} 
+	 26 : {'Grzegorz Rozenberg'} 
+	 9 : {'Jo�o Gabriel Silva'} 
+	 5 : {'Ehud Gudes'} 
+	 15 : {'Gerhard J. Woeginger'} 
+	 9 : {'Elliot Soloway'} 
+	 6 : {'Allison Woodruff'} 
+	 6 : {'James H. Davenport'} 
+	 14 : {'H. V. Jagadish'} 
+	 5 : {'Hal Berghel'} 
+	 12 : {'Manuel V. Hermenegildo'} 
+	 12 : {'Terrence J. Sejnowski'} 
+	 5 : {'Ioannis Pitas'} 
+	 6 : {'Sharad C. Seth'} 
+	 5 : {'Zbigniew Michalewicz'} 
+	 9 : {'Kevin Lano'} 
+	 9 : {'Richard A. Kemmerer'} 
+	 6 : {'Reid G. Smith'} 
+	 7 : {'Douglas R. Vogel'} 
+	 5 : {'Isabella Merlo'} 
+	 11 : {'Arnold L. Rosenberg'} 
+	 19 : {'Ugo Montanari'} 
+	 5 : {'Giovanni Semeraro'} 
+	 10 : {'Bart Preneel'} 
+	 6 : {'Witold Lipski Jr.'} 
+	 7 : {'Christoph Kreitz'} 
+	 7 : {'Yehuda Afek'} 
+	 8 : {'Kaoru Kurosawa'} 
+	 6 : {'Mani B. Srivastava'} 
+	 11 : {'Jorge Urrutia'} 
+	 8 : {'Martin Odersky'} 
+	 5 : {'James C. Lester'} 
+	 7 : {'Masatoshi Yoshikawa'} 
+	 5 : {'C. E. Veni Madhavan'} 
+	 6 : {'Winfried Lamersdorf'} 
+	 5 : {'Volker Wulf'} 
+	 8 : {'Yoichi Sato'} 
+	 6 : {'Leana Golubchik'} 
+	 5 : {'John M. Carroll'} 
+	 6 : {'Joel W. Burdick'} 
+	 8 : {'Satish K. Tripathi'} 
+	 10 : {'Carlo Zaniolo'} 
+	 6 : {'Jeffrey J. P. Tsai'} 
+	 6 : {'Robert G. Reynolds'} 
+	 7 : {'Srinivas Devadas'} 
+	 5 : {'G�nther Palm'} 
+	 5 : {'Reind P. van de Riet'} 
+	 6 : {'Hans J�rgen Ohlbach'} 
+	 5 : {'Hendrik Jan Hoogeboom'} 
+	 17 : {'Chin-Chen Chang'} 
+	 13 : {'Alex Pentland'} 
+	 7 : {'Eike Best'} 
+	 12 : {'Nachum Dershowitz'} 
+	 12 : {'Christoph M. Hoffmann'} 
+	 8 : {'Eric G. Wagner'} 
+	 8 : {'Hidenori Itoh'} 
+	 5 : {'Vijayalakshmi Atluri'} 
+	 6 : {'Michael Benedikt'} 
+	 7 : {'Noam Nisan'} 
+	 8 : {'Gerth St�lting Brodal'} 
+	 7 : {'David Blaauw'} 
+	 15 : {'Ming Li'} 
+	 5 : {'Harrick M. Vin'} 
+	 5 : {'Mark Green'} 
+	 7 : {'Dirk Grunwald'} 
+	 8 : {'Ashok K. Chandra'} 
+	 6 : {'Kaleem Siddiqi'} 
+	 6 : {'Barbara G. Ryder'} 
+	 7 : {'James H. Anderson'} 
+	 5 : {'Naofumi Takagi'} 
+	 7 : {'Gary L. Miller'} 
+	 9 : {'Russell Impagliazzo'} 
+	 6 : {'David Fern�ndez-Baca'} 
+	 6 : {'Lawrence B. Holder'} 
+	 8 : {'Ryszard Janicki'} 
+	 5 : {'Alexandru Mateescu'} 
+	 6 : {'Michael F. Cohen'} 
+	 11 : {'Michael N. Huhns'} 
+	 5 : {'Subhash Khot'} 
+	 12 : {'Uriel Feige'} 
+	 7 : {'Daniel S. Hirschberg'} 
+	 5 : {'Michel Habib'} 
+	 7 : {'Katsushi Ikeuchi'} 
+	 7 : {'Andrew McCallum'} 
+	 9 : {'Lawrence L. Larmore'} 
+	 8 : {'Bernhard Mitschang'} 
+	 5 : {'Walid A. Najjar'} 
+	 9 : {'Glynn Winskel'} 
+	 6 : {'Daniel A. Menasc�'} 
+	 13 : {'Ken Kennedy'} 
+	 6 : {'Lawrence J. Henschen'} 
+	 6 : {'Chengzheng Sun'} 
+	 18 : {'Matthias Jarke'} 
+	 6 : {'Alex Delis'} 
+	 6 : {'Loren G. Terveen'} 
+	 5 : {'Asim Smailagic'} 
+	 9 : {'Carlo Blundo'} 
+	 5 : {'Neil V. Murray'} 
+	 5 : {'Koji Hashimoto'} 
+	 8 : {'Gustavo Rossi'} 
+	 7 : {'Thomas Kropf'} 
+	 5 : {'Stefania Gnesi'} 
+	 5 : {'Willi Kl�sgen'} 
+	 5 : {'Tein-Hsiang Lin'} 
+	 9 : {'Michael R. Fellows'} 
+	 5 : {'Sheila A. Greibach'} 
+	 6 : {'Suad Alagic'} 
+	 9 : {'Bernhard Thalheim'} 
+	 7 : {'Rob J. van Glabbeek'} 
+	 5 : {'Javier Esparza'} 
+	 8 : {'Alan Burns'} 
+	 5 : {'Johan de Kleer'} 
+	 9 : {'Diego Calvanese'} 
+	 5 : {'Andreas G�nter'} 
+	 13 : {'Ahmed K. Elmagarmid'} 
+	 5 : {'Raymond A. Paul'} 
+	 7 : {'Robert Gl�ck'} 
+	 8 : {'Giancarlo Mauri'} 
+	 5 : {'Didier Parigot'} 
+	 7 : {'Ronald J. Brachman'} 
+	 9 : {'Bernhard Seeger'} 
+	 6 : {'Constantine D. Polychronopoulos'} 
+	 8 : {'Martin Wirsing'} 
+	 7 : {'Heinz M�hlenbein'} 
+	 10 : {'Yechiam Yemini'} 
+	 5 : {'Klaus E. Schauser'} 
+	 5 : {'Paliath Narendran'} 
+	 6 : {'Fran�ois Fages'} 
+	 8 : {'Gyungho Lee'} 
+	 5 : {'Franco Turini'} 
+	 5 : {'Rohit Parikh'} 
+	 5 : {'Eli Shamir'} 
+	 7 : {'Ivan Bratko'} 
+	 5 : {'Stavros Christodoulakis'} 
+	 17 : {'Karel Culik II'} 
+	 5 : {'Michael T. Orchard'} 
+	 8 : {'Daniel A. Keim'} 
+	 5 : {'Daniel P. Friedman'} 
+	 5 : {'Zdenek Kouba'} 
+	 9 : {'Rudy Lauwereins'} 
+	 16 : {'Robert K. Brayton'} 
+	 6 : {'Serge A. Plotkin'} 
+	 9 : {'Carole A. Goble'} 
+	 5 : {'Mitsuhisa Sato'} 
+	 6 : {'Mounia Lalmas'} 
+	 6 : {'Xiaobo Hu'} 
+	 7 : {'Cynthia Dwork'} 
+	 5 : {'Ian Parberry'} 
+	 7 : {'David Notkin'} 
+	 5 : {'Sriram Padmanabhan'} 
+	 10 : {'Eyal Kushilevitz'} 
+	 5 : {'Paul Suetens'} 
+	 11 : {'Laks V. S. Lakshmanan'} 
+	 7 : {'Richard Cole'} 
+	 11 : {'Mary K. Vernon'} 
+	 7 : {'Yookun Cho'} 
+	 10 : {'Taghi M. Khoshgoftaar'} 
+	 5 : {'Christoph F. Eick'} 
+	 7 : {'Michael J. Maher'} 
+	 6 : {'Hideki Koike'} 
+	 8 : {'Maurizio Gabbrielli'} 
+	 35 : {'Philip S. Yu'} 
+	 6 : {'Klara Kedem'} 
+	 6 : {'Christos Kaklamanis'} 
+	 6 : {'Eric Dubois'} 
+	 5 : {'Kazimierz Subieta'} 
+	 11 : {'Yehoshua Sagiv'} 
+	 6 : {'Brigitte Bartsch-Sp�rl'} 
+	 8 : {'Zhengyou Zhang'} 
+	 7 : {'Sharad Mehrotra'} 
+	 5 : {'Josee Desharnais'} 
+	 12 : {'Efim B. Kinber'} 
+	 5 : {'Hendrik Decker'} 
+	 6 : {'Kevin Jeffay'} 
+	 10 : {'Godfried T. Toussaint'} 
+	 5 : {'Simone Santini'} 
+	 5 : {'Franz Aurenhammer'} 
+	 5 : {'Victor Mitrana'} 
+	 5 : {'Boaz Patt-Shamir'} 
+	 12 : {'Kamalakar Karlapalem'} 
+	 5 : {'Luciano Lenzini'} 
+	 5 : {'Steven P. Levitan'} 
+	 6 : {'Scott F. Smith'} 
+	 6 : {'Paul A. Fishwick'} 
+	 5 : {'Lois M. L. Delcambre'} 
+	 5 : {'Bernd Hamann'} 
+	 10 : {'Howard J. Hamilton'} 
+	 8 : {'Paolo Ciancarini'} 
+	 8 : {'Stuart J. Russell'} 
+	 5 : {'Hans-Hellmut Nagel'} 
+	 6 : {'Giovanni Guida'} 
+	 8 : {'Vijay V. Raghavan'} 
+	 10 : {'Andrzej Pelc'} 
+	 5 : {'Esma A�meur'} 
+	 6 : {'Foto N. Afrati'} 
+	 5 : {'Tapio Elomaa'} 
+	 6 : {'Anders Heyden'} 
+	 6 : {'Nicol� Cesa-Bianchi'} 
+	 5 : {'John Zeleznikow'} 
+	 8 : {'Aravind Srinivasan'} 
+	 16 : {'Edwin R. Hancock'} 
+	 5 : {'William W. Wadge'} 
+	 11 : {'Arif Ghafoor'} 
+	 5 : {'Cyril U. Orji'} 
+	 7 : {'James F. Kurose'} 
+	 6 : {'Hillol Kargupta'} 
+	 7 : {'Amos Israeli'} 
+	 5 : {'Richard Y. Wang'} 
+	 5 : {'Adi Ros�n'} 
+	 16 : {'Philip A. Bernstein'} 
+	 6 : {'Min-You Wu'} 
+	 17 : {'David Maier'} 
+	 6 : {'Koji Torii'} 
+	 5 : {'Spyros Tragoudas'} 
+	 7 : {'Lawrence C. Paulson'} 
+	 6 : {'Keshav Pingali'} 
+	 5 : {'Larry D. Wittie'} 
+	 5 : {'Howard E. Shrobe'} 
+	 5 : {'Hirohisa Seki'} 
+	 6 : {'Seymour E. Goodman'} 
+	 9 : {'Kim Guldstrand Larsen'} 
+	 7 : {'David J. Duke'} 
+	 5 : {'Letizia Leonardi'} 
+	 7 : {'Earl E. Swartzlander Jr.'} 
+	 5 : {'Michael Weber'} 
+	 5 : {'Cao An Wang'} 
+	 14 : {'Ricardo A. Baeza-Yates'} 
+	 14 : {'Yossi Azar'} 
+	 5 : {'Guy E. Blelloch'} 
+	 11 : {'Asuman Dogac'} 
+	 5 : {'Stefan Brass'} 
+	 6 : {'Giovanni Chiola'} 
+	 10 : {'Amos Fiat'} 
+	 18 : {'Didier Dubois'} 
+	 16 : {'Rajeev Motwani'} 
+	 8 : {'Atul Prakash'} 
+	 13 : {'Stuart E. Madnick'} 
+	 6 : {'Roger L. Wainwright'} 
+	 9 : {'Ming-Yang Kao'} 
+	 8 : {'Diane J. Cook'} 
+	 5 : {'David Botstein'} 
+	 10 : {'Nicola Leone'} 
+	 5 : {'Kien A. Hua'} 
+	 8 : {'Joseph Naor'} 
+	 5 : {'Paolo Liberatore'} 
+	 7 : {'Ari Rappoport'} 
+	 12 : {'Thomas Fahringer'} 
+	 5 : {'Alexander Reinefeld'} 
+	 8 : {'Stamatis Vassiliadis'} 
+	 5 : {'Larry Rudolph'} 
+	 5 : {'Wilhelm Sch�fer'} 
+	 5 : {'Pierre-Louis Curien'} 
+	 7 : {'Xin Yao'} 
+	 11 : {'Benny Chor'} 
+	 8 : {'Charles Consel'} 
+	 10 : {'Nader H. Bshouty'} 
+	 5 : {'Eric S. K. Yu'} 
+	 27 : {'Oded Goldreich'} 
+	 9 : {'Ranga Vemuri'} 
+	 5 : {'Suzanne M. Embury'} 
+	 9 : {'P. S. Thiagarajan'} 
+	 7 : {'Nathan Linial'} 
+	 6 : {'Douglas Stott Parker Jr.'} 
+	 6 : {'Lars Lundberg'} 
+	 8 : {'Margaret M. Burnett'} 
+	 6 : {'Jung Wan Cho'} 
+	 9 : {'Domenico Ferrari'} 
+	 5 : {'Norbert A. Streitz'} 
+	 6 : {'Theodosios Pavlidis'} 
+	 9 : {'Michael J. Kearns'} 
+	 5 : {'Ram�n P. Otero'} 
+	 5 : {'Thomas Seidl'} 
+	 6 : {'Martin Hofmann'} 
+	 8 : {'Mark Harman'} 
+	 5 : {'Baruch Schieber'} 
+	 5 : {'Ke Wang'} 
+	 6 : {'Steven J. Gortler'} 
+	 5 : {'Michael O'Neill'} 
+	 8 : {'Wolfgang Bibel'} 
+	 7 : {'Marc Gyssens'} 
+	 6 : {'Anthony Finkelstein'} 
+	 7 : {'Ehud Y. Shapiro'} 
+	 6 : {'Barry K. Rosen'} 
+	 5 : {'Sen�n Barro'} 
+	 5 : {'Seraf�n Moral'} 
+	 12 : {'Tuomas Sandholm'} 
+	 5 : {'Giuseppe Attardi'} 
+	 6 : {'Yorick Wilks'} 
+	 6 : {'Yoon-Joon Lee'} 
+	 6 : {'Luigi Portinale'} 
+	 9 : {'Rolf Wiehagen'} 
+	 7 : {'Johann A. Makowsky'} 
+	 5 : {'Monique Teillaud'} 
+	 8 : {'Massoud Pedram'} 
+	 5 : {'Fangzhen Lin'} 
+	 7 : {'Mike P. Papazoglou'} 
+	 5 : {'Enrico Puppo'} 
+	 5 : {'Richard C. Linger'} 
+	 14 : {'Amr El Abbadi'} 
+	 7 : {'Yannis Vassiliou'} 
+	 6 : {'M. Frans Kaashoek'} 
+	 11 : {'Frank Thomson Leighton'} 
+	 6 : {'Fernando J. Corbacho'} 
+	 8 : {'Leon Sterling'} 
+	 14 : {'Eric Allender'} 
+	 7 : {'Leonard J. Schulman'} 
+	 6 : {'Salvatore J. Stolfo'} 
+	 6 : {'Gilles Villard'} 
+	 11 : {'Alfons Kemper'} 
+	 8 : {'John G. Kollias'} 
+	 8 : {'Ole Lehrmann Madsen'} 
+	 5 : {'Peter J. N�rnberg'} 
+	 5 : {'Martin Jourdan'} 
+	 6 : {'Victor Y. Pan'} 
+	 5 : {'Joxan Jaffar'} 
+	 5 : {'Leila De Floriani'} 
+	 7 : {'Jon M. Kleinberg'} 
+	 5 : {'Giovanni Vigna'} 
+	 10 : {'Starr Roxanne Hiltz'} 
+	 5 : {'Brian Unger'} 
+	 6 : {'E. M. Kleinberg'} 
+	 7 : {'Barbara Hayes-Roth'} 
+	 13 : {'Josef Kittler'} 
+	 5 : {'Bruce R. Schatz'} 
+	 9 : {'Louise E. Moser'} 
+	 6 : {'James Geller'} 
+	 5 : {'Alon Y. Halevy'} 
+	 5 : {'Arvind Gupta'} 
+	 5 : {'Edward W. Felten'} 
+	 6 : {'Craig Boutilier'} 
+	 6 : {'Mark Horowitz'} 
+	 5 : {'Lata Narayanan'} 
+	 5 : {'Alexander B. Romanovsky'} 
+	 8 : {'Harry M. Sneed'} 
+	 7 : {'Johann Christoph Freytag'} 
+	 9 : {'Lawrence Snyder'} 
+	 6 : {'Vijay Kumar'} 
+	 9 : {'K. Sel�uk Candan'} 
+	 6 : {'Andreas Podelski'} 
+	 8 : {'Michel Bidoit'} 
+	 6 : {'Dieter Fensel'} 
+	 6 : {'Tu Bao Ho'} 
+	 13 : {'Tok Wang Ling'} 
+	 24 : {'Robert Endre Tarjan'} 
+	 8 : {'James E. Smith'} 
+	 6 : {'Salem Benferhat'} 
+	 11 : {'Joseph J�J�'} 
+	 7 : {'Barry Smyth'} 
+	 5 : {'Andrew Rau-Chaplin'} 
+	 7 : {'Daniel J. Rosenkrantz'} 
+	 5 : {'Giancarlo Succi'} 
+	 5 : {'Thomas L. Casavant'} 
+	 9 : {'Alistair Moffat'} 
+	 5 : {'Mar�a Alpuente'} 
+	 12 : {'Tao Jiang'} 
+	 7 : {'John J. Leggett'} 
+	 6 : {'P. Anandan'} 
+	 12 : {'Frank Stephan'} 
+	 7 : {'Michel Cosnard'} 
+	 8 : {'Anneliese von Mayrhauser'} 
+	 6 : {'Dorit S. Hochbaum'} 
+	 10 : {'Philip Wadler'} 
+	 7 : {'Shang-Hua Teng'} 
+	 6 : {'Olivier D. Faugeras'} 
+	 6 : {'Nancy M. Amato'} 
+	 5 : {'Bogdan D. Czejdo'} 
+	 9 : {'David Harel'} 
+	 5 : {'Paul W. P. J. Grefen'} 
+	 8 : {'Steven Salzberg'} 
+	 6 : {'Lluis Godo'} 
+	 10 : {'Frank Wolter'} 
+	 7 : {'Zdzislaw Pawlak'} 
+	 6 : {'Johan H�stad'} 
+	 5 : {'Yde Venema'} 
+	 5 : {'Nicoletta De Francesco'} 
+	 7 : {'Siu-Wing Cheng'} 
+	 9 : {'Ugo Vaccaro'} 
+	 6 : {'James A. Hendler'} 
+	 12 : {'Boi Faltings'} 
+	 30 : {'Elisa Bertino'} 
+	 5 : {'Marc H. Brown'} 
+	 9 : {'Ivan Stojmenovic'} 
+	 6 : {'Klaus Hinrichs'} 
+	 6 : {'Bruno Codenotti'} 
+	 8 : {'Kazuo Ushijima'} 
+	 17 : {'Guang R. Gao'} 
+	 15 : {'Viktor K. Prasanna'} 
+	 6 : {'Klaus K�spert'} 
+	 8 : {'Dennis Gannon'} 
+	 10 : {'Fillia Makedon'} 
+	 9 : {'Tzilla Elrad'} 
+	 6 : {'Hidehiko Tanaka'} 
+	 6 : {'Luciano Serafini'} 
+	 9 : {'James P. Delgrande'} 
+	 5 : {'Stan Matwin'} 
+	 15 : {'Yishay Mansour'} 
+	 6 : {'H. Raymond Strong'} 
+	 8 : {'Clarence A. Ellis'} 
+	 8 : {'Stephen L. Bloom'} 
+	 12 : {'Nick Roussopoulos'} 
+	 5 : {'Laurence Cholvy'} 
+	 5 : {'Maurice Queyranne'} 
+	 5 : {'Yun Yang'} 
+	 5 : {'Demetri Terzopoulos'} 
+	 7 : {'B. John Oommen'} 
+	 6 : {'Ioannis G. Tollis'} 
+	 13 : {'Ling Liu'} 
+	 7 : {'Gerhard Fischer'} 
+	 7 : {'Klaus P. Jantke'} 
+	 9 : {'Gurindar S. Sohi'} 
+	 5 : {'Vijay A. Saraswat'} 
+	 7 : {'Michael Waidner'} 
+	 7 : {'Henry M. Levy'} 
+	 7 : {'Kenneth W. Regan'} 
+	 5 : {'John H. Boose'} 
+	 5 : {'Robert M. Haralick'} 
+	 9 : {'Henk Corporaal'} 
+	 6 : {'Shang-Ching Chou'} 
+	 5 : {'Daniel P. Miranker'} 
+	 9 : {'Otfried Schwarzkopf'} 
+	 7 : {'Bernd Meyer'} 
+	 6 : {'Conor Ryan'} 
+	 6 : {'Hanoch Levy'} 
+	 12 : {'C. S. Raghavendra'} 
+	 13 : {'Seymour Ginsburg'} 
+	 12 : {'Santosh K. Shrivastava'} 
+	 10 : {'Christos Levcopoulos'} 
+	 5 : {'Ramakrishnan Srikant'} 
+	 5 : {'Bernard Manderick'} 
+	 7 : {'Valeria De Antonellis'} 
+	 10 : {'Martin L. Kersten'} 
+	 17 : {'Jin-yi Cai'} 
+	 5 : {'Jessie B. Kennedy'} 
+	 6 : {'Paulo Quaresma'} 
+	 7 : {'Kuo-Liang Chung'} 
+	 7 : {'Lorenza Saitta'} 
+	 5 : {'G�nter Haring'} 
+	 6 : {'Judy Goldsmith'} 
+	 6 : {'Matthias Baaz'} 
+	 7 : {'Lars R. Knudsen'} 
+	 9 : {'Joseph L. Hellerstein'} 
+	 8 : {'Orna Kupferman'} 
+	 21 : {'Oscar H. Ibarra'} 
+	 5 : {'Tore Risch'} 
+	 8 : {'Ronald L. Rivest'} 
+	 9 : {'Biswanath Mukherjee'} 
+	 5 : {'Christophe Sibertin-Blanc'} 
+	 9 : {'Kazuo Iwama'} 
+	 5 : {'Andreas Birk'} 
+	 6 : {'Shmuel Safra'} 
+	 5 : {'Peng-Jun Wan'} 
+	 5 : {'Tong Zhang'} 
+	 8 : {'Antonio Corradi'} 
+	 9 : {'Henk J. Sips'} 
+	 7 : {'Fabio Crestani'} 
+	 11 : {'Roberto Gorrieri'} 
+	 5 : {'Teodor C. Przymusinski'} 
+	 5 : {'Annalisa Bossi'} 
+	 5 : {'Michel Renovell'} 
+	 7 : {'Shmuel Sagiv'} 
+	 8 : {'Amnon Shashua'} 
+	 6 : {'Pierluigi Crescenzi'} 
+	 5 : {'Steven W. Zucker'} 
+	 5 : {'Jack Brassil'} 
+	 5 : {'Wang Yi'} 
+	 5 : {'Jian Tang'} 
+	 7 : {'Alexander Zelikovsky'} 
+	 6 : {'Lorenzo Alvisi'} 
+	 7 : {'Theodore A. Slaman'} 
+	 9 : {'Salil P. Vadhan'} 
+	 5 : {'Martin Skutella'} 
+	 7 : {'Eli Biham'} 
+	 8 : {'Peter C. Lockemann'} 
+	 7 : {'David W. Stemple'} 
+	 10 : {'Flemming Nielson'} 
+	 10 : {'S. Muthukrishnan'} 
+	 5 : {'Gordon V. Cormack'} 
+	 6 : {'Marie-Christine Rousset'} 
+	 5 : {'Nicholas Kushmerick'} 
+	 5 : {'Steven E. Poltrock'} 
+	 6 : {'Robert Demolombe'} 
+	 7 : {'Nenad Trinajstic'} 
+	 5 : {'Rudolf K. Keller'} 
+	 5 : {'Katherine A. Yelick'} 
+	 7 : {'Kai Li'} 
+	 7 : {'Rafail Ostrovsky'} 
+	 5 : {'Enric Plaza'} 
+	 5 : {'Igor Kononenko'} 
+	 5 : {'Wolfgang E�mayr'} 
+	 8 : {'Jan Bosch'} 
+	 7 : {'Michael A. Bauer'} 
+	 6 : {'Jean-Pierre Hubaux'} 
+	 8 : {'Bharat Jayaraman'} 
+	 6 : {'Rajive Bagrodia'} 
+	 5 : {'Hyunsoo Yoon'} 
+	 9 : {'Leonard M. Adleman'} 
+	 5 : {'Gabriel Taubin'} 
+	 9 : {'Michael Kaufmann'} 
+	 6 : {'Frank Puppe'} 
+	 5 : {'Gerard Tel'} 
+	 6 : {'Alvin M. Despain'} 
+	 9 : {'Marek Chrobak'} 
+	 12 : {'Alan Jay Smith'} 
+	 7 : {'Jes�s Labarta'} 
+	 6 : {'J�nos Csirik'} 
+	 6 : {'S�ndor P. Fekete'} 
+	 8 : {'Jun Gu'} 
+	 7 : {'Andreas Dengel'} 
+	 9 : {'Matthew J. Katz'} 
+	 13 : {'Thomas W. Reps'} 
+	 7 : {'Cezary Z. Janikow'} 
+	 10 : {'Ouri Wolfson'} 
+	 11 : {'Josep Torrellas'} 
+	 5 : {'Carla Schlatter Ellis'} 
+	 7 : {'Daniela Rus'} 
+	 5 : {'John C. Knight'} 
+	 5 : {'Alessandro Panconesi'} 
+	 8 : {'Yossi Matias'} 
+	 6 : {'Babak Falsafi'} 
+	 7 : {'Michael Merritt'} 
+	 21 : {'Joseph Y. Halpern'} 
+	 5 : {'Fr�d�rique Biennier'} 
+	 6 : {'Anders P. Ravn'} 
+	 7 : {'Shusaku Tsumoto'} 
+	 5 : {'Marvin H. Solomon'} 
+	 10 : {'Raymond J. Mooney'} 
+	 6 : {'Tadao Kasami'} 
+	 7 : {'Giuseppe Santucci'} 
+	 7 : {'Kasturi R. Varadarajan'} 
+	 10 : {'Xiaolei Qian'} 
+	 5 : {'Pedro Barahona'} 
+	 12 : {'Dharma P. Agrawal'} 
+	 5 : {'Rebecca Montanari'} 
+	 5 : {'Klaus-Robert M�ller'} 
+	 9 : {'Richard Beigel'} 
+	 7 : {'Michael Siegel'} 
+	 9 : {'M. Tamer �zsu'} 
+	 6 : {'Francisco Herrera'} 
+	 8 : {'Geoff Coulson'} 
+	 7 : {'Gordon B. Davis'} 
+	 6 : {'Norman E. Fenton'} 
+	 9 : {'L�szl� Babai'} 
+	 7 : {'Cesare Stefanelli'} 
+	 5 : {'Michael Schroeder'} 
+	 7 : {'Jianer Chen'} 
+	 7 : {'James R. Larus'} 
+	 5 : {'Thomas A. Funkhouser'} 
+	 11 : {'Sampath Kannan'} 
+	 5 : {'Catuscia Palamidessi'} 
+	 9 : {'Donald Sannella'} 
+	 7 : {'Thomas Ball'} 
+	 7 : {'Ronitt Rubinfeld'} 
+	 8 : {'Koenraad De Bosschere'} 
+	 5 : {'Shree K. Nayar'} 
+	 5 : {'Masahiko Tsukamoto'} 
+	 5 : {'W. Lewis Johnson'} 
+	 5 : {'Dietrich Kuske'} 
+	 7 : {'Yike Guo'} 
+	 8 : {'Pavol Hell'} 
+	 11 : {'Jan Van den Bussche'} 
+	 5 : {'Wiro J. Niessen'} 
+	 7 : {'Hongjun Lu'} 
+	 6 : {'Mark E. Stickel'} 
+	 5 : {'Mois�s Goldszmidt'} 
+	 5 : {'Kemal Ebcioglu'} 
+	 6 : {'Floriana Esposito'} 
+	 22 : {'Hermann A. Maurer'} 
+	 8 : {'Arie E. Kaufman'} 
+	 10 : {'Jos� D. P. Rolim'} 
+	 5 : {'Andy Sch�rr'} 
+	 9 : {'Erich J. Neuhold'} 
+	 10 : {'Hideo Fujiwara'} 
+	 5 : {'Francesco Scarcello'} 
+	 15 : {'Richard J. Lipton'} 
+	 5 : {'Heiko Mantel'} 
+	 8 : {'Hermann Kaindl'} 
+	 11 : {'David L. Dill'} 
+	 7 : {'Takao Nishizeki'} 
+	 22 : {'Jiawei Han'} 
+	 9 : {'Michael J. Fischer'} 
+	 5 : {'Robert Cartwright'} 
+	 5 : {'Marc H. Scholl'} 
+	 7 : {'Hartmut Noltemeier'} 
+	 5 : {'Steven McCanne'} 
+	 5 : {'William G. Griswold'} 
+	 7 : {'George Nagy'} 
+	 5 : {'David Toman'} 
+	 5 : {'Fan R. K. Chung'} 
+	 5 : {'Shuzo Yajima'} 
+	 5 : {'Giovanni De Micheli'} 
+	 8 : {'S. Rao Kosaraju'} 
+	 17 : {'Joachim W. Schmidt'} 
+	 5 : {'Michael R. Genesereth'} 
+	 12 : {'Fausto Giunchiglia'} 
+	 10 : {'I. V. Ramakrishnan'} 
+	 5 : {'Peter Kornerup'} 
+	 5 : {'Jon Doyle'} 
+	 6 : {'Nancy R. Mead'} 
+	 5 : {'Petri Vuorimaa'} 
+	 6 : {'John C. S. Lui'} 
+	 9 : {'San-qi Li'} 
+	 5 : {'Florian Waas'} 
+	 5 : {'Bernhard Walke'} 
+	 5 : {'Gautam Das'} 
+	 9 : {'Eugene C. Freuder'} 
+	 5 : {'Roberto Giacobazzi'} 
+	 7 : {'Vijay K. Garg'} 
+	 5 : {'Prasun Dewan'} 
+	 16 : {'Klaus R. Dittrich'} 
+	 6 : {'Cheng Hian Goh'} 
+	 5 : {'Marc Eisenstadt'} 
+	 7 : {'Maura Cerioli'} 
+	 7 : {'Peter M. G. Apers'} 
+	 10 : {'Georg Hartmann'} 
+	 5 : {'Roger Nasr'} 
+	 7 : {'Chung-Min Chen'} 
+	 25 : {'Christos H. Papadimitriou'} 
+	 6 : {'Parameswaran Ramanathan'} 
+	 20 : {'Hartmut Ehrig'} 
+	 6 : {'Paul A. Strooper'} 
+	 8 : {'John R. Smith'} 
+	 5 : {'S. Biswas'} 
+	 5 : {'Barbara M. Smith'} 
+	 7 : {'Philip K. McKinley'} 
+	 6 : {'Toru Ishida'} 
+	 9 : {'Olivier Devillers'} 
+	 5 : {'David S. Wile'} 
+	 7 : {'Pravin Varaiya'} 
+	 7 : {'Jun Ohya'} 
+	 7 : {'Volker Linnemann'} 
+	 7 : {'K. Suzanne Barber'} 
+	 10 : {'Manuel Blum'} 
+	 5 : {'Steve Lawrence'} 
+	 6 : {'Claudia Bauzer Medeiros'} 
+	 13 : {'Rajiv Gupta'} 
+	 5 : {'Ahmed E. Kamal'} 
+	 7 : {'Nader Bagherzadeh'} 
+	 6 : {'Kenneth D. Forbus'} 
+	 5 : {'Hisao Ishibuchi'} 
+	 5 : {'Derek H. Sleeman'} 
+	 11 : {'Claus-Peter Schnorr'} 
+	 5 : {'Arthur J. Bernstein'} 
+	 5 : {'Kalyanmoy Deb'} 
+	 5 : {'Francesco Parisi-Presicce'} 
+	 8 : {'Gail E. Kaiser'} 
+	 11 : {'Frank Pfenning'} 
+	 7 : {'William C. Chu'} 
+	 6 : {'Fran�ois Bodin'} 
+	 7 : {'Scott A. Smolka'} 
+	 5 : {'James A. Foster'} 
+	 9 : {'Sergio De Agostino'} 
+	 8 : {'Yervant Zorian'} 
+	 6 : {'Andris Ambainis'} 
+	 7 : {'Farnam Jahanian'} 
+	 6 : {'Kenneth L. Clarkson'} 
+	 6 : {'Michel X. Goemans'} 
+	 6 : {'Mark Jerrum'} 
+	 14 : {'Danny Dolev'} 
+	 6 : {'Linda Dailey Paulson'} 
+	 5 : {'Hugo de Garis'} 
+	 13 : {'Monika Rauch Henzinger'} 
+	 7 : {'David A. Mix Barrington'} 
+	 6 : {'Martin F�rer'} 
+	 6 : {'Betty Salzberg'} 
+	 7 : {'Jop F. Sibeyn'} 
+	 6 : {'Sriram K. Rajamani'} 
+	 20 : {'Divyakant Agrawal'} 
+	 5 : {'Donald W. Davies'} 
+	 6 : {'R. Nigel Horspool'} 
+	 14 : {'Chee-Keng Yap'} 
+	 6 : {'Ben Kao'} 
+	 21 : {'Michael Wooldridge'} 
+	 13 : {'Lance Fortnow'} 
+	 6 : {'Mark S. Nixon'} 
+	 6 : {'Jean H. Gallier'} 
+	 5 : {'Patrick Shen-Pei Wang'} 
+	 12 : {'Jaideep Srivastava'} 
+	 5 : {'J�rg-R�diger Sack'} 
+	 6 : {'Donald Perlis'} 
+	 5 : {'Hamideh Afsarmanesh'} 
+	 5 : {'Aggelos Kiayias'} 
+	 5 : {'A. E. Eiben'} 
+	 5 : {'Alessandro Fantechi'} 
+	 5 : {'Kurt Geihs'} 
+	 8 : {'Kaushik Roy'} 
+	 11 : {'Sariel Har-Peled'} 
+	 6 : {'Micha Hofri'} 
+	 5 : {'Eric Simon'} 
+	 5 : {'David Zuckerman'} 
+	 7 : {'Tero Harju'} 
+	 19 : {'Torben Hagerup'} 
+	 6 : {'Ada Wai-Chee Fu'} 
+	 5 : {'Ken Moody'} 
+	 6 : {'Heiko Schuldt'} 
+	 12 : {'Rajeev Rastogi'} 
+	 18 : {'Juhani Karhum�ki'} 
+	 9 : {'Francis Y. L. Chin'} 
+	 6 : {'Ron Shamir'} 
+	 6 : {'Michael Zyda'} 
+	 5 : {'Chiaki Sakama'} 
+	 5 : {'Paolo Mancarella'} 
+	 13 : {'Udo Hahn'} 
+	 6 : {'Nicolas Spyratos'} 
+	 8 : {'Ernest F. Brickell'} 
+	 5 : {'Peter Fankhauser'} 
+	 5 : {'Timothy F. Cootes'} 
+	 6 : {'Kazuhisa Makino'} 
+	 9 : {'Mary Jean Harrold'} 
+	 8 : {'J. K. Aggarwal'} 
+	 5 : {'Narendra Ahuja'} 
+	 5 : {'Eytan Ruppin'} 
+	 5 : {'Giuseppe De Giacomo'} 
+	 9 : {'Gerhard Weikum'} 
+	 5 : {'Henning Bordihn'} 
+	 5 : {'Mario Lenz'} 
+	 11 : {'Richard D. Schlichting'} 
+	 9 : {'Esen A. Ozkarahan'} 
+	 5 : {'Jos C. M. Baeten'} 
+	 5 : {'Suh-Yin Lee'} 
+	 10 : {'Alfredo De Santis'} 
+	 9 : {'Vaidy S. Sunderam'} 
+	 6 : {'Helmut Seidl'} 
+	 5 : {'Heinz W�rn'} 
+	 5 : {'William T. Freeman'} 
+	 5 : {'Blaise Cronin'} 
+	 6 : {'Andreas Herzig'} 
+	 5 : {'Dieter Hogrefe'} 
+	 6 : {'Mukesh K. Mohania'} 
+	 7 : {'Peter Padawitz'} 
+	 8 : {'Amotz Bar-Noy'} 
+	 13 : {'Fred B. Schneider'} 
+	 5 : {'Peter Jonsson'} 
+	 6 : {'Enrico Pagello'} 
+	 5 : {'Ted H. Szymanski'} 
+	 8 : {'Egon B�rger'} 
+	 5 : {'Samson Abramsky'} 
+	 5 : {'Raymond R. Panko'} 
+	 12 : {'John-Jules Ch. Meyer'} 
+	 5 : {'Alexandre Petrenko'} 
+	 10 : {'Wesley W. Chu'} 
+	 6 : {'Akifumi Makinouchi'} 
+	 9 : {'Giovanni Di Crescenzo'} 
+	 5 : {'Markus Holzer'} 
+	 5 : {'Jean-Pierre Ban�tre'} 
+	 10 : {'Saumya K. Debray'} 
+	 5 : {'Hermann Ney'} 
+	 5 : {'Matthew Hennessy'} 
+	 6 : {'Klaus Ambos-Spies'} 
+	 5 : {'Bart M. ter Haar Romeny'} 
+	 6 : {'John Harrison'} 
+	 14 : {'Wayne Wolf'} 
+	 6 : {'Rida T. Farouki'} 
+	 5 : {'Lawrence T. Pileggi'} 
+	 7 : {'Alan Fekete'} 
+	 10 : {'Jan Treur'} 
+	 9 : {'Moshe Sidi'} 
+	 6 : {'Elias N. Houstis'} 
+	 7 : {'Jean-Marie Jacquet'} 
+	 5 : {'Andrew U. Frank'} 
+	 8 : {'Colin J. Fidge'} 
+	 13 : {'Lu�s Moniz Pereira'} 
+	 8 : {'James P. Callan'} 
+	 8 : {'Larry J. Stockmeyer'} 
+	 6 : {'Manfred Schmidt-Schau�'} 
+	 12 : {'Alexandru Nicolau'} 
+	 13 : {'Majid Sarrafzadeh'} 
+	 5 : {'Baba C. Vemuri'} 
+	 5 : {'Charles Kellogg'} 
+	 5 : {'Bernhard Plattner'} 
+	 5 : {'David J. Miller'} 
+	 6 : {'Dipak Ghosal'} 
+	 8 : {'Makoto Amamiya'} 
+	 5 : {'Evangelos E. Milios'} 
+	 5 : {'Reinhard M�nner'} 
+	 12 : {'Alan Bundy'} 
+	 8 : {'Dimitrios Gunopulos'} 
+	 5 : {'Dan Boneh'} 
+	 6 : {'James Leslie Keedy'} 
+	 5 : {'Marwan Krunz'} 
+	 6 : {'Ernst-R�diger Olderog'} 
+	 5 : {'Frank K. Hwang'} 
+	 10 : {'Jacob A. Abraham'} 
+	 8 : {'Wojciech Szpankowski'} 
+	 10 : {'Yoshihide Igarashi'} 
+	 12 : {'Zolt�n �sik'} 
+	 5 : {'Dana S. Richards'} 
+	 8 : {'Francky Catthoor'} 
+	 9 : {'Daniel Schwabe'} 
+	 5 : {'Mei-Ling Shyu'} 
+	 6 : {'Ashfaq A. Khokhar'} 
+	 5 : {'Diego Cabello'} 
+	 18 : {'Henri Prade'} 
+	 5 : {'Paraskevas Evripidou'} 
+	 12 : {'Burkhard Monien'} 
+	 9 : {'D. Sivakumar'} 
+	 5 : {'Willy Zwaenepoel'} 
+	 10 : {'Joe Kilian'} 
+	 9 : {'Richard Furuta'} 
+	 6 : {'Axel Poign�'} 
+	 9 : {'David W. Matula'} 
+	 6 : {'Reinhard L�ling'} 
+	 7 : {'Heung-Yeung Shum'} 
+	 5 : {'Robert J. Stroud'} 
+	 8 : {'J�rgen Dix'} 
+	 5 : {'Sergei A. Abramov'} 
+	 6 : {'Xiaowei Xu'} 
+	 8 : {'Guy Pujolle'} 
+	 6 : {'Carles Sierra'} 
+	 6 : {'Sudhakar Yalamanchili'} 
+	 5 : {'Hiroshi Tezuka'} 
+	 7 : {'Bernard M. E. Moret'} 
+	 6 : {'Eli Gafni'} 
+	 8 : {'Mario Piattini'} 
+	 6 : {'Hanan Lutfiyya'} 
+	 5 : {'J�rgen Avenhaus'} 
+	 8 : {'Kwang-Ting Cheng'} 
+	 8 : {'Abhijit Chatterjee'} 
+	 6 : {'Zahir Tari'} 
+	 10 : {'Aurel A. Lazar'} 
+	 10 : {'Stanley B. Zdonik'} 
+	 6 : {'Fahiem Bacchus'} 
+	 7 : {'Kamala Krithivasan'} 
+	 5 : {'Zbigniew W. Ras'} 
+	 5 : {'James H. Martin'} 
+	 9 : {'John E. Hopcroft'} 
+	 6 : {'Mark A. Franklin'} 
+	 7 : {'Behrooz Parhami'} 
+	 7 : {'Horst D. Simon'} 
+	 12 : {'Hans-J�rg Schek'} 
+	 5 : {'Laurie J. Hendren'} 
+	 9 : {'Michael Mitzenmacher'} 
+	 8 : {'Harry A. G. Wijshoff'} 
+	 6 : {'Francisco Bueno'} 
+	 5 : {'Fiorella de Rosis'} 
+	 5 : {'W. A. Gray'} 
+	 5 : {'Michael Kifer'} 
+	 8 : {'Chi-Hsiang Yeh'} 
+	 5 : {'Jo�lle Coutaz'} 
+	 6 : {'Adrian Friday'} 
+	 6 : {'Yaacov Yesha'} 
+	 5 : {'Leonidas Georgiadis'} 
+	 5 : {'Enno Ohlebusch'} 
+	 5 : {'Tsutomu Matsumoto'} 
+	 11 : {'Egidio Astesiano'} 
+	 18 : {'Christoph Meinel'} 
+	 7 : {'Jiming Liu'} 
+	 7 : {'Etienne E. Kerre'} 
+	 5 : {'Carlo Batini'} 
+	 5 : {'Marco A. Casanova'} 
+	 7 : {'David J. Lilja'} 
+	 6 : {'Riccardo Torlone'} 
+	 7 : {'Veda C. Storey'} 
+	 5 : {'Anthony J. Bonner'} 
+	 10 : {'Kotagiri Ramamohanarao'} 
+	 6 : {'Tommaso Bolognesi'} 
+	 8 : {'Madhav V. Marathe'} 
+	 6 : {'David J. Kriegman'} 
+	 9 : {'Yvo Desmedt'} 
+	 7 : {'Makoto Yokoo'} 
+	 8 : {'Victor Vianu'} 
+	 5 : {'Patricia G. Selinger'} 
+	 9 : {'Nick Koudas'} 
+	 6 : {'Barton P. Miller'} 
+	 10 : {'Mateo Valero'} 
+	 6 : {'Marios Mavronicolas'} 
+	 5 : {'Stasys Jukna'} 
+	 14 : {'Daniel P. Siewiorek'} 
+	 10 : {'P. M. Melliar-Smith'} 
+	 9 : {'David M. Mount'} 
+	 7 : {'H. T. Kung'} 
+	 5 : {'Lothar Thiele'} 
+	 9 : {'Rudolf Fleischer'} 
+	 6 : {'Shigeo Tsujii'} 
+	 6 : {'Hajnal Andr�ka'} 
+	 7 : {'Nancy G. Leveson'} 
+	 12 : {'Simon S. Lam'} 
+	 8 : {'Gagan Agrawal'} 
+	 5 : {'Dieter Merkl'} 
+	 5 : {'Ralf Hartmut G�ting'} 
+	 18 : {'D. T. Lee'} 
+	 7 : {'Maurizio Tucci'} 
+	 5 : {'Aravind K. Joshi'} 
+	 13 : {'Ian T. Foster'} 
+	 5 : {'Jeffrey S. Chase'} 
+	 5 : {'Alexander Bochman'} 
+	 5 : {'B. B. Chaudhuri'} 
+	 5 : {'Tadao Murata'} 
+	 10 : {'Ravi Kumar'} 
+	 10 : {'Ian Sommerville'} 
+	 5 : {'Clyde P. Kruskal'} 
+	 10 : {'Evaggelia Pitoura'} 
+	 6 : {'Philipp Slusallek'} 
+	 5 : {'Gabriele Kern-Isberner'} 
+	 10 : {'Tom�s Lang'} 
+	 15 : {'Erol Gelenbe'} 
+	 12 : {'Munindar P. Singh'} 
+	 11 : {'Douglas C. Schmidt'} 
+	 12 : {'Wee Keong Ng'} 
+	 6 : {'Jiri Sgall'} 
+	 7 : {'Yoshitaka Shibata'} 
+	 11 : {'Theo H�rder'} 
+	 12 : {'Reihaneh Safavi-Naini'} 
+	 5 : {'John R. Gilbert'} 
+	 5 : {'Herbert Klaeren'} 
+	 11 : {'Wen-Syan Li'} 
+	 9 : {'Masao Mukaidono'} 
+	 6 : {'Daniele Mundici'} 
+	 11 : {'Thomas G. Dietterich'} 
+	 6 : {'Peter Willett'} 
+	 6 : {'Yoshiharu Kohayakawa'} 
+	 5 : {'David Grove'} 
+	 6 : {'David Garlan'} 
+	 6 : {'Helmut Horacek'} 
+	 5 : {'Jeannette M. Wing'} 
+	 9 : {'Tetsuo Asano'} 
+	 6 : {'Klaus Simon'} 
+	 9 : {'Athman Bouguettaya'} 
+	 11 : {'Thomas Ertl'} 
+	 5 : {'David Sands'} 
+	 10 : {'Paul M. B. Vit�nyi'} 
+	 5 : {'Vinod K. Agarwal'} 
+	 6 : {'Ramon Carb�-Dorca'} 
+	 9 : {'Jos� J�lio Alferes'} 
+	 5 : {'Keshab K. Parhi'} 
+	 8 : {'Kenneth L. Calvert'} 
+	 7 : {'Lubomir Bic'} 
+	 5 : {'Peter P. Chen'} 
+	 25 : {'Prithviraj Banerjee'} 
+	 5 : {'Sung-Ming Yen'} 
+	 6 : {'Xiang-Yang Li'} 
+	 8 : {'Piero A. Bonatti'} 
+	 8 : {'Gregory R. Andrews'} 
+	 6 : {'Teresa M. Przytycka'} 
+	 6 : {'Jacobo Tor�n'} 
+	 14 : {'Mikhail J. Atallah'} 
+	 9 : {'Doron Peled'} 
+	 5 : {'Catherine D. McCollum'} 
+	 5 : {'Robert Geist'} 
+	 7 : {'Bernd Freisleben'} 
+	 5 : {'Vittorio Murino'} 
+	 16 : {'Herbert Edelsbrunner'} 
+	 5 : {'Charles E. Stroud'} 
+	 5 : {'Leopoldo E. Bertossi'} 
+	 6 : {'Shriram Krishnamurthi'} 
+	 13 : {'Philippe Flajolet'} 
+	 7 : {'David A. Patterson'} 
+	 6 : {'Trevor N. Mudge'} 
+	 6 : {'Dimitris Nikolos'} 
+	 5 : {'Roy Armoni'} 
+	 5 : {'Gideon Halevi'} 
+	 8 : {'Norman I. Badler'} 
+	 8 : {'Ron Kikinis'} 
+	 6 : {'Donald D. Cowan'} 
+	 8 : {'J�rg Rothe'} 
+	 6 : {'Petr H�jek'} 
+	 11 : {'Ee-Peng Lim'} 
+	 6 : {'Jacques Wainer'} 
+	 6 : {'Jack H. Lutz'} 
+	 5 : {'Nicole Bidoit'} 
+	 6 : {'Geert-Jan Houben'} 
+	 6 : {'Chung-Kuan Cheng'} 
+	 9 : {'Igor Shparlinski'} 
+	 6 : {'Tei-Wei Kuo'} 
+	 6 : {'Timos K. Sellis'} 
+	 11 : {'David A. Basin'} 
+	 5 : {'Louis O. Hertzberger'} 
+	 7 : {'Hantao Zhang'} 
+	 6 : {'Il-Yeol Song'} 
+	 9 : {'Tsau Young Lin'} 
+	 8 : {'St�phane Demri'} 
+	 5 : {'Miguel Castro'} 
+	 6 : {'Kenneth M. Ford'} 
+	 7 : {'Tova Milo'} 
+	 6 : {'Dexter Kozen'} 
+	 12 : {'Alon Itai'} 
+	 9 : {'Konstantinos Daniilidis'} 
+	 6 : {'George Karypis'} 
+	 16 : {'Elke A. Rundensteiner'} 
+	 9 : {'Catriel Beeri'} 
+	 10 : {'Gruia-Catalin Roman'} 
+	 7 : {'Dan I. Moldovan'} 
+	 5 : {'Jimmy Ho-Man Lee'} 
+	 6 : {'Michael Codish'} 
+	 10 : {'Olivier Danvy'} 
+	 10 : {'A. Prasad Sistla'} 
+	 6 : {'Erkki Sutinen'} 
+	 5 : {'Ferhat Khendek'} 
+	 5 : {'Carl K. Chang'} 
+	 5 : {'Demetres D. Kouvatsos'} 
+	 6 : {'Kang Zhang'} 
+	 6 : {'Harold W. Thimbleby'} 
+	 11 : {'Peter Widmayer'} 
+	 6 : {'Hari Balakrishnan'} 
+	 14 : {'Karsten Schwan'} 
+	 5 : {'Anthony Jameson'} 
+	 6 : {'Chau-Wen Tseng'} 
+	 6 : {'Cyrus Shahabi'} 
+	 6 : {'Thomas Beretvas'} 
+	 19 : {'Gio Wiederhold'} 
+	 7 : {'Raymond E. Miller'} 
+	 7 : {'Arun Sharma'} 
+	 5 : {'Albert Burger'} 
+	 9 : {'Mark D. Hill'} 
+	 7 : {'J. Eliot B. Moss'} 
+	 7 : {'Bernard P. Zeigler'} 
+	 6 : {'Florian Matthes'} 
+	 5 : {'Wolfgang Stra�er'} 
+	 5 : {'Artur Czumaj'} 
+	 6 : {'Lalit M. Patnaik'} 
+	 5 : {'Gadi Taubenfeld'} 
+	 5 : {'Roel Wieringa'} 
+	 6 : {'David N. Chin'} 
+	 5 : {'Weijia Shang'} 
+	 8 : {'Samuel T. Chanson'} 
+	 13 : {'Joost Engelfriet'} 
+	 9 : {'Piotr Berman'} 
+	 11 : {'Klaus Jansen'} 
+	 7 : {'Takeshi Tokuyama'} 
+	 8 : {'Kenji Mase'} 
+	 13 : {'Aloysius K. Mok'} 
+	 6 : {'George Pavlou'} 
+	 5 : {'David K. Hsiao'} 
+	 10 : {'Daniel Barbar�'} 
+	 8 : {'Richard E. Ladner'} 
+	 5 : {'Werner Kuich'} 
+	 7 : {'Elaine J. Weyuker'} 
+	 10 : {'Janusz A. Brzozowski'} 
+	 12 : {'Ching Y. Suen'} 
+	 5 : {'Terry R. Payne'} 
+	 5 : {'Shmuel Katz'} 
+	 6 : {'S. Lennart Johnsson'} 
+	 9 : {'Enrico Giunchiglia'} 
+	 6 : {'Simon Kasif'} 
+	 5 : {'H. T. Mouftah'} 
+	 7 : {'Zvi M. Kedem'} 
+	 5 : {'Jyh-Jong Tsay'} 
+	 12 : {'Andrei Z. Broder'} 
+	 6 : {'S. Louis Hakimi'} 
+	 10 : {'Andrew B. Kahng'} 
+	 9 : {'Andy J. Wellings'} 
+	 6 : {'Alan Dearle'} 
+	 7 : {'Jen-Yao Chung'} 
+	 5 : {'Tiziana Margaria'} 
+	 5 : {'Bernhard Tritsch'} 
+	 5 : {'Harry G. Mairson'} 
+	 12 : {'Calton Pu'} 
+	 5 : {'Sol M. Shatz'} 
+	 5 : {'Frank van der Linden'} 
+	 6 : {'G�sta Grahne'} 
+	 5 : {'Mark Ginsburg'} 
+	 6 : {'Kenneth Salem'} 
+	 8 : {'Gunter Saake'} 
+	 5 : {'Roni Khardon'} 
+	 8 : {'Ophir Frieder'} 
+	 9 : {'William I. Gasarch'} 
+	 5 : {'Xiaolin Wu'} 
+	 11 : {'Masaru Kitsuregawa'} 
+	 9 : {'Reiner W. Hartenstein'} 
+	 5 : {'Miltos D. Grammatikakis'} 
+	 5 : {'Ferran Hurtado'} 
+	 5 : {'Natarajan Shankar'} 
+	 16 : {'Gregor von Bochmann'} 
+	 6 : {'Rolf Hennicker'} 
+	 5 : {'David B. Skillicorn'} 
+	 6 : {'John Launchbury'} 
+	 7 : {'Rolf Klein'} 
+	 6 : {'Paolo Giorgini'} 
+	 5 : {'Joel E. Richardson'} 
+	 5 : {'Marco Cadoli'} 
+	 8 : {'Charles E. Leiserson'} 
+	 19 : {'David J. DeWitt'} 
+	 6 : {'John Derrick'} 
+	 5 : {'Adrian Walker'} 
+	 10 : {'Theodore Johnson'} 
+	 5 : {'Tat-Seng Chua'} 
+	 10 : {'Milind Tambe'} 
+	 5 : {'William G. Wee'} 
+	 5 : {'Arndt Bode'} 
+	 6 : {'Hideki Imai'} 
+	 12 : {'Shlomo Moran'} 
+	 5 : {'Yoshimasa Kimura'} 
+	 6 : {'Moshe Tennenholtz'} 
+	 7 : {'Dennis G. Kafura'} 
+	 5 : {'Dino Pedreschi'} 
+	 19 : {'Jack Dongarra'} 
+	 7 : {'Manuel N��ez'} 
+	 6 : {'Paul R. Cohen'} 
+	 5 : {'Chris Okasaki'} 
+	 6 : {'Ulrich G�ntzer'} 
+	 7 : {'Paolo Prinetto'} 
+	 5 : {'Jordan B. Pollack'} 
+	 6 : {'Jean-Claude Latombe'} 
+	 11 : {'Don Coppersmith'} 
+	 10 : {'David B. Lomet'} 
+	 5 : {'J. Robert Ensor'} 
+	 6 : {'Vishwani D. Agrawal'} 
+	 7 : {'Wen-mei W. Hwu'} 
+	 5 : {'Colin Runciman'} 
+	 8 : {'Niklaus Wirth'} 
+	 12 : {'Edward A. Fox'} 
+	 10 : {'Alberto Marchetti-Spaccamela'} 
+	 5 : {'James R. Cordy'} 
+	 5 : {'William R. Swartout'} 
+	 6 : {'Reid G. Simmons'} 
+	 5 : {'Pierre Wolper'} 
+	 8 : {'John L. Hennessy'} 
+	 7 : {'John Hughes'} 
+	 7 : {'Constance L. Heitmeyer'} 
+	 5 : {'Leo Bachmair'} 
+	 7 : {'Vijay Varadharajan'} 
+	 7 : {'Edwin K. P. Chong'} 
+	 7 : {'Gerardo Canfora'} 
+	 8 : {'Shay Kutten'} 
+	 5 : {'Tom M. Mitchell'} 
+	 5 : {'Heiko Schr�der'} 
+	 5 : {'Peter D. Mosses'} 
+	 5 : {'Eric Bach'} 
+	 5 : {'Wolfgang Wilkes'} 
+	 7 : {'Miron Abramovici'} 
+	 5 : {'Gregory D. Hager'} 
+	 5 : {'Richard I. Hartley'} 
+	 5 : {'J. Barrie Thompson'} 
+	 6 : {'Nikil D. Dutt'} 
+	 7 : {'Richard A. DeMillo'} 
+	 7 : {'Ray J. Paul'} 
+	 7 : {'Rob Gerth'} 
+	 6 : {'Richard Szeliski'} 
+	 5 : {'E. F. Codd'} 
+	 13 : {'Aidong Zhang'} 
+	 5 : {'Cecilia Mascolo'} 
+	 7 : {'Olga Step�nkov�'} 
+	 6 : {'Bruce Randall Donald'} 
+	 22 : {'Kurt Mehlhorn'} 
+	 6 : {'Peter Auer'} 
+	 16 : {'Robert L. Glass'} 
+	 7 : {'Marek A. Perkowski'} 
+	 8 : {'John R. Rice'} 
+	 10 : {'Rachid Guerraoui'} 
+	 7 : {'Margaret H. Dunham'} 
+	 5 : {'Yu Wang'} 
+	 7 : {'Mitchell Wand'} 
+	 11 : {'Michael Hanus'} 
+	 5 : {'Ahmed H. Sameh'} 
+	 13 : {'Ramesh Jain'} 
+	 8 : {'Arbee L. P. Chen'} 
+	 5 : {'Tsutomu Maruyama'} 
+	 5 : {'Rudy Setiono'} 
+	 6 : {'Peter Dadam'} 
+	 7 : {'Azzedine Boukerche'} 
+	 5 : {'Gustav Pomberger'} 
+	 11 : {'J�rg Nievergelt'} 
+	 7 : {'Eric A. Brewer'} 
+	 7 : {'Linda Pagli'} 
+	 7 : {'John Power'} 
+	 8 : {'Daniel M. Dias'} 
+	 10 : {'David B. Fogel'} 
+	 7 : {'Ellen W. Zegura'} 
+	 5 : {'Michael L. Littman'} 
+	 8 : {'Paul Feautrier'} 
+	 9 : {'Gunter Schlageter'} 
+	 11 : {'Emo Welzl'} 
+	 5 : {'Connie U. Smith'} 
+	 7 : {'Edward S. Davidson'} 
+	 8 : {'Butler W. Lampson'} 
+	 6 : {'Thomas J. Marlowe'} 
+	 7 : {'Andrea Corradini'} 
+	 8 : {'Vaughan R. Pratt'} 
+	 21 : {'Arto Salomaa'} 
+	 5 : {'Anant Agarwal'} 
+	 16 : {'Jeff Kramer'} 
+	 5 : {'Christopher C. Yang'} 
+	 5 : {'Steven L. Tanimoto'} 
+	 12 : {'Jos� Meseguer'} 
+	 9 : {'Andreas Blass'} 
+	 5 : {'Rachida Dssouli'} 
+	 5 : {'Lixia Zhang'} 
+	 5 : {'Michael D. Harrison'} 
+	 11 : {'Joseph S. B. Mitchell'} 
+	 6 : {'Thomas Beth'} 
+	 9 : {'Dhabaleswar K. Panda'} 
+	 10 : {'Robert Harper'} 
+	 6 : {'Eran Gabber'} 
+	 8 : {'Xian-He Sun'} 
+	 5 : {'Theo Geisel'} 
+	 5 : {'Gregory M. Provan'} 
+	 6 : {'Christine L. Borgman'} 
+	 5 : {'Makoto Nagao'} 
+	 6 : {'Ashok K. Goel'} 
+	 5 : {'Pramod K. Varshney'} 
+	 8 : {'Kai Hwang'} 
+	 5 : {'Steven O. Kimbrough'} 
+	 6 : {'J. Leon Zhao'} 
+	 18 : {'Abraham Silberschatz'} 
+	 11 : {'Zohar Manna'} 
+	 5 : {'Yves Demazeau'} 
+	 5 : {'Jacob White'} 
+	 15 : {'Rajeev Alur'} 
+	 7 : {'Raphael Rom'} 
+	 5 : {'Kia Makki'} 
+	 5 : {'Niki Pissinou'} 
+	 6 : {'J�nos Demetrovics'} 
+	 6 : {'Ramachandran Vaidyanathan'} 
+	 7 : {'Ravi Sethi'} 
+	 5 : {'Sungho Kang'} 
+	 5 : {'Henry C. Thacher Jr.'} 
+	 18 : {'Mark H. Overmars'} 
+	 6 : {'Michael Unser'} 
+	 5 : {'Joel Spencer'} 
+	 5 : {'Sabine Coquillart'} 
+	 6 : {'John Riedl'} 
+	 5 : {'Rakesh K. Sinha'} 
+	 6 : {'Henri Casanova'} 
+	 6 : {'Jon Louis Bentley'} 
+	 12 : {'Hui Zhang'} 
+	 7 : {'Bart Jacobs'} 
+	 10 : {'Mary Jane Irwin'} 
+	 6 : {'Masao Sakauchi'} 
+	 6 : {'Joseph Y.-T. Leung'} 
+	 5 : {'A. Nico Habermann'} 
+	 11 : {'Erich Kaltofen'} 
+	 6 : {'Thomas Brandes'} 
+	 5 : {'Davi Geiger'} 
+	 7 : {'Jang-Ping Sheu'} 
+	 6 : {'Biing-Feng Wang'} 
+	 8 : {'Rob A. Rutenbar'} 
+	 6 : {'Hans Zantema'} 
+	 9 : {'William W. Cohen'} 
+	 6 : {'Michel Scholl'} 
+	 6 : {'Chuan-lin Wu'} 
+	 7 : {'Chew Lim Tan'} 
+	 6 : {'Umberto Nanni'} 
+	 5 : {'Francine Berman'} 
+	 17 : {'Ian H. Witten'} 
+	 6 : {'Etsuya Shibayama'} 
+	 6 : {'Timothy W. Finin'} 
+	 5 : {'Claudio Bettini'} 
+	 7 : {'Tadao Ichikawa'} 
+	 7 : {'William R. Taylor'} 
+	 12 : {'Arie Segev'} 
+	 12 : {'Miroslaw Truszczynski'} 
+	 9 : {'Tzi-cker Chiueh'} 
+	 5 : {'J�rgen Dassow'} 
+	 5 : {'Dereck S. Meek'} 
+	 7 : {'Sergio Rajsbaum'} 
+	 5 : {'Klaus Obermayer'} 
+	 7 : {'Jean-Marc J�z�quel'} 
+	 5 : {'Radek Vingralek'} 
+	 5 : {'Dan C. Marinescu'} 
+	 6 : {'Jacek Moscinski'} 
+	 6 : {'Jos� A. B. Fortes'} 
+	 9 : {'Jan van Leeuwen'} 
+	 5 : {'Adele A. Rescigno'} 
+	 7 : {'Fumihiko Kimura'} 
+	 5 : {'John M. Rushby'} 
+	 16 : {'Georg Gottlob'} 
+	 6 : {'Lotfi A. Zadeh'} 
+	 11 : {'Jack Snoeyink'} 
+	 9 : {'Luca Cardelli'} 
+	 6 : {'Thomas Christaller'} 
+	 6 : {'Jonathan Grudin'} 
+	 20 : {'Krithi Ramamritham'} 
+	 7 : {'Eljas Soisalon-Soininen'} 
+	 5 : {'Todd M. Austin'} 
+	 7 : {'Henrik Reif Andersen'} 
+	 8 : {'Steffen Staab'} 
+	 5 : {'Azaria Paz'} 
+	 5 : {'Robert P. W. Duin'} 
+	 5 : {'Gen-Huey Chen'} 
+	 11 : {'Moni Naor'} 
+	 7 : {'Christos A. Papachristou'} 
+	 6 : {'Olli Nevalainen'} 
+	 7 : {'Bernd Neumann'} 
+	 8 : {'Susan J. Eggers'} 
+	 8 : {'Daniele Nardi'} 
+	 5 : {'Kee-Young Yoo'} 
+	 8 : {'Joseph O'Rourke'} 
+	 6 : {'Daniela Florescu'} 
+	 8 : {'Chitta Baral'} 
+	 8 : {'Albrecht Schmidt'} 
+	 8 : {'Maja J. Mataric'} 
+	 13 : {'John F. Canny'} 
+	 10 : {'Wilfried Brauer'} 
+	 5 : {'Donna Harman'} 
+	 6 : {'Helmut Pottmann'} 
+	 6 : {'Peter Sanders'} 
+	 6 : {'Luis Enrique Sucar'} 
+	 7 : {'Venkatesan Guruswami'} 
+	 5 : {'John Zahorjan'} 
+	 5 : {'Robert P. Goldman'} 
+	 10 : {'Andrew B. Whinston'} 
+	 5 : {'Michael Jackson'} 
+	 6 : {'Donatella Sciuto'} 
+	 7 : {'D. J. Evans'} 
+	 13 : {'Christos Faloutsos'} 
+	 6 : {'Martin Middendorf'} 
+	 5 : {'David G. Stork'} 
+	 5 : {'J�r�me Darmont'} 
+	 14 : {'Michel Dubois'} 
+	 5 : {'Chan-Su Shin'} 
+	 6 : {'Nir Shavit'} 
+	 5 : {'Fredric C. Gey'} 
+	 5 : {'Dinesh K. Pai'} 
+	 5 : {'Murray Turoff'} 
+	 6 : {'Robert E. Schapire'} 
+	 7 : {'P. Bruce Berra'} 
+	 5 : {'John Krogstie'} 
+	 7 : {'Ahmed Bouajjani'} 
+	 8 : {'Mong-Li Lee'} 
+	 9 : {'Edward Y. Chang'} 
+	 14 : {'Hans-Peter Seidel'} 
+	 10 : {'Georges Gardarin'} 
+	 5 : {'Zhi-Li Zhang'} 
+	 5 : {'P. A. Subrahmanyam'} 
+	 6 : {'Dmitry B. Goldgof'} 
+	 5 : {'Ralf Denzer'} 
+	 6 : {'Reinhard Wilhelm'} 
+	 5 : {'Josef Big�n'} 
+	 6 : {'Hans-Werner Mewes'} 
+	 11 : {'Ness B. Shroff'} 
+	 12 : {'Selim G. Akl'} 
+	 6 : {'Chung-Kwong Yuen'} 
+	 5 : {'J. F. Traub'} 
+	 10 : {'Jean-Jacques Quisquater'} 
+	 5 : {'Klaus Madlener'} 
+	 6 : {'Moses Charikar'} 
+	 8 : {'Manfred A. Jeusfeld'} 
+	 10 : {'Frank K. H. A. Dehne'} 
+	 5 : {'Zakaria Maamar'} 
+	 6 : {'Michel Latteux'} 
+	 12 : {'Pat Langley'} 
+	 6 : {'Henry G. Baker'} 
+	 5 : {'Russell Bradford'} 
+	 7 : {'Bruce M. Maggs'} 
+	 5 : {'Jieh Hsiang'} 
+	 5 : {'Jeffery Westbrook'} 
+	 10 : {'Elena Ferrari'} 
+	 5 : {'Laurenz Wiskott'} 
+	 6 : {'Steffen Lange'} 
+	 6 : {'Jean Roman'} 
+	 5 : {'Chua-Huang Huang'} 
+	 6 : {'Stefan Biffl'} 
+	 10 : {'Allen D. Malony'} 
+	 6 : {'Walt Scacchi'} 
+	 7 : {'Abdul Sattar'} 
+	 6 : {'Roch Gu�rin'} 
+	 16 : {'Maurice Herlihy'} 
+	 5 : {'Klaus Fischer'} 
+	 9 : {'Mario Gerla'} 
+	 11 : {'Robert E. Filman'} 
+	 5 : {'Michael Krivelevich'} 
+	 5 : {'G�rard Boudol'} 
+	 15 : {'Sebastian Thrun'} 
+	 6 : {'Shlomi Dolev'} 
+	 10 : {'Hanne Riis Nielson'} 
+	 7 : {'Reiner H�hnle'} 
+	 6 : {'Bengt Jonsson'} 
+	 13 : {'Debasis Mitra'} 
+	 5 : {'Dharmavani Bhagavathi'} 
+	 6 : {'Yair Bartal'} 
+	 5 : {'Silvia Chiusano'} 
+	 7 : {'Joel L. Wolf'} 
+	 9 : {'Yoav Shoham'} 
+	 5 : {'Isabel F. Cruz'} 
+	 5 : {'Edwina L. Rissland'} 
+	 6 : {'Takashi Matsumoto'} 
+	 8 : {'Edward A. Lee'} 
+	 5 : {'Norman C. Hutchinson'} 
+	 6 : {'Eugene W. Myers'} 
+	 5 : {'Jonathan P. Bowen'} 
+	 6 : {'Roland Carl Backhouse'} 
+	 6 : {'Neil Immerman'} 
+	 8 : {'Hartmut Wedekind'} 
+	 6 : {'Jens Lagergren'} 
+	 8 : {'Hugo Krawczyk'} 
+	 6 : {'Malgorzata Marek-Sadowska'} 
+	 5 : {'Miroslaw Kutylowski'} 
+	 8 : {'Thomas Rauber'} 
+	 7 : {'Radu Popescu-Zeletin'} 
+	 5 : {'Tadanori Mizuno'} 
+	 7 : {'Amihai Motro'} 
+	 9 : {'Eugene M. Luks'} 
+	 5 : {'Krishna M. Kavi'} 
+	 5 : {'Gaston H. Gonnet'} 
+	 7 : {'Reidar Conradi'} 
+	 5 : {'Vincenzo Piuri'} 
+	 5 : {'Ming C. Lin'} 
+	 15 : {'Edward G. Coffman Jr.'} 
+	 5 : {'Jeffrey Dean'} 
+	 6 : {'Michael C. Fairhurst'} 
+	 8 : {'Eli Upfal'} 
+	 9 : {'Herbert A. Simon'} 
+	 17 : {'Lionel M. Ni'} 
+	 9 : {'Marta Z. Kwiatkowska'} 
+	 8 : {'Antonio L. Furtado'} 
+	 17 : {'Benjamin W. Wah'} 
+	 16 : {'John H. Reif'} 
+	 6 : {'Sam Toueg'} 
+	 5 : {'Jacek Kitowski'} 
+	 5 : {'Takuya Katayama'} 
+	 9 : {'Henk Meijer'} 
+	 8 : {'Carl H. Smith'} 
+	 6 : {'R�diger Dillmann'} 
+	 5 : {'Friedrich M. Wahl'} 
+	 14 : {'Daphne Koller'} 
+	 11 : {'David A. Padua'} 
+	 6 : {'Dorothea Wagner'} 
+	 16 : {'Bharat K. Bhargava'} 
+	 5 : {'Juan J. Merelo Guerv�s'} 
+	 5 : {'Luc Florack'} 
+	 6 : {'Shigenobu Kobayashi'} 
+	 16 : {'Rina Dechter'} 
+	 5 : {'Roger D. Hersch'} 
+	 5 : {'Peter McBrien'} 
+	 12 : {'Charu C. Aggarwal'} 
+	 8 : {'Yuan Yan Tang'} 
+	 7 : {'Peter D. Karp'} 
+	 9 : {'Nicholas Ayache'} 
+	 5 : {'Karl Rohr'} 
+	 5 : {'Mauro Pezz�'} 
+	 5 : {'Alex Orailoglu'} 
+	 8 : {'Martin Ester'} 
+	 18 : {'Mahmut T. Kandemir'} 
+	 5 : {'Hee Yong Youn'} 
+	 6 : {'Ross A. Overbeek'} 
+	 5 : {'Y. Y. Yao'} 
+	 6 : {'Raffaele Giancarlo'} 
+	 5 : {'Dieter Kratsch'} 
+	 5 : {'Michael Gleicher'} 
+	 5 : {'Y. N. Srikant'} 
+	 7 : {'Michael J. Pazzani'} 
+	 5 : {'Lester Lipsky'} 
+	 16 : {'Daniel Thalmann'} 
+	 5 : {'Gilberto Fil�'} 
+	 6 : {'Susan Darling Urban'} 
+	 5 : {'Stefano Bistarelli'} 
+	 6 : {'Christel Baier'} 
+	 5 : {'Noboru Niki'} 
+	 6 : {'A. J. van de Goor'} 
+	 8 : {'Larry Wos'} 
+	 5 : {'J�rgen Becker'} 
+	 5 : {'Peter A. Flach'} 
+	 7 : {'Qiang Yang'} 
+	 5 : {'Gregor Kiczales'} 
+	 6 : {'Ralph Bergmann'} 
+	 6 : {'Erik Sandewall'} 
+	 5 : {'Kenneth M. Kahn'} 
+	 7 : {'Weijia Jia'} 
+	 6 : {'Patrick J. Hayes'} 
+	 7 : {'Masahiko Yachida'} 
+	 5 : {'Philip A. Wilsey'} 
+	 6 : {'Bongki Moon'} 
+	 9 : {'Alberto O. Mendelzon'} 
+	 5 : {'Aart Middeldorp'} 
+	 10 : {'Jack Minker'} 
+	 6 : {'Guohong Cao'} 
+	 5 : {'Francisco Casacuberta'} 
+	 12 : {'Jir� Matousek'} 
+	 5 : {'Jacek Blazewicz'} 
+	 6 : {'G�bor Tardos'} 
+	 5 : {'Albert Y. Zomaya'} 
+	 6 : {'Sjouke Mauw'} 
+	 8 : {'Wolfgang K�nig'} 
+	 7 : {'Mihir Bellare'} 
+	 10 : {'Gultekin �zsoyoglu'} 
+	 6 : {'Carolyn L. Talcott'} 
+	 14 : {'Sang Hyuk Son'} 
+	 5 : {'Toyohisa Kaneko'} 
+	 5 : {'Jeremy Pitt'} 
+	 6 : {'Antonios Symvonis'} 
+	 5 : {'Mark Roseman'} 
+	 7 : {'Ahmed Karmouch'} 
+	 11 : {'Kenneth C. Sevcik'} 
+	 5 : {'Shoichi Noguchi'} 
+	 5 : {'Wojciech Plandowski'} 
+	 8 : {'Ching-Tien Ho'} 
+	 7 : {'Feng Bao'} 
+	 5 : {'P. David Stotts'} 
+	 7 : {'Robert McNaughton'} 
+	 5 : {'Lenhart K. Schubert'} 
+	 9 : {'Norbert Fuhr'} 
+	 11 : {'Sanjay Kumar Madria'} 
+	 5 : {'Fumio Kishino'} 
+	 6 : {'Michael J. Quinn'} 
+	 8 : {'Laurent Fribourg'} 
+	 5 : {'Mark A. Musen'} 
+	 6 : {'Christer B�ckstr�m'} 
+	 5 : {'Jeff Magee'} 
+	 5 : {'Aldo de Luca'} 
+	 7 : {'Bo Li'} 
+	 5 : {'Eduard Cerny'} 
+	 6 : {'Haim Kaplan'} 
+	 6 : {'Vladik Kreinovich'} 
+	 5 : {'David L. Feinstein'} 
+	 5 : {'Kwong-Sak Leung'} 
+	 6 : {'Yuliang Zheng'} 
+	 6 : {'Derek L. G. Hill'} 
+	 6 : {'Herv� Br�nnimann'} 
+	 7 : {'Haixun Wang'} 
+	 5 : {'Robert B. France'} 
+	 9 : {'Sachin S. Sapatnekar'} 
+	 5 : {'Jean-Pierre Courtiat'} 
+	 6 : {'Udo W. Lipeck'} 
+	 6 : {'Tharam S. Dillon'} 
+	 9 : {'Nicholas Pippenger'} 
+	 5 : {'Edward W. Knightly'} 
+	 7 : {'Wim H. Hesselink'} 
+	 14 : {'Giuseppe Di Battista'} 
+	 8 : {'Denis Th�rien'} 
+	 5 : {'Ran Raz'} 
+	 15 : {'Bill Hancock'} 
+	 6 : {'Soo-Mook Moon'} 
+	 11 : {'Jean-Loup Baer'} 
+	 5 : {'Germ�n Vidal'} 
+	 6 : {'Karl J. Lieberherr'} 
+	 7 : {'Gregory Dudek'} 
+	 5 : {'Michael Gelfond'} 
+	 5 : {'Janan T. Eppig'} 
+	 7 : {'Michael F. Lynch'} 
+	 6 : {'Lee Naish'} 
+	 5 : {'Silvia Nittel'} 
+	 8 : {'B. R. Badrinath'} 
+	 10 : {'Boris Aronov'} 
+	 5 : {'Daniel Dominic Sleator'} 
+	 16 : {'Michael P. Wellman'} 
+	 11 : {'Vipin Kumar'} 
+	 5 : {'Shinji Shimojo'} 
+	 5 : {'Adrian Segall'} 
+	 12 : {'Doron Rotem'} 
+	 5 : {'Howard C. Card'} 
+	 12 : {'Hans-J�rg Kreowski'} 
+	 6 : {'Flavio Corradini'} 
+	 6 : {'Emmanouel A. Varvarigos'} 
+	 7 : {'Greg N. Frederickson'} 
+	 13 : {'P. Sadayappan'} 
+	 9 : {'Jos� L. Balc�zar'} 
+	 6 : {'Alberto Prieto'} 
+	 5 : {'Charles Elkan'} 
+	 7 : {'Alexander A. Shvartsman'} 
+	 10 : {'Marc J. van Kreveld'} 
+	 10 : {'Friedhelm Meyer auf der Heide'} 
+	 5 : {'Joan Figueras'} 
+	 10 : {'Peter Lee'} 
+	 8 : {'Albert G. Greenberg'} 
+	 9 : {'Vijaya Ramachandran'} 
+	 5 : {'Elizabeth M. Rudnick'} 
+	 14 : {'Antonio Gonz�lez'} 
+	 6 : {'Michael A. Arbib'} 
+	 6 : {'Riccardo Rosati'} 
+	 5 : {'Tony Lindeberg'} 
+	 13 : {'Jim Gray'} 
+	 12 : {'Dov M. Gabbay'} 
+	 5 : {'Joseph Gil'} 
+	 6 : {'Massimo Violante'} 
+	 5 : {'Jacques Chassin de Kergommeaux'} 
+	 5 : {'Sholom M. Weiss'} 
+	 8 : {'Roger M. Needham'} 
+	 9 : {'Edward D. Lazowska'} 
+	 6 : {'Mitsunori Ogiwara'} 
+	 6 : {'Ross J. Anderson'} 
+	 5 : {'Eric N. Hanson'} 
+	 5 : {'Mounir Hamdi'} 
+	 5 : {'Daniel S. Weld'} 
+	 7 : {'Achour Most�faoui'} 
+	 11 : {'John Hershberger'} 
+	 12 : {'Silvio Micali'} 
+	 6 : {'Wolfram Burgard'} 
+	 14 : {'J. Ramanujam'} 
+	 5 : {'Peter Eades'} 
+	 10 : {'Matteo Sonza Reorda'} 
+	 6 : {'Alexandru T. Balaban'} 
+	 11 : {'Amit P. Sheth'} 
+	 5 : {'Alfred M. Bruckstein'} 
+	 11 : {'Kenneth A. Ross'} 
+	 5 : {'Lee Schruben'} 
+	 5 : {'Alan W. Biermann'} 
+	 5 : {'Gert-Jan de Vreede'} 
+	 6 : {'Gonzalo Navarro'} 
+	 6 : {'Heinrich Meyr'} 
+	 5 : {'Terry Caelli'} 
+	 7 : {'Jeffrey M. Jaffe'} 
+	 6 : {'Behrooz Shirazi'} 
+	 6 : {'Fabio Martinelli'} 
+	 5 : {'Kim S. Larsen'} 
+	 12 : {'Heinrich Niemann'} 
+	 5 : {'Michael Fisher'} 
+	 5 : {'Edgar H. Sibley'} 
+	 9 : {'Andrew D. Gordon'} 
+	 9 : {'Mitsuru Ishizuka'} 
+	 10 : {'Bernhard Nebel'} 
+	 6 : {'Thomas Ludwig II'} 
+	 7 : {'Andreas Krall'} 
+	 6 : {'James L. Schwing'} 
+	 7 : {'Andr� Seznec'} 
+	 6 : {'Dan E. Willard'} 
+	 6 : {'Paolo Atzeni'} 
+	 6 : {'Paul S. Wang'} 
+	 8 : {'Wen Gao'} 
+	 5 : {'John Wawrzynek'} 
+	 5 : {'J�rg P. M�ller'} 
+	 5 : {'Mohamed S. Kamel'} 
+	 5 : {'John P. Hayes'} 
+	 9 : {'Hans-Dieter Ehrich'} 
+	 8 : {'Laxmikant V. Kal�'} 
+	 5 : {'Elena Lodi'} 
+	 5 : {'Martin C. Rinard'} 
+	 16 : {'Paul G. Spirakis'} 
+	 9 : {'Xiaodong Zhang'} 
+	 9 : {'Kaisa Sere'} 
+	 10 : {'Peter J. Stuckey'} 
+	 6 : {'H. Van Dyke Parunak'} 
+	 6 : {'David Walker'} 
+	 5 : {'Nan C. Shu'} 
+	 11 : {'Volker Gruhn'} 
+	 10 : {'Matthias Felleisen'} 
+	 6 : {'Henry Lieberman'} 
+	 11 : {'Gordon S. Blair'} 
+	 6 : {'John A. McDermid'} 
+	 5 : {'Patrick Chiu'} 
+	 5 : {'Christine Vanoirbeek'} 
+	 5 : {'Joseph E. Urban'} 
+	 13 : {'C. K. Wong'} 
+	 5 : {'Ibrahim Matta'} 
+	 6 : {'Jorge L. C. Sanz'} 
+	 5 : {'Richard C. Wilson'} 
+	 11 : {'Oded Shmueli'} 
+	 5 : {'Filippo Neri'} 
+	 10 : {'Marianne Winslett'} 
+	 5 : {'Paul S. Rosenbloom'} 
+	 5 : {'David Avis'} 
+	 7 : {'Alon Y. Levy'} 
+	 5 : {'Arantza Illarramendi'} 
+	 5 : {'E. H. Mamdani'} 
+	 9 : {'Joos Vandewalle'} 
+	 13 : {'Baruch Awerbuch'} 
+	 25 : {'Hector Garcia-Molina'} 
+	 5 : {'Umakishore Ramachandran'} 
+	 6 : {'Jitender S. Deogun'} 
+	 10 : {'Ishfaq Ahmad'} 
+	 5 : {'�zg�r Ulusoy'} 
+	 7 : {'Yale N. Patt'} 
+	 5 : {'Helmut Alt'} 
+	 17 : {'Stephan Olariu'} 
+	 6 : {'Hasan Ural'} 
+	 6 : {'Timothy K. Shih'} 
+	 13 : {'Grigoris Antoniou'} 
+	 7 : {'Naoki Katoh'} 
+	 7 : {'Kishor S. Trivedi'} 
+	 5 : {'Ralf-Detlef Kutsche'} 
+	 6 : {'Barron C. Housel'} 
+	 7 : {'Lenwood S. Heath'} 
+	 11 : {'Rusins Freivalds'} 
+	 6 : {'T. Anthony Marsland'} 
+	 6 : {'Jeff Edmonds'} 
+	 12 : {'Wendy Hall'} 
+	 5 : {'Anura P. Jayasumana'} 
+	 7 : {'Rachid Deriche'} 
+	 8 : {'Gerhard Lakemeyer'} 
+	 5 : {'Hannu Toivonen'} 
+	 7 : {'Elena Marchiori'} 
+	 11 : {'Gilbert Held'} 
+	 7 : {'Marinus J. Plasmeijer'} 
+	 7 : {'Dimitris Papadias'} 
+	 5 : {'Matthew B. Dwyer'} 
+	 5 : {'Casimir A. Kulikowski'} 
+	 8 : {'Saso Dzeroski'} 
+	 6 : {'Mehmet A. Orgun'} 
+	 5 : {'Anish Arora'} 
+	 7 : {'Kevin W. Bowyer'} 
+	 5 : {'Michael Gertz'} 
+	 5 : {'David Haussler'} 
+	 25 : {'Amir Pnueli'} 
+	 6 : {'Hubert Emptoz'} 
+	 5 : {'Andrew H. Gee'} 
+	 7 : {'Daniel Krob'} 
+	 5 : {'Uwe Wolter'} 
+	 5 : {'Maurice Nivat'} 
+	 5 : {'Petra Perner'} 
+	 8 : {'Cheng-Wen Wu'} 
+	 6 : {'Egon Wanke'} 
+	 6 : {'Hong Shen'} 
+	 5 : {'Dawson R. Engler'} 
+	 6 : {'Albert Z�ndorf'} 
+	 5 : {'Karl Schlechta'} 
+	 5 : {'Raghu Machiraju'} 
+	 5 : {'Amar Mukherjee'} 
+	 5 : {'Abraham Kandel'} 
+	 8 : {'David Chaum'} 
+	 10 : {'Joachim Biskup'} 
+	 5 : {'Koji Nakano'} 
+	 5 : {'Donald E. Knuth'} 
+	 5 : {'Gerti Kappel'} 
+	 7 : {'Alberto Del Bimbo'} 
+	 5 : {'C. Y. Roger Chen'} 
+	 10 : {'Dinesh Manocha'} 
+	 5 : {'Michitaka Kameyama'} 
+	 5 : {'Werner Bux'} 
+	 6 : {'Igor Hawryszkiewycz'} 
+	 6 : {'Reino Kurki-Suonio'} 
+	 5 : {'Blair MacIntyre'} 
+	 5 : {'Shikharesh Majumdar'} 
+	 5 : {'Tomoya Enokido'} 
+	 6 : {'Edward M. Reingold'} 
+	 8 : {'Guido Moerkotte'} 
+	 8 : {'Edith Cohen'} 
+	 5 : {'Jack C. Wileden'} 
+	 6 : {'Alfred Kobsa'} 
+	 6 : {'Maurizio Proietti'} 
+	 9 : {'John Darlington'} 
+	 23 : {'Hans-Peter Kriegel'} 
+	 8 : {'Robert Cypher'} 
+	 5 : {'C. M. Krishna'} 
+	 7 : {'Nicholas F. Maxemchuk'} 
+	 6 : {'Stefano Rizzi'} 
+	 5 : {'Satinder P. Singh'} 
+	 5 : {'Mireille Ducass�'} 
+	 6 : {'Carl Gutwin'} 
+	 5 : {'Sue Whitesides'} 
+	 5 : {'V. Srinivasan'} 
+	 16 : {'Maurizio Lenzerini'} 
+	 5 : {'Frank A. Stomp'} 
+	 8 : {'Pavel A. Pevzner'} 
+	 6 : {'Margarida F. Jacome'} 
+	 11 : {'David R. Karger'} 
+	 5 : {'R. Ravi'} 
+	 8 : {'Sven Schuierer'} 
+	 5 : {'John Yen'} 
+	 9 : {'Sargur N. Srihari'} 
+	 7 : {'Jan A. Bergstra'} 
+	 5 : {'Hidde de Jong'} 
+	 8 : {'John Paul Shen'} 
+	 9 : {'Tao Yang'} 
+	 10 : {'Beng Chin Ooi'} 
+	 8 : {'Willem P. de Roever'} 
+	 9 : {'Luigi Palopoli'} 
+	 13 : {'Prabhakar Raghavan'} 
+	 7 : {'Dennis Tsichritzis'} 
+	 8 : {'St�phane Grumbach'} 
+	 7 : {'Limor Fix'} 
+	 5 : {'Daniel Weise'} 
+	 6 : {'Christine Choppy'} 
+	 16 : {'Shamkant B. Navathe'} 
+	 6 : {'Thomas P. Moran'} 
+	 7 : {'Andrea Omicini'} 
+	 6 : {'Daniel Jackson'} 
+	 7 : {'Joost-Pieter Katoen'} 
+	 5 : {'Robert Sabourin'} 
+	 5 : {'G�rard G. Medioni'} 
+	 5 : {'Michael Sipser'} 
+	 5 : {'Hyuk-Chul Kwon'} 
+	 7 : {'Bert R. Boyce'} 
+	 5 : {'Fernando C. N. Pereira'} 
+	 8 : {'Larry S. Davis'} 
+	 5 : {'Rachid Echahed'} 
+	 7 : {'Anand Pillay'} 
+	 10 : {'Barbara Pernici'} 
+	 6 : {'J�nos Pach'} 
+	 5 : {'Perwez Shahabuddin'} 
+	 6 : {'Ayumi Shinohara'} 
+	 10 : {'Franz Baader'} 
+	 21 : {'Thomas A. Henzinger'} 
+	 6 : {'Sujit Dey'} 
+	 24 : {'Kang G. Shin'} 
+	 7 : {'Bernhard Beckert'} 
+	 7 : {'Keqin Li'} 
+	 5 : {'Jean-Louis Lassez'} 
+	 5 : {'Ted G. Lewis'} 
+	 22 : {'Irith Pomeranz'} 
+	 10 : {'C. L. Liu'} 
+	 6 : {'Naohiro Ishii'} 
+	 14 : {'Patrick Valduriez'} 
+	 5 : {'Andries van Dam'} 
+	 5 : {'Haym Hirsh'} 
+	 6 : {'David B. Whalley'} 
+	 5 : {'Tatsuya Akutsu'} 
+	 5 : {'Stephen Muggleton'} 
+	 5 : {'Thomas Wilke'} 
+	 5 : {'Shunsuke Uemura'} 
+	 5 : {'Nian-Feng Tzeng'} 
+	 5 : {'Roberto Grossi'} 
+	 8 : {'Hideyuki Tokuda'} 
+	 5 : {'Janos Simon'} 
+	 5 : {'Paolo Cignoni'} 
+	 5 : {'Cheng-Lin Liu'} 
+	 10 : {'Rocco De Nicola'} 
+	 8 : {'Hector J. Levesque'} 
+	 9 : {'Fabrizio Lombardi'} 
+	 6 : {'Dewayne E. Perry'} 
+	 7 : {'Akhil Kumar'} 
+	 5 : {'Gilles Aubert'} 
+	 6 : {'W. Kent Fuchs'} 
+	 10 : {'Simon Parsons'} 
+	 6 : {'Daniel Leivant'} 
+	 7 : {'Sandro Etalle'} 
+	 6 : {'Kannan Ramchandran'} 
+	 9 : {'Rodney G. Downey'} 
+	 5 : {'Ron van der Meyden'} 
+	 5 : {'Maarten de Rijke'} 
+	 5 : {'Michael Stumm'} 
+	 5 : {'Maurice V. Wilkes'} 
+	 5 : {'Manindra Agrawal'} 
+	 9 : {'Marshall W. Bern'} 
+	 6 : {'Jianzhong Li'} 
+	 10 : {'Clement T. Yu'} 
+	 16 : {'Alberto L. Sangiovanni-Vincentelli'} 
+	 5 : {'Donald Kossmann'} 
+	 8 : {'Nigel Davies'} 
+	 5 : {'Takashi Watanabe'} 
+	 5 : {'Hardi Hungar'} 
+	 11 : {'Jia-Huai You'} 
+	 6 : {'Heon Young Yeom'} 
+	 5 : {'Sethuraman Panchanathan'} 
+	 7 : {'Sandeep K. Gupta'} 
+	 6 : {'K. H. Kim'} 
+	 6 : {'Klaus Schneider'} 
+	 7 : {'Niraj K. Jha'} 
+	 6 : {'A. Frank van der Stappen'} 
+	 5 : {'Brenda S. Baker'} 
+	 5 : {'V�tor Santos Costa'} 
+	 6 : {'Serafino Cicerone'} 
+	 6 : {'Anthony S. Acampora'} 
+	 5 : {'Anna Hac'} 
+	 5 : {'Frank Dignum'} 
+	 6 : {'Jean-Eric Pin'} 
+	 13 : {'Mostafa H. Ammar'} 
+	 9 : {'Chengqi Zhang'} 
+	 7 : {'A. Udaya Shankar'} 
+	 6 : {'Mary Baker'} 
+	 5 : {'Philippas Tsigas'} 
+	 6 : {'Xiaoyi Jiang'} 
+	 13 : {'Bruno Courcelle'} 
+	 6 : {'Martha E. Crosby'} 
+	 8 : {'Alan L. Yuille'} 
+	 5 : {'Theodore P. Baker'} 
+	 6 : {'Helmuth Partsch'} 
+	 7 : {'Richard S. Bird'} 
+	 6 : {'Micha�l Rusinowitch'} 
+	 9 : {'Lewis M. Mackenzie'} 
+	 5 : {'Jeanne Ferrante'} 
+	 6 : {'Alan L. Rector'} 
+	 5 : {'Wei Zhang'} 
+	 6 : {'Nigel P. Smart'} 
+	 21 : {'Pankaj K. Agarwal'} 
+	 6 : {'Edmundo de Souza e Silva'} 
+	 6 : {'Tom�s Feder'} 
+	 9 : {'Luis Gravano'} 
+	 19 : {'Saharon Shelah'} 
+	 5 : {'Przemyslaw Prusinkiewicz'} 
+	 15 : {'Randy H. Katz'} 
+	 6 : {'K. K. Ramakrishnan'} 
+	 6 : {'Walter Willinger'} 
+	 7 : {'Pierre Fraigniaud'} 
+	 8 : {'Myung-Soo Kim'} 
+	 10 : {'Alberto H. F. Laender'} 
+	 7 : {'Jean-Daniel Boissonnat'} 
+	 5 : {'Peter J. Keleher'} 
+	 5 : {'Anne Condon'} 
+	 6 : {'Alexander Aiken'} 
+	 6 : {'Minos N. Garofalakis'} 
+	 10 : {'Giovanni Soda'} 
+	 6 : {'Maurizio Rebaudengo'} 
+	 5 : {'Amiram Yehudai'} 
+	 7 : {'Naphtali Rishe'} 
+	 9 : {'Jos� M. Troya'} 
+	 5 : {'Berthier A. Ribeiro-Neto'} 
+	 6 : {'Long Quan'} 
+	 5 : {'Xin Li'} 
+	 5 : {'Koichi Furukawa'} 
+	 10 : {'Am�lcar Sernadas'} 
+	 11 : {'Wei Wang'} 
+	 5 : {'Francesco Quaglia'} 
+	 10 : {'Tomasz Imielinski'} 
+	 6 : {'Minoru Asada'} 
+	 7 : {'David Scott Warren'} 
+	 7 : {'Peter G. Harrison'} 
+	 5 : {'C. Barry Jay'} 
+	 6 : {'Werner Nutt'} 
+	 8 : {'Mahadev Satyanarayanan'} 
+	 7 : {'Dan Halperin'} 
+	 6 : {'Hanan Samet'} 
+	 9 : {'Avrim Blum'} 
+	 5 : {'Cristian Calude'} 
+	 8 : {'Lui Sha'} 
+	 11 : {'Robert L. Constable'} 
+	 6 : {'Peter Brusilovsky'} 
+	 6 : {'Ellis Horowitz'} 
+	 6 : {'Adam Finkelstein'} 
+	 5 : {'William C. McGee'} 
+	 5 : {'Andrew Birrell'} 
+	 5 : {'Emmanuel Kounalis'} 
+	 12 : {'Stephen S. Yau'} 
+	 6 : {'Vladim�r Mar�k'} 
+	 6 : {'Dipankar Dasgupta'} 
+	 5 : {'Yan Zhang'} 
+	 9 : {'Therese C. Biedl'} 
+	 7 : {'George Varghese'} 
+	 7 : {'Jonathan Schaeffer'} 
+	 17 : {'Jeffrey D. Ullman'} 
+	 5 : {'Nicole Yankelovich'} 
+	 5 : {'Gabriel M. Silberman'} 
+	 13 : {'Udi Manber'} 
+	 5 : {'Alexander D. Stoyenko'} 
+	 7 : {'Stephen Y. H. Su'} 
+	 8 : {'Thomas D. C. Little'} 
+	 12 : {'David Peleg'} 
+	 7 : {'Melvin A. Breuer'} 
+	 6 : {'Peter J. Denning'} 
+	 6 : {'John A. Keane'} 
+	 6 : {'Frederick E. Petry'} 
+	 6 : {'Hans-Dieter Burkhard'} 
+	 11 : {'Peter Mertens'} 
+	 7 : {'Peter M. A. Sloot'} 
+	 5 : {'Marco Roccetti'} 
+	 5 : {'Robert Godin'} 
+	 5 : {'Jon G. Riecke'} 
+	 7 : {'Erich Gr�del'} 
+	 13 : {'R�diger Reischuk'} 
+	 5 : {'Zsolt Tuza'} 
+	 5 : {'Danny De Schreye'} 
+	 5 : {'Vojin G. Oklobdzija'} 
+	 13 : {'Douglas R. Stinson'} 
+	 8 : {'Jos� Mira'} 
+	 8 : {'W. Neville Holmes'} 
+	 24 : {'Michael Stonebraker'} 
+	 6 : {'Robert Balzer'} 
+	 18 : {'John Mylopoulos'} 
+	 7 : {'Karl N. Levitt'} 
+	 6 : {'Richard P. Brent'} 
+	 6 : {'Philippe Mulhem'} 
+	 7 : {'Frits W. Vaandrager'} 
+	 6 : {'Iain A. Stewart'} 
+	 8 : {'Harold N. Gabow'} 
+	 8 : {'Sharma Chakravarthy'} 
+	 6 : {'Inderpal Singh Mumick'} 
+	 6 : {'Alessandro D'Atri'} 
+	 7 : {'Mustaque Ahamad'} 
+	 17 : {'Bernard Chazelle'} 
+	 6 : {'Maurizio Talamo'} 
+	 9 : {'Gerard Salton'} 
+	 5 : {'Stewart W. Wilson'} 
+	 6 : {'Mati Karelson'} 
+	 8 : {'Walter Ameling'} 
+	 5 : {'Yoneo Yano'} 
+	 6 : {'Eduardo Sanchez'} 
+	 5 : {'Mordecai J. Golin'} 
+	 22 : {'Alok N. Choudhary'} 
+	 8 : {'Sarit Kraus'} 
+	 12 : {'Deepak Kapur'} 
+	 5 : {'Victor O. K. Li'} 
+	 9 : {'Johannes K�bler'} 
+	 5 : {'Scott A. Vanstone'} 
+	 5 : {'Kunihiko Kaneko'} 
+	 8 : {'Andrzej Tarlecki'} 
+	 5 : {'Gautam Biswas'} 
+	 8 : {'Joseph A. Goguen'} 
+	 6 : {'Heinz Zemanek'} 
+	 5 : {'Costas Courcoubetis'} 
+	 7 : {'Joachim von zur Gathen'} 
+	 8 : {'Israel Koren'} 
+	 6 : {'Arnon Avron'} 
+	 8 : {'Carlos Jos� Pereira de Lucena'} 
+	 5 : {'Elias Dahlhaus'} 
+	 9 : {'Daniel A. Reed'} 
+	 8 : {'Andrew Lim'} 
+	 18 : {'David P. Dobkin'} 
+	 6 : {'Lila Kari'} 
+	 5 : {'Balakrishna R. Iyer'} 
+	 5 : {'Peter Hertling'} 
+	 5 : {'Juan A. Garay'} 
+	 5 : {'Linda A. Macaulay'} 
+	 5 : {'Jan Jonsson'} 
+	 6 : {'Wolfgang Reisig'} 
+	 6 : {'Shojiro Nishio'} 
+	 8 : {'Klara Nahrstedt'} 
+	 6 : {'Sourav S. Bhowmick'} 
+	 7 : {'Gordon T. Wilfong'} 
+	 5 : {'Gian Aldo Antonelli'} 
+	 7 : {'Marie Iding'} 
+	 5 : {'Ryohei Nakano'} 
+	 6 : {'Ryszard S. Michalski'} 
+	 7 : {'Martin Gogolla'} 
+	 5 : {'Robert O. Briggs'} 
+	 9 : {'Jitendra Malik'} 
+	 6 : {'Philippe Balbiani'} 
+	 12 : {'Victor R. Lesser'} 
+	 6 : {'Barbara Simons'} 
+	 5 : {'Wilf R. LaLonde'} 
+	 8 : {'Hugo De Man'} 
+	 6 : {'Daniel J. Kleitman'} 
+	 6 : {'Ingrid Wetzel'} 
+	 5 : {'Nicolas D. Georganas'} 
+	 6 : {'Fran�ois Bry'} 
+	 8 : {'Alexandra Poulovassilis'} 
+	 13 : {'Maurice Bruynooghe'} 
+	 14 : {'Juris Hartmanis'} 
+	 5 : {'Denis Robilliard'} 
+	 6 : {'Dirk Van Gucht'} 
+	 14 : {'Manfred Broy'} 
+	 5 : {'David E. Long'} 
+	 5 : {'Eduard H. Hovy'} 
+	 5 : {'Hoon Hong'} 
+	 5 : {'James R. Wilson'} 
+	 6 : {'Franz Barachini'} 
+	 7 : {'Masayuki Numao'} 
+	 11 : {'V. Wiktor Marek'} 
+	 5 : {'Bernard Moulin'} 
+	 6 : {'Fred Douglis'} 
+	 11 : {'Lane A. Hemachandra'} 
+	 6 : {'Mohamed F. Younis'} 
+	 11 : {'D. F. Wong'} 
+	 5 : {'Mamoru Maekawa'} 
+	 9 : {'Shafi Goldwasser'} 
+	 6 : {'Wentong Cai'} 
+	 8 : {'Ren�e J. Miller'} 
+	 5 : {'Piero Mussio'} 
+	 10 : {'Letizia Tanca'} 
+	 6 : {'Todd A. Proebsting'} 
+	 6 : {'Richard C. T. Lee'} 
+	 6 : {'Alan A. Bertossi'} 
+	 7 : {'Wei Li'} 
+	 7 : {'Hassan A�t-Kaci'} 
+	 7 : {'Stephen A. Cook'} 
+	 5 : {'Ronan Boulic'} 
+	 7 : {'Giorgio C. Buttazzo'} 
+	 12 : {'Chandrajit L. Bajaj'} 
+	 6 : {'Shashi Shekhar'} 
+	 5 : {'Richard N. Taylor'} 
+	 14 : {'John A. Stankovic'} 
+	 8 : {'Gudula R�nger'} 
+	 7 : {'Mark Minas'} 
+	 6 : {'Maria E. Orlowska'} 
+	 5 : {'Stefan Schirra'} 
+	 5 : {'Li Zhang'} 
+	 7 : {'Roberto Cipolla'} 
+	 6 : {'R�my Malgouyres'} 
+	 5 : {'Sukhan Lee'} 
+	 6 : {'Jan Gecsei'} 
+	 8 : {'Trevor J. M. Bench-Capon'} 
+	 7 : {'Sangjin Lee'} 
+	 6 : {'Raouf Boutaba'} 
+	 13 : {'Allen Van Gelder'} 
+	 5 : {'Shaogang Gong'} 
+	 7 : {'Shih-Fu Chang'} 
+	 6 : {'Peter Winkler'} 
+	 5 : {'Mark Schroeder'} 
+	 13 : {'Kyung-Yong Chwa'} 
+	 5 : {'Lazaros F. Merakos'} 
+	 6 : {'Michael W. Mislove'} 
+	 5 : {'Dale Miller'} 
+	 7 : {'Satoru Miyano'} 
+	 8 : {'Fernando Orejas'} 
+	 6 : {'Alan J. Dix'} 
+	 9 : {'Seong-Whan Lee'} 
+	 7 : {'Victor Milenkovic'} 
+	 5 : {'Jon T. Butler'} 
+	 5 : {'Joachim Gudmundsson'} 
+	 5 : {'Nimrod Megiddo'} 
+	 7 : {'Andrew Koenig'} 
+	 7 : {'Peter C. Jurs'} 
+	 6 : {'Sanguthevar Rajasekaran'} 
+	 5 : {'Carl-Johan H. Seger'} 
+	 7 : {'Peter A. Ng'} 
+	 5 : {'Horst Wedde'} 
+	 6 : {'Richard Edwin Stearns'} 
+	 6 : {'C. V. Ramamoorthy'} 
+	 14 : {'Barry W. Boehm'} 
+	 9 : {'Bernd Becker'} 
+	 8 : {'Shai Ben-David'} 
+	 7 : {'Sandhya Dwarkadas'} 
+	 5 : {'Tomaso Poggio'} 
+	 8 : {'Dimitris N. Metaxas'} 
+	 14 : {'Nadia Magnenat-Thalmann'} 
+	 5 : {'Kurt Konolige'} 
+	 8 : {'Wiebe van der Hoek'} 
+	 5 : {'Nicola J. Ferrier'} 
+	 6 : {'Yennun Huang'} 
+	 8 : {'Sandip Kundu'} 
+	 10 : {'Yanchun Zhang'} 
+	 6 : {'Theodore S. Papatheodorou'} 
+	 5 : {'Mariano Cilia'} 
+	 11 : {'Diane Crawford'} 
+	 6 : {'Manuel Palomar'} 
+	 6 : {'Katharina Morik'} 
+	 6 : {'Jon G. Kuhl'} 
+	 5 : {'Makoto Sato'} 
+	 5 : {'Jacob Savir'} 
+	 5 : {'Paul G. Sorenson'} 
+	 8 : {'David E. Goldberg'} 
+	 7 : {'Karem A. Sakallah'} 
+	 8 : {'Micah Adler'} 
+	 6 : {'Alan G. Konheim'} 
+	 7 : {'Kam-yiu Lam'} 
+	 5 : {'Ugo de'Liguoro'} 
+	 12 : {'Joel H. Saltz'} 
+	 10 : {'Bertrand Meyer'} 
+	 7 : {'Isaac D. Scherson'} 
+	 8 : {'Harry Buhrman'} 
+	 6 : {'Anand Sivasubramaniam'} 
+	 7 : {'Alberto Pettorossi'} 
+	 5 : {'Frances M. T. Brazier'} 
+	 7 : {'Tandy Warnow'} 
+	 8 : {'Geoffrey Fox'} 
+	 5 : {'Gregg Rothermel'} 
+	 5 : {'Richard G. Baraniuk'} 
+	 10 : {'Tom Rodden'} 
+	 7 : {'Christoph Beierle'} 
+	 15 : {'W. Bruce Croft'} 
+	 8 : {'Jean-Pierre Jouannaud'} 
+	 8 : {'Alfs T. Berztiss'} 
+	 5 : {'John R. Koza'} 
+	 12 : {'Thomas Eiter'} 
+	 8 : {'Tiziana Catarci'} 
+	 6 : {'David P. Helmbold'} 
+	 5 : {'Gordon Kurtenbach'} 
+	 9 : {'Giora Slutzki'} 
+	 8 : {'Burkhard Freitag'} 
+	 6 : {'Amir Herzberg'} 
+	 12 : {'Gopal Gupta'} 
+	 8 : {'Larry Kerschberg'} 
+	 6 : {'Justin Zobel'} 
+	 5 : {'Truong Q. Nguyen'} 
+	 5 : {'Peter Shirley'} 
+	 5 : {'Keith W. Ross'} 
+	 7 : {'Erkki Oja'} 
+	 8 : {'Thomas E. Anderson'} 
+	 5 : {'Insup Lee'} 
+	 7 : {'Perry Alexander'} 
+	 8 : {'Bernd Girod'} 
+	 6 : {'Varol Akman'} 
+	 5 : {'Michela Milano'} 
+	 7 : {'Michael J. Franklin'} 
+	 9 : {'Walter F. Tichy'} 
+	 6 : {'Nicolas Halbwachs'} 
+	 5 : {'R�gis Leveugle'} 
+	 5 : {'Arthur H. M. ter Hofstede'} 
+	 6 : {'Bernard Tourancheau'} 
+	 6 : {'Thomas Johansson'} 
+	 7 : {'Yutaka Ishikawa'} 
+	 6 : {'Andreas Girgensohn'} 
+	 6 : {'Pinaki Mazumder'} 
+	 5 : {'Steven H. Low'} 
+	 8 : {'Naftaly H. Minsky'} 
+	 5 : {'Carlo Ghezzi'} 
+	 9 : {'Orna Grumberg'} 
+	 7 : {'Maria L. Gini'} 
+	 7 : {'Gabriele Saucier'} 
+	 6 : {'Maria Petrou'} 
+	 5 : {'Raj Jain'} 
+	 8 : {'Randal E. Bryant'} 
+	 5 : {'Gabriele Di Stefano'} 
+	 9 : {'Ernesto Damiani'} 
+	 7 : {'Michael Rodeh'} 
+	 8 : {'Henry F. Korth'} 
+	 8 : {'Divesh Srivastava'} 
+	 6 : {'Takashi Nanya'} 
+	 13 : {'Derick Wood'} 
+	 9 : {'Pierpaolo Degano'} 
+	 6 : {'Joseph Sifakis'} 
+	 7 : {'Jurek Czyzowicz'} 
+	 5 : {'Dale Schuurmans'} 
+	 6 : {'Dov Dori'} 
+	 11 : {'Jos� Duato'} 
+	 7 : {'Francesca Cesarini'} 
+	 17 : {'Adi Shamir'} 
+	 7 : {'Brad A. Myers'} 
+	 5 : {'Altigran Soares da Silva'} 
+	 11 : {'Jean-Luc Gaudiot'} 
+	 12 : {'Gordon D. Plotkin'} 
+	 10 : {'Hong Va Leong'} 
+	 5 : {'Dejan S. Milojicic'} 
+	 5 : {'Dennis McLeod'} 
+	 12 : {'Neil D. Jones'} 
+	 8 : {'Luis Fari�as del Cerro'} 
+	 10 : {'Akinori Yonezawa'} 
+	 8 : {'Sanjoy K. Baruah'} 
+	 5 : {'Alan R. Katritzky'} 
+	 7 : {'C. R. Ramakrishnan'} 
+	 7 : {'Mary F. Fernandez'} 
+	 6 : {'Eugene Santos Jr.'} 
+	 11 : {'Jie Wu'} 
+	 10 : {'Jae-Woo Chang'} 
+	 5 : {'Pei-Chi Wu'} 
+	 5 : {'Nicholas J. Belkin'} 
+	 5 : {'Son T. Vuong'} 
+	 6 : {'Paolo Paolini'} 
+	 6 : {'Arjan J. C. van Gemund'} 
+	 5 : {'S. Seshadri'} 
+	 5 : {'William P. Birmingham'} 
+	 9 : {'Scott Shenker'} 
+	 6 : {'Umeshwar Dayal'} 
+	 6 : {'Claus Lewerentz'} 
+	 7 : {'Padraig Cunningham'} 
+	 6 : {'Constantine Stephanidis'} 
+	 10 : {'Hiroaki Kitano'} 
+	 8 : {'Satoshi Matsuoka'} 
+	 8 : {'Nicola Santoro'} 
+	 6 : {'Nancy E. Reed'} 
+	 5 : {'Kenneth E. Iverson'} 
+	 6 : {'Barbara Dunin-Keplicz'} 
+	 9 : {'Alejandro P. Buchmann'} 
+	 9 : {'Mihalis Yannakakis'} 
+	 5 : {'Mitsuhiro Okada'} 
+	 7 : {'Guillermo Sapiro'} 
+	 15 : {'Anoop Gupta'} 
+	 7 : {'Tsutomu Sasao'} 
+	 5 : {'Peter Scheuermann'} 
+	 6 : {'Dick C. A. Bulterman'} 
+	 5 : {'Thierry Priol'} 
+	 5 : {'Michel Ban�tre'} 
+	 5 : {'James J. Horning'} 
+	 8 : {'Max J. Egenhofer'} 
+	 6 : {'Per-�ke Larson'} 
+	 6 : {'Russ Miller'} 
+	 16 : {'Juraj Hromkovic'} 
+	 6 : {'James L. Massey'} 
+	 6 : {'Franco Montagna'} 
+	 7 : {'Raymond T. Ng'} 
+	 5 : {'Desmond J. Walton'} 
+	 8 : {'Claude Kirchner'} 
+	 11 : {'Dana Ron'} 
+	 6 : {'Holger Hermanns'} 
+	 8 : {'Kurt Maly'} 
+	 14 : {'Michael T. Goodrich'} 
+	 5 : {'Abdol-Hossein Esfahanian'} 
+	 6 : {'Volker Weispfenning'} 
+	 9 : {'F�lix Saltor'} 
+	 27 : {'Leonidas J. Guibas'} 
+	 11 : {'Marco Ajmone Marsan'} 
+	 5 : {'Mike Mannion'} 
+	 5 : {'Kaj Gr�nb�k'} 
+	 5 : {'Leslie Pack Kaelbling'} 
+	 6 : {'Bogdan S. Chlebus'} 
+	 6 : {'Michael Philippsen'} 
+	 5 : {'Lih-Hsing Hsu'} 
+	 8 : {'Moreno Falaschi'} 
+	 15 : {'David Lorge Parnas'} 
+	 18 : {'Anil K. Jain'} 
+	 6 : {'Bernd J. Kr�mer'} 
+	 5 : {'Sushil J. Louis'} 
+	 6 : {'Sanjay Ranka'} 
+	 5 : {'Wolfgang Nebel'} 
+	 6 : {'L. Darrell Whitley'} 
+	 5 : {'A. R. Hurson'} 
+	 6 : {'Tao Wang'} 
+	 5 : {'Andrew Zisserman'} 
+	 6 : {'Stefanos D. Kollias'} 
+	 11 : {'Paris C. Kanellakis'} 
+	 6 : {'Betty H. C. Cheng'} 
+	 7 : {'Mohand-Said Hacid'} 
+	 5 : {'Zhiyuan Li'} 
+	 5 : {'Ross D. King'} 
+	 31 : {'Moshe Y. Vardi'} 
+	 9 : {'Makoto Takizawa'} 
+	 11 : {'Ronald Fagin'} 
+	 6 : {'Saul Greenberg'} 
+	 5 : {'Jeff Kahn'} 
+	 6 : {'Giuseppe A. Di Lucca'} 
+	 6 : {'Dhiraj K. Pradhan'} 
+	 8 : {'Bart Selman'} 
+	 6 : {'Wei Wu'} 
+	 10 : {'Alexander Borgida'} 
+	 16 : {'Michael J. Carey'} 
+	 5 : {'David Pearce'} 
+	 7 : {'Giuseppe Persiano'} 
+	 5 : {'Wolfgang K�chlin'} 
+	 8 : {'Dahlia Malkhi'} 
+	 35 : {'Micha Sharir'} 
+	 9 : {'Marc Snir'} 
+	 5 : {'Friedrich Otto'} 
+	 9 : {'Ivan Hal Sudborough'} 
+	 12 : {'Carey L. Williamson'} 
+	 5 : {'Chuan Yi Tang'} 
+	 7 : {'Mohamed G. Gouda'} 
+	 5 : {'Ilan Newman'} 
+	 5 : {'Gunther Schmidt'} 
+	 8 : {'Dana S. Nau'} 
+	 5 : {'John A. Miller'} 
+	 5 : {'Peter Thiemann'} 
+	 18 : {'Marek Karpinski'} 
+	 10 : {'Uzi Vishkin'} 
+	 5 : {'Seth Copen Goldstein'} 
+	 6 : {'Afonso Ferreira'} 
+	 6 : {'Hans Kleine B�ning'} 
+	 9 : {'Rami G. Melhem'} 
+	 6 : {'Keith E. Mathias'} 
+	 7 : {'Jaikumar Radhakrishnan'} 
+	 5 : {'Alexandre Yakovlev'} 
+	 8 : {'Josef Pieprzyk'} 
+	 5 : {'Tetsuya Higuchi'} 
+	 7 : {'Mark G. Karpovsky'} 
+	 5 : {'G. W. Stewart'} 
+	 5 : {'Marc Sebban'} 
+	 8 : {'Hong Yan'} 
+	 5 : {'Azuma Ohuchi'} 
+	 8 : {'Chaomei Chen'} 
+	 10 : {'Mike Paterson'} 
+	 10 : {'Pavol Duris'} 
+	 6 : {'Mitsunori Ogihara'} 
+	 5 : {'William E. Weihl'} 
+	 9 : {'Christian S. Jensen'} 
+	 5 : {'Michael O. Rabin'} 
+	 7 : {'Shi-Kuo Chang'} 
+	 5 : {'Chris Clifton'} 
+	 5 : {'F�sun �zg�ner'} 
+	 7 : {'Raymond Reiter'} 
+	 7 : {'Francis C. M. Lau'} 
+	 5 : {'Pericles Loucopoulos'} 
+	 7 : {'Shmuel Zaks'} 
+	 8 : {'Klaus-Dieter Schewe'} 
+	 6 : {'Andrew V. Goldberg'} 
+	 6 : {'L. Paul Chew'} 
+	 6 : {'Andrew S. Tanenbaum'} 
+	 9 : {'Enrico Pontelli'} 
+	 10 : {'Leon J. Osterweil'} 
+	 6 : {'Zhong Shao'} 
+	 6 : {'Jacob Palme'} 
+	 9 : {'Ueli M. Maurer'} 
+	 6 : {'Paolino Di Felice'} 
+	 5 : {'Teruo Higashino'} 
+	 6 : {'Sourav Bhattacharya'} 
+	 5 : {'Vincenzo Loia'} 
+	 6 : {'Oussama Khatib'} 
+	 7 : {'Cristiano Castelfranchi'} 
+	 8 : {'Esko Ukkonen'} 
+	 7 : {'Dror G. Feitelson'} 
+	 5 : {'David S. Doermann'} 
+	 5 : {'Shu-Ching Chen'} 
+	 7 : {'Liu Wenyin'} 
+	 7 : {'Rudolf Eigenmann'} 
+	 6 : {'Ivan Gutman'} 
+	 5 : {'Michela Meo'} 
+	 7 : {'Jeffrey M. Voas'} 
+	 7 : {'Stefan Covaci'} 
+	 7 : {'James R. Slagle'} 
+	 7 : {'Kim Marriott'} 
+	 6 : {'Feng-Jian Wang'} 
+	 6 : {'Kam-Fai Wong'} 
+	 8 : {'Pen-Chung Yew'} 
+	 5 : {'Vincent Y. Lum'} 
+	 6 : {'Hany H. Ammar'} 
+	 5 : {'Liliana Ardissono'} 
+	 10 : {'Yi Pan'} 
+	 6 : {'John P. Lehoczky'} 
+	 8 : {'Amnon Barak'} 
+	 5 : {'Ronald K. Stamper'} 
+	 6 : {'John J. Grefenstette'} 
+	 5 : {'Brian N. Bershad'} 
+	 19 : {'Noga Alon'} 
+	 12 : {'Manfred Glesner'} 
+	 7 : {'Imrich Chlamtac'} 
+	 15 : {'Stefano Ceri'} 
+	 5 : {'Hiroshi Ishikawa'} 
+	 12 : {'Barbara Liskov'} 
+	 7 : {'Samir Khuller'} 
+	 6 : {'Ronald de Wolf'} 
+	 6 : {'Ernst Biersack'} 
+	 13 : {'Subhash Suri'} 
+	 5 : {'Ursula Goltz'} 
+	 12 : {'Martin E. Dyer'} 
+	 5 : {'B. S. Manjunath'} 
+	 5 : {'Mogens Nielsen'} 
+	 12 : {'Hans-Peter Meinzer'} 
+	 9 : {'G�nter Rote'} 
+	 6 : {'Martin Strauss'} 
+	 5 : {'David Wagner'} 
+	 5 : {'Laura M. Haas'} 
+	 8 : {'Luc De Raedt'} 
+	 7 : {'Istv�n N�meti'} 
+	 5 : {'Eliseo Clementini'} 
+	 12 : {'Emilio L. Zapata'} 
+	 5 : {'Ramez Elmasri'} 
+	 5 : {'David Ungar'} 
+	 5 : {'Stefano Crespi-Reghizzi'} 
+	 5 : {'Frank Leymann'} 
+	 9 : {'Jan J. M. M. Rutten'} 
+	 7 : {'Markus Jakobsson'} 
+	 6 : {'Michele Flammini'} 
+	 6 : {'Edgar A. Ramos'} 
+	 5 : {'Arnon Rosenthal'} 
+	 6 : {'Toshio Fukuda'} 
+	 7 : {'�va Tardos'} 
+	 10 : {'Laxmi N. Bhuyan'} 
+	 6 : {'Karl Aberer'} 
+	 13 : {'J. Ian Munro'} 
+	 5 : {'Hai-Xiang Lin'} 
+	 7 : {'Kyu-Young Whang'} 
+	 5 : {'Wolfgang Emmerich'} 
+	 5 : {'Stefan Jablonski'} 
+	 8 : {'Andr� Arnold'} 
+	 6 : {'Kumar Chellapilla'} 
+	 8 : {'David G. Kirkpatrick'} 
+	 6 : {'Tohru Kikuno'} 
+	 6 : {'Joachim Niehren'} 
+	 10 : {'Ronald Morrison'} 
+	 5 : {'Kozo Kinoshita'} 
+	 5 : {'David Heckerman'} 
+	 9 : {'Ronald R. Yager'} 
+	 11 : {'Don S. Batory'} 
+	 7 : {'Xiao-Shan Gao'} 
+	 13 : {'Takeo Kanade'} 
+	 11 : {'Edmund M. Clarke'} 
+	 6 : {'Dar�o Maravall G�mez-Allende'} 
+	 6 : {'Carl A. Gunter'} 
+	 5 : {'Charles J. Alpert'} 
+	 10 : {'Harald Ganzinger'} 
+	 6 : {'Cecilia Metra'} 
+	 8 : {'Vojtech R�dl'} 
+	 6 : {'James W. Thatcher'} 
+	 18 : {'Janak H. Patel'} 
+	 16 : {'Horst Bunke'} 
+	 5 : {'Alexander L. Wolf'} 
+	 7 : {'Leonard Kleinrock'} 
+	 10 : {'Dennis Shasha'} 
+	 6 : {'Arthur M. Keller'} 
+	 7 : {'Claire Kenyon'} 
+	 15 : {'Sanjay Jain'} 
+	 5 : {'Robert M. Hierons'} 
+
+Threshold: 5 
+Groupsize: 2 
+Results: 613 
+	 12 : {'Michael K. Reiter', 'Dahlia Malkhi'} 
+	 8 : {'Sanjay Kumar Madria', 'Bharat K. Bhargava'} 
+	 12 : {'Nancy A. Lynch', 'Alan Fekete'} 
+	 8 : {'Chi-Hsiang Yeh', 'Emmanouel A. Varvarigos'} 
+	 6 : {'Mark Roseman', 'Carl Gutwin'} 
+	 8 : {'Martha E. Crosby', 'David N. Chin'} 
+	 8 : {'Pankaj K. Agarwal', 'Boris Aronov'} 
+	 8 : {'Nadia Magnenat-Thalmann', 'Daniel Thalmann'} 
+	 8 : {'Hanan Lutfiyya', 'Michael A. Bauer'} 
+	 8 : {'Serge Abiteboul', 'Victor Vianu'} 
+	 8 : {'Hans-Peter Kriegel', 'Daniel A. Keim'} 
+	 10 : {'Peter Stone', 'Manuela M. Veloso'} 
+	 6 : {'Gerardo Canfora', 'Giuseppe A. Di Lucca'} 
+	 8 : {'Jesse B. Wright', 'James W. Thatcher'} 
+	 10 : {'Jacek Moscinski', 'Jacek Kitowski'} 
+	 10 : {'Alfredo De Santis', 'Ugo Vaccaro'} 
+	 8 : {'Roberto Gorrieri', 'Riccardo Focardi'} 
+	 20 : {'Mahmut T. Kandemir', 'Alok N. Choudhary'} 
+	 8 : {'Attilio Giordana', 'Lorenza Saitta'} 
+	 6 : {'Fernando Orejas', 'Hartmut Ehrig'} 
+	 6 : {'Luca Cardelli', 'Mart�n Abadi'} 
+	 6 : {'David B. Lomet', 'Betty Salzberg'} 
+	 6 : {'Sandip Kundu', 'Irith Pomeranz'} 
+	 8 : {'Jeff Kramer', 'Jeff Magee'} 
+	 6 : {'E. Allen Emerson', 'A. Prasad Sistla'} 
+	 6 : {'Brian Unger', 'Russell Bradford'} 
+	 6 : {'Sandhya Dwarkadas', 'Willy Zwaenepoel'} 
+	 8 : {'Giuseppe Santucci', 'Tiziana Catarci'} 
+	 14 : {'Rajiv Gupta', 'Mary Lou Soffa'} 
+	 8 : {'Emilio Leonardi', 'Marco Ajmone Marsan'} 
+	 8 : {'John-Jules Ch. Meyer', 'Wiebe van der Hoek'} 
+	 6 : {'Catherine D. McCollum', 'Sushil Jajodia'} 
+	 6 : {'Carl H. Smith', 'Rolf Wiehagen'} 
+	 8 : {'Francesco Scarcello', 'Nicola Leone'} 
+	 6 : {'Keith E. Mathias', 'L. Darrell Whitley'} 
+	 6 : {'Bernhard Thalheim', 'Klaus-Dieter Schewe'} 
+	 6 : {'Rami G. Melhem', 'Steven P. Levitan'} 
+	 6 : {'Joseph Y. Halpern', 'Nir Friedman'} 
+	 6 : {'Yu Wang', 'Xiang-Yang Li'} 
+	 8 : {'Madhav V. Marathe', 'S. S. Ravi'} 
+	 14 : {'Philip S. Yu', 'Charu C. Aggarwal'} 
+	 6 : {'Uriel Feige', 'Joe Kilian'} 
+	 6 : {'Hongjun Lu', 'Kian-Lee Tan'} 
+	 12 : {'Mahmut T. Kandemir', 'Prithviraj Banerjee'} 
+	 6 : {'Guido Moerkotte', 'Alfons Kemper'} 
+	 8 : {'Geoff Coulson', 'Gordon S. Blair'} 
+	 8 : {'Kenneth M. Ford', 'Patrick J. Hayes'} 
+	 6 : {'P. Bruce Berra', 'C. Y. Roger Chen'} 
+	 6 : {'Paola Mello', 'Paolo Mancarella'} 
+	 6 : {'Maurizio Lenzerini', 'Werner Nutt'} 
+	 10 : {'K. Mani Chandy', 'Jayadev Misra'} 
+	 8 : {'Moti Yung', 'Zvi Galil'} 
+	 8 : {'Joos Vandewalle', 'Bart Preneel'} 
+	 6 : {'Philip S. Yu', 'Haixun Wang'} 
+	 6 : {'Amnon Shashua', 'Michael Werman'} 
+	 6 : {'Marta Z. Kwiatkowska', 'Christel Baier'} 
+	 8 : {'John Mylopoulos', 'Alexander Borgida'} 
+	 6 : {'Roberto Gorrieri', 'Fabio Martinelli'} 
+	 10 : {'Paolo Bottoni', 'Piero Mussio'} 
+	 8 : {'Yoichi Sato', 'Katsushi Ikeuchi'} 
+	 8 : {'Anupam Joshi', 'Elias N. Houstis'} 
+	 6 : {'Rajeev Motwani', 'Jeffrey D. Ullman'} 
+	 6 : {'C. R. Ramakrishnan', 'Scott A. Smolka'} 
+	 8 : {'Ron Kikinis', 'W. Eric L. Grimson'} 
+	 16 : {'Kun-Lung Wu', 'Philip S. Yu'} 
+	 6 : {'Qing Li', 'Kamalakar Karlapalem'} 
+	 6 : {'Jitender S. Deogun', 'Vijay V. Raghavan'} 
+	 10 : {'Desmond J. Walton', 'Dereck S. Meek'} 
+	 8 : {'Mariano Cilia', 'Alejandro P. Buchmann'} 
+	 6 : {'Thomas Ludwig II', 'Arndt Bode'} 
+	 14 : {'Ee-Peng Lim', 'Wee Keong Ng'} 
+	 8 : {'Gerardo Canfora', 'Andrea De Lucia'} 
+	 8 : {'Ioannis G. Tollis', 'Roberto Tamassia'} 
+	 10 : {'Kian-Lee Tan', 'Beng Chin Ooi'} 
+	 6 : {'Justin Zobel', 'Ross Wilkinson'} 
+	 12 : {'Kyung-Yong Chwa', 'Sung Yong Shin'} 
+	 8 : {'Mong-Li Lee', 'Tok Wang Ling'} 
+	 10 : {'Linda Pagli', 'Elena Lodi'} 
+	 10 : {'Carlo Zaniolo', 'Domenico Sacc�'} 
+	 6 : {'Thomas A. Henzinger', 'Sriram K. Rajamani'} 
+	 12 : {'Micha Sharir', 'Boris Aronov'} 
+	 8 : {'Letizia Leonardi', 'Franco Zambonelli'} 
+	 6 : {'Erik D. Demaine', 'Therese C. Biedl'} 
+	 6 : {'Ramakrishnan Srikant', 'Rakesh Agrawal'} 
+	 10 : {'Germ�n Vidal', 'Moreno Falaschi'} 
+	 8 : {'Paolo Prinetto', 'Silvia Chiusano'} 
+	 14 : {'Moshe Y. Vardi', 'Orna Kupferman'} 
+	 10 : {'Sushil Jajodia', 'Xiaoyang Sean Wang'} 
+	 6 : {'Sergio De Agostino', 'Riccardo Silvestri'} 
+	 8 : {'Maurizio Rebaudengo', 'Massimo Violante'} 
+	 6 : {'Prabhakar Raghavan', 'Anna R. Karlin'} 
+	 8 : {'Edward W. Knightly', 'Hui Zhang'} 
+	 6 : {'Vojtech R�dl', 'Yoshiharu Kohayakawa'} 
+	 6 : {'Janan T. Eppig', 'Joel E. Richardson'} 
+	 10 : {'Eliseo Clementini', 'Paolino Di Felice'} 
+	 10 : {'K. Sel�uk Candan', 'Wen-Syan Li'} 
+	 6 : {'Ronald L. Graham', 'Fan R. K. Chung'} 
+	 10 : {'Myoung-Ho Kim', 'Yoon-Joon Lee'} 
+	 8 : {'Thomas J. Marlowe', 'Alexander D. Stoyenko'} 
+	 8 : {'Alfredo Benso', 'Paolo Prinetto'} 
+	 6 : {'Reiner H�hnle', 'Bernhard Beckert'} 
+	 6 : {'Enrico Puppo', 'Leila De Floriani'} 
+	 8 : {'Dov Dori', 'Liu Wenyin'} 
+	 8 : {'Matthias Jarke', 'Yannis Vassiliou'} 
+	 6 : {'Stefano Ceri', 'Letizia Tanca'} 
+	 12 : {'Silvana Castano', 'Valeria De Antonellis'} 
+	 10 : {'Micha Sharir', 'Dan Halperin'} 
+	 16 : {'Giuseppe Di Battista', 'Roberto Tamassia'} 
+	 8 : {'Micha Sharir', 'Leonidas J. Guibas'} 
+	 12 : {'Elisa Bertino', 'Giovanna Guerrini'} 
+	 6 : {'Alon Itai', 'Michael Rodeh'} 
+	 6 : {'Frank S. de Boer', 'Wiebe van der Hoek'} 
+	 6 : {'Steven H. Low', 'Nicholas F. Maxemchuk'} 
+	 6 : {'Richard C. Linger', 'Alan R. Hevner'} 
+	 6 : {'Richard Y. Wang', 'Stuart E. Madnick'} 
+	 8 : {'Mark Roseman', 'Saul Greenberg'} 
+	 6 : {'Sharad C. Seth', 'George Nagy'} 
+	 6 : {'Evelina Lamma', 'Antonio Brogi'} 
+	 10 : {'Yehoshua Sagiv', 'Oded Shmueli'} 
+	 6 : {'Louis O. Hertzberger', 'Hamideh Afsarmanesh'} 
+	 8 : {'Paulo Quaresma', 'Irene Pimenta Rodrigues'} 
+	 6 : {'Benny Chor', 'Eyal Kushilevitz'} 
+	 6 : {'Raphael Rom', 'Moshe Sidi'} 
+	 8 : {'Hans-Peter Kriegel', 'J�rg Sander'} 
+	 6 : {'Mukesh Singhal', 'Michel Raynal'} 
+	 6 : {'John R. Rice', 'Elias N. Houstis'} 
+	 12 : {'Marco Gori', 'Giovanni Soda'} 
+	 10 : {'Sourav S. Bhowmick', 'Wee Keong Ng'} 
+	 8 : {'Chan-Su Shin', 'Kyung-Yong Chwa'} 
+	 6 : {'Larry J. Stockmeyer', 'Cynthia Dwork'} 
+	 6 : {'Marc Snir', 'Clyde P. Kruskal'} 
+	 8 : {'Norman Y. Foo', 'Yan Zhang'} 
+	 10 : {'Henry F. Korth', 'Abraham Silberschatz'} 
+	 6 : {'Venu Govindaraju', 'Sargur N. Srihari'} 
+	 6 : {'Florian Waas', 'Albrecht Schmidt'} 
+	 16 : {'J. Ramanujam', 'Alok N. Choudhary'} 
+	 6 : {'Paolo Mancarella', 'Antonio Brogi'} 
+	 8 : {'Oscar H. Ibarra', 'Jianwen Su'} 
+	 16 : {'Louise E. Moser', 'P. M. Melliar-Smith'} 
+	 6 : {'Karsten Weihe', 'Dorothea Wagner'} 
+	 8 : {'Ming Li', 'Tao Jiang'} 
+	 8 : {'Otfried Schwarzkopf', 'Jir� Matousek'} 
+	 10 : {'Xiao-Shan Gao', 'Shang-Ching Chou'} 
+	 6 : {'Brian Unger', 'Carey L. Williamson'} 
+	 6 : {'Nello Cristianini', 'John Shawe-Taylor'} 
+	 10 : {'Francisco Bueno', 'Manuel V. Hermenegildo'} 
+	 10 : {'Karel Culik II', 'Juhani Karhum�ki'} 
+	 8 : {'Catherine Plaisant', 'Ben Shneiderman'} 
+	 6 : {'Paul M. B. Vit�nyi', 'Ming Li'} 
+	 6 : {'Akifumi Makinouchi', 'Kunihiko Kaneko'} 
+	 10 : {'David Carmel', 'Shaul Markovitch'} 
+	 6 : {'Anish Arora', 'Mohamed G. Gouda'} 
+	 8 : {'Mark H. Overmars', 'A. Frank van der Stappen'} 
+	 10 : {'Michael Zakharyaschev', 'Frank Wolter'} 
+	 6 : {'Charu C. Aggarwal', 'Joel L. Wolf'} 
+	 6 : {'Rupak Biswas', 'Guang R. Gao'} 
+	 6 : {'Oscar H. Ibarra', 'Tao Jiang'} 
+	 6 : {'Michael N. Huhns', 'Munindar P. Singh'} 
+	 6 : {'Scott Shenker', 'Lixia Zhang'} 
+	 6 : {'Svend Fr�lund', 'Rachid Guerraoui'} 
+	 12 : {'Maurizio Rebaudengo', 'Matteo Sonza Reorda'} 
+	 6 : {'Maria Petrou', 'Josef Kittler'} 
+	 6 : {'Mihalis Yannakakis', 'Christos H. Papadimitriou'} 
+	 6 : {'Nicholas Kushmerick', 'Barry Smyth'} 
+	 6 : {'Peter J. N�rnberg', 'John J. Leggett'} 
+	 6 : {'Mark D. Hill', 'David A. Wood'} 
+	 6 : {'B�atrice B�rard', 'Laurent Fribourg'} 
+	 10 : {'Sanjay Kumar Madria', 'Sourav S. Bhowmick'} 
+	 10 : {'C. K. Wong', 'D. T. Lee'} 
+	 6 : {'Jon T. Butler', 'Tsutomu Sasao'} 
+	 6 : {'Yoshitaka Shibata', 'Norio Shiratori'} 
+	 10 : {'John Darlington', 'Yike Guo'} 
+	 8 : {'Joachim Gudmundsson', 'Christos Levcopoulos'} 
+	 10 : {'Ernesto Damiani', 'Letizia Tanca'} 
+	 6 : {'David P. Dobkin', 'David G. Kirkpatrick'} 
+	 10 : {'Katsumi Inoue', 'Chiaki Sakama'} 
+	 8 : {'Robert K. Brayton', 'Alberto L. Sangiovanni-Vincentelli'} 
+	 8 : {'Michael Siegel', 'Stuart E. Madnick'} 
+	 6 : {'Joost-Pieter Katoen', 'Holger Hermanns'} 
+	 6 : {'Klaus Reinhardt', 'Eric Allender'} 
+	 6 : {'Samuel A. Rebelsky', 'Fillia Makedon'} 
+	 6 : {'Donald D. Cowan', 'Carlos Jos� Pereira de Lucena'} 
+	 6 : {'Yervant Zorian', 'Joan Figueras'} 
+	 6 : {'Frank M. Shipman III', 'Richard Furuta'} 
+	 6 : {'Kotagiri Ramamohanarao', 'Guozhu Dong'} 
+	 8 : {'Matthew J. Katz', 'A. Frank van der Stappen'} 
+	 8 : {'Salem Benferhat', 'Henri Prade'} 
+	 8 : {'Yoshitaka Shibata', 'Koji Hashimoto'} 
+	 6 : {'Jon G. Kuhl', 'Sudhakar M. Reddy'} 
+	 12 : {'Massimo Violante', 'Matteo Sonza Reorda'} 
+	 8 : {'Am�lcar Sernadas', 'Hans-Dieter Ehrich'} 
+	 8 : {'Wojciech Rytter', 'Wojciech Plandowski'} 
+	 6 : {'Minoru Asada', 'Manuela M. Veloso'} 
+	 8 : {'Yervant Zorian', 'Michel Renovell'} 
+	 8 : {'Alexandru Mateescu', 'Arto Salomaa'} 
+	 10 : {'George Karypis', 'Vipin Kumar'} 
+	 6 : {'Isabella Merlo', 'Elena Ferrari'} 
+	 6 : {'Wolfram Burgard', 'Armin B. Cremers'} 
+	 6 : {'Rudolf Fleischer', 'Kurt Mehlhorn'} 
+	 8 : {'David Eppstein', 'Marshall W. Bern'} 
+	 10 : {'Alan R. Katritzky', 'Mati Karelson'} 
+	 6 : {'David J. Duke', 'Sabine Coquillart'} 
+	 10 : {'Wei Wang', 'Jiong Yang'} 
+	 6 : {'Enrico Giunchiglia', 'Fausto Giunchiglia'} 
+	 10 : {'Stephan Olariu', 'Koji Nakano'} 
+	 6 : {'James R. Larus', 'David A. Wood'} 
+	 6 : {'John P. Lehoczky', 'Lui Sha'} 
+	 6 : {'Carl H. Smith', 'Efim B. Kinber'} 
+	 12 : {'Hajnal Andr�ka', 'Istv�n N�meti'} 
+	 8 : {'James L. Schwing', 'Dharmavani Bhagavathi'} 
+	 8 : {'Silvio Micali', 'Leonid Reyzin'} 
+	 6 : {'Jyh-Jong Tsay', 'Mikhail J. Atallah'} 
+	 10 : {'Donald Sannella', 'Andrzej Tarlecki'} 
+	 6 : {'Michael Burrows', 'Mart�n Abadi'} 
+	 12 : {'Fabio Neri', 'Emilio Leonardi'} 
+	 6 : {'Yutaka Ishikawa', 'Hiroshi Tezuka'} 
+	 6 : {'Oded Goldreich', 'Shafi Goldwasser'} 
+	 12 : {'Francesca Cesarini', 'Giovanni Soda'} 
+	 8 : {'Salem Benferhat', 'Didier Dubois'} 
+	 8 : {'David Blaauw', 'Rajendran Panda'} 
+	 14 : {'Antonio Si', 'Hong Va Leong'} 
+	 8 : {'Daniele Frigioni', 'Umberto Nanni'} 
+	 10 : {'Wolfram Burgard', 'Dieter Fox'} 
+	 6 : {'Klaus R. Dittrich', 'Peter C. Lockemann'} 
+	 8 : {'Ayumi Shinohara', 'Masayuki Takeda'} 
+	 8 : {'Frances M. T. Brazier', 'Jan Treur'} 
+	 10 : {'Stephen L. Bloom', 'Zolt�n �sik'} 
+	 6 : {'Philip S. Yu', 'Balakrishna R. Iyer'} 
+	 6 : {'Marek Karpinski', 'Piotr Berman'} 
+	 8 : {'Roland Wism�ller', 'Marian Bubak'} 
+	 6 : {'John A. Stankovic', 'Krithi Ramamritham'} 
+	 8 : {'Floriana Esposito', 'Giovanni Semeraro'} 
+	 8 : {'Xiaobo Hu', 'Danny Z. Chen'} 
+	 6 : {'Klara Kedem', 'L. Paul Chew'} 
+	 8 : {'Elizabeth M. Rudnick', 'Janak H. Patel'} 
+	 6 : {'Shamkant B. Navathe', 'Kamalakar Karlapalem'} 
+	 6 : {'Alan Bundy', 'David A. Basin'} 
+	 6 : {'Alfredo Benso', 'Silvia Chiusano'} 
+	 8 : {'Dhabaleswar K. Panda', 'P. Sadayappan'} 
+	 6 : {'Mark de Berg', 'Otfried Schwarzkopf'} 
+	 18 : {'J. Ramanujam', 'Mahmut T. Kandemir'} 
+	 8 : {'Sandeep K. Gupta', 'Melvin A. Breuer'} 
+	 6 : {'S. S. Ravi', 'Hartmut Noltemeier'} 
+	 6 : {'Myung-Soo Kim', 'Gershon Elber'} 
+	 6 : {'Mark H. Overmars', 'Micha Sharir'} 
+	 6 : {'Lane A. Hemachandra', 'Eric Allender'} 
+	 8 : {'Keith Cheverst', 'Adrian Friday'} 
+	 14 : {'Philip S. Yu', 'Joel L. Wolf'} 
+	 8 : {'Thomas A. Henzinger', 'Luca de Alfaro'} 
+	 6 : {'Ravi Kumar', 'Ronitt Rubinfeld'} 
+	 6 : {'Theo H�rder', 'Bernhard Mitschang'} 
+	 16 : {'Maurizio Lenzerini', 'Diego Calvanese'} 
+	 8 : {'Joan Figueras', 'Michel Renovell'} 
+	 6 : {'Jean-Daniel Boissonnat', 'Olivier Devillers'} 
+	 6 : {'Elena Ferrari', 'Giovanna Guerrini'} 
+	 8 : {'Philip S. Yu', 'Asit Dan'} 
+	 6 : {'Tetsuo Asano', 'Naoki Katoh'} 
+	 24 : {'Divyakant Agrawal', 'Amr El Abbadi'} 
+	 8 : {'Feng-Jian Wang', 'Pei-Chi Wu'} 
+	 6 : {'Raffaele Giancarlo', 'Jeffery Westbrook'} 
+	 8 : {'Evangelos Kranakis', 'Andrzej Pelc'} 
+	 12 : {'Leonidas J. Guibas', 'John Hershberger'} 
+	 6 : {'John Launchbury', 'Simon L. Peyton Jones'} 
+	 6 : {'Jan Paredaens', 'Jan Van den Bussche'} 
+	 6 : {'Yossi Azar', 'Stefano Leonardi'} 
+	 6 : {'Werner Nutt', 'Daniele Nardi'} 
+	 6 : {'Barron C. Housel', 'Vincent Y. Lum'} 
+	 6 : {'Maciej Koutny', 'Ryszard Janicki'} 
+	 8 : {'Oded Regev', 'Yossi Azar'} 
+	 8 : {'Esther M. Arkin', 'Joseph S. B. Mitchell'} 
+	 6 : {'Mohand-Said Hacid', 'Ahmed K. Elmagarmid'} 
+	 6 : {'Richard R. Muntz', 'Jiong Yang'} 
+	 10 : {'Ugo Vaccaro', 'Carlo Blundo'} 
+	 8 : {'Mark de Berg', 'A. Frank van der Stappen'} 
+	 6 : {'G�bor Tardos', 'J�nos Pach'} 
+	 6 : {'Lorenza Saitta', 'Filippo Neri'} 
+	 6 : {'Bernard M. E. Moret', 'Tandy Warnow'} 
+	 6 : {'Tok Wang Ling', 'Mengchi Liu'} 
+	 6 : {'Maurizio Talamo', 'Enrico Nardelli'} 
+	 12 : {'Enrico Pontelli', 'Gopal Gupta'} 
+	 6 : {'A. Prasad Sistla', 'Ouri Wolfson'} 
+	 6 : {'Leonidas J. Guibas', 'Alok Aggarwal'} 
+	 6 : {'Behrooz Shirazi', 'A. R. Hurson'} 
+	 6 : {'John Mylopoulos', 'Paolo Giorgini'} 
+	 6 : {'Amos Fiat', 'Stefano Leonardi'} 
+	 6 : {'Pankaj K. Agarwal', 'Otfried Schwarzkopf'} 
+	 8 : {'Asim Smailagic', 'Daniel P. Siewiorek'} 
+	 8 : {'Jin-yi Cai', 'D. Sivakumar'} 
+	 6 : {'Paola Mello', 'Antonio Brogi'} 
+	 8 : {'Andrea E. F. Clementi', 'Jos� D. P. Rolim'} 
+	 10 : {'Alfredo De Santis', 'Giuseppe Persiano'} 
+	 8 : {'Yoshinori Hara', 'Wen-Syan Li'} 
+	 6 : {'Eli Upfal', 'Andrei Z. Broder'} 
+	 16 : {'V. Wiktor Marek', 'Miroslaw Truszczynski'} 
+	 6 : {'Ugo de'Liguoro', 'Mariangiola Dezani-Ciancaglini'} 
+	 8 : {'Hsinchun Chen', 'Bruce R. Schatz'} 
+	 6 : {'Minoru Asada', 'Hiroaki Kitano'} 
+	 6 : {'Edward D. Lazowska', 'Michael Rabinovich'} 
+	 6 : {'Won Kim', 'Darrell Woelk'} 
+	 10 : {'Calton Pu', 'Ling Liu'} 
+	 10 : {'Alberto Pettorossi', 'Maurizio Proietti'} 
+	 8 : {'Bruce G. Lindsay', 'Jim Gray'} 
+	 6 : {'Babak Falsafi', 'David A. Wood'} 
+	 6 : {'Thomas J. Marlowe', 'Mohamed F. Younis'} 
+	 8 : {'Aggelos Kiayias', 'Moti Yung'} 
+	 10 : {'Michela Meo', 'Marco Ajmone Marsan'} 
+	 10 : {'Timothy F. Cootes', 'Christopher J. Taylor'} 
+	 6 : {'Michal Irani', 'P. Anandan'} 
+	 8 : {'Dana Ron', 'Oded Goldreich'} 
+	 6 : {'Barbara Liskov', 'Miguel Castro'} 
+	 8 : {'Ugo Montanari', 'Francesca Rossi'} 
+	 8 : {'S. Lennart Johnsson', 'Ching-Tien Ho'} 
+	 10 : {'John A. Stankovic', 'Sang Hyuk Son'} 
+	 6 : {'Divyakant Agrawal', 'K. Sel�uk Candan'} 
+	 10 : {'Matthias Jarke', 'Manfred A. Jeusfeld'} 
+	 6 : {'Peter Auer', 'Nicol� Cesa-Bianchi'} 
+	 8 : {'Rebecca Montanari', 'Antonio Corradi'} 
+	 6 : {'Ugo Montanari', 'Pierpaolo Degano'} 
+	 12 : {'Nigel Davies', 'Keith Cheverst'} 
+	 8 : {'C. Michael Overstreet', 'Kurt Maly'} 
+	 8 : {'Prakash Panangaden', 'Josee Desharnais'} 
+	 6 : {'Himabindu Gurla', 'Dharmavani Bhagavathi'} 
+	 6 : {'Minoru Asada', 'Peter Stone'} 
+	 20 : {'Andrzej Ehrenfeucht', 'Grzegorz Rozenberg'} 
+	 6 : {'Nancy M. Amato', 'Edgar A. Ramos'} 
+	 6 : {'Rajeev Motwani', 'Sanjeev Khanna'} 
+	 8 : {'Andrzej Pelc', 'Krzysztof Diks'} 
+	 8 : {'Richard C. Wilson', 'Edwin R. Hancock'} 
+	 6 : {'C. L. Liu', 'Jane W.-S. Liu'} 
+	 6 : {'Divyakant Agrawal', 'Ambuj K. Singh'} 
+	 8 : {'Andrea De Lucia', 'Giuseppe A. Di Lucca'} 
+	 6 : {'Frank K. H. A. Dehne', 'Andrew Rau-Chaplin'} 
+	 16 : {'Micha Sharir', 'Pankaj K. Agarwal'} 
+	 10 : {'Gabriele Di Stefano', 'Serafino Cicerone'} 
+	 8 : {'Thomas Eiter', 'Georg Gottlob'} 
+	 10 : {'Eric G. Wagner', 'James W. Thatcher'} 
+	 6 : {'Madhav V. Marathe', 'Sven Oliver Krumke'} 
+	 8 : {'Naotake Kamiura', 'Yutaka Hata'} 
+	 8 : {'Yoichi Sato', 'Hideki Koike'} 
+	 6 : {'Bharat Jayaraman', 'Gopal Gupta'} 
+	 12 : {'Stephan Olariu', 'James L. Schwing'} 
+	 8 : {'Barron C. Housel', 'Nan C. Shu'} 
+	 6 : {'J�rg Rothe', 'Lane A. Hemaspaandra'} 
+	 10 : {'Xiaoyi Jiang', 'Horst Bunke'} 
+	 10 : {'Sanjay Kumar Madria', 'Wee Keong Ng'} 
+	 6 : {'John Mylopoulos', 'Yannis Vassiliou'} 
+	 6 : {'Satinder P. Singh', 'Michael J. Kearns'} 
+	 6 : {'Joost N. Kok', 'Jan J. M. M. Rutten'} 
+	 8 : {'Rajeev Rastogi', 'Minos N. Garofalakis'} 
+	 10 : {'Altigran Soares da Silva', 'Alberto H. F. Laender'} 
+	 10 : {'Carole A. Goble', 'Norman W. Paton'} 
+	 8 : {'Gordon D. Plotkin', 'Mart�n Abadi'} 
+	 6 : {'Aart Middeldorp', 'Hans Zantema'} 
+	 6 : {'Andrei Z. Broder', 'Alan M. Frieze'} 
+	 6 : {'Joseph Y. Halpern', 'Daphne Koller'} 
+	 8 : {'Marc Gyssens', 'Dirk Van Gucht'} 
+	 6 : {'Steve Lawrence', 'C. Lee Giles'} 
+	 6 : {'Tom�s Feder', 'Rajeev Motwani'} 
+	 10 : {'Martin E. Dyer', 'Alan M. Frieze'} 
+	 6 : {'P. Bruce Berra', 'Kingsley C. Nwosu'} 
+	 6 : {'S. S. Ravi', 'Sven Oliver Krumke'} 
+	 10 : {'Nigel Davies', 'Adrian Friday'} 
+	 6 : {'Hans-J�rg Schek', 'Heiko Schuldt'} 
+	 12 : {'Amir Pnueli', 'Zohar Manna'} 
+	 6 : {'Juhani Karhum�ki', 'Tero Harju'} 
+	 6 : {'Mark Jerrum', 'Martin E. Dyer'} 
+	 10 : {'Mar�a Alpuente', 'Moreno Falaschi'} 
+	 10 : {'Maurizio Lenzerini', 'Daniele Nardi'} 
+	 6 : {'Nancy A. Lynch', 'Alexander A. Shvartsman'} 
+	 6 : {'Ke Wang', 'Jiawei Han'} 
+	 10 : {'Nathan S. Netanyahu', 'David M. Mount'} 
+	 6 : {'Joachim W. Schmidt', 'Matthias Jarke'} 
+	 10 : {'Hans-Peter Kriegel', 'Thomas Seidl'} 
+	 6 : {'Kun-Lung Wu', 'Ming-Syan Chen'} 
+	 8 : {'Arto Salomaa', 'Hermann A. Maurer'} 
+	 8 : {'Ellen W. Zegura', 'Mostafa H. Ammar'} 
+	 8 : {'Ravi Kumar', 'D. Sivakumar'} 
+	 6 : {'Heinrich Niemann', 'Elmar N�th'} 
+	 12 : {'Gianna Reggio', 'Egidio Astesiano'} 
+	 18 : {'Lu�s Moniz Pereira', 'Jos� J�lio Alferes'} 
+	 6 : {'John L. Hennessy', 'Anoop Gupta'} 
+	 8 : {'Andreas Herzig', 'Luis Fari�as del Cerro'} 
+	 6 : {'Andrew McCallum', 'Tom M. Mitchell'} 
+	 10 : {'Francesc Esteva', 'Lluis Godo'} 
+	 10 : {'Shu-Ching Chen', 'Mei-Ling Shyu'} 
+	 10 : {'Robert Endre Tarjan', 'Daniel Dominic Sleator'} 
+	 8 : {'Geert Deconinck', 'Rudy Lauwereins'} 
+	 8 : {'Haim Kaplan', 'Edith Cohen'} 
+	 6 : {'Mateo Valero', 'Eduard Ayguad�'} 
+	 8 : {'Dinesh Manocha', 'Ming C. Lin'} 
+	 8 : {'Martha E. Crosby', 'Marie Iding'} 
+	 8 : {'Sven Koenig', 'Reid G. Simmons'} 
+	 6 : {'Ronald Morrison', 'Malcolm P. Atkinson'} 
+	 34 : {'Henri Prade', 'Didier Dubois'} 
+	 6 : {'Frank S. de Boer', 'John-Jules Ch. Meyer'} 
+	 8 : {'Roger Nasr', 'Hassan A�t-Kaci'} 
+	 8 : {'Isabella Merlo', 'Elisa Bertino'} 
+	 6 : {'Anindya Datta', 'Krithi Ramamritham'} 
+	 6 : {'Jiawei Han', 'Raymond T. Ng'} 
+	 6 : {'Jos� Mira', 'Ram�n P. Otero'} 
+	 6 : {'Gheorghe Paun', 'Arto Salomaa'} 
+	 6 : {'Roel Wieringa', 'John-Jules Ch. Meyer'} 
+	 8 : {'Giuseppe Di Battista', 'Ioannis G. Tollis'} 
+	 6 : {'Martin Ester', 'J�rg Sander'} 
+	 6 : {'Jin-yi Cai', 'Kenneth W. Regan'} 
+	 6 : {'David W. Stemple', 'Krithi Ramamritham'} 
+	 12 : {'J. Ramanujam', 'Prithviraj Banerjee'} 
+	 18 : {'Paola Mello', 'Evelina Lamma'} 
+	 14 : {'Alok N. Choudhary', 'Prithviraj Banerjee'} 
+	 10 : {'Philipp Slusallek', 'Hans-Peter Seidel'} 
+	 8 : {'John R. Smith', 'Shih-Fu Chang'} 
+	 10 : {'Diane J. Cook', 'Lawrence B. Holder'} 
+	 10 : {'Keshav Pingali', 'Paul Stodghill'} 
+	 6 : {'Saul Greenberg', 'Carl Gutwin'} 
+	 10 : {'Alan Burns', 'Andy J. Wellings'} 
+	 8 : {'Danny Dolev', 'H. Raymond Strong'} 
+	 6 : {'Andrzej Pelc', 'Danny Krizanc'} 
+	 10 : {'Germ�n Vidal', 'Mar�a Alpuente'} 
+	 8 : {'Charles E. Stroud', 'Miron Abramovici'} 
+	 8 : {'Derick Wood', 'Hermann A. Maurer'} 
+	 8 : {'Giuseppe De Giacomo', 'Diego Calvanese'} 
+	 8 : {'Martin Ester', 'Xiaowei Xu'} 
+	 20 : {'Flemming Nielson', 'Hanne Riis Nielson'} 
+	 6 : {'Michael Wooldridge', 'Michael Fisher'} 
+	 12 : {'Michael Wooldridge', 'Nicholas R. Jennings'} 
+	 6 : {'Yanchun Zhang', 'Yun Yang'} 
+	 6 : {'Jonathan Schaeffer', 'Duane Szafron'} 
+	 6 : {'Norio Shiratori', 'Koji Hashimoto'} 
+	 6 : {'Helmut Prodinger', 'Peter Kirschenhofer'} 
+	 6 : {'Paliath Narendran', 'Deepak Kapur'} 
+	 8 : {'Dan Suciu', 'Mary F. Fernandez'} 
+	 6 : {'Yves Robert', 'Michel Cosnard'} 
+	 10 : {'Wolfram Burgard', 'Sebastian Thrun'} 
+	 6 : {'Viktor K. Prasanna', 'C. S. Raghavendra'} 
+	 16 : {'Zvi Galil', 'Pavol Duris'} 
+	 8 : {'Feng Bao', 'Yoshihide Igarashi'} 
+	 10 : {'Leana Golubchik', 'John C. S. Lui'} 
+	 6 : {'Wolfgang Wilkes', 'Gunter Schlageter'} 
+	 8 : {'Bernd Becker', 'Rolf Drechsler'} 
+	 8 : {'Giovanni Di Crescenzo', 'Giuseppe Persiano'} 
+	 6 : {'Arto Salomaa', 'Lucian Ilie'} 
+	 6 : {'Jeffrey M. Jaffe', 'Moshe Sidi'} 
+	 6 : {'Moshe Y. Vardi', 'Limor Fix'} 
+	 6 : {'Mukesh Singhal', 'Guohong Cao'} 
+	 6 : {'Elisa Bertino', 'Ahmed K. Elmagarmid'} 
+	 14 : {'Donald F. Towsley', 'James F. Kurose'} 
+	 6 : {'Thomas Eiter', 'Nicola Leone'} 
+	 10 : {'Hans-Peter Kriegel', 'Martin Ester'} 
+	 6 : {'Athman Bouguettaya', 'Mike P. Papazoglou'} 
+	 10 : {'Hans-Peter Kriegel', 'Xiaowei Xu'} 
+	 18 : {'Mohamed Ould-Khaoua', 'Lewis M. Mackenzie'} 
+	 6 : {'Hiroaki Kitano', 'Masahiro Fujita'} 
+	 8 : {'Jes�s Labarta', 'Eduard Ayguad�'} 
+	 6 : {'Timothy W. Finin', 'Anupam Joshi'} 
+	 10 : {'Gustavo Rossi', 'Daniel Schwabe'} 
+	 8 : {'Hirohisa Seki', 'Hidenori Itoh'} 
+	 6 : {'Adam L. Buchsbaum', 'Jeffery Westbrook'} 
+	 6 : {'Divyakant Agrawal', 'Wen-Syan Li'} 
+	 6 : {'Francis Y. L. Chin', 'Cao An Wang'} 
+	 8 : {'Philip S. Yu', 'Ming-Syan Chen'} 
+	 6 : {'Panos K. Chrysanthis', 'Evaggelia Pitoura'} 
+	 6 : {'Hugo De Man', 'Francky Catthoor'} 
+	 8 : {'Pankaj K. Agarwal', 'Kasturi R. Varadarajan'} 
+	 12 : {'Richard Kennaway', 'M. Ronan Sleep'} 
+	 8 : {'Katia P. Sycara', 'Terry R. Payne'} 
+	 8 : {'Arthur H. M. ter Hofstede', 'Theo P. van der Weide'} 
+	 6 : {'Alexandru Nicolau', 'Nikil D. Dutt'} 
+	 8 : {'Li-Yan Yuan', 'Jia-Huai You'} 
+	 8 : {'Donald Kossmann', 'Alfons Kemper'} 
+	 6 : {'Alberto Marchetti-Spaccamela', 'Umberto Nanni'} 
+	 6 : {'Ishfaq Ahmad', 'Arif Ghafoor'} 
+	 6 : {'Paul De Bra', 'Jan Paredaens'} 
+	 6 : {'Akhil Kumar', 'Michael Stonebraker'} 
+	 10 : {'Makoto Takizawa', 'Tomoya Enokido'} 
+	 6 : {'Akinori Yonezawa', 'Satoshi Matsuoka'} 
+	 6 : {'Steffen Lange', 'Thomas Zeugmann'} 
+	 10 : {'Rajeev Rastogi', 'Abraham Silberschatz'} 
+	 10 : {'Giovanni Di Crescenzo', 'Alfredo De Santis'} 
+	 6 : {'Sanjay Jain', 'Rolf Wiehagen'} 
+	 10 : {'Simon Kasif', 'Steven Salzberg'} 
+	 6 : {'Monique Teillaud', 'Olivier Devillers'} 
+	 6 : {'Peter Stone', 'Hiroaki Kitano'} 
+	 6 : {'Eli Upfal', 'Prabhakar Raghavan'} 
+	 6 : {'Madhav V. Marathe', 'Hartmut Noltemeier'} 
+	 8 : {'Alessandro Fantechi', 'Stefania Gnesi'} 
+	 6 : {'Gordon B. Davis', 'David L. Feinstein'} 
+	 8 : {'Oded Goldreich', 'Salil P. Vadhan'} 
+	 10 : {'Makoto Yokoo', 'Yuko Sakurai'} 
+	 6 : {'Jack Snoeyink', 'John Hershberger'} 
+	 8 : {'Lori A. Clarke', 'Leon J. Osterweil'} 
+	 6 : {'Klaus Madlener', 'J�rgen Avenhaus'} 
+	 8 : {'Yossi Azar', 'Baruch Awerbuch'} 
+	 10 : {'David B. Fogel', 'Kumar Chellapilla'} 
+	 8 : {'Himabindu Gurla', 'Stephan Olariu'} 
+	 6 : {'Thomas Kropf', 'Klaus Schneider'} 
+	 10 : {'Philip Wadler', 'Martin Odersky'} 
+	 6 : {'Thomas P. Moran', 'Gordon Kurtenbach'} 
+	 10 : {'Yuri Gurevich', 'Andreas Blass'} 
+	 6 : {'Rolf Hennicker', 'Michel Bidoit'} 
+	 6 : {'Chung-Min Chen', 'Rakesh K. Sinha'} 
+	 6 : {'Mitsunori Ogiwara', 'Lane A. Hemachandra'} 
+	 6 : {'Peter Padawitz', 'Hans-J�rg Kreowski'} 
+	 6 : {'Evelina Lamma', 'Paolo Mancarella'} 
+	 6 : {'Alberto Marchetti-Spaccamela', 'Daniele Frigioni'} 
+	 10 : {'Niki Pissinou', 'Kia Makki'} 
+	 6 : {'Starr Roxanne Hiltz', 'Murray Turoff'} 
+	 8 : {'Raffaele Giancarlo', 'Adam L. Buchsbaum'} 
+	 6 : {'Sandip Kundu', 'Sudhakar M. Reddy'} 
+	 14 : {'Thomas Rauber', 'Gudula R�nger'} 
+	 8 : {'Jesse B. Wright', 'Eric G. Wagner'} 
+	 8 : {'Mark de Berg', 'Matthew J. Katz'} 
+	 8 : {'Toshihide Ibaraki', 'Kazuhisa Makino'} 
+	 10 : {'Paolo Cignoni', 'Roberto Scopigno'} 
+	 6 : {'Thomas W. Reps', 'Shmuel Sagiv'} 
+	 6 : {'Burkhard Monien', 'Reinhard L�ling'} 
+	 14 : {'Michel Raynal', 'Achour Most�faoui'} 
+	 6 : {'Pierre McKenzie', 'Denis Th�rien'} 
+	 12 : {'Edwin K. P. Chong', 'Ness B. Shroff'} 
+	 6 : {'Moshe Y. Vardi', 'Roy Armoni'} 
+	 6 : {'Hartmut Noltemeier', 'Sven Oliver Krumke'} 
+	 6 : {'Stefan Schirra', 'Kurt Mehlhorn'} 
+	 6 : {'Lane A. Hemaspaandra', 'Gerd Wechsung'} 
+	 6 : {'Peter Padawitz', 'Hartmut Ehrig'} 
+	 6 : {'Luigi Palopoli', 'Domenico Sacc�'} 
+	 6 : {'Mahmut T. Kandemir', 'Mary Jane Irwin'} 
+	 8 : {'Martin L. Kersten', 'Albrecht Schmidt'} 
+	 6 : {'Ricardo A. Baeza-Yates', 'Gonzalo Navarro'} 
+	 6 : {'P. David Stotts', 'Richard Furuta'} 
+	 10 : {'Peter M. A. Sloot', 'Alfons G. Hoekstra'} 
+	 6 : {'Danny Krizanc', 'Lata Narayanan'} 
+	 10 : {'Rebecca Montanari', 'Cesare Stefanelli'} 
+	 6 : {'Carla Schlatter Ellis', 'David Kotz'} 
+	 6 : {'Margaret M. Burnett', 'Allen L. Ambler'} 
+	 8 : {'Martin Jourdan', 'Didier Parigot'} 
+	 8 : {'Jianzhong Li', 'Jaideep Srivastava'} 
+	 6 : {'Beng Chin Ooi', 'Cheng Hian Goh'} 
+	 12 : {'Cesare Stefanelli', 'Antonio Corradi'} 
+	 6 : {'Kenneth W. Regan', 'D. Sivakumar'} 
+	 8 : {'Oded Goldreich', 'Benny Chor'} 
+	 6 : {'Vladim�r Mar�k', 'Olga Step�nkov�'} 
+	 8 : {'Giora Slutzki', 'David Fern�ndez-Baca'} 
+	 12 : {'Efim B. Kinber', 'Rolf Wiehagen'} 
+	 6 : {'Stefano Leonardi', 'Yair Bartal'} 
+	 6 : {'Mark de Berg', 'Marc J. van Kreveld'} 
+	 10 : {'Shunsuke Uemura', 'Masatoshi Yoshikawa'} 
+	 14 : {'Evangelos Kranakis', 'Danny Krizanc'} 
+	 8 : {'Arto Salomaa', 'Derick Wood'} 
+	 10 : {'Stephan Olariu', 'Dharmavani Bhagavathi'} 
+	 10 : {'Hans-Peter Kriegel', 'Bernhard Seeger'} 
+	 8 : {'Jianwen Su', 'Guozhu Dong'} 
+	 8 : {'Giuseppe De Giacomo', 'Maurizio Lenzerini'} 
+	 8 : {'Weijia Jia', 'Wei Zhao'} 
+	 6 : {'Leonid Libkin', 'Michael Benedikt'} 
+	 12 : {'Ramachandran Vaidyanathan', 'Jerry L. Trahan'} 
+	 8 : {'Ronan Boulic', 'Daniel Thalmann'} 
+	 6 : {'Cecilia Mascolo', 'Paolo Ciancarini'} 
+	 18 : {'Elena Ferrari', 'Elisa Bertino'} 
+	 6 : {'Joachim W. Schmidt', 'John Mylopoulos'} 
+	 6 : {'Reiner W. Hartenstein', 'J�rgen Becker'} 
+	 10 : {'Matthias Felleisen', 'Shriram Krishnamurthi'} 
+	 10 : {'Jitendra Malik', 'Serge Belongie'} 
+	 10 : {'Philip S. Yu', 'Daniel M. Dias'} 
+	 8 : {'James P. Callan', 'W. Bruce Croft'} 
+	 8 : {'David A. Basin', 'Se�n Matthews'} 
+	 12 : {'Jurek Czyzowicz', 'Jorge Urrutia'} 
+	 12 : {'Thomas A. Henzinger', 'Rajeev Alur'} 
+	 6 : {'Susan J. Eggers', 'Henry M. Levy'} 
+	 8 : {'Grzegorz Rozenberg', 'Joost Engelfriet'} 
+	 10 : {'Douglas R. Stinson', 'Carlo Blundo'} 
+	 8 : {'Kei Hiraki', 'Takashi Matsumoto'} 
+	 6 : {'Majid Sarrafzadeh', 'D. T. Lee'} 
+	 10 : {'Arun Sharma', 'Sanjay Jain'} 
+	 6 : {'Mark H. Overmars', 'Jan van Leeuwen'} 
+	 6 : {'Jehoshua Bruck', 'Ching-Tien Ho'} 
+	 10 : {'Dieter Fox', 'Sebastian Thrun'} 
+	 10 : {'Conor Ryan', 'Michael O'Neill'} 
+	 10 : {'Isabella Merlo', 'Giovanna Guerrini'} 
+	 6 : {'Jifeng He', 'C. A. R. Hoare'} 
+	 12 : {'Giorgio Levi', 'Maurizio Gabbrielli'} 
+	 40 : {'Irith Pomeranz', 'Sudhakar M. Reddy'} 
+	 6 : {'Martin L. Kersten', 'Florian Waas'} 
+	 6 : {'Vijay V. Vazirani', 'David P. Williamson'} 
+	 8 : {'Himabindu Gurla', 'James L. Schwing'} 
+	 6 : {'Sariel Har-Peled', 'Pankaj K. Agarwal'} 
+	 10 : {'David Botstein', 'Mark Schroeder'} 
+	 6 : {'Michel Bidoit', 'Christine Choppy'} 
+	 6 : {'Daniel S. Hirschberg', 'Lawrence L. Larmore'} 
+	 8 : {'Maurice Bruynooghe', 'Luc De Raedt'} 
+	 6 : {'Michael R. Fellows', 'Rodney G. Downey'} 
+	 6 : {'C. R. Ramakrishnan', 'I. V. Ramakrishnan'} 
+	 10 : {'Hans-J�rg Kreowski', 'Hartmut Ehrig'} 
+	 6 : {'R�diger Reischuk', 'Maciej Liskiewicz'} 
+	 6 : {'Rajive Bagrodia', 'K. Mani Chandy'} 
+	 6 : {'Ulrich G�ntzer', 'Werner Kie�ling'} 
+	 8 : {'Mark de Berg', 'Mark H. Overmars'} 
+	 6 : {'Hiroaki Kitano', 'Manuela M. Veloso'} 
+	 6 : {'Francesca Cesarini', 'Marco Gori'} 
+	 6 : {'Gustavo Alonso', 'Heiko Schuldt'} 
+	 6 : {'Yutaka Ishikawa', 'Mitsuhisa Sato'} 
+	 6 : {'Nan C. Shu', 'Vincent Y. Lum'} 
+	 8 : {'S. Muthukrishnan', 'Martin Farach'} 
+	 6 : {'Bernard Chazelle', 'Leonidas J. Guibas'} 
+	 6 : {'Werner Nutt', 'Francesco M. Donini'} 
+	 8 : {'Chi-Hsiang Yeh', 'Behrooz Parhami'} 
+	 6 : {'Masahiko Tsukamoto', 'Shojiro Nishio'} 
+	 8 : {'Fabio Neri', 'Marco Ajmone Marsan'} 
+	 6 : {'Sariel Har-Peled', 'Micha Sharir'} 
+	 6 : {'Hugo Krawczyk', 'Oded Goldreich'} 
+	 10 : {'Joachim W. Schmidt', 'Florian Matthes'} 
+	 12 : {'Alfredo De Santis', 'Carlo Blundo'} 
+	 6 : {'Robert M. Hierons', 'Mark Harman'} 
+	 6 : {'Jianzhong Li', 'Doron Rotem'} 
+	 6 : {'Maura Cerioli', 'Egidio Astesiano'} 
+
+Threshold: 5 
+Groupsize: 3 
+Results: 64 
+	 9 : {'Himabindu Gurla', 'James L. Schwing', 'Dharmavani Bhagavathi'} 
+	 9 : {'Himabindu Gurla', 'Stephan Olariu', 'Dharmavani Bhagavathi'} 
+	 9 : {'Minoru Asada', 'Hiroaki Kitano', 'Manuela M. Veloso'} 
+	 12 : {'Isabella Merlo', 'Elisa Bertino', 'Giovanna Guerrini'} 
+	 9 : {'Martin L. Kersten', 'Florian Waas', 'Albrecht Schmidt'} 
+	 9 : {'Yoshitaka Shibata', 'Norio Shiratori', 'Koji Hashimoto'} 
+	 9 : {'Hans-Peter Kriegel', 'Martin Ester', 'Xiaowei Xu'} 
+	 12 : {'Stephan Olariu', 'Dharmavani Bhagavathi', 'James L. Schwing'} 
+	 6 : {'Mark Roseman', 'Saul Greenberg', 'Carl Gutwin'} 
+	 9 : {'Paola Mello', 'Evelina Lamma', 'Antonio Brogi'} 
+	 12 : {'Maurizio Rebaudengo', 'Massimo Violante', 'Matteo Sonza Reorda'} 
+	 9 : {'Hartmut Noltemeier', 'S. S. Ravi', 'Sven Oliver Krumke'} 
+	 9 : {'Minoru Asada', 'Peter Stone', 'Hiroaki Kitano'} 
+	 9 : {'Alfredo Benso', 'Paolo Prinetto', 'Silvia Chiusano'} 
+	 9 : {'Evelina Lamma', 'Paolo Mancarella', 'Antonio Brogi'} 
+	 9 : {'Paola Mello', 'Evelina Lamma', 'Paolo Mancarella'} 
+	 9 : {'Peter Padawitz', 'Hans-J�rg Kreowski', 'Hartmut Ehrig'} 
+	 12 : {'Mark de Berg', 'Matthew J. Katz', 'A. Frank van der Stappen'} 
+	 9 : {'Sariel Har-Peled', 'Micha Sharir', 'Pankaj K. Agarwal'} 
+	 18 : {'J. Ramanujam', 'Mahmut T. Kandemir', 'Prithviraj Banerjee'} 
+	 9 : {'Maurizio Lenzerini', 'Werner Nutt', 'Daniele Nardi'} 
+	 12 : {'Nigel Davies', 'Keith Cheverst', 'Adrian Friday'} 
+	 9 : {'Peter Stone', 'Hiroaki Kitano', 'Manuela M. Veloso'} 
+	 12 : {'Himabindu Gurla', 'Stephan Olariu', 'James L. Schwing'} 
+	 15 : {'Germ�n Vidal', 'Mar�a Alpuente', 'Moreno Falaschi'} 
+	 9 : {'Alberto Marchetti-Spaccamela', 'Daniele Frigioni', 'Umberto Nanni'} 
+	 9 : {'Yervant Zorian', 'Joan Figueras', 'Michel Renovell'} 
+	 15 : {'Sanjay Kumar Madria', 'Sourav S. Bhowmick', 'Wee Keong Ng'} 
+	 9 : {'Evangelos Kranakis', 'Danny Krizanc', 'Andrzej Pelc'} 
+	 9 : {'Philip S. Yu', 'Charu C. Aggarwal', 'Joel L. Wolf'} 
+	 9 : {'Madhav V. Marathe', 'S. S. Ravi', 'Sven Oliver Krumke'} 
+	 9 : {'Carl H. Smith', 'Efim B. Kinber', 'Rolf Wiehagen'} 
+	 15 : {'Alfredo De Santis', 'Ugo Vaccaro', 'Carlo Blundo'} 
+	 9 : {'Fabio Neri', 'Emilio Leonardi', 'Marco Ajmone Marsan'} 
+	 9 : {'Jin-yi Cai', 'Kenneth W. Regan', 'D. Sivakumar'} 
+	 9 : {'Kun-Lung Wu', 'Philip S. Yu', 'Ming-Syan Chen'} 
+	 9 : {'Madhav V. Marathe', 'S. S. Ravi', 'Hartmut Noltemeier'} 
+	 6 : {'Mark de Berg', 'Mark H. Overmars', 'A. Frank van der Stappen'} 
+	 9 : {'Hartmut Noltemeier', 'Madhav V. Marathe', 'Sven Oliver Krumke'} 
+	 12 : {'Rebecca Montanari', 'Antonio Corradi', 'Cesare Stefanelli'} 
+	 9 : {'Hans-Peter Kriegel', 'Martin Ester', 'J�rg Sander'} 
+	 9 : {'Paola Mello', 'Paolo Mancarella', 'Antonio Brogi'} 
+	 12 : {'Giovanni Di Crescenzo', 'Alfredo De Santis', 'Giuseppe Persiano'} 
+	 12 : {'Giuseppe De Giacomo', 'Maurizio Lenzerini', 'Diego Calvanese'} 
+	 12 : {'Salem Benferhat', 'Henri Prade', 'Didier Dubois'} 
+	 6 : {'Elena Ferrari', 'Elisa Bertino', 'Giovanna Guerrini'} 
+	 18 : {'Mahmut T. Kandemir', 'Alok N. Choudhary', 'Prithviraj Banerjee'} 
+	 12 : {'Jesse B. Wright', 'Eric G. Wagner', 'James W. Thatcher'} 
+	 24 : {'J. Ramanujam', 'Mahmut T. Kandemir', 'Alok N. Choudhary'} 
+	 9 : {'Gerardo Canfora', 'Andrea De Lucia', 'Giuseppe A. Di Lucca'} 
+	 9 : {'Francesca Cesarini', 'Marco Gori', 'Giovanni Soda'} 
+	 9 : {'Divyakant Agrawal', 'K. Sel�uk Candan', 'Wen-Syan Li'} 
+	 9 : {'Sandip Kundu', 'Irith Pomeranz', 'Sudhakar M. Reddy'} 
+	 18 : {'J. Ramanujam', 'Alok N. Choudhary', 'Prithviraj Banerjee'} 
+	 12 : {'Giuseppe Di Battista', 'Ioannis G. Tollis', 'Roberto Tamassia'} 
+	 6 : {'Isabella Merlo', 'Elena Ferrari', 'Elisa Bertino'} 
+	 12 : {'Micha Sharir', 'Pankaj K. Agarwal', 'Boris Aronov'} 
+	 9 : {'Nan C. Shu', 'Barron C. Housel', 'Vincent Y. Lum'} 
+	 12 : {'Arto Salomaa', 'Derick Wood', 'Hermann A. Maurer'} 
+	 9 : {'Isabella Merlo', 'Elena Ferrari', 'Giovanna Guerrini'} 
+	 9 : {'Minoru Asada', 'Peter Stone', 'Manuela M. Veloso'} 
+	 9 : {'Raffaele Giancarlo', 'Adam L. Buchsbaum', 'Jeffery Westbrook'} 
+	 15 : {'Wolfram Burgard', 'Dieter Fox', 'Sebastian Thrun'} 
+	 9 : {'Frank S. de Boer', 'John-Jules Ch. Meyer', 'Wiebe van der Hoek'} 
+
+Threshold: 5 
+Groupsize: 4 
+Results: 6 
+	 12 : {'Hartmut Noltemeier', 'Madhav V. Marathe', 'S. S. Ravi', 'Sven Oliver Krumke'} 
+	 12 : {'Paola Mello', 'Evelina Lamma', 'Paolo Mancarella', 'Antonio Brogi'} 
+	 24 : {'J. Ramanujam', 'Mahmut T. Kandemir', 'Alok N. Choudhary', 'Prithviraj Banerjee'} 
+	 12 : {'Himabindu Gurla', 'Stephan Olariu', 'Dharmavani Bhagavathi', 'James L. Schwing'} 
+	 12 : {'Minoru Asada', 'Peter Stone', 'Hiroaki Kitano', 'Manuela M. Veloso'} 
+	 8 : {'Isabella Merlo', 'Elena Ferrari', 'Elisa Bertino', 'Giovanna Guerrini'} 
+
+Threshold: 5 
+Groupsize: 5 
+Results: 0 
