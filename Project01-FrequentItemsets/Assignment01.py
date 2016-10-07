@@ -4,8 +4,10 @@
 import itertools
 import datetime
 
-threshold = 2
+threshold = 20
 file = open("../Input/authorsperpublication.txt", "r")
+results = open("../Output/results.txt", "a")
+
 
 def aPriori():
     print("------------- STEP 1 ------------- ", end="")
@@ -14,8 +16,7 @@ def aPriori():
 
     size = len(list)
     print(size)
-    if size < 20:
-        printList(list)
+    printList(list, 1)
 
     i = 2
     while list:
@@ -26,20 +27,33 @@ def aPriori():
 
         size = len(list)
         print(size)
-        if size < 20:
-            printList(list)
+        printList(list, i)
         i += 1
 
     print("-------------- ENDED -------------- ", end="")
     print(datetime.datetime.now().time().strftime('%H:%M:%S'))
 
-def printList(list):
+def printList(list, k):
+    results.write("Threshold: %d \n" % threshold)
+    results.write("Groupsize: %d \n" % k)
+    results.write("Results: %d \n" % len(list))
     if not list:
         print("List is empty")
+        results.write("List is empty \n")
         return
     for authors in list:
-        print("%s -> %s" % (authors, list[authors]))
+        results.write("\t %s : %s \n" % (list[authors], printFrozenset(authors)))
 
+def printFrozenset(set):
+    result = "{"
+    size = len(set)
+    for item in set:
+        result += "'" + item + "'"
+        size -= 1
+        if size != 0:
+            result += ", "
+    result += "}"
+    return result
 def firstStep():
     candidates = {}
     for line in file:
@@ -91,3 +105,4 @@ def createNewCandidates(list, k):
 
 aPriori()
 file.close()
+results.close()
