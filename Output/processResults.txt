@@ -1,0 +1,13 @@
+T:25, K:1, Max = 35 {'Micha Sharir'}{'Philip S. Yu'}
+T:20, K:1, Max = 35 {'Micha Sharir'}{'Philip S. Yu'}
+T:20, K:2, Max = 40 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+T:15, K:1, Max = 35 {'Micha Sharir'}{'Philip S. Yu'}
+T:15, K:2, Max = 40 {'Sudhakar M. Reddy', 'Irith Pomeranz'}
+T:10, K:1, Max = 35 {'Micha Sharir'}{'Philip S. Yu'}
+T:10, K:2, Max = 40 {'Sudhakar M. Reddy', 'Irith Pomeranz'}
+T:10, K:3, Max = 24 {'Alok N. Choudhary', 'Mahmut T. Kandemir', 'J. Ramanujam'}
+T:10, K:4, Max = 24 {'Alok N. Choudhary', 'Prithviraj Banerjee', 'Mahmut T. Kandemir', 'J. Ramanujam'}
+T:5, K:1, Max = 35 {'Philip S. Yu'}{'Micha Sharir'}
+T:5, K:2, Max = 40 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+T:5, K:3, Max = 24 {'J. Ramanujam', 'Mahmut T. Kandemir', 'Alok N. Choudhary'}
+T:5, K:4, Max = 24 {'J. Ramanujam', 'Mahmut T. Kandemir', 'Alok N. Choudhary', 'Prithviraj Banerjee'}

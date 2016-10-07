@@ -34,15 +34,15 @@ def aPriori():
     print(datetime.datetime.now().time().strftime('%H:%M:%S'))
 
 def printList(list, k):
-    results.write("Threshold: %d \n" % threshold)
-    results.write("Groupsize: %d \n" % k)
-    results.write("Results: %d \n" % len(list))
+    results.write("Threshold: %d\n" % threshold)
+    results.write("Groupsize: %d\n" % k)
+    results.write("Results: %d\n" % len(list))
     if not list:
-        print("List is empty")
-        results.write("List is empty \n")
+        results.write("\n")
         return
     for authors in list:
-        results.write("\t %s : %s \n" % (list[authors], printFrozenset(authors)))
+        results.write("\t%s : %s\n" % (list[authors], printFrozenset(authors)))
+    results.write("\n")
 
 def printFrozenset(set):
     result = "{"
@@ -54,6 +54,7 @@ def printFrozenset(set):
             result += ", "
     result += "}"
     return result
+
 def firstStep():
     candidates = {}
     for line in file:

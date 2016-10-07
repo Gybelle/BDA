@@ -19,6 +19,7 @@ Results: 14
 Threshold: 25 
 Groupsize: 2 
 Results: 0 
+
 Threshold: 20 
 Groupsize: 1 
 Results: 36 
@@ -67,6 +68,7 @@ Results: 1
 Threshold: 20 
 Groupsize: 3 
 Results: 0 
+
 Threshold: 15 
 Groupsize: 1 
 Results: 129 
@@ -211,6 +213,7 @@ Results: 4
 Threshold: 15 
 Groupsize: 3 
 Results: 0 
+
 Threshold: 10 
 Groupsize: 1 
 Results: 541 
@@ -812,6 +815,7 @@ Results: 1
 Threshold: 10 
 Groupsize: 5 
 Results: 0 
+
 Threshold: 5 
 Groupsize: 1 
 Results: 3036 
