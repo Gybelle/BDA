@@ -4,14 +4,18 @@
 import itertools
 import datetime
 
-threshold = 10
+threshold = 2
 file = open("../Input/authorsperpublication.txt", "r")
 
 def aPriori():
     print("------------- STEP 1 ------------- ", end="")
     print(datetime.datetime.now().time().strftime('%H:%M:%S'))
     list = applyThreshold(firstStep())
-    printList(list)
+
+    size = len(list)
+    print(size)
+    if size < 20:
+        printList(list)
 
     i = 2
     while list:
@@ -19,8 +23,15 @@ def aPriori():
         print(datetime.datetime.now().time().strftime('%H:%M:%S'))
         list = step(i, list)
         list = applyThreshold(list)
-        printList(list)
+
+        size = len(list)
+        print(size)
+        if size < 20:
+            printList(list)
         i += 1
+
+    print("-------------- ENDED -------------- ", end="")
+    print(datetime.datetime.now().time().strftime('%H:%M:%S'))
 
 def printList(list):
     if not list:
@@ -56,13 +67,8 @@ def step(k, list):
         authors = line.replace("[", "").replace("]", "").strip().split(",")
         authorCombinations = itertools.combinations(authors, k)
         for combination in authorCombinations:
-            # print("COMBINATION: ", end="")
-            # print(combination)
             for author in list:
-                # print("AUTHOR: ", end="")
-                # print(author)
                 if author.issubset(frozenset(combination)):
-                    # print(" ------------ TRUEEEEEEEEEEEEEeeeeeeee")
                     key = frozenset(combination)
                     if key in candidates:
                         candidates[key] += 1
