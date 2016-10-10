@@ -30,7 +30,7 @@ def aPriori():
         printList(list, i)
         i += 1
 
-    print("-------------- ENDED -------------- ", end="")
+    print("------------- ENDED -------------- ", end="")
     print(datetime.datetime.now().time().strftime('%H:%M:%S'))
 
 def printList(list, k):
@@ -80,7 +80,12 @@ def step(k, list):
     file.seek(0, 0)
     for line in file:
         authors = line.replace("[", "").replace("]", "").strip().split(",")
-        authorCombinations = itertools.combinations(authors, k)
+        frequentAuthors = []
+        for author in authors:
+            for listItem in list:
+                if author in listItem:
+                    frequentAuthors.append(author)
+        authorCombinations = itertools.combinations(frequentAuthors, k)
         for combination in authorCombinations:
             for author in list:
                 if author.issubset(frozenset(combination)):
@@ -90,7 +95,6 @@ def step(k, list):
                     else:
                         candidates[key] = 1
     return candidates
-
 
 def createNewCandidates(list, k):
     authorCollection = []
