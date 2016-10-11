@@ -1,47 +1,47 @@
 Threshold: 700
 Groupsize: 1
 Results: 41
-	727 : {'Jian Wang'}
-	769 : {'Jing Wang'}
-	766 : {'Jun Wang'}
-	881 : {'Thomas S. Huang'}
-	790 : {'Wei Li'}
-	728 : {'Jiawei Han'}
-	764 : {'Ying Zhang'}
-	995 : {'Wei Wang'}
-	741 : {'Yong Wang'}
-	833 : {'Jun Liu'}
-	714 : {'Peng Zhang'}
-	708 : {'Jing Liu'}
-	746 : {'Hui Li'}
 	871 : {'Jing Li'}
-	713 : {'Wei Chen'}
-	991 : {'Wei Zhang'}
-	1307 : {'H. Vincent Poor'}
-	713 : {'Yan Wang'}
-	773 : {'Witold Pedrycz'}
-	839 : {'Tao Li'}
-	797 : {'Xiaodong Wang'}
-	726 : {'Bo Zhang'}
-	973 : {'Wen Gao 0001'}
-	961 : {'Philip S. Yu'}
-	701 : {'Qing Li'}
-	844 : {'Chin-Chen Chang'}
-	738 : {'Victor C. M. Leung'}
-	791 : {'Bin Li'}
-	705 : {'Yang Li'}
-	723 : {'Peng Li'}
-	756 : {'Lei Zhang'}
-	912 : {'Mohamed-Slim Alouini'}
-	882 : {'Yu Zhang'}
-	777 : {'Chao Wang'}
 	752 : {'Xin Wang'}
-	847 : {'Li Zhang'}
-	820 : {'Yang Liu'}
 	911 : {'Lajos Hanzo'}
-	809 : {'Hai Jin'}
+	847 : {'Li Zhang'}
+	713 : {'Yan Wang'}
+	839 : {'Tao Li'}
+	701 : {'Qing Li'}
+	726 : {'Bo Zhang'}
+	844 : {'Chin-Chen Chang'}
+	705 : {'Yang Li'}
+	746 : {'Hui Li'}
+	1307 : {'H. Vincent Poor'}
+	833 : {'Jun Liu'}
+	882 : {'Yu Zhang'}
+	995 : {'Wei Wang'}
+	723 : {'Peng Li'}
+	741 : {'Yong Wang'}
+	790 : {'Wei Li'}
 	762 : {'Jun Zhang'}
+	773 : {'Witold Pedrycz'}
+	766 : {'Jun Wang'}
+	764 : {'Ying Zhang'}
+	756 : {'Lei Zhang'}
+	791 : {'Bin Li'}
+	797 : {'Xiaodong Wang'}
+	714 : {'Peng Zhang'}
+	820 : {'Yang Liu'}
+	912 : {'Mohamed-Slim Alouini'}
+	713 : {'Wei Chen'}
+	809 : {'Hai Jin'}
+	881 : {'Thomas S. Huang'}
+	777 : {'Chao Wang'}
+	708 : {'Jing Liu'}
 	815 : {'Elisa Bertino'}
+	973 : {'Wen Gao 0001'}
+	727 : {'Jian Wang'}
+	728 : {'Jiawei Han'}
+	769 : {'Jing Wang'}
+	961 : {'Philip S. Yu'}
+	738 : {'Victor C. M. Leung'}
+	991 : {'Wei Zhang'}
 
 Threshold: 700
 Groupsize: 2
@@ -50,84 +50,84 @@ Results: 0
 Threshold: 600
 Groupsize: 1
 Results: 78
-	632 : {'Gang Wang'}
-	991 : {'Wei Zhang'}
-	727 : {'Jian Wang'}
-	641 : {'Azzedine Boukerche'}
-	881 : {'Thomas S. Huang'}
-	961 : {'Philip S. Yu'}
-	677 : {'Edwin R. Hancock'}
-	844 : {'Chin-Chen Chang'}
-	642 : {'Kang G. Shin'}
-	654 : {'Sajal K. Das'}
-	644 : {'C.-C. Jay Kuo'}
-	664 : {'Lei Wang'}
-	667 : {'Ying Li'}
-	693 : {'Leonard Barolli'}
-	628 : {'Hong Liu'}
-	764 : {'Ying Zhang'}
-	659 : {'Xiang Li'}
-	726 : {'Bo Zhang'}
-	615 : {'Li Chen'}
-	695 : {'Georgios B. Giannakis'}
-	639 : {'Tao Wang'}
-	662 : {'Bin Wang'}
-	995 : {'Wei Wang'}
-	912 : {'Mohamed-Slim Alouini'}
-	705 : {'Yang Li'}
-	790 : {'Wei Li'}
-	797 : {'Xiaodong Wang'}
-	659 : {'Jian Yang'}
-	701 : {'Qing Li'}
-	911 : {'Lajos Hanzo'}
-	756 : {'Lei Zhang'}
-	613 : {'Mario Piattini'}
-	847 : {'Li Zhang'}
-	611 : {'Jie Li'}
-	693 : {'Ying Wang'}
-	674 : {'Hong Zhang'}
-	741 : {'Yong Wang'}
-	738 : {'Victor C. M. Leung'}
-	629 : {'Jing Zhang'}
 	746 : {'Hui Li'}
+	632 : {'Gang Wang'}
+	629 : {'Mario Gerla'}
 	777 : {'Chao Wang'}
-	619 : {'Jie Wu 0001'}
-	769 : {'Jing Wang'}
-	600 : {'Mahmut T. Kandemir'}
-	669 : {'Luca Benini'}
-	713 : {'Wei Chen'}
-	766 : {'Jun Wang'}
-	657 : {'Hans-Peter Seidel'}
-	839 : {'Tao Li'}
+	630 : {'Tao Zhang'}
+	741 : {'Yong Wang'}
 	665 : {'Xi Chen'}
-	773 : {'Witold Pedrycz'}
-	622 : {'Qian Zhang'}
-	791 : {'Bin Li'}
+	847 : {'Li Zhang'}
+	613 : {'Mario Piattini'}
+	820 : {'Yang Liu'}
+	667 : {'Ying Li'}
+	659 : {'Jian Yang'}
+	797 : {'Xiaodong Wang'}
+	695 : {'Georgios B. Giannakis'}
+	677 : {'Edwin R. Hancock'}
 	714 : {'Peng Zhang'}
-	647 : {'Makoto Takizawa'}
-	752 : {'Xin Wang'}
-	642 : {'Robert Schober'}
-	652 : {'Jian Li'}
+	674 : {'Hong Zhang'}
+	790 : {'Wei Li'}
+	654 : {'Sajal K. Das'}
+	995 : {'Wei Wang'}
+	766 : {'Jun Wang'}
 	815 : {'Elisa Bertino'}
-	643 : {'Yan Chen'}
-	661 : {'Yong Zhang'}
+	882 : {'Yu Zhang'}
+	664 : {'Lei Wang'}
+	628 : {'Hong Liu'}
+	839 : {'Tao Li'}
+	844 : {'Chin-Chen Chang'}
+	639 : {'Tao Wang'}
+	728 : {'Jiawei Han'}
+	693 : {'Ying Wang'}
+	600 : {'Mahmut T. Kandemir'}
+	764 : {'Ying Zhang'}
+	871 : {'Jing Li'}
+	610 : {'Sudhakar M. Reddy'}
+	619 : {'Jie Wu 0001'}
+	641 : {'Azzedine Boukerche'}
+	693 : {'Leonard Barolli'}
+	644 : {'C.-C. Jay Kuo'}
+	713 : {'Wei Chen'}
+	791 : {'Bin Li'}
+	769 : {'Jing Wang'}
 	833 : {'Jun Liu'}
 	723 : {'Peng Li'}
-	630 : {'Tao Zhang'}
-	871 : {'Jing Li'}
-	882 : {'Yu Zhang'}
-	728 : {'Jiawei Han'}
-	820 : {'Yang Liu'}
-	610 : {'Sudhakar M. Reddy'}
-	708 : {'Jing Liu'}
-	613 : {'Yong Liu'}
+	961 : {'Philip S. Yu'}
+	738 : {'Victor C. M. Leung'}
 	713 : {'Yan Wang'}
+	701 : {'Qing Li'}
+	647 : {'Makoto Takizawa'}
+	727 : {'Jian Wang'}
 	1307 : {'H. Vincent Poor'}
-	762 : {'Jun Zhang'}
-	809 : {'Hai Jin'}
-	629 : {'Mario Gerla'}
+	652 : {'Jian Li'}
 	651 : {'Ajith Abraham'}
+	773 : {'Witold Pedrycz'}
+	705 : {'Yang Li'}
+	642 : {'Robert Schober'}
+	643 : {'Yan Chen'}
+	708 : {'Jing Liu'}
+	629 : {'Jing Zhang'}
+	912 : {'Mohamed-Slim Alouini'}
+	669 : {'Luca Benini'}
+	991 : {'Wei Zhang'}
+	756 : {'Lei Zhang'}
+	615 : {'Li Chen'}
+	622 : {'Qian Zhang'}
+	642 : {'Kang G. Shin'}
+	809 : {'Hai Jin'}
+	613 : {'Yong Liu'}
+	911 : {'Lajos Hanzo'}
+	726 : {'Bo Zhang'}
+	762 : {'Jun Zhang'}
+	752 : {'Xin Wang'}
+	657 : {'Hans-Peter Seidel'}
+	659 : {'Xiang Li'}
 	973 : {'Wen Gao 0001'}
+	881 : {'Thomas S. Huang'}
+	611 : {'Jie Li'}
+	662 : {'Bin Wang'}
+	661 : {'Yong Zhang'}
 
 Threshold: 600
 Groupsize: 2
@@ -136,169 +136,169 @@ Results: 0
 Threshold: 500
 Groupsize: 1
 Results: 157
-	555 : {'Viktor K. Prasanna'}
-	517 : {'Qi Wang'}
-	502 : {'Mihaela van der Schaar'}
-	613 : {'Mario Piattini'}
-	820 : {'Yang Liu'}
-	1307 : {'H. Vincent Poor'}
-	549 : {'Qing Wang'}
-	641 : {'Azzedine Boukerche'}
-	528 : {'Micha Sharir'}
-	574 : {'Hermann Ney'}
-	554 : {'Yi Zhang'}
-	643 : {'Yan Chen'}
-	701 : {'Qing Li'}
-	661 : {'Yong Zhang'}
-	528 : {'Shuicheng Yan'}
-	600 : {'Mahmut T. Kandemir'}
-	657 : {'Hans-Peter Seidel'}
-	764 : {'Ying Zhang'}
-	839 : {'Tao Li'}
+	529 : {'Henri Prade'}
 	591 : {'Kaushik Roy 0001'}
-	534 : {'Jack Dongarra'}
-	713 : {'Yan Wang'}
-	528 : {'Ying Liu'}
-	995 : {'Wei Wang'}
-	577 : {'Jian Zhang'}
-	797 : {'Xiaodong Wang'}
-	644 : {'C.-C. Jay Kuo'}
-	533 : {'Wei Xu'}
-	539 : {'Feng Liu'}
-	912 : {'Mohamed-Slim Alouini'}
+	527 : {'David Zhang'}
+	551 : {'Yi Wang'}
 	551 : {'Francky Catthoor'}
-	746 : {'Hui Li'}
-	847 : {'Li Zhang'}
-	535 : {'Wil M. P. van der Aalst'}
+	629 : {'Mario Gerla'}
+	572 : {'Ping Wang'}
+	629 : {'Jing Zhang'}
+	651 : {'Ajith Abraham'}
+	820 : {'Yang Liu'}
+	504 : {'Khaled Ben Letaief'}
+	535 : {'Eitan Altman'}
+	588 : {'K. J. Ray Liu'}
 	514 : {'Feng Wang'}
-	611 : {'Jie Li'}
-	538 : {'Yan Zhang'}
+	562 : {'Rama Chellappa'}
+	610 : {'Sudhakar M. Reddy'}
+	790 : {'Wei Li'}
+	713 : {'Wei Chen'}
+	961 : {'Philip S. Yu'}
 	523 : {'Schahram Dustdar'}
 	594 : {'Yu Liu'}
-	545 : {'Moshe Y. Vardi'}
 	664 : {'Lei Wang'}
-	580 : {'Irith Pomeranz'}
-	973 : {'Wen Gao 0001'}
-	520 : {'Rolf Drechsler'}
-	559 : {'Josef Kittler'}
-	961 : {'Philip S. Yu'}
-	504 : {'Qi Zhang'}
-	532 : {'Christoph Meinel'}
-	665 : {'Xi Chen'}
-	529 : {'Henri Prade'}
-	525 : {'Xin Chen'}
-	705 : {'Yang Li'}
-	541 : {'Xin Li'}
-	629 : {'Mario Gerla'}
-	790 : {'Wei Li'}
-	514 : {'Yang Zhang'}
-	573 : {'Noga Alon'}
-	669 : {'Luca Benini'}
-	991 : {'Wei Zhang'}
-	769 : {'Jing Wang'}
-	654 : {'Sajal K. Das'}
-	586 : {'Xin Liu'}
-	756 : {'Lei Zhang'}
-	546 : {'Massoud Pedram'}
-	570 : {'Hui Zhang'}
-	570 : {'Anil K. Jain'}
-	555 : {'Dong Wang'}
-	642 : {'Kang G. Shin'}
-	723 : {'Peng Li'}
-	572 : {'Ping Wang'}
-	567 : {'Jun Li'}
-	833 : {'Jun Liu'}
-	659 : {'Jian Yang'}
-	553 : {'Luc J. Van Gool'}
-	610 : {'Sudhakar M. Reddy'}
-	527 : {'David Zhang'}
-	575 : {'Gang Li'}
-	762 : {'Jun Zhang'}
-	713 : {'Wei Chen'}
-	613 : {'Yong Liu'}
-	695 : {'Georgios B. Giannakis'}
-	708 : {'Jing Liu'}
-	567 : {'Norman C. Beaulieu'}
-	630 : {'Tao Zhang'}
-	562 : {'Rama Chellappa'}
-	557 : {'Xuemin Shen'}
-	535 : {'Eitan Altman'}
-	560 : {'Dacheng Tao'}
 	741 : {'Yong Wang'}
-	552 : {'Zhu Han'}
-	622 : {'Qian Zhang'}
-	511 : {'Mérouane Debbah'}
-	651 : {'Ajith Abraham'}
-	728 : {'Jiawei Han'}
-	598 : {'Yan Li'}
-	647 : {'Makoto Takizawa'}
-	501 : {'Chao Zhang'}
-	537 : {'Jiannong Cao'}
-	628 : {'Hong Liu'}
+	513 : {'Fang Liu'}
+	652 : {'Jian Li'}
+	556 : {'Licheng Jiao'}
 	726 : {'Bo Zhang'}
-	578 : {'Toshio Fukuda'}
-	572 : {'Yang Yang'}
-	512 : {'Nicholas R. Jennings'}
-	619 : {'Jie Wu 0001'}
-	642 : {'Robert Schober'}
-	507 : {'Erik D. Demaine'}
-	542 : {'Nassir Navab'}
-	514 : {'Joseph Y. Halpern'}
-	777 : {'Chao Wang'}
+	528 : {'Ying Liu'}
+	549 : {'Qing Wang'}
+	881 : {'Thomas S. Huang'}
+	570 : {'Hui Zhang'}
+	541 : {'Xin Li'}
+	1307 : {'H. Vincent Poor'}
+	534 : {'Hui Wang'}
+	510 : {'Ralf Steinmetz'}
+	973 : {'Wen Gao 0001'}
+	727 : {'Jian Wang'}
+	585 : {'Min Chen'}
+	662 : {'Bin Wang'}
+	552 : {'Zhu Han'}
 	844 : {'Chin-Chen Chang'}
-	511 : {'Bo Li'}
-	503 : {'Michele Zorzi'}
-	596 : {'Li Li'}
-	508 : {'Yi Liu'}
-	738 : {'Victor C. M. Leung'}
-	521 : {'Min Li'}
+	557 : {'Xuemin Shen'}
+	911 : {'Lajos Hanzo'}
+	511 : {'Mérouane Debbah'}
+	545 : {'Moshe Y. Vardi'}
+	641 : {'Azzedine Boukerche'}
+	693 : {'Ying Wang'}
+	705 : {'Yang Li'}
+	769 : {'Jing Wang'}
+	551 : {'Fan Zhang'}
+	677 : {'Edwin R. Hancock'}
+	534 : {'Jack Dongarra'}
+	619 : {'Jie Wu 0001'}
+	570 : {'Anil K. Jain'}
+	546 : {'Massoud Pedram'}
+	574 : {'Hermann Ney'}
+	659 : {'Jian Yang'}
+	777 : {'Chao Wang'}
+	723 : {'Peng Li'}
+	555 : {'Dong Wang'}
+	525 : {'Xin Chen'}
+	644 : {'C.-C. Jay Kuo'}
+	517 : {'Qi Wang'}
+	622 : {'Qian Zhang'}
+	502 : {'Mihaela van der Schaar'}
+	554 : {'Yi Zhang'}
+	665 : {'Xi Chen'}
+	628 : {'Hong Liu'}
+	560 : {'Dacheng Tao'}
+	797 : {'Xiaodong Wang'}
+	538 : {'Yan Zhang'}
+	549 : {'Peng Wang'}
+	573 : {'Noga Alon'}
+	559 : {'Josef Kittler'}
+	773 : {'Witold Pedrycz'}
+	506 : {'Jie Liu'}
+	791 : {'Bin Li'}
 	693 : {'Leonard Barolli'}
 	714 : {'Peng Zhang'}
-	549 : {'Peng Wang'}
-	766 : {'Jun Wang'}
-	727 : {'Jian Wang'}
-	534 : {'Hui Wang'}
-	882 : {'Yu Zhang'}
-	667 : {'Ying Li'}
-	659 : {'Xiang Li'}
-	506 : {'Jie Liu'}
-	881 : {'Thomas S. Huang'}
-	568 : {'Wei Wu'}
-	752 : {'Xin Wang'}
-	551 : {'Yi Wang'}
-	693 : {'Ying Wang'}
-	513 : {'Fang Liu'}
-	815 : {'Elisa Bertino'}
-	809 : {'Hai Jin'}
-	516 : {'Christos Faloutsos'}
-	639 : {'Tao Wang'}
-	588 : {'K. J. Ray Liu'}
-	530 : {'Krishnendu Chakrabarty'}
-	504 : {'Khaled Ben Letaief'}
-	615 : {'Li Chen'}
-	551 : {'Fan Zhang'}
-	652 : {'Jian Li'}
-	662 : {'Bin Wang'}
-	500 : {'Fatos Xhafa'}
-	773 : {'Witold Pedrycz'}
-	674 : {'Hong Zhang'}
-	571 : {'Alberto L. Sangiovanni-Vincentelli'}
-	632 : {'Gang Wang'}
-	556 : {'Licheng Jiao'}
-	510 : {'Ralf Steinmetz'}
-	871 : {'Jing Li'}
-	911 : {'Lajos Hanzo'}
-	677 : {'Edwin R. Hancock'}
-	585 : {'Min Chen'}
-	629 : {'Jing Zhang'}
+	535 : {'Wil M. P. van der Aalst'}
+	575 : {'Gang Li'}
+	647 : {'Makoto Takizawa'}
+	839 : {'Tao Li'}
+	572 : {'Yang Yang'}
+	762 : {'Jun Zhang'}
+	657 : {'Hans-Peter Seidel'}
+	995 : {'Wei Wang'}
+	567 : {'Jun Li'}
+	764 : {'Ying Zhang'}
+	504 : {'Qi Zhang'}
+	613 : {'Yong Liu'}
+	511 : {'Bo Li'}
+	580 : {'Irith Pomeranz'}
 	500 : {'Yu Chen'}
-	791 : {'Bin Li'}
+	613 : {'Mario Piattini'}
+	530 : {'Krishnendu Chakrabarty'}
+	611 : {'Jie Li'}
+	639 : {'Tao Wang'}
+	500 : {'Fatos Xhafa'}
+	809 : {'Hai Jin'}
+	598 : {'Yan Li'}
+	847 : {'Li Zhang'}
+	514 : {'Joseph Y. Halpern'}
+	577 : {'Jian Zhang'}
+	815 : {'Elisa Bertino'}
+	654 : {'Sajal K. Das'}
+	713 : {'Yan Wang'}
+	708 : {'Jing Liu'}
+	539 : {'Feng Liu'}
+	615 : {'Li Chen'}
+	586 : {'Xin Liu'}
+	555 : {'Viktor K. Prasanna'}
+	567 : {'Norman C. Beaulieu'}
+	632 : {'Gang Wang'}
+	912 : {'Mohamed-Slim Alouini'}
+	642 : {'Robert Schober'}
+	756 : {'Lei Zhang'}
+	991 : {'Wei Zhang'}
+	766 : {'Jun Wang'}
+	752 : {'Xin Wang'}
+	528 : {'Micha Sharir'}
+	501 : {'Chao Zhang'}
+	520 : {'Rolf Drechsler'}
+	833 : {'Jun Liu'}
+	596 : {'Li Li'}
+	659 : {'Xiang Li'}
+	738 : {'Victor C. M. Leung'}
+	528 : {'Shuicheng Yan'}
+	667 : {'Ying Li'}
+	568 : {'Wei Wu'}
+	669 : {'Luca Benini'}
+	521 : {'Min Li'}
+	600 : {'Mahmut T. Kandemir'}
+	695 : {'Georgios B. Giannakis'}
+	571 : {'Alberto L. Sangiovanni-Vincentelli'}
+	542 : {'Nassir Navab'}
+	514 : {'Yang Zhang'}
+	553 : {'Luc J. Van Gool'}
+	661 : {'Yong Zhang'}
+	746 : {'Hui Li'}
+	674 : {'Hong Zhang'}
+	533 : {'Wei Xu'}
+	701 : {'Qing Li'}
+	508 : {'Yi Liu'}
+	642 : {'Kang G. Shin'}
+	578 : {'Toshio Fukuda'}
+	643 : {'Yan Chen'}
+	503 : {'Michele Zorzi'}
+	630 : {'Tao Zhang'}
+	516 : {'Christos Faloutsos'}
+	532 : {'Christoph Meinel'}
+	507 : {'Erik D. Demaine'}
+	537 : {'Jiannong Cao'}
+	728 : {'Jiawei Han'}
+	871 : {'Jing Li'}
+	882 : {'Yu Zhang'}
+	512 : {'Nicholas R. Jennings'}
 
 Threshold: 500
 Groupsize: 2
 Results: 2
+	850 : {'Sudhakar M. Reddy', 'Irith Pomeranz'}
 	622 : {'Leonard Barolli', 'Fatos Xhafa'}
-	850 : {'Irith Pomeranz', 'Sudhakar M. Reddy'}
 
 Threshold: 500
 Groupsize: 3
@@ -307,299 +307,299 @@ Results: 0
 Threshold: 400
 Groupsize: 1
 Results: 286
-	426 : {'Alok N. Choudhary'}
-	665 : {'Xi Chen'}
-	512 : {'Nicholas R. Jennings'}
-	423 : {'Larry S. Davis'}
-	995 : {'Wei Wang'}
-	419 : {'Horst Bunke'}
-	600 : {'Mahmut T. Kandemir'}
-	961 : {'Philip S. Yu'}
-	442 : {'Yang Xiao'}
-	611 : {'Jie Li'}
-	516 : {'Christos Faloutsos'}
-	433 : {'Tho Le-Ngoc'}
-	437 : {'Yang Xu'}
-	553 : {'Luc J. Van Gool'}
-	406 : {'Hossam S. Hassanein'}
-	503 : {'Michele Zorzi'}
-	871 : {'Jing Li'}
-	585 : {'Min Chen'}
-	493 : {'Tao Yang'}
-	610 : {'Sudhakar M. Reddy'}
-	504 : {'Khaled Ben Letaief'}
-	479 : {'Liang Zhang'}
-	400 : {'Roland Siegwart'}
-	797 : {'Xiaodong Wang'}
-	420 : {'Tharam S. Dillon'}
-	727 : {'Jian Wang'}
-	401 : {'Liang Chen'}
-	530 : {'Krishnendu Chakrabarty'}
-	408 : {'Jia Liu'}
-	405 : {'Jie Xu'}
-	572 : {'Ping Wang'}
-	538 : {'Yan Zhang'}
-	402 : {'Tieniu Tan'}
-	790 : {'Wei Li'}
-	833 : {'Jun Liu'}
-	423 : {'Alberto Del Bimbo'}
-	726 : {'Bo Zhang'}
-	657 : {'Hans-Peter Seidel'}
-	534 : {'Hui Wang'}
-	559 : {'Josef Kittler'}
-	491 : {'David Eppstein'}
-	443 : {'Dinggang Shen'}
-	535 : {'Wil M. P. van der Aalst'}
-	408 : {'Mateo Valero'}
-	479 : {'Didier Dubois'}
-	809 : {'Hai Jin'}
-	532 : {'Christoph Meinel'}
-	554 : {'Yi Zhang'}
-	738 : {'Victor C. M. Leung'}
-	537 : {'Jiannong Cao'}
-	973 : {'Wen Gao 0001'}
-	628 : {'Hong Liu'}
-	511 : {'Mérouane Debbah'}
-	500 : {'Fatos Xhafa'}
-	406 : {'Ming Li'}
-	408 : {'Chao Li'}
-	462 : {'Bart Preneel'}
-	551 : {'Fan Zhang'}
-	449 : {'Marc Moonen'}
-	403 : {'Peng Shi 0001'}
-	401 : {'Ping Li'}
-	413 : {'Xin Zhang'}
-	412 : {'Sungyoung Lee'}
-	535 : {'Eitan Altman'}
-	588 : {'K. J. Ray Liu'}
-	427 : {'Fan Yang'}
-	674 : {'Hong Zhang'}
-	425 : {'Giovanni De Micheli'}
-	428 : {'Ke Xu'}
-	555 : {'Viktor K. Prasanna'}
-	542 : {'Nassir Navab'}
-	514 : {'Yang Zhang'}
-	642 : {'Robert Schober'}
-	613 : {'Mario Piattini'}
-	562 : {'Rama Chellappa'}
-	619 : {'Jie Wu 0001'}
-	485 : {'Yi Yang'}
-	437 : {'Moti Yung'}
-	414 : {'Hiroshi Ishiguro'}
-	463 : {'Athanasios V. Vasilakos'}
-	551 : {'Francky Catthoor'}
-	575 : {'Gang Li'}
-	401 : {'Hsiao-Hwa Chen'}
-	644 : {'C.-C. Jay Kuo'}
-	401 : {'Hong Shen'}
-	402 : {'Klara Nahrstedt'}
-	420 : {'Ning Wang'}
-	571 : {'Alberto L. Sangiovanni-Vincentelli'}
-	437 : {'Leonidas J. Guibas'}
-	630 : {'Tao Zhang'}
-	714 : {'Peng Zhang'}
-	632 : {'Gang Wang'}
-	911 : {'Lajos Hanzo'}
-	406 : {'Wei Jiang'}
-	433 : {'Ian T. Foster'}
-	844 : {'Chin-Chen Chang'}
-	493 : {'Hua Wang'}
-	642 : {'Kang G. Shin'}
-	552 : {'Zhu Han'}
-	643 : {'Yan Chen'}
-	436 : {'Satoshi Nakamura'}
-	705 : {'Yang Li'}
-	424 : {'Václav Snásel'}
-	533 : {'Wei Xu'}
-	441 : {'Ke Wang'}
-	458 : {'Helmut Krcmar'}
-	546 : {'Massoud Pedram'}
-	459 : {'Guanrong Chen'}
-	483 : {'Ronald R. Yager'}
-	455 : {'Ming Liu'}
-	415 : {'Dharma P. Agrawal'}
-	578 : {'Toshio Fukuda'}
-	413 : {'Hussein T. Mouftah'}
-	659 : {'Xiang Li'}
+	523 : {'Schahram Dustdar'}
+	560 : {'Dacheng Tao'}
 	695 : {'Georgios B. Giannakis'}
-	416 : {'Guy Pujolle'}
-	622 : {'Qian Zhang'}
-	410 : {'Manuela M. Veloso'}
-	510 : {'Ralf Steinmetz'}
-	746 : {'Hui Li'}
-	501 : {'Chao Zhang'}
-	551 : {'Yi Wang'}
-	502 : {'Mihaela van der Schaar'}
-	423 : {'Paul G. Spirakis'}
-	417 : {'Björn E. Ottersten'}
-	412 : {'Gerhard J. Woeginger'}
-	528 : {'Ying Liu'}
-	641 : {'Azzedine Boukerche'}
-	404 : {'Rahim Tafazolli'}
-	667 : {'Ying Li'}
-	472 : {'John Mylopoulos'}
-	402 : {'Fumiyuki Adachi'}
-	401 : {'Donald F. Towsley'}
-	462 : {'Vladik Kreinovich'}
-	483 : {'Hui Liu'}
-	659 : {'Jian Yang'}
-	484 : {'Ioannis Pitas'}
-	539 : {'Feng Liu'}
-	728 : {'Jiawei Han'}
-	567 : {'Norman C. Beaulieu'}
-	419 : {'Taghi M. Khoshgoftaar'}
-	570 : {'Hui Zhang'}
-	693 : {'Leonard Barolli'}
-	555 : {'Dong Wang'}
-	446 : {'Ying Chen'}
-	407 : {'Rik Van de Walle'}
-	447 : {'Rajkumar Buyya'}
-	421 : {'Bin Wu'}
-	450 : {'Jian Chen'}
-	520 : {'Rolf Drechsler'}
-	596 : {'Li Li'}
-	556 : {'Licheng Jiao'}
-	549 : {'Qing Wang'}
-	406 : {'Jason Cong'}
-	591 : {'Kaushik Roy 0001'}
-	598 : {'Yan Li'}
-	513 : {'Fang Liu'}
-	472 : {'Xin Yao'}
-	460 : {'Ming Zhang'}
-	458 : {'Piet Demeester'}
-	453 : {'Wayne Luk'}
-	432 : {'Hao Li'}
-	455 : {'Gerhard Weikum'}
-	466 : {'Qi Tian'}
-	541 : {'Xin Li'}
-	580 : {'Irith Pomeranz'}
-	426 : {'Wei Yang'}
-	456 : {'Qiang Li'}
-	421 : {'Thomas A. Henzinger'}
+	448 : {'Yi Li'}
+	629 : {'Mario Gerla'}
+	420 : {'Xuelong Li'}
+	413 : {'Xin Zhang'}
+	462 : {'Bart Preneel'}
+	738 : {'Victor C. M. Leung'}
+	613 : {'Mario Piattini'}
+	437 : {'Leonidas J. Guibas'}
+	659 : {'Xiang Li'}
+	406 : {'Hossam S. Hassanein'}
+	542 : {'Nassir Navab'}
+	458 : {'Helmut Krcmar'}
+	411 : {'Hanqing Lu'}
+	567 : {'Jun Li'}
+	441 : {'Ke Wang'}
+	463 : {'Hsinchun Chen'}
 	508 : {'Yi Liu'}
 	450 : {'Grzegorz Rozenberg'}
-	438 : {'Daniel Thalmann'}
-	586 : {'Xin Liu'}
-	839 : {'Tao Li'}
-	473 : {'Ling Liu'}
-	752 : {'Xin Wang'}
-	435 : {'Jin Wang'}
-	475 : {'Nadia Magnenat-Thalmann'}
-	504 : {'Qi Zhang'}
-	441 : {'Hector Garcia-Molina'}
-	463 : {'Hsinchun Chen'}
-	459 : {'Aggelos K. Katsaggelos'}
-	521 : {'Min Li'}
-	573 : {'Noga Alon'}
-	534 : {'Jack Dongarra'}
-	506 : {'Jie Liu'}
-	762 : {'Jun Zhang'}
-	815 : {'Elisa Bertino'}
-	517 : {'Qi Wang'}
-	400 : {'Vishwani D. Agrawal'}
-	424 : {'Qiang Wang'}
-	406 : {'Christos H. Papadimitriou'}
-	629 : {'Mario Gerla'}
-	500 : {'Yu Chen'}
-	439 : {'Lei Li'}
-	471 : {'Sushil Jajodia'}
-	483 : {'Wei Liu'}
-	615 : {'Li Chen'}
-	664 : {'Lei Wang'}
-	570 : {'Anil K. Jain'}
-	847 : {'Li Zhang'}
-	424 : {'Andrzej Cichocki'}
-	766 : {'Jun Wang'}
+	460 : {'Ming Zhang'}
+	642 : {'Kang G. Shin'}
+	578 : {'Toshio Fukuda'}
+	472 : {'Xin Yao'}
 	756 : {'Lei Zhang'}
-	594 : {'Yu Liu'}
-	662 : {'Bin Wang'}
-	912 : {'Mohamed-Slim Alouini'}
-	549 : {'Peng Wang'}
-	423 : {'Qian Wang'}
-	577 : {'Jian Zhang'}
-	545 : {'Moshe Y. Vardi'}
-	412 : {'Qiang Yang 0001'}
-	567 : {'Jun Li'}
-	514 : {'Joseph Y. Halpern'}
-	741 : {'Yong Wang'}
-	572 : {'Yang Yang'}
-	527 : {'David Zhang'}
 	639 : {'Tao Wang'}
-	430 : {'Jürgen Teich'}
-	651 : {'Ajith Abraham'}
-	669 : {'Luca Benini'}
-	420 : {'José Duato'}
-	427 : {'Bo Xu'}
-	491 : {'Francisco Herrera'}
-	647 : {'Makoto Takizawa'}
-	466 : {'Meng Wang'}
-	437 : {'Willy Susilo'}
-	450 : {'Yan Liu'}
+	412 : {'Gerhard J. Woeginger'}
+	423 : {'Larry S. Davis'}
+	790 : {'Wei Li'}
+	423 : {'Qian Wang'}
+	471 : {'Sushil Jajodia'}
+	450 : {'Jian Chen'}
+	619 : {'Jie Wu 0001'}
 	769 : {'Jing Wang'}
-	654 : {'Sajal K. Das'}
-	773 : {'Witold Pedrycz'}
-	764 : {'Ying Zhang'}
-	448 : {'Yi Li'}
-	401 : {'Hong Yan'}
-	557 : {'Xuemin Shen'}
-	439 : {'Azriel Rosenfeld'}
-	528 : {'Micha Sharir'}
-	460 : {'Haizhou Li'}
-	456 : {'Gerhard Fettweis'}
-	529 : {'Henri Prade'}
-	426 : {'Takeo Kanade'}
-	511 : {'Bo Li'}
-	991 : {'Wei Zhang'}
-	445 : {'Rui Zhang'}
-	568 : {'Wei Wu'}
-	574 : {'Hermann Ney'}
-	411 : {'Hanqing Lu'}
-	441 : {'Wei Wei'}
-	472 : {'Albert Y. Zomaya'}
-	514 : {'Feng Wang'}
-	713 : {'Yan Wang'}
-	708 : {'Jing Liu'}
-	693 : {'Ying Wang'}
-	528 : {'Shuicheng Yan'}
-	525 : {'Xin Chen'}
-	613 : {'Yong Liu'}
-	436 : {'Rui Wang'}
-	466 : {'Xi Zhang'}
 	777 : {'Chao Wang'}
-	441 : {'Yong Yu'}
-	446 : {'Michel Raynal'}
-	713 : {'Wei Chen'}
-	560 : {'Dacheng Tao'}
-	429 : {'Maarten de Rijke'}
-	425 : {'Li Wang'}
-	652 : {'Jian Li'}
-	486 : {'Jie Zhang'}
-	442 : {'Qi Li'}
-	701 : {'Qing Li'}
-	523 : {'Schahram Dustdar'}
-	723 : {'Peng Li'}
-	420 : {'Xuelong Li'}
-	507 : {'Erik D. Demaine'}
-	400 : {'Hans-Peter Kriegel'}
-	881 : {'Thomas S. Huang'}
+	726 : {'Bo Zhang'}
+	401 : {'Donald F. Towsley'}
+	415 : {'Dharma P. Agrawal'}
+	455 : {'Gerhard Weikum'}
 	425 : {'Ian F. Akyildiz'}
-	629 : {'Jing Zhang'}
-	677 : {'Edwin R. Hancock'}
-	820 : {'Yang Liu'}
-	1307 : {'H. Vincent Poor'}
-	479 : {'Shlomo Shamai'}
-	882 : {'Yu Zhang'}
+	401 : {'Hong Shen'}
+	407 : {'Rik Van de Walle'}
+	667 : {'Ying Li'}
+	420 : {'Tharam S. Dillon'}
+	404 : {'Rahim Tafazolli'}
+	534 : {'Hui Wang'}
+	752 : {'Xin Wang'}
+	815 : {'Elisa Bertino'}
+	545 : {'Moshe Y. Vardi'}
+	797 : {'Xiaodong Wang'}
+	662 : {'Bin Wang'}
+	450 : {'Yan Liu'}
+	538 : {'Yan Zhang'}
+	705 : {'Yang Li'}
+	549 : {'Qing Wang'}
+	630 : {'Tao Zhang'}
+	598 : {'Yan Li'}
+	423 : {'Alberto Del Bimbo'}
+	416 : {'Guy Pujolle'}
+	503 : {'Michele Zorzi'}
+	483 : {'Wei Liu'}
+	530 : {'Krishnendu Chakrabarty'}
+	586 : {'Xin Liu'}
+	439 : {'Azriel Rosenfeld'}
+	651 : {'Ajith Abraham'}
+	413 : {'Hussein T. Mouftah'}
+	449 : {'Marc Moonen'}
+	401 : {'Hsiao-Hwa Chen'}
+	514 : {'Joseph Y. Halpern'}
+	472 : {'Albert Y. Zomaya'}
+	412 : {'Qiang Yang 0001'}
+	406 : {'Wei Jiang'}
+	502 : {'Mihaela van der Schaar'}
+	511 : {'Mérouane Debbah'}
+	406 : {'Ming Li'}
+	588 : {'K. J. Ray Liu'}
+	514 : {'Yang Zhang'}
+	412 : {'Sungyoung Lee'}
+	500 : {'Fatos Xhafa'}
+	714 : {'Peng Zhang'}
+	442 : {'Yang Xiao'}
+	575 : {'Gang Li'}
+	764 : {'Ying Zhang'}
+	773 : {'Witold Pedrycz'}
+	439 : {'Lei Li'}
+	600 : {'Mahmut T. Kandemir'}
+	506 : {'Jie Liu'}
+	809 : {'Hai Jin'}
+	400 : {'Vishwani D. Agrawal'}
+	585 : {'Min Chen'}
+	973 : {'Wen Gao 0001'}
 	408 : {'Svetha Venkatesh'}
-	412 : {'Kishor S. Trivedi'}
+	443 : {'Dinggang Shen'}
+	446 : {'Michel Raynal'}
+	406 : {'Jason Cong'}
+	438 : {'Daniel Thalmann'}
+	442 : {'Qi Li'}
+	421 : {'Thomas A. Henzinger'}
+	414 : {'Hiroshi Ishiguro'}
+	402 : {'Fumiyuki Adachi'}
+	555 : {'Viktor K. Prasanna'}
+	961 : {'Philip S. Yu'}
+	458 : {'Piet Demeester'}
+	525 : {'Xin Chen'}
+	401 : {'Ping Li'}
+	611 : {'Jie Li'}
+	537 : {'Jiannong Cao'}
+	437 : {'Willy Susilo'}
+	820 : {'Yang Liu'}
+	574 : {'Hermann Ney'}
+	485 : {'Yi Yang'}
+	554 : {'Yi Zhang'}
+	420 : {'Ning Wang'}
+	995 : {'Wei Wang'}
+	419 : {'Taghi M. Khoshgoftaar'}
+	539 : {'Feng Liu'}
+	1307 : {'H. Vincent Poor'}
+	559 : {'Josef Kittler'}
+	528 : {'Shuicheng Yan'}
+	472 : {'John Mylopoulos'}
+	657 : {'Hans-Peter Seidel'}
+	436 : {'Rui Wang'}
+	871 : {'Jing Li'}
+	572 : {'Yang Yang'}
+	557 : {'Xuemin Shen'}
 	791 : {'Bin Li'}
+	527 : {'David Zhang'}
+	501 : {'Chao Zhang'}
+	533 : {'Wei Xu'}
+	912 : {'Mohamed-Slim Alouini'}
+	693 : {'Leonard Barolli'}
+	727 : {'Jian Wang'}
+	406 : {'Christos H. Papadimitriou'}
+	520 : {'Rolf Drechsler'}
+	594 : {'Yu Liu'}
+	405 : {'Jie Xu'}
 	661 : {'Yong Zhang'}
+	441 : {'Wei Wei'}
+	708 : {'Jing Liu'}
+	573 : {'Noga Alon'}
+	641 : {'Azzedine Boukerche'}
+	456 : {'Qiang Li'}
+	654 : {'Sajal K. Das'}
+	844 : {'Chin-Chen Chang'}
+	693 : {'Ying Wang'}
+	723 : {'Peng Li'}
+	713 : {'Yan Wang'}
+	419 : {'Horst Bunke'}
+	512 : {'Nicholas R. Jennings'}
+	412 : {'Kishor S. Trivedi'}
+	479 : {'Didier Dubois'}
+	677 : {'Edwin R. Hancock'}
+	500 : {'Yu Chen'}
+	466 : {'Xi Zhang'}
+	504 : {'Qi Zhang'}
+	408 : {'Jia Liu'}
+	441 : {'Yong Yu'}
+	475 : {'Nadia Magnenat-Thalmann'}
+	643 : {'Yan Chen'}
+	459 : {'Aggelos K. Katsaggelos'}
+	433 : {'Ian T. Foster'}
+	991 : {'Wei Zhang'}
+	517 : {'Qi Wang'}
+	402 : {'Tieniu Tan'}
+	628 : {'Hong Liu'}
+	403 : {'Peng Shi 0001'}
+	514 : {'Feng Wang'}
+	441 : {'Hector Garcia-Molina'}
+	473 : {'Ling Liu'}
+	551 : {'Fan Zhang'}
+	674 : {'Hong Zhang'}
+	562 : {'Rama Chellappa'}
+	911 : {'Lajos Hanzo'}
+	701 : {'Qing Li'}
+	664 : {'Lei Wang'}
+	426 : {'Wei Yang'}
+	445 : {'Rui Zhang'}
+	622 : {'Qian Zhang'}
+	713 : {'Wei Chen'}
+	882 : {'Yu Zhang'}
+	463 : {'Athanasios V. Vasilakos'}
+	556 : {'Licheng Jiao'}
+	610 : {'Sudhakar M. Reddy'}
+	567 : {'Norman C. Beaulieu'}
+	483 : {'Ronald R. Yager'}
+	401 : {'Hong Yan'}
+	432 : {'Hao Li'}
+	535 : {'Wil M. P. van der Aalst'}
+	484 : {'Ioannis Pitas'}
+	456 : {'Gerhard Fettweis'}
+	553 : {'Luc J. Van Gool'}
+	447 : {'Rajkumar Buyya'}
+	408 : {'Chao Li'}
+	516 : {'Christos Faloutsos'}
+	613 : {'Yong Liu'}
+	665 : {'Xi Chen'}
+	659 : {'Jian Yang'}
+	766 : {'Jun Wang'}
+	728 : {'Jiawei Han'}
+	642 : {'Robert Schober'}
+	507 : {'Erik D. Demaine'}
+	741 : {'Yong Wang'}
+	435 : {'Jin Wang'}
+	400 : {'Hans-Peter Kriegel'}
+	528 : {'Ying Liu'}
+	424 : {'Václav Snásel'}
+	632 : {'Gang Wang'}
+	504 : {'Khaled Ben Letaief'}
+	580 : {'Irith Pomeranz'}
+	615 : {'Li Chen'}
+	483 : {'Hui Liu'}
+	528 : {'Micha Sharir'}
+	568 : {'Wei Wu'}
+	425 : {'Li Wang'}
+	453 : {'Wayne Luk'}
+	552 : {'Zhu Han'}
+	493 : {'Tao Yang'}
+	433 : {'Tho Le-Ngoc'}
+	847 : {'Li Zhang'}
+	570 : {'Anil K. Jain'}
+	423 : {'Paul G. Spirakis'}
+	410 : {'Manuela M. Veloso'}
+	833 : {'Jun Liu'}
+	529 : {'Henri Prade'}
+	400 : {'Roland Siegwart'}
+	425 : {'Giovanni De Micheli'}
+	596 : {'Li Li'}
+	493 : {'Hua Wang'}
+	429 : {'Maarten de Rijke'}
+	839 : {'Tao Li'}
+	437 : {'Moti Yung'}
+	459 : {'Guanrong Chen'}
+	572 : {'Ping Wang'}
+	491 : {'Francisco Herrera'}
+	421 : {'Bin Wu'}
+	446 : {'Ying Chen'}
+	511 : {'Bo Li'}
+	427 : {'Bo Xu'}
+	644 : {'C.-C. Jay Kuo'}
+	466 : {'Qi Tian'}
+	424 : {'Andrzej Cichocki'}
+	401 : {'Liang Chen'}
+	491 : {'David Eppstein'}
+	437 : {'Yang Xu'}
+	570 : {'Hui Zhang'}
+	629 : {'Jing Zhang'}
+	460 : {'Haizhou Li'}
+	521 : {'Min Li'}
+	427 : {'Fan Yang'}
+	420 : {'José Duato'}
+	647 : {'Makoto Takizawa'}
+	551 : {'Yi Wang'}
+	513 : {'Fang Liu'}
+	426 : {'Takeo Kanade'}
+	479 : {'Shlomo Shamai'}
+	541 : {'Xin Li'}
+	466 : {'Meng Wang'}
+	546 : {'Massoud Pedram'}
+	479 : {'Liang Zhang'}
+	762 : {'Jun Zhang'}
+	669 : {'Luca Benini'}
+	881 : {'Thomas S. Huang'}
+	424 : {'Qiang Wang'}
+	746 : {'Hui Li'}
+	417 : {'Björn E. Ottersten'}
+	652 : {'Jian Li'}
+	510 : {'Ralf Steinmetz'}
+	532 : {'Christoph Meinel'}
+	534 : {'Jack Dongarra'}
+	591 : {'Kaushik Roy 0001'}
+	577 : {'Jian Zhang'}
+	535 : {'Eitan Altman'}
+	555 : {'Dong Wang'}
+	408 : {'Mateo Valero'}
+	549 : {'Peng Wang'}
+	455 : {'Ming Liu'}
+	486 : {'Jie Zhang'}
+	402 : {'Klara Nahrstedt'}
+	426 : {'Alok N. Choudhary'}
+	571 : {'Alberto L. Sangiovanni-Vincentelli'}
+	551 : {'Francky Catthoor'}
+	430 : {'Jürgen Teich'}
+	462 : {'Vladik Kreinovich'}
+	428 : {'Ke Xu'}
+	436 : {'Satoshi Nakamura'}
 
 Threshold: 400
 Groupsize: 2
 Results: 3
 	850 : {'Irith Pomeranz', 'Sudhakar M. Reddy'}
-	622 : {'Fatos Xhafa', 'Leonard Barolli'}
 	650 : {'Didier Dubois', 'Henri Prade'}
+	622 : {'Leonard Barolli', 'Fatos Xhafa'}
 
 Threshold: 400
 Groupsize: 3
@@ -608,721 +608,2871 @@ Results: 0
 Threshold: 300
 Groupsize: 1
 Results: 692
-	412 : {'Sungyoung Lee'}
-	911 : {'Lajos Hanzo'}
-	384 : {'Andrew Zisserman'}
-	413 : {'Hussein T. Mouftah'}
-	425 : {'Ian F. Akyildiz'}
-	341 : {'Guang-Zhong Yang'}
-	311 : {'Heinrich Niemann'}
-	421 : {'Thomas A. Henzinger'}
-	391 : {'Chang Liu'}
-	302 : {'Max Mühlhäuser'}
-	330 : {'Fei Wang'}
-	415 : {'Dharma P. Agrawal'}
-	398 : {'Gang Feng'}
-	374 : {'Leandros Tassiulas'}
-	316 : {'José M. F. Moura'}
-	307 : {'Joel H. Saltz'}
-	313 : {'Mubarak Shah'}
-	307 : {'HongJiang Zhang'}
-	321 : {'Ming Yang'}
-	408 : {'Chao Li'}
-	303 : {'Ramesh Jain'}
-	337 : {'Yishay Mansour'}
-	769 : {'Jing Wang'}
-	406 : {'Hossam S. Hassanein'}
-	350 : {'T. Aaron Gulliver'}
-	338 : {'Zheng Li'}
-	661 : {'Yong Zhang'}
-	367 : {'Mikael Skoglund'}
-	613 : {'Mario Piattini'}
-	345 : {'Ee-Peng Lim'}
-	586 : {'Xin Liu'}
-	513 : {'Fang Liu'}
-	486 : {'Jie Zhang'}
-	320 : {'Ugo Montanari'}
-	399 : {'Jacob A. Abraham'}
-	343 : {'Jon Crowcroft'}
-	406 : {'Jason Cong'}
-	376 : {'Jeffrey G. Andrews'}
-	355 : {'Shusaku Tsumoto'}
-	412 : {'Qiang Yang 0001'}
-	527 : {'David Zhang'}
-	321 : {'Chang Wen Chen'}
-	376 : {'Yang Wang'}
-	532 : {'Christoph Meinel'}
-	397 : {'Chun Chen'}
-	340 : {'Hong Wang'}
-	306 : {'Uwe Aickelin'}
-	305 : {'Calton Pu'}
-	462 : {'Bart Preneel'}
-	738 : {'Victor C. M. Leung'}
-	594 : {'Yu Liu'}
-	408 : {'Jia Liu'}
-	329 : {'Erol Gelenbe'}
-	312 : {'Jie Tang'}
-	307 : {'Qiang Wu'}
-	356 : {'Kai Wang'}
-	642 : {'Robert Schober'}
-	300 : {'Eduard Ayguadé'}
-	395 : {'Masayuki Murata'}
-	652 : {'Jian Li'}
-	374 : {'Ekram Hossain'}
-	344 : {'Petre Stoica'}
-	336 : {'A. Robert Calderbank'}
-	511 : {'Mérouane Debbah'}
-	708 : {'Jing Liu'}
-	325 : {'Alan C. Bovik'}
-	327 : {'Ness B. Shroff'}
-	355 : {'Vijay Kumar 0001'}
-	439 : {'Lei Li'}
-	437 : {'Moti Yung'}
-	575 : {'Gang Li'}
-	349 : {'Soo-Chang Pei'}
-	300 : {'Zhiyong Feng'}
-	312 : {'Yue Wang'}
-	537 : {'Jiannong Cao'}
-	391 : {'Tzung-Pei Hong'}
-	313 : {'S. Muthukrishnan'}
-	312 : {'Nirwan Ansari'}
-	368 : {'Ming-Syan Chen'}
-	341 : {'Rachid Guerraoui'}
-	961 : {'Philip S. Yu'}
-	330 : {'Min Wang'}
-	344 : {'Gang Liu'}
-	334 : {'Yuguang Fang'}
-	557 : {'Xuemin Shen'}
-	530 : {'Krishnendu Chakrabarty'}
-	483 : {'Wei Liu'}
-	316 : {'Long Wang'}
-	381 : {'Bo Wang'}
-	312 : {'Chao Chen'}
-	611 : {'Jie Li'}
-	336 : {'Markus H. Gross'}
-	528 : {'Shuicheng Yan'}
-	417 : {'Björn E. Ottersten'}
-	752 : {'Xin Wang'}
-	370 : {'Rüdiger Dillmann'}
-	341 : {'Antonio F. Gómez-Skarmeta'}
-	657 : {'Hans-Peter Seidel'}
-	613 : {'Yong Liu'}
-	318 : {'Narendra Ahuja'}
-	441 : {'Wei Wei'}
-	389 : {'John H. L. Hansen'}
-	383 : {'Feng Li'}
-	318 : {'Wei-Tek Tsai'}
-	446 : {'Michel Raynal'}
-	301 : {'Kai Li'}
-	361 : {'Michael T. Goodrich'}
-	312 : {'Nanning Zheng'}
-	325 : {'Hartmut Ehrig'}
-	355 : {'Ning Zhang'}
-	401 : {'Hong Yan'}
-	319 : {'Yuan Xie 0001'}
-	552 : {'Zhu Han'}
-	337 : {'Truong Q. Nguyen'}
-	882 : {'Yu Zhang'}
-	312 : {'Gheorghe Paun'}
-	377 : {'Filip De Turck'}
-	756 : {'Lei Zhang'}
-	534 : {'Jack Dongarra'}
-	528 : {'Micha Sharir'}
-	340 : {'Karsten Schwan'}
-	642 : {'Kang G. Shin'}
-	424 : {'Andrzej Cichocki'}
-	484 : {'Ioannis Pitas'}
-	442 : {'Qi Li'}
-	345 : {'Edward R. Dougherty'}
-	363 : {'Bernard De Baets'}
-	667 : {'Ying Li'}
-	382 : {'Hao Wang'}
-	507 : {'Erik D. Demaine'}
-	367 : {'Huan Liu'}
-	764 : {'Ying Zhang'}
-	307 : {'Diego Calvanese'}
-	662 : {'Bin Wang'}
-	357 : {'Bin Liu'}
-	306 : {'Satoshi Goto'}
-	630 : {'Tao Zhang'}
-	307 : {'Pascal Van Hentenryck'}
-	308 : {'Nancy A. Lynch'}
-	551 : {'Yi Wang'}
-	330 : {'Jie Lu'}
-	389 : {'Wolfgang Rosenstiel'}
-	306 : {'Geert Leus'}
-	354 : {'Alan M. Frieze'}
-	309 : {'B. John Oommen'}
-	549 : {'Peng Wang'}
-	459 : {'Guanrong Chen'}
-	363 : {'Tat-Seng Chua'}
-	416 : {'Guy Pujolle'}
-	341 : {'Jürgen Becker'}
-	973 : {'Wen Gao 0001'}
-	359 : {'Oscar H. Ibarra'}
-	436 : {'Rui Wang'}
-	412 : {'Kishor S. Trivedi'}
-	335 : {'Michael Wooldridge'}
-	567 : {'Norman C. Beaulieu'}
-	639 : {'Tao Wang'}
-	414 : {'Hiroshi Ishiguro'}
-	305 : {'Wei Sun'}
-	466 : {'Xi Zhang'}
-	309 : {'Ling Chen'}
-	405 : {'Jie Xu'}
-	304 : {'Yang Yu'}
-	466 : {'Meng Wang'}
-	314 : {'Edwin Hsing-Mean Sha'}
-	332 : {'Jun Hu'}
-	447 : {'Rajkumar Buyya'}
-	372 : {'Zhi-Hua Zhou'}
-	379 : {'Wei Zhou'}
-	369 : {'Jeffrey Xu Yu'}
-	387 : {'Pramod K. Varshney'}
-	511 : {'Bo Li'}
-	324 : {'Jun Guo'}
-	390 : {'Ben Shneiderman'}
-	388 : {'Qiang Liu'}
-	349 : {'Raouf Boutaba'}
-	336 : {'Gerd Hirzinger'}
-	533 : {'Wei Xu'}
-	535 : {'Wil M. P. van der Aalst'}
-	401 : {'Donald F. Towsley'}
-	570 : {'Anil K. Jain'}
-	791 : {'Bin Li'}
-	723 : {'Peng Li'}
-	542 : {'Nassir Navab'}
-	378 : {'Shih-Fu Chang'}
-	539 : {'Feng Liu'}
-	364 : {'Georg Gottlob'}
-	317 : {'Branka Vucetic'}
-	514 : {'Joseph Y. Halpern'}
-	305 : {'Jian Ma'}
-	695 : {'Georgios B. Giannakis'}
-	545 : {'Moshe Y. Vardi'}
-	384 : {'Vincent K. N. Lau'}
-	437 : {'Leonidas J. Guibas'}
-	311 : {'Rong Jin'}
-	350 : {'Yu Wang'}
-	302 : {'Barry Smyth'}
-	403 : {'Peng Shi 0001'}
-	313 : {'Amr El Abbadi'}
-	514 : {'Yang Zhang'}
-	307 : {'Ian Horrocks'}
-	449 : {'Marc Moonen'}
-	317 : {'Reihaneh Safavi-Naini'}
-	307 : {'Jie Chen'}
-	317 : {'Luc Vandendorpe'}
-	567 : {'Jun Li'}
-	353 : {'Bernd Girod'}
-	615 : {'Li Chen'}
-	367 : {'Chen Wang'}
-	309 : {'T. D. Wilson'}
-	348 : {'Jie Wang'}
-	301 : {'Minyi Guo'}
-	355 : {'Ricardo A. Baeza-Yates'}
-	408 : {'Svetha Venkatesh'}
-	394 : {'Bernhard Rumpe'}
-	401 : {'Hong Shen'}
-	364 : {'Xi Li'}
-	306 : {'Divesh Srivastava'}
-	343 : {'Matteo Sonza Reorda'}
-	310 : {'Manfred Glesner'}
-	559 : {'Josef Kittler'}
-	423 : {'Paul G. Spirakis'}
-	443 : {'Dinggang Shen'}
-	338 : {'Ali H. Sayed'}
-	316 : {'Jeng-Shyang Pan'}
-	394 : {'Stephan Olariu'}
-	375 : {'Oded Goldreich'}
-	432 : {'Hao Li'}
-	304 : {'Yao Zhao'}
-	596 : {'Li Li'}
-	551 : {'Fan Zhang'}
-	367 : {'Choong Seon Hong'}
-	610 : {'Sudhakar M. Reddy'}
-	399 : {'Dinesh Manocha'}
-	871 : {'Jing Li'}
-	305 : {'Dong Li'}
-	315 : {'Darwin G. Caldwell'}
-	506 : {'Jie Liu'}
-	419 : {'Horst Bunke'}
-	839 : {'Tao Li'}
-	408 : {'Mateo Valero'}
-	659 : {'Xiang Li'}
-	815 : {'Elisa Bertino'}
-	306 : {'Prasant Mohapatra'}
-	315 : {'Bin Ma'}
-	329 : {'Alex Waibel'}
-	367 : {'Ching Y. Suen'}
-	346 : {'Wei Lu'}
-	406 : {'Ming Li'}
-	441 : {'Ke Wang'}
-	304 : {'Fei Li'}
-	797 : {'Xiaodong Wang'}
-	479 : {'Shlomo Shamai'}
-	398 : {'Jun Chen'}
-	525 : {'Xin Chen'}
-	352 : {'Saharon Shelah'}
-	391 : {'Holger Boche'}
-	373 : {'Hong Jiang'}
-	379 : {'David Peleg'}
-	323 : {'Marek Karpinski'}
-	510 : {'Ralf Steinmetz'}
-	413 : {'Xin Zhang'}
-	332 : {'Hyunseung Choo'}
-	361 : {'Kian-Lee Tan'}
-	383 : {'Xiaoou Tang'}
-	309 : {'Krishnendu Chatterjee'}
-	365 : {'Feng Wu'}
-	373 : {'Majid Sarrafzadeh'}
-	322 : {'Wilfried Philips'}
-	359 : {'Kurt Mehlhorn'}
-	360 : {'Peter Stone'}
-	345 : {'Xindong Wu'}
-	357 : {'Thomas Eiter'}
-	337 : {'Feng Chen'}
-	553 : {'Luc J. Van Gool'}
-	402 : {'Fumiyuki Adachi'}
-	433 : {'Ian T. Foster'}
-	323 : {'Hiroshi Harada'}
-	401 : {'Ping Li'}
-	335 : {'Jun Luo'}
-	847 : {'Li Zhang'}
-	741 : {'Yong Wang'}
-	713 : {'Yan Wang'}
-	669 : {'Luca Benini'}
-	429 : {'Maarten de Rijke'}
-	493 : {'Hua Wang'}
-	773 : {'Witold Pedrycz'}
-	309 : {'George K. Karagiannidis'}
-	339 : {'Andreas Uhl'}
-	345 : {'Guillermo Sapiro'}
-	346 : {'Karl Henrik Johansson'}
-	300 : {'Jaakko Astola'}
-	392 : {'Muriel Médard'}
-	535 : {'Eitan Altman'}
-	529 : {'Henri Prade'}
-	435 : {'Jin Wang'}
-	300 : {'Jinde Cao'}
-	333 : {'Hideharu Amano'}
-	1307 : {'H. Vincent Poor'}
-	320 : {'Bo Chen'}
-	437 : {'Willy Susilo'}
-	390 : {'Oscar C. Au'}
-	399 : {'Di Wu'}
-	455 : {'Ming Liu'}
-	322 : {'Tao Liu'}
-	549 : {'Qing Wang'}
-	820 : {'Yang Liu'}
-	322 : {'Mark Harman'}
-	345 : {'Pankaj K. Agarwal'}
-	314 : {'Elizabeth Chang'}
-	701 : {'Qing Li'}
-	384 : {'Jian Wu'}
-	777 : {'Chao Wang'}
-	501 : {'Chao Zhang'}
-	556 : {'Licheng Jiao'}
-	337 : {'Mary Jane Irwin'}
-	404 : {'Rahim Tafazolli'}
-	693 : {'Leonard Barolli'}
-	318 : {'Peng Liu'}
-	514 : {'Feng Wang'}
-	355 : {'Prosenjit Bose'}
-	591 : {'Kaushik Roy 0001'}
-	659 : {'Jian Yang'}
-	523 : {'Schahram Dustdar'}
-	485 : {'Yi Yang'}
-	546 : {'Massoud Pedram'}
-	341 : {'Kouichi Sakurai'}
-	483 : {'Ronald R. Yager'}
-	362 : {'Zhe Wang'}
-	391 : {'Jian Liu'}
-	352 : {'Gerhard Rigoll'}
-	448 : {'Yi Li'}
-	323 : {'Xiaohua Jia'}
-	401 : {'Hsiao-Hwa Chen'}
-	308 : {'Dusit Niyato'}
-	674 : {'Hong Zhang'}
-	348 : {'Abhijit Chatterjee'}
-	355 : {'Katia P. Sycara'}
-	365 : {'Li Xu'}
-	314 : {'Jun Zhu'}
-	302 : {'Bin Yang'}
 	809 : {'Hai Jin'}
-	622 : {'Qian Zhang'}
-	349 : {'Qiang Zhang'}
-	371 : {'Yi Pan'}
-	303 : {'Makoto Ikeda'}
-	396 : {'Dhabaleswar K. Panda'}
-	320 : {'Jianping Wu'}
-	746 : {'Hui Li'}
-	355 : {'Shojiro Nishio'}
-	309 : {'Mehdi Dehghan'}
-	363 : {'Bernd Becker'}
-	350 : {'Amit P. Sheth'}
-	339 : {'Rui Zhang 0006'}
-	407 : {'Rik Van de Walle'}
-	317 : {'J. J. Garcia-Luna-Aceves'}
-	991 : {'Wei Zhang'}
-	329 : {'Tsuhan Chen'}
-	317 : {'Jia Wang'}
-	345 : {'Chau Yuen'}
-	423 : {'Larry S. Davis'}
-	305 : {'Douglas C. Schmidt'}
-	424 : {'Qiang Wang'}
-	357 : {'Milind Tambe'}
-	313 : {'Christian S. Jensen'}
-	568 : {'Wei Wu'}
-	385 : {'Horst Bischof'}
-	313 : {'David Dagan Feng'}
-	396 : {'Mohammad S. Obaidat'}
-	665 : {'Xi Chen'}
-	472 : {'Albert Y. Zomaya'}
-	463 : {'Athanasios V. Vasilakos'}
-	373 : {'Katsumi Tanaka'}
-	600 : {'Mahmut T. Kandemir'}
-	327 : {'Tomoya Enokido'}
-	346 : {'Miodrag Potkonjak'}
-	306 : {'Kwan-Liu Ma'}
-	643 : {'Yan Chen'}
-	310 : {'Hong Zhu'}
-	541 : {'Xin Li'}
-	353 : {'José Meseguer'}
-	375 : {'Yong Li'}
-	352 : {'Jing Chen'}
-	427 : {'Fan Yang'}
-	341 : {'Minglu Li'}
-	315 : {'Hao Chen'}
-	341 : {'Hiroshi G. Okuno'}
-	572 : {'Ping Wang'}
-	472 : {'John Mylopoulos'}
-	455 : {'Gerhard Weikum'}
-	342 : {'MengChu Zhou'}
-	305 : {'Jürgen Schmidhuber'}
-	376 : {'Xiang-Gen Xia'}
-	573 : {'Noga Alon'}
-	479 : {'Liang Zhang'}
-	378 : {'Toby Walsh'}
-	331 : {'Lihua Xie'}
-	311 : {'Daniel A. Keim'}
-	370 : {'Chew Lim Tan'}
-	580 : {'Irith Pomeranz'}
+	341 : {'Kouichi Sakurai'}
+	355 : {'Shusaku Tsumoto'}
 	372 : {'Karl Aberer'}
-	705 : {'Yang Li'}
-	304 : {'Kwang-Ting Cheng'}
-	334 : {'Yao Wang'}
-	460 : {'Haizhou Li'}
-	352 : {'Wouter Joosen'}
-	337 : {'Tamer Basar'}
-	516 : {'Christos Faloutsos'}
-	308 : {'Kalyanmoy Deb'}
-	351 : {'Manfred Tscheligi'}
-	406 : {'Christos H. Papadimitriou'}
-	308 : {'Andrzej Pelc'}
-	912 : {'Mohamed-Slim Alouini'}
-	336 : {'Masahiro Fujita'}
-	357 : {'Moncef Gabbouj'}
-	371 : {'Geoffrey C. Fox'}
-	377 : {'Michael I. Jordan'}
-	304 : {'Sanjay Jain'}
-	450 : {'Grzegorz Rozenberg'}
-	394 : {'Hong Chen'}
-	353 : {'Adel M. Alimi'}
-	456 : {'Qiang Li'}
-	442 : {'Yang Xiao'}
-	391 : {'Chuang Lin'}
-	311 : {'Munindar P. Singh'}
-	389 : {'Victor O. K. Li'}
-	400 : {'Hans-Peter Kriegel'}
-	574 : {'Hermann Ney'}
-	357 : {'Reda Alhajj'}
-	303 : {'Oscar Castillo'}
-	528 : {'Ying Liu'}
-	344 : {'Bernhard Schölkopf'}
-	641 : {'Azzedine Boukerche'}
-	316 : {'Avi Wigderson'}
-	570 : {'Hui Zhang'}
-	453 : {'Wayne Luk'}
-	355 : {'Rodrigo C. de Lamare'}
-	300 : {'Changsheng Xu'}
-	411 : {'Hanqing Lu'}
-	388 : {'Yunhao Liu'}
-	424 : {'Václav Snásel'}
-	462 : {'Vladik Kreinovich'}
-	398 : {'Gonzalo Navarro'}
-	562 : {'Rama Chellappa'}
-	332 : {'Tao Chen'}
-	321 : {'Yuan Yuan'}
-	341 : {'Zhongzhi Shi'}
-	313 : {'Ingrid Verbauwhede'}
-	336 : {'Jianxin Wang'}
-	644 : {'C.-C. Jay Kuo'}
-	628 : {'Hong Liu'}
-	521 : {'Min Li'}
-	319 : {'Yang Song'}
-	306 : {'Erik G. Larsson'}
-	322 : {'Ernesto Damiani'}
-	355 : {'Kannan Ramchandran'}
-	309 : {'Yuan Li'}
-	571 : {'Alberto L. Sangiovanni-Vincentelli'}
-	329 : {'Sridha Sridharan'}
-	619 : {'Jie Wu 0001'}
-	308 : {'Insup Lee'}
-	311 : {'Dan Wang'}
-	391 : {'David Blaauw'}
-	472 : {'Xin Yao'}
-	376 : {'Loet Leydesdorff'}
-	471 : {'Sushil Jajodia'}
-	326 : {'Ying-Chang Liang'}
-	713 : {'Wei Chen'}
-	833 : {'Jun Liu'}
-	320 : {'Li Yang'}
-	790 : {'Wei Li'}
-	450 : {'Jian Chen'}
-	500 : {'Fatos Xhafa'}
-	379 : {'Rafail Ostrovsky'}
-	534 : {'Hui Wang'}
-	508 : {'Yi Liu'}
-	317 : {'Vijay Varadharajan'}
-	401 : {'Liang Chen'}
-	395 : {'Fabrizio Lombardi'}
-	400 : {'Vishwani D. Agrawal'}
-	585 : {'Min Chen'}
-	379 : {'Daniela Rus'}
-	321 : {'Shlomi Dolev'}
-	456 : {'Gerhard Fettweis'}
-	326 : {'Sarit Kraus'}
-	372 : {'Martin Vetterli'}
-	555 : {'Dong Wang'}
-	578 : {'Toshio Fukuda'}
-	517 : {'Qi Wang'}
-	302 : {'Enrique Alba'}
-	555 : {'Viktor K. Prasanna'}
-	426 : {'Wei Yang'}
-	337 : {'Dong Xu'}
-	337 : {'Masaru Kitsuregawa'}
-	402 : {'Tieniu Tan'}
-	378 : {'Jun Ma'}
-	328 : {'Laurence Tianruo Yang'}
-	351 : {'Katsushi Ikeuchi'}
-	378 : {'C. Lee Giles'}
-	337 : {'John-Jules Ch. Meyer'}
-	398 : {'Xiang-Yang Li'}
-	325 : {'Jin Zhang'}
-	355 : {'Yong Shi'}
-	629 : {'Jing Zhang'}
-	308 : {'Ning Zhong'}
-	560 : {'Dacheng Tao'}
-	320 : {'Weisi Lin'}
-	450 : {'Yan Liu'}
-	336 : {'Pascal Frossard'}
-	728 : {'Jiawei Han'}
-	308 : {'Ting Liu'}
-	305 : {'Kiyohiro Shikano'}
-	323 : {'Panos M. Pardalos'}
-	396 : {'Wei Huang'}
 	301 : {'Jörg Becker'}
-	334 : {'Ivan Stojmenovic'}
-	394 : {'Wenbo Wang 0007'}
-	463 : {'Hsinchun Chen'}
-	337 : {'Björn W. Schuller'}
-	341 : {'Chintha Tellambura'}
-	322 : {'Ahmed H. Tewfik'}
-	302 : {'Simon Parsons'}
-	420 : {'Tharam S. Dillon'}
-	551 : {'Francky Catthoor'}
-	598 : {'Yan Li'}
-	421 : {'Bin Wu'}
-	439 : {'Azriel Rosenfeld'}
-	881 : {'Thomas S. Huang'}
-	445 : {'Rui Zhang'}
-	322 : {'Xiaofang Zhou'}
-	436 : {'Satoshi Nakamura'}
-	300 : {'Hong Li'}
-	400 : {'Roland Siegwart'}
-	353 : {'Nicholas Ayache'}
-	350 : {'Jun Wu'}
-	313 : {'Lu Liu'}
-	392 : {'Alfred O. Hero III'}
-	538 : {'Yan Zhang'}
-	677 : {'Edwin R. Hancock'}
-	378 : {'Lei Liu'}
-	301 : {'Martial Hebert'}
-	503 : {'Michele Zorzi'}
+	341 : {'Jürgen Becker'}
+	317 : {'Jia Wang'}
+	354 : {'Alan M. Frieze'}
+	334 : {'Yao Wang'}
 	362 : {'Bhavani M. Thuraisingham'}
-	572 : {'Yang Yang'}
-	315 : {'Ge Yu'}
-	320 : {'Yong Chen'}
-	367 : {'Niraj K. Jha'}
-	370 : {'Wolfram Burgard'}
-	355 : {'Hideki Imai'}
-	664 : {'Lei Wang'}
-	383 : {'Cheng Wang'}
-	410 : {'Manuela M. Veloso'}
-	397 : {'Michael R. Lyu'}
-	349 : {'Jun Yang'}
-	654 : {'Sajal K. Das'}
-	394 : {'Giuseppe Caire'}
-	554 : {'Yi Zhang'}
-	354 : {'Jie Zhou'}
-	343 : {'Lothar Thiele'}
-	402 : {'Klara Nahrstedt'}
-	426 : {'Alok N. Choudhary'}
-	316 : {'Chin-Hui Lee'}
-	380 : {'Chen Chen'}
-	651 : {'Ajith Abraham'}
-	339 : {'Daniel Rueckert'}
-	423 : {'Alberto Del Bimbo'}
-	363 : {'Yi Sun'}
-	491 : {'Francisco Herrera'}
-	339 : {'Feng Zhao'}
-	433 : {'Tho Le-Ngoc'}
-	315 : {'Dacheng Yang'}
-	317 : {'Ning Xi'}
-	350 : {'Lei Shi'}
-	300 : {'Xiaohu You'}
-	324 : {'Atsuo Takanishi'}
-	390 : {'Thomas Ertl'}
-	341 : {'John A. Stankovic'}
-	333 : {'Rui Li'}
-	693 : {'Ying Wang'}
-	346 : {'Liang Zhao'}
-	714 : {'Peng Zhang'}
-	358 : {'Donatella Sciuto'}
-	483 : {'Hui Liu'}
-	479 : {'Didier Dubois'}
-	441 : {'Hector Garcia-Molina'}
-	632 : {'Gang Wang'}
-	318 : {'Sheng Li'}
-	502 : {'Mihaela van der Schaar'}
-	324 : {'Jörg Henkel'}
-	333 : {'Jianzhong Li'}
-	364 : {'Peter J. Stuckey'}
-	412 : {'Gerhard J. Woeginger'}
-	302 : {'Venkatesan Guruswami'}
-	577 : {'Jian Zhang'}
-	588 : {'K. J. Ray Liu'}
-	425 : {'Li Wang'}
-	420 : {'José Duato'}
-	306 : {'Hao Zhang'}
-	357 : {'Paul M. Thompson'}
-	358 : {'Divyakant Agrawal'}
-	376 : {'Jan Treur'}
-	512 : {'Nicholas R. Jennings'}
-	316 : {'Alan F. Smeaton'}
-	629 : {'Mario Gerla'}
-	303 : {'Joachim Hornegger'}
-	446 : {'Ying Chen'}
-	390 : {'Andrew B. Kahng'}
-	500 : {'Yu Chen'}
-	473 : {'Ling Liu'}
-	420 : {'Xuelong Li'}
-	354 : {'Abdulmotaleb El-Saddik'}
-	380 : {'Hao Wu'}
-	373 : {'Yang Xiang'}
-	334 : {'Alois Knoll'}
-	349 : {'Elke A. Rundensteiner'}
-	331 : {'B. Sundar Rajan'}
-	327 : {'Ning Li'}
-	338 : {'Biswanath Mukherjee'}
-	426 : {'Takeo Kanade'}
-	316 : {'Enrico Macii'}
-	354 : {'John M. Cioffi'}
-	346 : {'Alex Pentland'}
-	347 : {'Dennis Sylvester'}
-	317 : {'Yuanyuan Yang'}
-	325 : {'Lei He'}
-	307 : {'Vijay K. Bhargava'}
-	459 : {'Aggelos K. Katsaggelos'}
-	397 : {'Zhaohui Wu'}
-	366 : {'Yoshua Bengio'}
-	726 : {'Bo Zhang'}
-	491 : {'David Eppstein'}
-	419 : {'Taghi M. Khoshgoftaar'}
-	321 : {'Ramjee Prasad'}
-	425 : {'Giovanni De Micheli'}
-	302 : {'Jing Huang'}
-	379 : {'Zhen Liu'}
-	995 : {'Wei Wang'}
-	310 : {'David J. Evans'}
-	304 : {'Bir Bhanu'}
-	332 : {'Fedor V. Fomin'}
-	437 : {'Yang Xu'}
-	360 : {'Yi Mu'}
-	441 : {'Yong Yu'}
-	347 : {'Matthias Jarke'}
-	727 : {'Jian Wang'}
-	762 : {'Jun Zhang'}
-	377 : {'Mengjie Zhang'}
-	334 : {'Sung-Bae Cho'}
-	336 : {'Wolfgang Lehner'}
-	430 : {'Jürgen Teich'}
-	504 : {'Khaled Ben Letaief'}
-	520 : {'Rolf Drechsler'}
-	312 : {'John M. Carroll'}
-	504 : {'Qi Zhang'}
-	423 : {'Qian Wang'}
-	303 : {'Jiajun Bu'}
-	647 : {'Makoto Takizawa'}
-	427 : {'Bo Xu'}
-	320 : {'Kotagiri Ramamohanarao'}
-	305 : {'Wei-Ying Ma'}
-	332 : {'Evangelos Kranakis'}
-	304 : {'Roberto Cipolla'}
-	420 : {'Ning Wang'}
-	387 : {'Yonina C. Eldar'}
-	382 : {'Lionel M. Ni'}
-	428 : {'Ke Xu'}
-	383 : {'Michael Unser'}
-	321 : {'Li Deng'}
-	331 : {'Shuzhi Sam Ge'}
-	338 : {'Albrecht Schmidt 0001'}
-	303 : {'Edward J. Delp'}
-	373 : {'Frank Leymann'}
-	345 : {'Keshab K. Parhi'}
-	344 : {'Wolfgang Nejdl'}
-	493 : {'Tao Yang'}
-	458 : {'Helmut Krcmar'}
-	766 : {'Jun Wang'}
+	344 : {'Bernhard Schölkopf'}
+	392 : {'Alfred O. Hero III'}
+	833 : {'Jun Liu'}
+	973 : {'Wen Gao 0001'}
+	517 : {'Qi Wang'}
+	573 : {'Noga Alon'}
+	456 : {'Gerhard Fettweis'}
+	401 : {'Liang Chen'}
+	336 : {'A. Robert Calderbank'}
+	402 : {'Tieniu Tan'}
+	596 : {'Li Li'}
+	538 : {'Yan Zhang'}
+	351 : {'Katsushi Ikeuchi'}
+	324 : {'Jun Guo'}
+	315 : {'Bin Ma'}
 	406 : {'Wei Jiang'}
+	961 : {'Philip S. Yu'}
+	659 : {'Xiang Li'}
+	341 : {'Antonio F. Gómez-Skarmeta'}
+	345 : {'Pankaj K. Agarwal'}
+	350 : {'T. Aaron Gulliver'}
+	305 : {'Douglas C. Schmidt'}
+	305 : {'Jürgen Schmidhuber'}
+	533 : {'Wei Xu'}
+	491 : {'Francisco Herrera'}
+	485 : {'Yi Yang'}
+	379 : {'Wei Zhou'}
+	534 : {'Jack Dongarra'}
+	332 : {'Hyunseung Choo'}
+	378 : {'Jun Ma'}
+	323 : {'Xiaohua Jia'}
+	306 : {'Geert Leus'}
+	377 : {'Mengjie Zhang'}
+	516 : {'Christos Faloutsos'}
+	394 : {'Stephan Olariu'}
+	320 : {'Li Yang'}
+	334 : {'Sung-Bae Cho'}
+	436 : {'Satoshi Nakamura'}
+	327 : {'Ning Li'}
 	312 : {'Aoying Zhou'}
-	382 : {'Robert W. Heath Jr.'}
+	504 : {'Qi Zhang'}
+	396 : {'Mohammad S. Obaidat'}
+	426 : {'Takeo Kanade'}
+	398 : {'Xiang-Yang Li'}
+	355 : {'Shojiro Nishio'}
+	412 : {'Gerhard J. Woeginger'}
+	417 : {'Björn E. Ottersten'}
+	523 : {'Schahram Dustdar'}
+	309 : {'Mehdi Dehghan'}
+	312 : {'Nanning Zheng'}
+	318 : {'Narendra Ahuja'}
+	376 : {'Loet Leydesdorff'}
+	302 : {'Enrique Alba'}
+	427 : {'Fan Yang'}
+	389 : {'Victor O. K. Li'}
+	355 : {'Yong Shi'}
+	423 : {'Larry S. Davis'}
+	357 : {'Moncef Gabbouj'}
 	458 : {'Piet Demeester'}
-	318 : {'Chi Zhang'}
+	797 : {'Xiaodong Wang'}
+	815 : {'Elisa Bertino'}
+	570 : {'Anil K. Jain'}
+	416 : {'Guy Pujolle'}
+	300 : {'Zhiyong Feng'}
+	345 : {'Guillermo Sapiro'}
+	379 : {'Zhen Liu'}
+	352 : {'Saharon Shelah'}
+	421 : {'Thomas A. Henzinger'}
+	371 : {'Geoffrey C. Fox'}
+	352 : {'Wouter Joosen'}
+	308 : {'Andrzej Pelc'}
+	305 : {'Calton Pu'}
+	615 : {'Li Chen'}
+	442 : {'Qi Li'}
+	385 : {'Horst Bischof'}
+	839 : {'Tao Li'}
+	332 : {'Fedor V. Fomin'}
+	503 : {'Michele Zorzi'}
+	343 : {'Matteo Sonza Reorda'}
+	455 : {'Gerhard Weikum'}
+	332 : {'Tao Chen'}
+	514 : {'Yang Zhang'}
+	472 : {'Albert Y. Zomaya'}
+	336 : {'Gerd Hirzinger'}
+	363 : {'Bernard De Baets'}
+	317 : {'Vijay Varadharajan'}
+	423 : {'Alberto Del Bimbo'}
+	408 : {'Mateo Valero'}
+	401 : {'Hsiao-Hwa Chen'}
+	408 : {'Chao Li'}
+	545 : {'Moshe Y. Vardi'}
+	483 : {'Ronald R. Yager'}
+	433 : {'Ian T. Foster'}
+	641 : {'Azzedine Boukerche'}
+	450 : {'Yan Liu'}
+	388 : {'Yunhao Liu'}
+	355 : {'Hideki Imai'}
+	358 : {'Donatella Sciuto'}
+	317 : {'Ning Xi'}
+	312 : {'Yue Wang'}
+	402 : {'Klara Nahrstedt'}
+	463 : {'Hsinchun Chen'}
+	591 : {'Kaushik Roy 0001'}
+	316 : {'Jeng-Shyang Pan'}
+	674 : {'Hong Zhang'}
+	383 : {'Michael Unser'}
+	419 : {'Horst Bunke'}
+	429 : {'Maarten de Rijke'}
+	317 : {'J. J. Garcia-Luna-Aceves'}
+	387 : {'Yonina C. Eldar'}
+	424 : {'Qiang Wang'}
+	300 : {'Xiaohu You'}
+	466 : {'Qi Tian'}
+	475 : {'Nadia Magnenat-Thalmann'}
+	585 : {'Min Chen'}
+	369 : {'Jeffrey Xu Yu'}
+	376 : {'Xiang-Gen Xia'}
+	557 : {'Xuemin Shen'}
+	306 : {'Divesh Srivastava'}
+	332 : {'Jun Hu'}
+	511 : {'Bo Li'}
+	473 : {'Ling Liu'}
+	355 : {'Rodrigo C. de Lamare'}
+	363 : {'Yi Sun'}
+	321 : {'Chang Wen Chen'}
+	530 : {'Krishnendu Chakrabarty'}
+	376 : {'Jan Treur'}
+	525 : {'Xin Chen'}
+	380 : {'Hao Wu'}
+	341 : {'John A. Stankovic'}
+	303 : {'Makoto Ikeda'}
+	458 : {'Helmut Krcmar'}
+	394 : {'Giuseppe Caire'}
+	325 : {'Jin Zhang'}
+	766 : {'Jun Wang'}
+	334 : {'Ivan Stojmenovic'}
+	881 : {'Thomas S. Huang'}
+	367 : {'Mikael Skoglund'}
+	333 : {'Jianzhong Li'}
+	459 : {'Guanrong Chen'}
+	432 : {'Hao Li'}
+	306 : {'Hao Zhang'}
+	350 : {'Jun Wu'}
+	389 : {'John H. L. Hansen'}
+	300 : {'Eduard Ayguadé'}
+	756 : {'Lei Zhang'}
+	311 : {'Daniel A. Keim'}
+	336 : {'Jianxin Wang'}
+	662 : {'Bin Wang'}
+	420 : {'Ning Wang'}
+	303 : {'Joachim Hornegger'}
+	425 : {'Giovanni De Micheli'}
+	512 : {'Nicholas R. Jennings'}
+	567 : {'Norman C. Beaulieu'}
+	610 : {'Sudhakar M. Reddy'}
+	304 : {'Roberto Cipolla'}
+	338 : {'Zheng Li'}
+	412 : {'Sungyoung Lee'}
+	366 : {'Yoshua Bengio'}
+	339 : {'Andreas Uhl'}
+	413 : {'Xin Zhang'}
+	327 : {'Tomoya Enokido'}
+	408 : {'Svetha Venkatesh'}
+	389 : {'Wolfgang Rosenstiel'}
+	693 : {'Leonard Barolli'}
+	305 : {'Wei-Ying Ma'}
+	304 : {'Kwang-Ting Cheng'}
+	342 : {'MengChu Zhou'}
+	302 : {'Jing Huang'}
+	402 : {'Fumiyuki Adachi'}
+	353 : {'Bernd Girod'}
+	308 : {'Kalyanmoy Deb'}
+	433 : {'Tho Le-Ngoc'}
+	549 : {'Peng Wang'}
+	575 : {'Gang Li'}
+	395 : {'Fabrizio Lombardi'}
+	365 : {'Li Xu'}
+	346 : {'Karl Henrik Johansson'}
+	472 : {'John Mylopoulos'}
+	325 : {'Lei He'}
+	346 : {'Alex Pentland'}
+	708 : {'Jing Liu'}
+	321 : {'Li Deng'}
+	995 : {'Wei Wang'}
+	316 : {'Enrico Macii'}
+	493 : {'Hua Wang'}
+	539 : {'Feng Liu'}
+	406 : {'Christos H. Papadimitriou'}
+	305 : {'Wei Sun'}
+	315 : {'Ge Yu'}
+	327 : {'Ness B. Shroff'}
+	307 : {'Joel H. Saltz'}
+	309 : {'T. D. Wilson'}
+	325 : {'Alan C. Bovik'}
+	521 : {'Min Li'}
+	764 : {'Ying Zhang'}
+	560 : {'Dacheng Tao'}
+	398 : {'Gang Feng'}
+	727 : {'Jian Wang'}
+	466 : {'Meng Wang'}
+	453 : {'Wayne Luk'}
+	552 : {'Zhu Han'}
+	379 : {'Daniela Rus'}
+	373 : {'Katsumi Tanaka'}
+	351 : {'Manfred Tscheligi'}
+	535 : {'Wil M. P. van der Aalst'}
+	306 : {'Erik G. Larsson'}
+	399 : {'Dinesh Manocha'}
+	586 : {'Xin Liu'}
+	331 : {'Shuzhi Sam Ge'}
+	628 : {'Hong Liu'}
+	541 : {'Xin Li'}
+	378 : {'C. Lee Giles'}
+	553 : {'Luc J. Van Gool'}
+	311 : {'Dan Wang'}
+	304 : {'Sanjay Jain'}
+	313 : {'Christian S. Jensen'}
+	323 : {'Marek Karpinski'}
+	741 : {'Yong Wang'}
+	460 : {'Ming Zhang'}
+	341 : {'Zhongzhi Shi'}
+	542 : {'Nassir Navab'}
+	483 : {'Wei Liu'}
+	313 : {'S. Muthukrishnan'}
+	791 : {'Bin Li'}
+	401 : {'Ping Li'}
+	619 : {'Jie Wu 0001'}
+	390 : {'Andrew B. Kahng'}
+	713 : {'Yan Wang'}
+	302 : {'Bin Yang'}
 	398 : {'Dimitris N. Metaxas'}
 	438 : {'Daniel Thalmann'}
-	460 : {'Ming Zhang'}
+	355 : {'Kannan Ramchandran'}
+	304 : {'Bir Bhanu'}
+	352 : {'Jing Chen'}
+	527 : {'David Zhang'}
+	376 : {'Jeffrey G. Andrews'}
+	324 : {'Atsuo Takanishi'}
+	713 : {'Wei Chen'}
+	336 : {'Markus H. Gross'}
+	379 : {'Rafail Ostrovsky'}
+	313 : {'Mubarak Shah'}
+	337 : {'Tamer Basar'}
+	701 : {'Qing Li'}
+	304 : {'Fei Li'}
+	391 : {'Tzung-Pei Hong'}
+	337 : {'Björn W. Schuller'}
+	357 : {'Thomas Eiter'}
+	350 : {'Amit P. Sheth'}
+	513 : {'Fang Liu'}
+	355 : {'Ning Zhang'}
+	396 : {'Dhabaleswar K. Panda'}
+	316 : {'Avi Wigderson'}
+	401 : {'Donald F. Towsley'}
+	309 : {'George K. Karagiannidis'}
+	642 : {'Kang G. Shin'}
+	374 : {'Leandros Tassiulas'}
+	421 : {'Bin Wu'}
+	399 : {'Di Wu'}
+	391 : {'Holger Boche'}
+	329 : {'Tsuhan Chen'}
+	401 : {'Hong Yan'}
+	315 : {'Hao Chen'}
+	355 : {'Katia P. Sycara'}
+	307 : {'Pascal Van Hentenryck'}
+	427 : {'Bo Xu'}
+	613 : {'Yong Liu'}
+	425 : {'Li Wang'}
+	337 : {'Masaru Kitsuregawa'}
+	330 : {'Fei Wang'}
+	326 : {'Ying-Chang Liang'}
+	486 : {'Jie Zhang'}
+	406 : {'Hossam S. Hassanein'}
+	329 : {'Erol Gelenbe'}
+	359 : {'Kurt Mehlhorn'}
+	307 : {'Vijay K. Bhargava'}
+	331 : {'B. Sundar Rajan'}
+	303 : {'Edward J. Delp'}
+	364 : {'Georg Gottlob'}
+	446 : {'Michel Raynal'}
+	534 : {'Hui Wang'}
+	373 : {'Frank Leymann'}
+	677 : {'Edwin R. Hancock'}
+	349 : {'Qiang Zhang'}
+	669 : {'Luca Benini'}
+	315 : {'Dacheng Yang'}
+	346 : {'Liang Zhao'}
+	643 : {'Yan Chen'}
+	408 : {'Jia Liu'}
 	316 : {'Ting Wang'}
+	355 : {'Prosenjit Bose'}
+	371 : {'Yi Pan'}
+	370 : {'Wolfram Burgard'}
+	373 : {'Majid Sarrafzadeh'}
+	313 : {'David Dagan Feng'}
+	310 : {'David J. Evans'}
+	354 : {'John M. Cioffi'}
+	532 : {'Christoph Meinel'}
+	383 : {'Xiaoou Tang'}
+	334 : {'Alois Knoll'}
 	317 : {'Mohsen Guizani'}
-	475 : {'Nadia Magnenat-Thalmann'}
-	335 : {'Ling Wang'}
-	363 : {'Bing Li'}
-	466 : {'Qi Tian'}
+	449 : {'Marc Moonen'}
+	514 : {'Feng Wang'}
+	991 : {'Wei Zhang'}
+	337 : {'Feng Chen'}
+	309 : {'B. John Oommen'}
+	396 : {'Wei Huang'}
+	622 : {'Qian Zhang'}
+	423 : {'Paul G. Spirakis'}
+	397 : {'Zhaohui Wu'}
+	308 : {'Insup Lee'}
+	380 : {'Chen Chen'}
+	340 : {'Karsten Schwan'}
+	405 : {'Jie Xu'}
+	345 : {'Edward R. Dougherty'}
+	390 : {'Oscar C. Au'}
+	341 : {'Rachid Guerraoui'}
+	328 : {'Laurence Tianruo Yang'}
+	588 : {'K. J. Ray Liu'}
+	301 : {'Kai Li'}
+	507 : {'Erik D. Demaine'}
+	314 : {'Jun Zhu'}
+	397 : {'Chun Chen'}
 	844 : {'Chin-Chen Chang'}
+	312 : {'Gheorghe Paun'}
+	847 : {'Li Zhang'}
+	375 : {'Yong Li'}
+	322 : {'Tao Liu'}
+	559 : {'Josef Kittler'}
+	394 : {'Hong Chen'}
+	723 : {'Peng Li'}
+	309 : {'Ling Chen'}
+	390 : {'Thomas Ertl'}
+	310 : {'Manfred Glesner'}
+	437 : {'Yang Xu'}
+	363 : {'Tat-Seng Chua'}
+	882 : {'Yu Zhang'}
+	303 : {'Jiajun Bu'}
+	580 : {'Irith Pomeranz'}
+	651 : {'Ajith Abraham'}
+	346 : {'Wei Lu'}
+	335 : {'Ling Wang'}
+	318 : {'Wei-Tek Tsai'}
+	319 : {'Yuan Xie 0001'}
+	343 : {'Jon Crowcroft'}
+	337 : {'Truong Q. Nguyen'}
+	437 : {'Leonidas J. Guibas'}
+	344 : {'Wolfgang Nejdl'}
+	352 : {'Gerhard Rigoll'}
+	302 : {'Simon Parsons'}
+	430 : {'Jürgen Teich'}
+	401 : {'Hong Shen'}
+	333 : {'Rui Li'}
+	379 : {'David Peleg'}
+	404 : {'Rahim Tafazolli'}
+	439 : {'Azriel Rosenfeld'}
+	306 : {'Uwe Aickelin'}
+	472 : {'Xin Yao'}
+	367 : {'Huan Liu'}
+	400 : {'Roland Siegwart'}
+	555 : {'Dong Wang'}
+	479 : {'Liang Zhang'}
+	510 : {'Ralf Steinmetz'}
+	374 : {'Ekram Hossain'}
+	345 : {'Ee-Peng Lim'}
+	871 : {'Jing Li'}
+	493 : {'Tao Yang'}
+	428 : {'Ke Xu'}
+	307 : {'Diego Calvanese'}
+	387 : {'Pramod K. Varshney'}
+	384 : {'Jian Wu'}
+	307 : {'HongJiang Zhang'}
+	317 : {'Luc Vandendorpe'}
+	355 : {'Vijay Kumar 0001'}
+	1307 : {'H. Vincent Poor'}
+	420 : {'Tharam S. Dillon'}
+	630 : {'Tao Zhang'}
+	347 : {'Dennis Sylvester'}
+	329 : {'Sridha Sridharan'}
+	424 : {'Andrzej Cichocki'}
+	320 : {'Kotagiri Ramamohanarao'}
+	343 : {'Lothar Thiele'}
+	568 : {'Wei Wu'}
+	437 : {'Moti Yung'}
+	502 : {'Mihaela van der Schaar'}
+	479 : {'Shlomo Shamai'}
+	399 : {'Jacob A. Abraham'}
+	460 : {'Haizhou Li'}
+	312 : {'Chao Chen'}
+	320 : {'Yong Chen'}
+	555 : {'Viktor K. Prasanna'}
+	316 : {'Chin-Hui Lee'}
+	313 : {'Ingrid Verbauwhede'}
+	577 : {'Jian Zhang'}
+	300 : {'Changsheng Xu'}
+	407 : {'Rik Van de Walle'}
+	302 : {'Venkatesan Guruswami'}
+	738 : {'Victor C. M. Leung'}
+	571 : {'Alberto L. Sangiovanni-Vincentelli'}
+	344 : {'Gang Liu'}
+	665 : {'Xi Chen'}
+	368 : {'Ming-Syan Chen'}
+	329 : {'Alex Waibel'}
+	420 : {'José Duato'}
+	414 : {'Hiroshi Ishiguro'}
+	323 : {'Hiroshi Harada'}
+	391 : {'Chuang Lin'}
+	357 : {'Milind Tambe'}
+	412 : {'Kishor S. Trivedi'}
+	321 : {'Ramjee Prasad'}
+	462 : {'Vladik Kreinovich'}
+	302 : {'Barry Smyth'}
+	714 : {'Peng Zhang'}
+	315 : {'Darwin G. Caldwell'}
+	322 : {'Xiaofang Zhou'}
+	514 : {'Joseph Y. Halpern'}
+	316 : {'Alan F. Smeaton'}
+	337 : {'Yishay Mansour'}
+	359 : {'Oscar H. Ibarra'}
+	375 : {'Oded Goldreich'}
+	629 : {'Jing Zhang'}
+	657 : {'Hans-Peter Seidel'}
+	425 : {'Ian F. Akyildiz'}
+	448 : {'Yi Li'}
+	554 : {'Yi Zhang'}
+	311 : {'Heinrich Niemann'}
+	726 : {'Bo Zhang'}
+	659 : {'Jian Yang'}
+	372 : {'Zhi-Hua Zhou'}
+	529 : {'Henri Prade'}
+	382 : {'Hao Wang'}
+	339 : {'Daniel Rueckert'}
+	484 : {'Ioannis Pitas'}
+	320 : {'Ugo Montanari'}
+	384 : {'Vincent K. N. Lau'}
+	312 : {'Jie Tang'}
+	357 : {'Reda Alhajj'}
+	391 : {'David Blaauw'}
+	370 : {'Rüdiger Dillmann'}
+	506 : {'Jie Liu'}
+	347 : {'Matthias Jarke'}
+	341 : {'Hiroshi G. Okuno'}
+	411 : {'Hanqing Lu'}
+	479 : {'Didier Dubois'}
+	436 : {'Rui Wang'}
+	317 : {'Yuanyuan Yang'}
+	820 : {'Yang Liu'}
+	325 : {'Hartmut Ehrig'}
+	323 : {'Panos M. Pardalos'}
+	535 : {'Eitan Altman'}
+	383 : {'Feng Li'}
+	317 : {'Reihaneh Safavi-Naini'}
+	437 : {'Willy Susilo'}
+	413 : {'Hussein T. Mouftah'}
+	455 : {'Ming Liu'}
+	446 : {'Ying Chen'}
+	644 : {'C.-C. Jay Kuo'}
+	309 : {'Krishnendu Chatterjee'}
+	410 : {'Manuela M. Veloso'}
+	303 : {'Oscar Castillo'}
+	520 : {'Rolf Drechsler'}
+	398 : {'Jun Chen'}
+	491 : {'David Eppstein'}
+	337 : {'Mary Jane Irwin'}
+	400 : {'Vishwani D. Agrawal'}
+	372 : {'Martin Vetterli'}
+	318 : {'Peng Liu'}
+	500 : {'Fatos Xhafa'}
+	337 : {'Dong Xu'}
+	664 : {'Lei Wang'}
+	336 : {'Pascal Frossard'}
+	339 : {'Rui Zhang 0006'}
+	322 : {'Wilfried Philips'}
+	445 : {'Rui Zhang'}
+	377 : {'Filip De Turck'}
+	450 : {'Jian Chen'}
+	330 : {'Min Wang'}
+	306 : {'Satoshi Goto'}
+	412 : {'Qiang Yang 0001'}
+	367 : {'Chen Wang'}
+	304 : {'Yao Zhao'}
+	382 : {'Lionel M. Ni'}
+	443 : {'Dinggang Shen'}
+	551 : {'Francky Catthoor'}
+	307 : {'Qiang Wu'}
+	378 : {'Lei Liu'}
+	349 : {'Raouf Boutaba'}
+	466 : {'Xi Zhang'}
+	321 : {'Ming Yang'}
+	335 : {'Jun Luo'}
+	322 : {'Ernesto Damiani'}
+	316 : {'Long Wang'}
+	388 : {'Qiang Liu'}
+	318 : {'Sheng Li'}
+	335 : {'Michael Wooldridge'}
+	383 : {'Cheng Wang'}
+	332 : {'Evangelos Kranakis'}
+	333 : {'Hideharu Amano'}
+	363 : {'Bernd Becker'}
+	462 : {'Bart Preneel'}
+	341 : {'Chintha Tellambura'}
+	728 : {'Jiawei Han'}
+	345 : {'Keshab K. Parhi'}
+	391 : {'Chang Liu'}
+	373 : {'Hong Jiang'}
+	652 : {'Jian Li'}
+	300 : {'Hong Li'}
+	459 : {'Aggelos K. Katsaggelos'}
+	762 : {'Jun Zhang'}
+	360 : {'Yi Mu'}
+	326 : {'Sarit Kraus'}
+	398 : {'Gonzalo Navarro'}
+	349 : {'Soo-Chang Pei'}
+	361 : {'Michael T. Goodrich'}
+	356 : {'Kai Wang'}
+	302 : {'Max Mühlhäuser'}
+	337 : {'John-Jules Ch. Meyer'}
+	305 : {'Kiyohiro Shikano'}
+	331 : {'Lihua Xie'}
+	471 : {'Sushil Jajodia'}
+	450 : {'Grzegorz Rozenberg'}
+	321 : {'Yuan Yuan'}
+	500 : {'Yu Chen'}
+	611 : {'Jie Li'}
+	304 : {'Yang Yu'}
+	307 : {'Jie Chen'}
+	350 : {'Lei Shi'}
+	423 : {'Qian Wang'}
+	705 : {'Yang Li'}
+	307 : {'Ian Horrocks'}
+	361 : {'Kian-Lee Tan'}
+	348 : {'Jie Wang'}
+	338 : {'Ali H. Sayed'}
+	310 : {'Hong Zhu'}
+	647 : {'Makoto Takizawa'}
+	341 : {'Minglu Li'}
+	639 : {'Tao Wang'}
+	395 : {'Masayuki Murata'}
+	312 : {'Nirwan Ansari'}
+	551 : {'Yi Wang'}
+	339 : {'Feng Zhao'}
+	311 : {'Rong Jin'}
+	378 : {'Toby Walsh'}
+	345 : {'Xindong Wu'}
+	367 : {'Choong Seon Hong'}
+	367 : {'Niraj K. Jha'}
+	364 : {'Xi Li'}
+	546 : {'Massoud Pedram'}
+	348 : {'Abhijit Chatterjee'}
+	317 : {'Branka Vucetic'}
+	357 : {'Paul M. Thompson'}
+	528 : {'Shuicheng Yan'}
+	367 : {'Ching Y. Suen'}
+	311 : {'Munindar P. Singh'}
+	390 : {'Ben Shneiderman'}
+	562 : {'Rama Chellappa'}
+	341 : {'Guang-Zhong Yang'}
+	350 : {'Yu Wang'}
+	439 : {'Lei Li'}
+	600 : {'Mahmut T. Kandemir'}
+	551 : {'Fan Zhang'}
+	773 : {'Witold Pedrycz'}
+	313 : {'Lu Liu'}
+	394 : {'Bernhard Rumpe'}
+	397 : {'Michael R. Lyu'}
+	314 : {'Edwin Hsing-Mean Sha'}
+	353 : {'José Meseguer'}
+	435 : {'Jin Wang'}
+	320 : {'Bo Chen'}
+	391 : {'Jian Liu'}
+	415 : {'Dharma P. Agrawal'}
+	354 : {'Jie Zhou'}
+	344 : {'Petre Stoica'}
+	695 : {'Georgios B. Giannakis'}
+	312 : {'John M. Carroll'}
+	447 : {'Rajkumar Buyya'}
+	353 : {'Nicholas Ayache'}
+	340 : {'Hong Wang'}
+	642 : {'Robert Schober'}
+	354 : {'Abdulmotaleb El-Saddik'}
+	364 : {'Peter J. Stuckey'}
+	504 : {'Khaled Ben Letaief'}
+	632 : {'Gang Wang'}
+	406 : {'Ming Li'}
+	403 : {'Peng Shi 0001'}
+	308 : {'Nancy A. Lynch'}
+	556 : {'Licheng Jiao'}
+	373 : {'Yang Xiang'}
+	400 : {'Hans-Peter Kriegel'}
+	318 : {'Chi Zhang'}
+	313 : {'Amr El Abbadi'}
+	301 : {'Martial Hebert'}
+	394 : {'Wenbo Wang 0007'}
+	349 : {'Elke A. Rundensteiner'}
+	382 : {'Robert W. Heath Jr.'}
+	308 : {'Dusit Niyato'}
+	572 : {'Ping Wang'}
+	319 : {'Yang Song'}
+	324 : {'Jörg Henkel'}
+	384 : {'Andrew Zisserman'}
+	537 : {'Jiannong Cao'}
+	442 : {'Yang Xiao'}
+	661 : {'Yong Zhang'}
+	911 : {'Lajos Hanzo'}
+	381 : {'Bo Wang'}
+	746 : {'Hui Li'}
+	303 : {'Ramesh Jain'}
+	419 : {'Taghi M. Khoshgoftaar'}
+	483 : {'Hui Liu'}
+	912 : {'Mohamed-Slim Alouini'}
+	353 : {'Adel M. Alimi'}
+	330 : {'Jie Lu'}
+	769 : {'Jing Wang'}
+	306 : {'Prasant Mohapatra'}
+	358 : {'Divyakant Agrawal'}
+	508 : {'Yi Liu'}
+	321 : {'Shlomi Dolev'}
+	790 : {'Wei Li'}
+	572 : {'Yang Yang'}
+	336 : {'Wolfgang Lehner'}
+	300 : {'Jaakko Astola'}
+	406 : {'Jason Cong'}
+	320 : {'Jianping Wu'}
+	355 : {'Ricardo A. Baeza-Yates'}
+	424 : {'Václav Snásel'}
+	362 : {'Zhe Wang'}
+	574 : {'Hermann Ney'}
+	667 : {'Ying Li'}
+	357 : {'Bin Liu'}
+	629 : {'Mario Gerla'}
+	300 : {'Jinde Cao'}
+	441 : {'Hector Garcia-Molina'}
+	654 : {'Sajal K. Das'}
+	360 : {'Peter Stone'}
+	511 : {'Mérouane Debbah'}
+	426 : {'Alok N. Choudhary'}
+	365 : {'Feng Wu'}
+	549 : {'Qing Wang'}
+	528 : {'Ying Liu'}
+	693 : {'Ying Wang'}
+	378 : {'Shih-Fu Chang'}
+	376 : {'Yang Wang'}
+	578 : {'Toshio Fukuda'}
+	305 : {'Dong Li'}
+	570 : {'Hui Zhang'}
+	309 : {'Yuan Li'}
+	346 : {'Miodrag Potkonjak'}
+	308 : {'Ning Zhong'}
+	613 : {'Mario Piattini'}
+	752 : {'Xin Wang'}
+	322 : {'Mark Harman'}
+	441 : {'Wei Wei'}
+	594 : {'Yu Liu'}
+	441 : {'Ke Wang'}
+	426 : {'Wei Yang'}
+	777 : {'Chao Wang'}
+	567 : {'Jun Li'}
+	598 : {'Yan Li'}
+	316 : {'José M. F. Moura'}
+	301 : {'Minyi Guo'}
+	456 : {'Qiang Li'}
+	338 : {'Biswanath Mukherjee'}
+	370 : {'Chew Lim Tan'}
+	314 : {'Elizabeth Chang'}
+	441 : {'Yong Yu'}
+	334 : {'Yuguang Fang'}
+	338 : {'Albrecht Schmidt 0001'}
+	392 : {'Muriel Médard'}
+	528 : {'Micha Sharir'}
+	320 : {'Weisi Lin'}
+	377 : {'Michael I. Jordan'}
+	363 : {'Bing Li'}
+	420 : {'Xuelong Li'}
+	308 : {'Ting Liu'}
+	322 : {'Ahmed H. Tewfik'}
+	305 : {'Jian Ma'}
+	336 : {'Masahiro Fujita'}
+	463 : {'Athanasios V. Vasilakos'}
+	349 : {'Jun Yang'}
+	345 : {'Chau Yuen'}
+	501 : {'Chao Zhang'}
+	306 : {'Kwan-Liu Ma'}
 
 Threshold: 300
 Groupsize: 2
 Results: 13
-	318 : {'Daniel Thalmann', 'Nadia Magnenat-Thalmann'}
-	648 : {'Makoto Takizawa', 'Tomoya Enokido'}
-	360 : {'Makoto Ikeda', 'Leonard Barolli'}
-	330 : {'Xuelong Li', 'Dacheng Tao'}
-	850 : {'Sudhakar M. Reddy', 'Irith Pomeranz'}
-	374 : {'Tharam S. Dillon', 'Elizabeth Chang'}
 	510 : {'David Blaauw', 'Dennis Sylvester'}
-	396 : {'Willy Susilo', 'Yi Mu'}
+	850 : {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+	648 : {'Tomoya Enokido', 'Makoto Takizawa'}
+	318 : {'Daniel Thalmann', 'Nadia Magnenat-Thalmann'}
+	360 : {'Makoto Ikeda', 'Leonard Barolli'}
+	560 : {'Chun Chen', 'Jiajun Bu'}
 	650 : {'Didier Dubois', 'Henri Prade'}
-	560 : {'Jiajun Bu', 'Chun Chen'}
-	622 : {'Fatos Xhafa', 'Leonard Barolli'}
 	530 : {'Divyakant Agrawal', 'Amr El Abbadi'}
-	336 : {'Piet Demeester', 'Filip De Turck'}
+	396 : {'Yi Mu', 'Willy Susilo'}
+	622 : {'Fatos Xhafa', 'Leonard Barolli'}
+	330 : {'Xuelong Li', 'Dacheng Tao'}
+	336 : {'Filip De Turck', 'Piet Demeester'}
+	374 : {'Tharam S. Dillon', 'Elizabeth Chang'}
 
 Threshold: 300
 Groupsize: 3
-Results: 1
-	311 : {'Fatos Xhafa', 'Leonard Barolli'}
+Results: 0
 
-Threshold: 300
+Threshold: 200
+Groupsize: 1
+Results: 2060
+	275 : {'Srinivas Devadas'}
+	271 : {'Qionghai Dai'}
+	250 : {'Robert Sabourin'}
+	352 : {'Saharon Shelah'}
+	268 : {'Amit Sahai'}
+	296 : {'Petar Popovski'}
+	213 : {'Hongbin Li'}
+	271 : {'Marianne Winslett'}
+	423 : {'Paul G. Spirakis'}
+	247 : {'Cheng Zhang'}
+	286 : {'Marco Conti'}
+	246 : {'Manuel V. Hermenegildo'}
+	327 : {'Tomoya Enokido'}
+	338 : {'Biswanath Mukherjee'}
+	305 : {'Calton Pu'}
+	229 : {'Sumei Sun'}
+	466 : {'Meng Wang'}
+	261 : {'Herbert Edelsbrunner'}
+	293 : {'W. Bruce Croft'}
+	210 : {'Kien A. Hua'}
+	205 : {'Wenjun Zhang 0001'}
+	314 : {'Edwin Hsing-Mean Sha'}
+	242 : {'Sennur Ulukus'}
+	223 : {'Thomas Fahringer'}
+	291 : {'Vipin Kumar'}
+	219 : {'Maria Petrou'}
+	533 : {'Wei Xu'}
+	280 : {'Xiaokang Yang'}
+	208 : {'Andrzej Skowron'}
+	436 : {'Rui Wang'}
+	390 : {'Thomas Ertl'}
+	355 : {'Vijay Kumar 0001'}
+	289 : {'Cheng Li'}
+	250 : {'Shyi-Ming Chen'}
+	282 : {'Min Liu'}
+	341 : {'Guang-Zhong Yang'}
+	241 : {'Min Zhang'}
+	220 : {'Dieter Rautenbach'}
+	305 : {'Dong Li'}
+	239 : {'Arjan Durresi'}
+	352 : {'Jing Chen'}
+	344 : {'Bernhard Schölkopf'}
+	203 : {'R. Ravi 0001'}
+	294 : {'V. S. Subrahmanian'}
+	277 : {'Zhenfu Cao'}
+	262 : {'Nan Li'}
+	222 : {'Uriel Feige'}
+	239 : {'Xavier Franch'}
+	208 : {'Peter Vary'}
+	296 : {'Fumihito Arai'}
+	242 : {'Pierre Duhamel'}
+	257 : {'Liming Chen'}
+	213 : {'Roberto Baldoni'}
+	273 : {'Mihir Bellare'}
+	226 : {'Ding-Zhu Du'}
+	225 : {'Xiaohui Liu'}
+	217 : {'David Gesbert'}
+	222 : {'Christopher D. Manning'}
+	651 : {'Ajith Abraham'}
+	202 : {'Dongdai Lin'}
+	647 : {'Makoto Takizawa'}
+	244 : {'Sahin Albayrak'}
+	237 : {'J. Ian Munro'}
+	251 : {'Subhash Suri'}
+	222 : {'Franz Wotawa'}
+	264 : {'Wei Dong'}
+	485 : {'Yi Yang'}
+	216 : {'Craig A. Knoblock'}
+	230 : {'Paolo Prinetto'}
+	315 : {'Hao Chen'}
+	353 : {'José Meseguer'}
+	373 : {'Frank Leymann'}
+	221 : {'Irwin King'}
+	219 : {'Vincenzo Loia'}
+	615 : {'Li Chen'}
+	366 : {'Yoshua Bengio'}
+	215 : {'Wei He'}
+	267 : {'Boleslaw K. Szymanski'}
+	425 : {'Li Wang'}
+	466 : {'Qi Tian'}
+	210 : {'Jian Cheng'}
+	318 : {'Narendra Ahuja'}
+	322 : {'Mark Harman'}
+	206 : {'Yves Le Traon'}
+	588 : {'K. J. Ray Liu'}
+	283 : {'Ming C. Lin'}
+	227 : {'Zhengyou Zhang'}
+	217 : {'Yuan Wang'}
+	373 : {'Majid Sarrafzadeh'}
+	307 : {'Ian Horrocks'}
+	322 : {'Ahmed H. Tewfik'}
+	225 : {'Xiaodong Zhang 0001'}
+	261 : {'Zsolt Tuza'}
+	300 : {'Eduard Ayguadé'}
+	429 : {'Maarten de Rijke'}
+	277 : {'Leendert W. N. van der Torre'}
+	256 : {'Laxmikant V. Kalé'}
+	231 : {'Yan Xu'}
+	228 : {'Andreas Dengel'}
+	207 : {'Spyros Tragoudas'}
+	276 : {'Yi-Bing Lin'}
+	226 : {'Bhaskar Krishnamachari'}
+	202 : {'Meikang Qiu'}
+	214 : {'Tok Wang Ling'}
+	261 : {'Norio Shiratori'}
+	436 : {'Satoshi Nakamura'}
+	202 : {'Marco Chiani'}
+	215 : {'Xiangjian He'}
+	280 : {'Venu Govindaraju'}
+	398 : {'Gonzalo Navarro'}
+	511 : {'Mérouane Debbah'}
+	212 : {'Jérôme Lang'}
+	329 : {'Alex Waibel'}
+	244 : {'Georges G. E. Gielen'}
+	315 : {'Dacheng Yang'}
+	514 : {'Joseph Y. Halpern'}
+	274 : {'Masayuki Inaba'}
+	244 : {'Yvon Savaria'}
+	259 : {'Amir Pnueli'}
+	218 : {'Pierre Fraigniaud'}
+	212 : {'Samir Khuller'}
+	276 : {'Gérard G. Medioni'}
+	659 : {'Jian Yang'}
+	232 : {'Ravi Kumar 0001'}
+	212 : {'Antonio Corradi'}
+	305 : {'Kiyohiro Shikano'}
+	217 : {'Jean-Jacques Quisquater'}
+	256 : {'Sándor P. Fekete'}
+	354 : {'Abdulmotaleb El-Saddik'}
+	201 : {'Fabio Martinelli'}
+	237 : {'Donato Malerba'}
+	290 : {'Lawrence Carin'}
+	282 : {'Dan Suciu'}
+	881 : {'Thomas S. Huang'}
+	394 : {'Hong Chen'}
+	276 : {'Timothy K. Shih'}
+	237 : {'Maja Pantic'}
+	214 : {'Qin Zhang'}
+	238 : {'Franco Fummi'}
+	345 : {'Edward R. Dougherty'}
+	243 : {'Danny Dolev'}
+	412 : {'Sungyoung Lee'}
+	305 : {'Wei Sun'}
+	341 : {'Chintha Tellambura'}
+	218 : {'Kin K. Leung'}
+	354 : {'Jie Zhou'}
+	200 : {'Mark S. Nixon'}
+	219 : {'Alejandro F. Frangi'}
+	383 : {'Michael Unser'}
+	213 : {'Bernard Chazelle'}
+	207 : {'Huosheng Hu'}
+	239 : {'Benjamin Doerr'}
+	220 : {'Driss Aboutajdine'}
+	356 : {'Kai Wang'}
+	221 : {'Mourad Debbabi'}
+	215 : {'Xiao Wang'}
+	302 : {'Max Mühlhäuser'}
+	261 : {'Inkyu Lee'}
+	355 : {'Shojiro Nishio'}
+	463 : {'Athanasios V. Vasilakos'}
+	372 : {'Martin Vetterli'}
+	289 : {'Gunter Saake'}
+	276 : {'Michael Stonebraker'}
+	227 : {'Mark de Berg'}
+	247 : {'Derong Liu'}
+	336 : {'Gerd Hirzinger'}
+	308 : {'Ning Zhong'}
+	367 : {'Choong Seon Hong'}
+	255 : {'Peter Brusilovsky'}
+	701 : {'Qing Li'}
+	528 : {'Shuicheng Yan'}
+	235 : {'Kaoru Kurosawa'}
+	406 : {'Hossam S. Hassanein'}
+	460 : {'Ming Zhang'}
+	622 : {'Qian Zhang'}
+	293 : {'Gang Wu'}
+	213 : {'Sethuraman Panchanathan'}
+	354 : {'Alan M. Frieze'}
+	214 : {'Jose C. Principe'}
+	693 : {'Ying Wang'}
+	209 : {'Cheng Chen'}
+	203 : {'Moira C. Norrie'}
+	234 : {'Martín Abadi'}
+	253 : {'Tei-Wei Kuo'}
+	249 : {'Antonio Puliafito'}
+	250 : {'Jinhong Yuan'}
+	200 : {'Martin J. Wainwright'}
+	756 : {'Lei Zhang'}
+	377 : {'Filip De Turck'}
+	212 : {'Wei Xiong'}
+	250 : {'Xiaohua Hu'}
+	839 : {'Tao Li'}
+	222 : {'Xiaodong Liu'}
+	200 : {'Shervin Shirmohammadi'}
+	552 : {'Zhu Han'}
+	254 : {'Chunming Qiao'}
+	441 : {'Ke Wang'}
+	355 : {'Shusaku Tsumoto'}
+	205 : {'Liang Wang'}
+	234 : {'Sang Hyuk Son'}
+	226 : {'Michel Gendreau'}
+	250 : {'Giuseppe Riva'}
+	371 : {'Yi Pan'}
+	210 : {'Ming Lei'}
+	220 : {'Danny Krizanc'}
+	266 : {'Daniel Cremers'}
+	211 : {'Hongyuan Zha'}
+	312 : {'Yue Wang'}
+	208 : {'Ming Gu'}
+	336 : {'Jianxin Wang'}
+	213 : {'Susanto Rahardja'}
+	363 : {'Yi Sun'}
+	253 : {'Kang Li'}
+	284 : {'Selim G. Akl'}
+	247 : {'Michael K. Ng'}
+	211 : {'Daniël Paulusma'}
+	251 : {'Henk Corporaal'}
+	281 : {'Robert M. Haralick'}
+	250 : {'Roberto Tamassia'}
+	333 : {'Jianzhong Li'}
+	203 : {'Vince D. Calhoun'}
+	228 : {'Rocco A. Servedio'}
+	377 : {'Michael I. Jordan'}
+	206 : {'Martin Kutrib'}
+	291 : {'Paolo Dario'}
+	456 : {'Qiang Li'}
+	510 : {'Ralf Steinmetz'}
+	280 : {'Ping Zhang 0003'}
+	220 : {'Guoren Wang'}
+	372 : {'Zhi-Hua Zhou'}
+	513 : {'Fang Liu'}
+	296 : {'Brian D. O. Anderson'}
+	257 : {'Nicola Santoro'}
+	232 : {'Dan Keun Sung'}
+	423 : {'Alberto Del Bimbo'}
+	405 : {'Jie Xu'}
+	211 : {'Joachim M. Buhmann'}
+	200 : {'Jian Yu'}
+	307 : {'Joel H. Saltz'}
+	245 : {'Hervé Bourlard'}
+	226 : {'Alexander Schill'}
+	530 : {'Krishnendu Chakrabarty'}
+	270 : {'Xiao Liu'}
+	208 : {'Chita R. Das'}
+	408 : {'Svetha Venkatesh'}
+	300 : {'Jaakko Astola'}
+	291 : {'Manfred Reichert'}
+	202 : {'Nobuaki Minematsu'}
+	463 : {'Hsinchun Chen'}
+	299 : {'Edward A. Fox'}
+	746 : {'Hui Li'}
+	257 : {'Tomoaki Ohtsuki'}
+	268 : {'Ophir Frieder'}
+	225 : {'Bhargab B. Bhattacharya'}
+	413 : {'Xin Zhang'}
+	220 : {'Carla-Fabiana Chiasserini'}
+	283 : {'Aboul Ella Hassanien'}
+	263 : {'Yoshitaka Shibata'}
+	228 : {'Jocelyn Chanussot'}
+	212 : {'Chunyan Miao'}
+	281 : {'Pascal Bouvry'}
+	285 : {'Sheng Chen 0001'}
+	309 : {'Krishnendu Chatterjee'}
+	256 : {'Jianfeng Ma'}
+	228 : {'Clement T. Yu'}
+	292 : {'Robert Endre Tarjan'}
+	204 : {'James H. Anderson'}
+	562 : {'Rama Chellappa'}
+	339 : {'Rui Zhang 0006'}
+	555 : {'Viktor K. Prasanna'}
+	268 : {'Mark A. Musen'}
+	201 : {'Jianwei Niu'}
+	254 : {'Wojciech Rytter'}
+	217 : {'Zhiguo Ding'}
+	222 : {'Shinichi Honiden'}
+	357 : {'Moncef Gabbouj'}
+	738 : {'Victor C. M. Leung'}
+	472 : {'Albert Y. Zomaya'}
+	206 : {'Theodora A. Varvarigou'}
+	229 : {'Shun-ichi Amari'}
+	232 : {'Nikos Paragios'}
+	252 : {'Paolo Rosso'}
+	611 : {'Jie Li'}
+	659 : {'Xiang Li'}
+	302 : {'Simon Parsons'}
+	250 : {'Dhiraj K. Pradhan'}
+	762 : {'Jun Zhang'}
+	412 : {'Gerhard J. Woeginger'}
+	205 : {'Feng Xu'}
+	211 : {'Mathias Weske'}
+	209 : {'Gerald Schaefer'}
+	355 : {'Rodrigo C. de Lamare'}
+	250 : {'Swagatam Das'}
+	209 : {'Kai Salomaa'}
+	677 : {'Edwin R. Hancock'}
+	226 : {'Fang Chen'}
+	316 : {'Chin-Hui Lee'}
+	298 : {'Yves Robert'}
+	249 : {'Rui Dinis'}
+	208 : {'Kenneth R. Koedinger'}
+	250 : {'Josep Domingo-Ferrer'}
+	752 : {'Xin Wang'}
+	216 : {'Giuliano Antoniol'}
+	233 : {'Tamio Arai'}
+	234 : {'Joydeep Ghosh'}
+	256 : {'Seong-Whan Lee'}
+	207 : {'Emilio Corchado'}
+	209 : {'Andreas Holzinger'}
+	207 : {'Anind K. Dey'}
+	280 : {'Pascal Fua'}
+	251 : {'Lie-Liang Yang'}
+	218 : {'Michael L. Nelson'}
+	527 : {'David Zhang'}
+	390 : {'Andrew B. Kahng'}
+	232 : {'Zixiang Xiong'}
+	208 : {'Jaap Kamps'}
+	364 : {'Georg Gottlob'}
+	228 : {'Longbing Cao'}
+	347 : {'Matthias Jarke'}
+	260 : {'Anand Raghunathan'}
+	207 : {'Giancarlo Succi'}
+	230 : {'Deborah Estrin'}
+	376 : {'Loet Leydesdorff'}
+	355 : {'Yong Shi'}
+	209 : {'Xiaoyong Du'}
+	507 : {'Erik D. Demaine'}
+	219 : {'David R. Bull'}
+	230 : {'Xiqi Gao'}
+	241 : {'Xing Zhang'}
+	260 : {'Yi Ma'}
+	209 : {'H. Raghav Rao'}
+	203 : {'Nikos Fakotakis'}
+	204 : {'Zongben Xu'}
+	394 : {'Wenbo Wang 0007'}
+	229 : {'Kang Zhang'}
+	221 : {'Rongxing Lu'}
+	279 : {'Gilbert Laporte'}
+	205 : {'Bojan Mohar'}
+	450 : {'Yan Liu'}
+	236 : {'Naohiro Ishii'}
+	317 : {'J. J. Garcia-Luna-Aceves'}
+	201 : {'Sidney Fels'}
+	245 : {'Yang Cao'}
+	447 : {'Rajkumar Buyya'}
+	320 : {'Li Yang'}
+	391 : {'Holger Boche'}
+	257 : {'Costas S. Iliopoulos'}
+	520 : {'Rolf Drechsler'}
+	253 : {'Feng Bao'}
+	220 : {'David Lo'}
+	226 : {'Jie Yang'}
+	426 : {'Alok N. Choudhary'}
+	315 : {'Darwin G. Caldwell'}
+	213 : {'Xiaoyu Song'}
+	383 : {'Feng Li'}
+	226 : {'Maurice Herlihy'}
+	300 : {'Changsheng Xu'}
+	276 : {'Zhi Ding'}
+	247 : {'Patrick Gallinari'}
+	741 : {'Yong Wang'}
+	233 : {'Christopher J. Taylor'}
+	288 : {'Manuel Graña'}
+	306 : {'Hao Zhang'}
+	713 : {'Wei Chen'}
+	325 : {'Hartmut Ehrig'}
+	379 : {'Rafail Ostrovsky'}
+	291 : {'Mani B. Srivastava'}
+	674 : {'Hong Zhang'}
+	224 : {'Ning Chen'}
+	419 : {'Taghi M. Khoshgoftaar'}
+	632 : {'Gang Wang'}
+	392 : {'Muriel Médard'}
+	282 : {'Fang Wang'}
+	287 : {'Joel J. P. C. Rodrigues'}
+	214 : {'Guido Boella'}
+	500 : {'Yu Chen'}
+	446 : {'Michel Raynal'}
+	206 : {'Dongho Won'}
+	240 : {'Jacob Benesty'}
+	285 : {'Takahiro Hara'}
+	254 : {'Siu-Ming Yiu'}
+	446 : {'Ying Chen'}
+	820 : {'Yang Liu'}
+	217 : {'Stéphane Ducasse'}
+	348 : {'Jie Wang'}
+	764 : {'Ying Zhang'}
+	220 : {'Cheng-Lin Liu'}
+	259 : {'Mohamed S. Kamel'}
+	260 : {'Patrick Valduriez'}
+	221 : {'Fabio Roli'}
+	425 : {'Giovanni De Micheli'}
+	251 : {'Jin Liu'}
+	313 : {'Mubarak Shah'}
+	271 : {'Carole A. Goble'}
+	221 : {'Jitendra Malik'}
+	295 : {'Andreas F. Molisch'}
+	206 : {'Arnold L. Rosenberg'}
+	224 : {'Min Tan'}
+	346 : {'Liang Zhao'}
+	554 : {'Yi Zhang'}
+	376 : {'Jeffrey G. Andrews'}
+	260 : {'Haim Kaplan'}
+	241 : {'Sébastien Ourselin'}
+	573 : {'Noga Alon'}
+	203 : {'Hans-Arno Jacobsen'}
+	223 : {'Yan Zhang 0002'}
+	303 : {'Makoto Ikeda'}
+	320 : {'Weisi Lin'}
+	258 : {'Jun Han'}
+	337 : {'John-Jules Ch. Meyer'}
+	245 : {'Michiel H. M. Smid'}
+	268 : {'Bertrand Meyer'}
+	424 : {'Andrzej Cichocki'}
+	912 : {'Mohamed-Slim Alouini'}
+	289 : {'Xin Jin'}
+	253 : {'Sanguthevar Rajasekaran'}
+	234 : {'Toru Ishida'}
+	264 : {'Ahmad-Reza Sadeghi'}
+	256 : {'Liang Liu'}
+	209 : {'Jean-Philippe Thiran'}
+	216 : {'Sharad Mehrotra'}
+	215 : {'Emilio L. Zapata'}
+	351 : {'Manfred Tscheligi'}
+	350 : {'Jun Wu'}
+	300 : {'Hong Li'}
+	232 : {'Hong Qin'}
+	291 : {'Bo Liu'}
+	217 : {'Dirk T. M. Slock'}
+	330 : {'Jie Lu'}
+	290 : {'Jan A. Bergstra'}
+	232 : {'Huazhong Yang'}
+	234 : {'Robert P. W. Duin'}
+	396 : {'Wei Huang'}
+	303 : {'Joachim Hornegger'}
+	254 : {'Xu Zhang'}
+	371 : {'Geoffrey C. Fox'}
+	253 : {'Jonathan Katz'}
+	231 : {'Hiroshi Saruwatari'}
+	206 : {'Chen Liu'}
+	224 : {'William W. Cohen'}
+	370 : {'Rüdiger Dillmann'}
+	304 : {'Yao Zhao'}
+	221 : {'David E. Culler'}
+	260 : {'Wei Xing Zheng'}
+	242 : {'Aylin Yener'}
+	398 : {'Gang Feng'}
+	247 : {'Hongbin Zha'}
+	337 : {'Feng Chen'}
+	334 : {'Yao Wang'}
+	357 : {'Reda Alhajj'}
+	239 : {'Nikil D. Dutt'}
+	214 : {'Michel Verleysen'}
+	222 : {'Makoto Yokoo'}
+	472 : {'John Mylopoulos'}
+	237 : {'Q. M. Jonathan Wu'}
+	315 : {'Ge Yu'}
+	210 : {'Pheng-Ann Heng'}
+	247 : {'Danny Z. Chen'}
+	202 : {'Shashi Shekhar'}
+	401 : {'Liang Chen'}
+	330 : {'Min Wang'}
+	248 : {'Peter Y. K. Cheung'}
+	204 : {'Xing Xie'}
+	218 : {'Ranga Vemuri'}
+	200 : {'Stefanos Gritzalis'}
+	441 : {'Hector Garcia-Molina'}
+	397 : {'Zhaohui Wu'}
+	238 : {'Xue Li'}
+	346 : {'Alex Pentland'}
+	220 : {'Zhi-Li Zhang'}
+	243 : {'Raghu Ramakrishnan'}
+	349 : {'Soo-Chang Pei'}
+	343 : {'Lothar Thiele'}
+	466 : {'Xi Zhang'}
+	472 : {'Xin Yao'}
+	255 : {'Gagan Agrawal'}
+	256 : {'Lin Wang'}
+	223 : {'Yue Liu'}
+	383 : {'Cheng Wang'}
+	313 : {'Ingrid Verbauwhede'}
+	220 : {'Bernd Hamann'}
+	266 : {'Eduard A. Jorswieck'}
+	567 : {'Jun Li'}
+	220 : {'Jean Vanderdonckt'}
+	220 : {'Josef A. Nossek'}
+	316 : {'Jeng-Shyang Pan'}
+	247 : {'Steve Benford'}
+	247 : {'Dorothea Wagner'}
+	341 : {'Kouichi Sakurai'}
+	204 : {'Yo-Sung Ho'}
+	307 : {'Diego Calvanese'}
+	222 : {'Wolfgang Effelsberg'}
+	218 : {'Peng Cheng'}
+	227 : {'Wolfgang Maass'}
+	253 : {'Lin Yang'}
+	412 : {'Qiang Yang 0001'}
+	208 : {'Qiang Chen'}
+	347 : {'Dennis Sylvester'}
+	234 : {'Sadaoki Furui'}
+	453 : {'Wayne Luk'}
+	220 : {'Enrico Motta'}
+	292 : {'Michael G. Strintzis'}
+	215 : {'Kazuo Iwama'}
+	244 : {'Charu C. Aggarwal'}
+	290 : {'Neri Merhav'}
+	258 : {'Bin Chen'}
+	210 : {'Olivier D. Faugeras'}
+	882 : {'Yu Zhang'}
+	339 : {'Andreas Uhl'}
+	267 : {'Jiming Liu'}
+	221 : {'Anupam Joshi'}
+	389 : {'John H. L. Hansen'}
+	276 : {'Alexander G. Hauptmann'}
+	307 : {'Pascal Van Hentenryck'}
+	277 : {'Sachin S. Sapatnekar'}
+	218 : {'Joseph Naor'}
+	249 : {'Zidong Wang'}
+	376 : {'Jan Treur'}
+	236 : {'Stefan Schmid'}
+	230 : {'Tsachy Weissman'}
+	572 : {'Ping Wang'}
+	200 : {'Fredrik Gustafsson'}
+	341 : {'Jürgen Becker'}
+	242 : {'Hsin-Hsi Chen'}
+	402 : {'Klara Nahrstedt'}
+	288 : {'Zhen Li'}
+	201 : {'Lutz Volkmann'}
+	217 : {'David S. Doermann'}
+	254 : {'Ivan Damgård'}
+	296 : {'Edmund M. Clarke'}
+	320 : {'Yong Chen'}
+	372 : {'Karl Aberer'}
+	289 : {'Jong Hyuk Park'}
+	230 : {'S. Sitharama Iyengar'}
+	208 : {'Sudip Misra'}
+	206 : {'Meixia Tao'}
+	662 : {'Bin Wang'}
+	368 : {'Ming-Syan Chen'}
+	586 : {'Xin Liu'}
+	208 : {'Yici Cai'}
+	233 : {'Francis C. M. Lau'}
+	317 : {'Mohsen Guizani'}
+	218 : {'Stefano Soatto'}
+	235 : {'Zebo Peng'}
+	220 : {'Ramesh Govindan'}
+	222 : {'Zoltán Ésik'}
+	233 : {'Mohan M. Trivedi'}
+	222 : {'Huadong Ma'}
+	363 : {'Bernd Becker'}
+	274 : {'Sy-Yen Kuo'}
+	769 : {'Jing Wang'}
+	276 : {'Shrikanth S. Narayanan'}
+	207 : {'Zhe Chen'}
+	333 : {'Hideharu Amano'}
+	231 : {'Tao Jiang 0001'}
+	275 : {'Omer F. Rana'}
+	290 : {'Sebastian Thrun'}
+	253 : {'Michael Mitzenmacher'}
+	221 : {'Lei Hu'}
+	336 : {'Masahiro Fujita'}
+	357 : {'Milind Tambe'}
+	263 : {'Geyong Min'}
+	282 : {'Urbashi Mitra'}
+	448 : {'Yi Li'}
+	257 : {'Jian Xu'}
+	439 : {'Lei Li'}
+	424 : {'Václav Snásel'}
+	233 : {'Kewal K. Saluja'}
+	203 : {'Wenping Wang'}
+	202 : {'Danica Kragic'}
+	202 : {'Johannes Gehrke'}
+	279 : {'Jie Yang 0002'}
+	305 : {'Jürgen Schmidhuber'}
+	240 : {'Alexander J. Smola'}
+	220 : {'Khalid A. Qaraqe'}
+	215 : {'João Gama'}
+	384 : {'Andrew Zisserman'}
+	253 : {'Peter G. Neumann'}
+	264 : {'Ying Wu'}
+	312 : {'Aoying Zhou'}
+	306 : {'Geert Leus'}
+	230 : {'Stephen A. Brewster'}
+	353 : {'Adel M. Alimi'}
+	221 : {'Eytan Modiano'}
+	337 : {'Mary Jane Irwin'}
+	207 : {'John R. Smith'}
+	245 : {'David Maier'}
+	316 : {'Alan F. Smeaton'}
+	223 : {'Jeff A. Bilmes'}
+	216 : {'Ferran Hurtado'}
+	205 : {'Keiichi Tokuda'}
+	275 : {'János Pach'}
+	397 : {'Chun Chen'}
+	332 : {'Hyunseung Choo'}
+	211 : {'John S. Thompson'}
+	265 : {'Gerd Ascheid'}
+	264 : {'Yu Cao'}
+	263 : {'Huijun Gao'}
+	252 : {'Ken-ichi Kawarabayashi'}
+	206 : {'Andrea Omicini'}
+	245 : {'Geoffrey Ye Li'}
+	479 : {'Shlomo Shamai'}
+	267 : {'Oscar Pastor'}
+	427 : {'Bo Xu'}
+	231 : {'Alex Orailoglu'}
+	212 : {'Marian Bubak'}
+	214 : {'Suhas N. Diggavi'}
+	265 : {'Catholijn M. Jonker'}
+	287 : {'Lei Chen 0002'}
+	274 : {'Hui Chen'}
+	276 : {'Shie Mannor'}
+	206 : {'Feng Xia'}
+	315 : {'Bin Ma'}
+	379 : {'Wei Zhou'}
+	216 : {'Dong Liu'}
+	213 : {'Anna Scaglione'}
+	208 : {'Richard J. Lipton'}
+	256 : {'Yuan Zhang'}
+	238 : {'Heinz Wörn'}
+	264 : {'Xiaoming Li'}
+	301 : {'Kai Li'}
+	844 : {'Chin-Chen Chang'}
+	200 : {'Peter M. A. Sloot'}
+	654 : {'Sajal K. Das'}
+	205 : {'Jin Xu'}
+	349 : {'Raouf Boutaba'}
+	317 : {'Vijay Varadharajan'}
+	412 : {'Kishor S. Trivedi'}
+	274 : {'Debin Zhao'}
+	420 : {'José Duato'}
+	207 : {'Jeffrey F. Naughton'}
+	223 : {'Jennifer Rexford'}
+	665 : {'Xi Chen'}
+	202 : {'Honggang Zhang'}
+	244 : {'Jonathon A. Chambers'}
+	208 : {'Jan Peters 0001'}
+	389 : {'Wolfgang Rosenstiel'}
+	322 : {'Xiaofang Zhou'}
+	275 : {'Joseph S. B. Mitchell'}
+	290 : {'Tao Xie'}
+	313 : {'Christian S. Jensen'}
+	532 : {'Christoph Meinel'}
+	374 : {'Ekram Hossain'}
+	221 : {'David A. Basin'}
+	218 : {'Marco Di Renzo'}
+	242 : {'Anton Nijholt'}
+	266 : {'Nei Kato'}
+	401 : {'Ping Li'}
+	259 : {'Bernt Schiele'}
+	391 : {'Tzung-Pei Hong'}
+	222 : {'Shiguang Shan'}
+	251 : {'Ling Li'}
+	230 : {'Richard M. Karp'}
+	574 : {'Hermann Ney'}
+	246 : {'Zhihua Wang'}
+	268 : {'Michitaka Hirose'}
+	248 : {'Ying Xu'}
+	341 : {'Rachid Guerraoui'}
+	269 : {'Isabelle Bloch'}
+	214 : {'Subbarao Kambhampati'}
+	216 : {'Edmund K. Burke'}
+	316 : {'Avi Wigderson'}
+	575 : {'Gang Li'}
+	401 : {'Hsiao-Hwa Chen'}
+	202 : {'Mohammad Reza Aref'}
+	216 : {'Marc Schoenauer'}
+	216 : {'Sofiène Affes'}
+	309 : {'George K. Karagiannidis'}
+	229 : {'Giovanni Semeraro'}
+	311 : {'Daniel A. Keim'}
+	255 : {'Cyrus Shahabi'}
+	262 : {'Wayne H. Wolf'}
+	221 : {'Min-You Wu'}
+	233 : {'Matti Pietikäinen'}
+	207 : {'Majid Ahmadi'}
+	224 : {'Ahmed E. Hassan'}
+	317 : {'Yuanyuan Yang'}
+	391 : {'David Blaauw'}
+	378 : {'Jun Ma'}
+	639 : {'Tao Wang'}
+	219 : {'Andrzej Lingas'}
+	215 : {'Marwan Krunz'}
+	207 : {'Shuguang Cui'}
+	338 : {'Zheng Li'}
+	204 : {'Huaxiong Wang'}
+	727 : {'Jian Wang'}
+	245 : {'Kai-Kit Wong'}
+	237 : {'Hongwei Liu'}
+	551 : {'Yi Wang'}
+	205 : {'Edward J. McCluskey'}
+	211 : {'Douglas D. O'Shaughnessy'}
+	247 : {'Rita Cucchiara'}
+	243 : {'Jehoshua Bruck'}
+	207 : {'Bashir M. Al-Hashimi'}
+	423 : {'Larry S. Davis'}
+	276 : {'Na Li'}
+	391 : {'Jian Liu'}
+	238 : {'Ana Paiva'}
+	202 : {'Friedrich Otto'}
+	258 : {'George J. Pappas'}
+	232 : {'Qing Liu'}
+	206 : {'Mohamad Sawan'}
+	283 : {'Yu Zhou'}
+	381 : {'Bo Wang'}
+	209 : {'Haixun Wang'}
+	221 : {'Peng Yang'}
+	218 : {'Xia Li'}
+	253 : {'F. Richard Yu'}
+	359 : {'Oscar H. Ibarra'}
+	206 : {'Avrim Blum'}
+	279 : {'Yannis Manolopoulos'}
+	298 : {'Harald Haas'}
+	226 : {'Ion Stoica'}
+	210 : {'Xiaoyi Jiang'}
+	247 : {'Wentong Cai'}
+	232 : {'Umeshwar Dayal'}
+	306 : {'Uwe Aickelin'}
+	279 : {'Chao Yang'}
+	214 : {'Carlo S. Regazzoni'}
+	247 : {'Markus Rupp'}
+	343 : {'Matteo Sonza Reorda'}
+	232 : {'Abdul Sattar'}
+	528 : {'Ying Liu'}
+	255 : {'Kazuyuki Aihara'}
+	961 : {'Philip S. Yu'}
+	270 : {'Kai Zhang'}
+	580 : {'Irith Pomeranz'}
+	215 : {'Susanne Boll'}
+	316 : {'Enrico Macii'}
+	205 : {'Santanu Chaudhury'}
+	228 : {'Miguel A. Vega-Rodríguez'}
+	406 : {'Wei Jiang'}
+	321 : {'Chang Wen Chen'}
+	342 : {'MengChu Zhou'}
+	287 : {'Jon W. Mark'}
+	267 : {'Keikichi Hirose'}
+	266 : {'Michael Kaufmann 0001'}
+	203 : {'Rick S. Blum'}
+	200 : {'Fei-Yue Wang'}
+	337 : {'Masaru Kitsuregawa'}
+	205 : {'Sang Uk Lee'}
+	290 : {'Jian Pei'}
+	289 : {'Babak Hassibi'}
+	491 : {'David Eppstein'}
+	259 : {'Lei Chen'}
+	321 : {'Yuan Yuan'}
+	534 : {'Jack Dongarra'}
+	200 : {'Jing Gao'}
+	667 : {'Ying Li'}
+	594 : {'Yu Liu'}
+	231 : {'Yuan Gao'}
+	321 : {'Ming Yang'}
+	395 : {'Masayuki Murata'}
+	235 : {'Syed Ali Jafar'}
+	229 : {'Joachim Weickert'}
+	334 : {'Yuguang Fang'}
+	200 : {'Petros Maragos'}
+	777 : {'Chao Wang'}
+	251 : {'Wei Fan'}
+	264 : {'Markku J. Juntti'}
+	219 : {'Sariel Har-Peled'}
+	346 : {'Karl Henrik Johansson'}
+	231 : {'Stefano Tubaro'}
+	237 : {'Josef Pieprzyk'}
+	274 : {'Xinbo Gao'}
+	200 : {'Soung Chang Liew'}
+	261 : {'Vojtech Rödl'}
+	208 : {'Sofiène Tahar'}
+	245 : {'Torsten Braun'}
+	402 : {'Tieniu Tan'}
+	209 : {'Anand Sivasubramaniam'}
+	204 : {'Jenq-Neng Hwang'}
+	259 : {'Reinhard Klette'}
+	271 : {'Xiaotie Deng'}
+	247 : {'Hanif D. Sherali'}
+	252 : {'Chung-Kuan Cheng'}
+	281 : {'Jun Zhou'}
+	222 : {'Daniel P. Siewiorek'}
+	220 : {'Xiaowei Li 0001'}
+	260 : {'Jan Marco Leimeister'}
+	211 : {'Li-Chun Wang'}
+	223 : {'Christoph Busch'}
+	493 : {'Tao Yang'}
+	277 : {'Dengguo Feng'}
+	269 : {'Bo Yang'}
+	312 : {'Chao Chen'}
+	229 : {'Peter Widmayer'}
+	373 : {'Yang Xiang'}
+	200 : {'Anupam Gupta'}
+	399 : {'Di Wu'}
+	296 : {'Yuan Yan Tang'}
+	443 : {'Dinggang Shen'}
+	254 : {'Dov M. Gabbay'}
+	239 : {'Moshe Tennenholtz'}
+	396 : {'Mohammad S. Obaidat'}
+	219 : {'Hai Jiang'}
+	213 : {'Qiang Huang'}
+	200 : {'Sujit Dey'}
+	274 : {'Serge Abiteboul'}
+	557 : {'Xuemin Shen'}
+	223 : {'Bharat K. Bhargava'}
+	237 : {'M. N. S. Swamy'}
+	263 : {'Kai Yu'}
+	396 : {'Dhabaleswar K. Panda'}
+	248 : {'El-Ghazali Talbi'}
+	241 : {'Gregor von Bochmann'}
+	239 : {'Jaime G. Carbonell'}
+	217 : {'Marcus A. Magnor'}
+	539 : {'Feng Liu'}
+	200 : {'Izak Benbasat'}
+	214 : {'Adrian Perrig'}
+	215 : {'Marta Z. Kwiatkowska'}
+	230 : {'ChengXiang Zhai'}
+	212 : {'Surajit Chaudhuri'}
+	226 : {'Ravishankar K. Iyer'}
+	211 : {'Kazuya Takeda'}
+	375 : {'Oded Goldreich'}
+	911 : {'Lajos Hanzo'}
+	577 : {'Jian Zhang'}
+	300 : {'Xiaohu You'}
+	388 : {'Yunhao Liu'}
+	385 : {'Horst Bischof'}
+	430 : {'Jürgen Teich'}
+	258 : {'Zhisheng Niu'}
+	204 : {'Jiwu Huang'}
+	259 : {'Roy H. Campbell'}
+	250 : {'John S. Baras'}
+	570 : {'Hui Zhang'}
+	408 : {'Mateo Valero'}
+	213 : {'Kok Lay Teo'}
+	291 : {'Emilio Luque'}
+	308 : {'Dusit Niyato'}
+	362 : {'Zhe Wang'}
+	259 : {'Shipeng Li'}
+	225 : {'Shaogang Gong'}
+	201 : {'Jan P. Allebach'}
+	302 : {'Bin Yang'}
+	332 : {'Jun Hu'}
+	236 : {'Yan Yang'}
+	220 : {'Luigi Palopoli'}
+	244 : {'Enrique Herrera-Viedma'}
+	207 : {'Xinghuo Yu'}
+	204 : {'Asoke K. Nandi'}
+	419 : {'Horst Bunke'}
+	251 : {'Bo Zhou'}
+	449 : {'Marc Moonen'}
+	243 : {'Zhi Wang'}
+	246 : {'Zhi Liu'}
+	220 : {'Jirí Matousek'}
+	211 : {'Chris H. Q. Ding'}
+	241 : {'Hideo Fujiwara'}
+	244 : {'Mohammed Ghanbari'}
+	203 : {'Hui Xu'}
+	313 : {'Lu Liu'}
+	311 : {'Heinrich Niemann'}
+	324 : {'Jörg Henkel'}
+	503 : {'Michele Zorzi'}
+	202 : {'Gautam Biswas'}
+	219 : {'Dan Wu'}
+	234 : {'Janusz Rajski'}
+	231 : {'Yuan Liu'}
+	553 : {'Luc J. Van Gool'}
+	203 : {'Arjen P. de Vries'}
+	235 : {'Carles Sierra'}
+	309 : {'Ling Chen'}
+	257 : {'Jean-Yves Tourneret'}
+	275 : {'H. V. Jagadish'}
+	272 : {'Iain B. Collings'}
+	261 : {'Min Xu'}
+	415 : {'Dharma P. Agrawal'}
+	217 : {'Jiang Li'}
+	203 : {'Hynek Hermansky'}
+	208 : {'Fred Glover'}
+	256 : {'Hua Li'}
+	613 : {'Mario Piattini'}
+	236 : {'Huaguang Zhang'}
+	353 : {'Nicholas Ayache'}
+	240 : {'Henning Fernau'}
+	277 : {'Carlos A. Coello Coello'}
+	202 : {'Geoffrey E. Hinton'}
+	329 : {'Sridha Sridharan'}
+	236 : {'Guoliang Xue'}
+	551 : {'Francky Catthoor'}
+	290 : {'Xiang Chen'}
+	542 : {'Nassir Navab'}
+	723 : {'Peng Li'}
+	473 : {'Ling Liu'}
+	279 : {'Gene Tsudik'}
+	462 : {'Bart Preneel'}
+	384 : {'Jian Wu'}
+	276 : {'Norihiro Hagita'}
+	254 : {'Yonghui Li'}
+	247 : {'Nitin H. Vaidya'}
+	203 : {'Stefan Woltran'}
+	239 : {'Yangsheng Xu'}
+	511 : {'Bo Li'}
+	207 : {'Kazuhiro Kosuge'}
+	221 : {'Xingwei Wang'}
+	517 : {'Qi Wang'}
+	337 : {'Tamer Basar'}
+	205 : {'Ping Yang'}
+	303 : {'Ramesh Jain'}
+	267 : {'Wang-Chien Lee'}
+	203 : {'Yong Zhao'}
+	280 : {'Eric P. Xing'}
+	250 : {'Christian Jutten'}
+	546 : {'Massoud Pedram'}
+	304 : {'Kwang-Ting Cheng'}
+	231 : {'Frank S. de Boer'}
+	245 : {'Narayanan Vijaykrishnan'}
+	398 : {'Jun Chen'}
+	209 : {'Satoru Miyano'}
+	204 : {'Husheng Li'}
+	225 : {'Guohong Cao'}
+	245 : {'Arkady B. Zaslavsky'}
+	229 : {'Fuchun Sun'}
+	211 : {'Latifur Khan'}
+	252 : {'Miroslav Krstic'}
+	253 : {'Bernhard Steffen'}
+	445 : {'Rui Zhang'}
+	336 : {'Markus H. Gross'}
+	253 : {'Xuemin Lin'}
+	441 : {'Yong Yu'}
+	479 : {'Didier Dubois'}
+	458 : {'Helmut Krcmar'}
+	219 : {'Marlon Dumas'}
+	339 : {'Daniel Rueckert'}
+	234 : {'Arumugam Nallanathan'}
+	491 : {'Francisco Herrera'}
+	215 : {'Jeffrey Shallit'}
+	273 : {'Dan Feng'}
+	216 : {'John C. Mitchell'}
+	260 : {'Bing Wang'}
+	215 : {'Tetsuya Ogata'}
+	317 : {'Reihaneh Safavi-Naini'}
+	283 : {'Weimin Zheng'}
+	226 : {'In-So Kweon'}
+	326 : {'Sarit Kraus'}
+	296 : {'Franco Zambonelli'}
+	319 : {'Yang Song'}
+	241 : {'Jun Xu'}
+	266 : {'Song Wang'}
+	301 : {'Jörg Becker'}
+	289 : {'Yang Chen'}
+	365 : {'Feng Wu'}
+	293 : {'Bo Hu'}
+	222 : {'Daesik Hong'}
+	242 : {'Helge J. Ritter'}
+	378 : {'C. Lee Giles'}
+	205 : {'Ramesh Karri'}
+	262 : {'Peter Sanders'}
+	203 : {'Wen-mei W. Hwu'}
+	341 : {'Hiroshi G. Okuno'}
+	228 : {'Jing Yang'}
+	219 : {'Yuji Matsumoto'}
+	506 : {'Jie Liu'}
+	215 : {'Sanjeev Khanna'}
+	357 : {'Bin Liu'}
+	268 : {'Kaoru Hirota'}
+	305 : {'Jian Ma'}
+	308 : {'Nancy A. Lynch'}
+	208 : {'Juan Li'}
+	236 : {'Feng Zhang'}
+	205 : {'Dimitrios Gunopulos'}
+	202 : {'Sebastian Möller'}
+	215 : {'Jian Lu'}
+	228 : {'Alan Burns'}
+	399 : {'Jacob A. Abraham'}
+	240 : {'Gregory D. Hager'}
+	208 : {'Shu Lin'}
+	256 : {'Lin-Shan Lee'}
+	256 : {'Michael A. Henning'}
+	245 : {'Giuseppe De Giacomo'}
+	227 : {'Xin Zhao'}
+	240 : {'Yueting Zhuang'}
+	226 : {'Xiaohong Jiang'}
+	344 : {'Petre Stoica'}
+	229 : {'David E. Goldberg'}
+	323 : {'Xiaohua Jia'}
+	210 : {'Sam Kwong'}
+	203 : {'Erchin Serpedin'}
+	247 : {'Barbara Hammer'}
+	249 : {'Romano Fantacci'}
+	231 : {'Hui Xiong'}
+	708 : {'Jing Liu'}
+	433 : {'Ian T. Foster'}
+	227 : {'Yiyu Yao'}
+	797 : {'Xiaodong Wang'}
+	239 : {'Anastasios N. Venetsanopoulos'}
+	227 : {'Sharad Malik'}
+	213 : {'Wojciech Szpankowski'}
+	294 : {'Mitsuru Ishizuka'}
+	208 : {'Ke Zhang'}
+	228 : {'Ming Zhou'}
+	222 : {'Jun Yu'}
+	394 : {'Bernhard Rumpe'}
+	265 : {'Boi Faltings'}
+	218 : {'Burkhard Stiller'}
+	226 : {'Qiang Zhou'}
+	278 : {'Bernd Freisleben'}
+	222 : {'Qinye Yin'}
+	437 : {'Yang Xu'}
+	235 : {'Gordon S. Blair'}
+	239 : {'Feng Tian'}
+	329 : {'Tsuhan Chen'}
+	280 : {'Dan Roth'}
+	228 : {'Ming Li 0001'}
+	247 : {'Zakaria Maamar'}
+	1307 : {'H. Vincent Poor'}
+	202 : {'Cheng-Wen Wu'}
+	274 : {'P. Sadayappan'}
+	205 : {'Jan M. Rabaey'}
+	212 : {'Liangpei Zhang'}
+	232 : {'Jack Snoeyink'}
+	406 : {'Christos H. Papadimitriou'}
+	212 : {'Toyohide Watanabe'}
+	312 : {'John M. Carroll'}
+	275 : {'Jeffrey Scott Vitter'}
+	231 : {'Alfons Kemper'}
+	585 : {'Min Chen'}
+	570 : {'Anil K. Jain'}
+	630 : {'Tao Zhang'}
+	203 : {'Tsong Yueh Chen'}
+	209 : {'Jano Moreira de Souza'}
+	323 : {'Panos M. Pardalos'}
+	216 : {'Shree K. Nayar'}
+	263 : {'Vittorio Murino'}
+	225 : {'Maurice Bruynooghe'}
+	264 : {'Dimitrios Soudris'}
+	252 : {'Yu Cheng'}
+	214 : {'Siwei Ma'}
+	287 : {'Xiang Zhang'}
+	310 : {'Manfred Glesner'}
+	458 : {'Piet Demeester'}
+	332 : {'Evangelos Kranakis'}
+	233 : {'Kimon P. Valavanis'}
+	357 : {'Paul M. Thompson'}
+	262 : {'Lei Zhang 0006'}
+	232 : {'C. V. Jawahar'}
+	219 : {'Thambipillai Srikanthan'}
+	200 : {'Philip H. S. Torr'}
+	265 : {'Kenneth Rose'}
+	379 : {'David Peleg'}
+	424 : {'Qiang Wang'}
+	398 : {'Xiang-Yang Li'}
+	322 : {'Wilfried Philips'}
+	316 : {'José M. F. Moura'}
+	210 : {'Yi Zhao'}
+	225 : {'Pingzhi Fan'}
+	213 : {'Stefan Decker'}
+	211 : {'Vincent Conitzer'}
+	215 : {'Harold Joseph Highland'}
+	248 : {'Ananthram Swami'}
+	578 : {'Toshio Fukuda'}
+	413 : {'Hussein T. Mouftah'}
+	239 : {'Zoubin Ghahramani'}
+	426 : {'Takeo Kanade'}
+	253 : {'Hee Yong Youn'}
+	210 : {'John P. Hayes'}
+	311 : {'Rong Jin'}
+	471 : {'Sushil Jajodia'}
+	312 : {'Nanning Zheng'}
+	321 : {'Ramjee Prasad'}
+	281 : {'Yong Xu'}
+	274 : {'Stefano Ceri'}
+	211 : {'Dan Li'}
+	237 : {'Amir K. Khandani'}
+	265 : {'Shrikanth Narayanan'}
+	253 : {'Takeo Igarashi'}
+	260 : {'Tao Mei'}
+	428 : {'Ke Xu'}
+	295 : {'Tuomas Sandholm'}
+	291 : {'Wei Gao'}
+	213 : {'Bo Jiang'}
+	205 : {'Amedeo Napoli'}
+	203 : {'Pingyi Fan'}
+	244 : {'Shi-Kuo Chang'}
+	288 : {'Xiaolin Wu'}
+	403 : {'Peng Shi 0001'}
+	384 : {'Vincent K. N. Lau'}
+	234 : {'Robert B. France'}
+	245 : {'Timos K. Sellis'}
+	211 : {'Nikolaos G. Bourbakis'}
+	361 : {'Michael T. Goodrich'}
+	214 : {'Domenico Talia'}
+	230 : {'Ye Wang'}
+	234 : {'Volker Gruhn'}
+	304 : {'Yang Yu'}
+	202 : {'Hao Xu'}
+	395 : {'Fabrizio Lombardi'}
+	252 : {'Hans-Peter Meinzer'}
+	337 : {'Dong Xu'}
+	210 : {'Hans-Joachim Wunderlich'}
+	321 : {'Li Deng'}
+	246 : {'Trevor N. Mudge'}
+	263 : {'Nicu Sebe'}
+	302 : {'Jing Huang'}
+	401 : {'Hong Yan'}
+	374 : {'Leandros Tassiulas'}
+	234 : {'Lingyang Song'}
+	360 : {'Peter Stone'}
+	270 : {'Frank L. Lewis'}
+	538 : {'Yan Zhang'}
+	221 : {'Nan Zhang'}
+	203 : {'Eiji Okamoto'}
+	559 : {'Josef Kittler'}
+	236 : {'Giuseppe Liotta'}
+	211 : {'Cheng-Zhong Xu'}
+	224 : {'Xu Wang'}
+	460 : {'Haizhou Li'}
+	208 : {'Henri E. Bal'}
+	216 : {'Qing Zhao'}
+	245 : {'Toyoaki Nishida'}
+	337 : {'Björn W. Schuller'}
+	213 : {'Norman W. Paton'}
+	263 : {'Pin-Han Ho'}
+	535 : {'Eitan Altman'}
+	209 : {'Petia Radeva'}
+	204 : {'Christoph Schnörr'}
+	213 : {'Francis Y. L. Chin'}
+	219 : {'James Noble'}
+	282 : {'Scott Shenker'}
+	695 : {'Georgios B. Giannakis'}
+	202 : {'Thomas Wiegand'}
+	257 : {'Mike Thelwall'}
+	294 : {'Bin Zhou'}
+	236 : {'Massimo Poncino'}
+	200 : {'Stefan Szeider'}
+	251 : {'Kalle Lyytinen'}
+	266 : {'Hanan Samet'}
+	254 : {'Eduard H. Hovy'}
+	318 : {'Chi Zhang'}
+	206 : {'Degang Chen'}
+	200 : {'Joos Vandewalle'}
+	237 : {'James Lam'}
+	260 : {'Sankar K. Pal'}
+	394 : {'Giuseppe Caire'}
+	209 : {'Yi Zhou'}
+	250 : {'Bo Li 0001'}
+	299 : {'Sartaj Sahni'}
+	420 : {'Tharam S. Dillon'}
+	213 : {'Stephen S. Yau'}
+	373 : {'Hong Jiang'}
+	211 : {'Jing Xiao'}
+	317 : {'Jia Wang'}
+	237 : {'Hao Jiang'}
+	439 : {'Azriel Rosenfeld'}
+	283 : {'Lionel C. Briand'}
+	255 : {'Xiaobo Zhou'}
+	248 : {'Li-Chen Fu'}
+	228 : {'Dragan Gasevic'}
+	345 : {'Ee-Peng Lim'}
+	223 : {'Brian Henderson-Sellers'}
+	259 : {'Mohamed Ould-Khaoua'}
+	766 : {'Jun Wang'}
+	642 : {'Kang G. Shin'}
+	225 : {'Henrik I. Christensen'}
+	216 : {'J. Wenny Rahayu'}
+	283 : {'Elisabeth André'}
+	204 : {'Chris D. Nugent'}
+	274 : {'Steffen Staab'}
+	200 : {'Cong Liu'}
+	248 : {'Wei Guo'}
+	378 : {'Toby Walsh'}
+	973 : {'Wen Gao 0001'}
+	331 : {'Lihua Xie'}
+	414 : {'Hiroshi Ishiguro'}
+	209 : {'Alistair Moffat'}
+	219 : {'David J. Hawkes'}
+	257 : {'Johan A. K. Suykens'}
+	391 : {'Chuang Lin'}
+	225 : {'Victor R. Basili'}
+	317 : {'Ning Xi'}
+	291 : {'Shi Jin'}
+	247 : {'Yanchun Zhang'}
+	210 : {'Xiaoyan Zhu'}
+	370 : {'Chew Lim Tan'}
+	280 : {'Andrea J. Goldsmith'}
+	272 : {'Hermann A. Maurer'}
+	299 : {'Han-Chieh Chao'}
+	223 : {'Muhammad Ali Imran'}
+	416 : {'Guy Pujolle'}
+	211 : {'Stefan Langerman'}
+	345 : {'Chau Yuen'}
+	205 : {'Mehdi Baradaran Tahoori'}
+	610 : {'Sudhakar M. Reddy'}
+	217 : {'Rupak Majumdar'}
+	572 : {'Yang Yang'}
+	210 : {'Caetano Traina Jr.'}
+	276 : {'Lane A. Hemaspaandra'}
+	246 : {'Aidong Zhang'}
+	207 : {'Yingxu Wang'}
+	320 : {'Jianping Wu'}
+	571 : {'Alberto L. Sangiovanni-Vincentelli'}
+	266 : {'C. Siva Ram Murthy'}
+	217 : {'Udo Hahn'}
+	205 : {'Jianhua Ma'}
+	224 : {'Ruzena Bajcsy'}
+	551 : {'Fan Zhang'}
+	287 : {'Shaoqian Li'}
+	249 : {'Diane Crawford'}
+	475 : {'Nadia Magnenat-Thalmann'}
+	537 : {'Jiannong Cao'}
+	265 : {'Prithviraj Banerjee'}
+	297 : {'Liang-Gee Chen'}
+	259 : {'Douglas R. Stinson'}
+	245 : {'Xin Xu'}
+	207 : {'Mounia Lalmas'}
+	252 : {'Li Liu'}
+	273 : {'Jing Xu'}
+	272 : {'Robert J. Kauffman'}
+	600 : {'Mahmut T. Kandemir'}
+	211 : {'Takayuki Ito'}
+	214 : {'Elmar Nöth'}
+	200 : {'Shuvra S. Bhattacharyya'}
+	535 : {'Wil M. P. van der Aalst'}
+	206 : {'Peter F. Stadler'}
+	525 : {'Xin Chen'}
+	379 : {'Zhen Liu'}
+	217 : {'Jorge Urrutia'}
+	363 : {'Bernard De Baets'}
+	237 : {'Andrew Lim'}
+	229 : {'Madhav V. Marathe'}
+	277 : {'Masashi Sugiyama'}
+	256 : {'Rajeev Alur'}
+	335 : {'Ling Wang'}
+	773 : {'Witold Pedrycz'}
+	437 : {'Moti Yung'}
+	290 : {'Ebroul Izquierdo'}
+	400 : {'Hans-Peter Kriegel'}
+	202 : {'Zheng Bao'}
+	425 : {'Ian F. Akyildiz'}
+	205 : {'Samarjit Chakraborty'}
+	258 : {'Salem Benferhat'}
+	236 : {'Jianwei Zhang 0001'}
+	243 : {'Chunhua Shen'}
+	349 : {'Qiang Zhang'}
+	278 : {'Zheng Chen'}
+	258 : {'Naren Ramakrishnan'}
+	212 : {'Ling Zhang'}
+	217 : {'Dong In Kim'}
+	208 : {'Pietro Perona'}
+	209 : {'José Neves'}
+	328 : {'Laurence Tianruo Yang'}
+	208 : {'Zhoujun Li'}
+	326 : {'Ying-Chang Liang'}
+	273 : {'Moni Naor'}
+	309 : {'B. John Oommen'}
+	243 : {'Dan Boneh'}
+	380 : {'Chen Chen'}
+	229 : {'Lutz Bornmann'}
+	295 : {'Luigi Carro'}
+	523 : {'Schahram Dustdar'}
+	516 : {'Christos Faloutsos'}
+	259 : {'Ramesh Raskar'}
+	245 : {'Karen O. Egiazarian'}
+	284 : {'Wan-Chi Siu'}
+	242 : {'Theo Härder'}
+	297 : {'Robert H. Deng'}
+	221 : {'Dimitrios M. Thilikos'}
+	243 : {'Duncan S. Wong'}
+	276 : {'John C. S. Lui'}
+	248 : {'Judea Pearl'}
+	501 : {'Chao Zhang'}
+	208 : {'Jing He'}
+	404 : {'Rahim Tafazolli'}
+	203 : {'David W. Bates'}
+	207 : {'Giuseppe Di Battista'}
+	294 : {'Floriana Esposito'}
+	213 : {'Martin Haardt'}
+	260 : {'Hao Yu'}
+	203 : {'Tosiyasu L. Kunii'}
+	253 : {'Weiming Shen'}
+	213 : {'Boualem Benatallah'}
+	345 : {'Xindong Wu'}
+	203 : {'Feifei Gao'}
+	714 : {'Peng Zhang'}
+	244 : {'Fabio Paternò'}
+	221 : {'Kyung Sup Kwak'}
+	235 : {'Mohamed Cheriet'}
+	392 : {'Alfred O. Hero III'}
+	210 : {'Fillia Makedon'}
+	228 : {'Pierre Vandergheynst'}
+	309 : {'Mehdi Dehghan'}
+	306 : {'Satoshi Goto'}
+	218 : {'Carlo Ghezzi'}
+	202 : {'Romeo Ortega'}
+	209 : {'Mohand Boughanem'}
+	209 : {'Hayder Radha'}
+	205 : {'Yonghong Yan 0002'}
+	250 : {'Daphne Koller'}
+	295 : {'Christos Bouras'}
+	661 : {'Yong Zhang'}
+	306 : {'Prasant Mohapatra'}
+	320 : {'Kotagiri Ramamohanarao'}
+	254 : {'Peter Willett'}
+	308 : {'Ting Liu'}
+	223 : {'Frank K. Soong'}
+	201 : {'Edward A. Lee'}
+	214 : {'Yi Qian'}
+	212 : {'Ying Tan'}
+	350 : {'Yu Wang'}
+	231 : {'Dong-Ho Cho'}
+	214 : {'Ran Canetti'}
+	251 : {'Marcus Hutter'}
+	206 : {'Xiaodong Lin'}
+	275 : {'Ling Guan'}
+	219 : {'Benjamin W. Wah'}
+	379 : {'Daniela Rus'}
+	201 : {'Ümit V. Çatalyürek'}
+	233 : {'Shu-Ching Chen'}
+	217 : {'Ahmed Bouridane'}
+	291 : {'Lin Zhang'}
+	203 : {'Leif Kobbelt'}
+	387 : {'Yonina C. Eldar'}
+	210 : {'Dorin Comaniciu'}
+	204 : {'George Karypis'}
+	204 : {'Min Huang'}
+	294 : {'Beng Chin Ooi'}
+	205 : {'Marijn Janssen'}
+	300 : {'Jinde Cao'}
+	201 : {'Jiri Matas'}
+	847 : {'Li Zhang'}
+	294 : {'Stan Z. Li'}
+	217 : {'Gerardo Canfora'}
+	352 : {'Wouter Joosen'}
+	484 : {'Ioannis Pitas'}
+	815 : {'Elisa Bertino'}
+	486 : {'Jie Zhang'}
+	207 : {'Xiaofeng Liao'}
+	268 : {'Mikko Valkama'}
+	528 : {'Micha Sharir'}
+	255 : {'Rolf Ernst'}
+	213 : {'Adrian David Cheok'}
+	204 : {'Brent Waters'}
+	376 : {'Yang Wang'}
+	237 : {'Joemon M. Jose'}
+	323 : {'Marek Karpinski'}
+	400 : {'Roland Siegwart'}
+	292 : {'Eric Horvitz'}
+	237 : {'Tsuyoshi Takagi'}
+	291 : {'Yu-Chee Tseng'}
+	237 : {'Meng Zhang'}
+	267 : {'Guang R. Gao'}
+	202 : {'Joseph M. Hellerstein'}
+	243 : {'Carlo Zaniolo'}
+	217 : {'Igor L. Markov'}
+	317 : {'Branka Vucetic'}
+	407 : {'Rik Van de Walle'}
+	833 : {'Jun Liu'}
+	324 : {'Jun Guo'}
+	271 : {'Xiaodong Li'}
+	233 : {'Tony Q. S. Quek'}
+	284 : {'Martin Buss'}
+	203 : {'Marc Moeneclaey'}
+	251 : {'Luc De Raedt'}
+	568 : {'Wei Wu'}
+	221 : {'Mauro Barni'}
+	321 : {'Shlomi Dolev'}
+	230 : {'Sriram Vishwanath'}
+	270 : {'Wei Hu'}
+	244 : {'Guojun Wang'}
+	367 : {'Niraj K. Jha'}
+	259 : {'Jiming Chen'}
+	242 : {'Bin Zhang'}
+	232 : {'Feng Yang'}
+	283 : {'Chengqi Zhang'}
+	203 : {'Tak Wah Lam'}
+	200 : {'Xiao Qin'}
+	214 : {'Marco Ajmone Marsan'}
+	224 : {'Michael K. Reiter'}
+	305 : {'Douglas C. Schmidt'}
+	208 : {'Laks V. S. Lakshmanan'}
+	249 : {'Antonio González 0001'}
+	249 : {'Wei Dai'}
+	207 : {'Liang Li'}
+	358 : {'Divyakant Agrawal'}
+	284 : {'Barry W. Boehm'}
+	215 : {'M. Tamer Özsu'}
+	218 : {'Jianying Zhou'}
+	296 : {'Gerhard Tröster'}
+	258 : {'Heung-Yeung Shum'}
+	231 : {'Frank Dignum'}
+	613 : {'Yong Liu'}
+	218 : {'Liang Zhou'}
+	200 : {'Enrique Vidal'}
+	263 : {'Yun Zhang'}
+	309 : {'Yuan Li'}
+	224 : {'Henning Müller'}
+	219 : {'Robert M. Hierons'}
+	259 : {'Kee-Young Yoo'}
+	211 : {'Vahid Tarokh'}
+	212 : {'Barry O'Sullivan'}
+	211 : {'Andris Ambainis'}
+	441 : {'Wei Wei'}
+	244 : {'Henning Schulzrinne'}
+	341 : {'Zhongzhi Shi'}
+	259 : {'Yong Liang Guan'}
+	263 : {'Giancarlo Mauri'}
+	273 : {'Andreas Zell'}
+	358 : {'Donatella Sciuto'}
+	219 : {'Thomas Magedanz'}
+	493 : {'Hua Wang'}
+	310 : {'Hong Zhu'}
+	222 : {'Visa Koivunen'}
+	218 : {'Klaus-Dieter Schewe'}
+	231 : {'Naofal Al-Dhahir'}
+	265 : {'Kurt Rothermel'}
+	255 : {'Lei Huang'}
+	253 : {'Patricia Melin'}
+	334 : {'Alois Knoll'}
+	275 : {'Rajiv Gupta'}
+	375 : {'Yong Li'}
+	437 : {'Willy Susilo'}
+	255 : {'Bu-Sung Lee'}
+	312 : {'Gheorghe Paun'}
+	427 : {'Fan Yang'}
+	224 : {'Nicola Leone'}
+	217 : {'Emilio Frazzoli'}
+	200 : {'Cordelia Schmid'}
+	227 : {'Mary Beth Rosson'}
+	203 : {'Amit Konar'}
+	233 : {'Enrique S. Quintana-Ortí'}
+	312 : {'Nirwan Ansari'}
+	223 : {'Satoshi Matsuoka'}
+	211 : {'Paolo Tonella'}
+	238 : {'Jon M. Kleinberg'}
+	221 : {'Miroslaw Truszczynski'}
+	502 : {'Mihaela van der Schaar'}
+	237 : {'Wei Song'}
+	344 : {'Gang Liu'}
+	304 : {'Fei Li'}
+	399 : {'Dinesh Manocha'}
+	221 : {'Prashant J. Shenoy'}
+	272 : {'Vikram Krishnamurthy'}
+	252 : {'Xin He'}
+	267 : {'Tughrul Arslan'}
+	337 : {'Truong Q. Nguyen'}
+	345 : {'Keshab K. Parhi'}
+	398 : {'Dimitris N. Metaxas'}
+	241 : {'Arye Nehorai'}
+	282 : {'C. Pandu Rangan'}
+	252 : {'Kun Wang'}
+	435 : {'Jin Wang'}
+	211 : {'Maxime Crochemore'}
+	242 : {'Robert D. Nowak'}
+	241 : {'Bin Hu'}
+	438 : {'Daniel Thalmann'}
+	209 : {'Francis R. Bach'}
+	269 : {'Hiroshi Ishii'}
+	401 : {'Donald F. Towsley'}
+	216 : {'Wolfgang Utschick'}
+	391 : {'Chang Liu'}
+	205 : {'Lakhmi C. Jain'}
+	257 : {'Baowen Xu'}
+	206 : {'B. S. Manjunath'}
+	201 : {'Naoyuki Kubota'}
+	991 : {'Wei Zhang'}
+	206 : {'Peter Willett 0002'}
+	210 : {'Jian Tang'}
+	363 : {'Bing Li'}
+	299 : {'Jianer Chen'}
+	232 : {'Tzi-cker Chiueh'}
+	272 : {'Jay F. Nunamaker Jr.'}
+	200 : {'Takeshi Ikenaga'}
+	212 : {'Moon Ho Lee'}
+	642 : {'Robert Schober'}
+	370 : {'Wolfram Burgard'}
+	265 : {'Rolf Niedermeier'}
+	280 : {'Hao Liu'}
+	295 : {'Krithi Ramamritham'}
+	204 : {'Xing Li'}
+	269 : {'Yoshihiko Nakamura'}
+	450 : {'Grzegorz Rozenberg'}
+	221 : {'Takafumi Aoki'}
+	402 : {'Fumiyuki Adachi'}
+	346 : {'Miodrag Potkonjak'}
+	226 : {'Li Zhao'}
+	281 : {'Bin Jiang'}
+	229 : {'Laxmi N. Bhuyan'}
+	334 : {'Sung-Bae Cho'}
+	209 : {'Youxian Sun'}
+	259 : {'Rami G. Melhem'}
+	382 : {'Robert W. Heath Jr.'}
+	340 : {'Karsten Schwan'}
+	240 : {'Naixue Xiong'}
+	365 : {'Li Xu'}
+	313 : {'David Dagan Feng'}
+	287 : {'Alfredo Cuzzocrea'}
+	322 : {'Ernesto Damiani'}
+	297 : {'Gaurav S. Sukhatme'}
+	275 : {'Tarek F. Abdelzaher'}
+	217 : {'Tom Rodden'}
+	555 : {'Dong Wang'}
+	216 : {'Jan Bosch'}
+	652 : {'Jian Li'}
+	273 : {'Lang Tong'}
+	244 : {'Dimitrios Tzovaras'}
+	277 : {'A. Murat Tekalp'}
+	210 : {'Michael P. Wellman'}
+	201 : {'Jian Song'}
+	207 : {'Ling Shao'}
+	215 : {'Jean-Luc Gaudiot'}
+	216 : {'Mikkel Thorup'}
+	294 : {'Roger Wattenhofer'}
+	229 : {'Adi Shamir'}
+	247 : {'Feng Lin'}
+	541 : {'Xin Li'}
+	270 : {'Jing Zhao'}
+	249 : {'Alan S. Willsky'}
+	241 : {'Rong Zhang'}
+	320 : {'Ugo Montanari'}
+	204 : {'Pierre Hansen'}
+	252 : {'Michael Beetz'}
+	359 : {'Kurt Mehlhorn'}
+	251 : {'Andrew Adamatzky'}
+	455 : {'Gerhard Weikum'}
+	257 : {'Hamid Sarbazi-Azad'}
+	355 : {'Katia P. Sycara'}
+	218 : {'Mohamed G. Gouda'}
+	228 : {'Kwang-Cheng Chen'}
+	317 : {'Luc Vandendorpe'}
+	239 : {'M. Omair Ahmad'}
+	203 : {'R. Srikant'}
+	214 : {'Tatsuya Kawahara'}
+	238 : {'Tong Heng Lee'}
+	236 : {'Yusheng Ji'}
+	225 : {'Frédéric Cuppens'}
+	208 : {'Marc J. van Kreveld'}
+	296 : {'Trevor Darrell'}
+	354 : {'John M. Cioffi'}
+	251 : {'Charles J. Colbourn'}
+	276 : {'Andrew B. Whinston'}
+	330 : {'Fei Wang'}
+	206 : {'Jing Wu'}
+	312 : {'Jie Tang'}
+	274 : {'Moeness G. Amin'}
+	382 : {'Hao Wang'}
+	222 : {'Shigeo Hirose'}
+	212 : {'Peter H. N. de With'}
+	229 : {'Min Song'}
+	335 : {'Michael Wooldridge'}
+	346 : {'Wei Lu'}
+	325 : {'Alan C. Bovik'}
+	629 : {'Mario Gerla'}
+	202 : {'David M. Nicol'}
+	500 : {'Fatos Xhafa'}
+	239 : {'Arie E. Kaufman'}
+	204 : {'Koji Nakano'}
+	223 : {'Hui Zhao'}
+	252 : {'Ravi S. Sandhu'}
+	205 : {'Pascal Hitzler'}
+	202 : {'Orna Kupferman'}
+	207 : {'Heinrich H. Bülthoff'}
+	367 : {'Chen Wang'}
+	223 : {'Colin Boyd'}
+	203 : {'Qiang Xu'}
+	204 : {'Yuri Gurevich'}
+	260 : {'Zhaoyang Zhang 0001'}
+	236 : {'Michael J. Franklin'}
+	250 : {'Jianhua Zhang'}
+	277 : {'Uwe D. Hanebeck'}
+	256 : {'Xianlong Hong'}
+	421 : {'Thomas A. Henzinger'}
+	201 : {'Eli Upfal'}
+	203 : {'Elza Erkip'}
+	512 : {'Nicholas R. Jennings'}
+	221 : {'Rakesh Agrawal'}
+	281 : {'Hisao Ishibuchi'}
+	459 : {'Aggelos K. Katsaggelos'}
+	341 : {'Antonio F. Gómez-Skarmeta'}
+	271 : {'Manish Parashar'}
+	267 : {'Xilin Chen'}
+	246 : {'Maurizio Lenzerini'}
+	217 : {'Amotz Bar-Noy'}
+	202 : {'Wendy Hall'}
+	229 : {'Jun Ota'}
+	367 : {'Huan Liu'}
+	234 : {'Jianwei Huang'}
+	268 : {'Yun Li'}
+	270 : {'Xueqi Cheng'}
+	226 : {'Marco Dorigo'}
+	508 : {'Yi Liu'}
+	215 : {'Xiaoli Li 0001'}
+	269 : {'Weijia Jia'}
+	360 : {'Yi Mu'}
+	297 : {'Jiebo Luo'}
+	214 : {'Junzhou Luo'}
+	282 : {'Abbas Jamalipour'}
+	350 : {'Lei Shi'}
+	327 : {'Ning Li'}
+	213 : {'Kenji Suzuki'}
+	231 : {'Kotaro Hirasawa'}
+	222 : {'Paul M. B. Vitányi'}
+	243 : {'Yunhong Wang'}
+	201 : {'Yue Wu'}
+	442 : {'Yang Xiao'}
+	200 : {'Quan Z. Sheng'}
+	210 : {'Jin Li'}
+	286 : {'Zhen Zhang'}
+	521 : {'Min Li'}
+	252 : {'Aly A. Farag'}
+	308 : {'Andrzej Pelc'}
+	209 : {'Fei Chen'}
+	254 : {'Jieping Ye'}
+	549 : {'Peng Wang'}
+	274 : {'Liusheng Huang'}
+	324 : {'Atsuo Takanishi'}
+	200 : {'Yi-Ping Hung'}
+	293 : {'Changshui Zhang'}
+	208 : {'Lalit M. Patnaik'}
+	285 : {'Lu Wang'}
+	206 : {'Max Q.-H. Meng'}
+	214 : {'Martin D. F. Wong'}
+	247 : {'Bernhard Thalheim'}
+	258 : {'Mung Chiang'}
+	208 : {'Carl Gutwin'}
+	218 : {'Stamatis Vassiliadis'}
+	255 : {'Axel Legay'}
+	213 : {'Jean-Pierre Hubaux'}
+	619 : {'Jie Wu 0001'}
+	270 : {'Yong He'}
+	243 : {'Touradj Ebrahimi'}
+	233 : {'Wiro J. Niessen'}
+	259 : {'Wagner Meira Jr.'}
+	208 : {'Gregor Engels'}
+	203 : {'Yap-Peng Tan'}
+	643 : {'Yan Chen'}
+	213 : {'Craig Boutilier'}
+	224 : {'Tor Helleseth'}
+	437 : {'Leonidas J. Guibas'}
+	232 : {'Lei Yang'}
+	292 : {'Jiandong Li'}
+	205 : {'Stefano Giordano'}
+	657 : {'Hans-Peter Seidel'}
+	462 : {'Vladik Kreinovich'}
+	289 : {'Yin Zhang'}
+	309 : {'T. D. Wilson'}
+	311 : {'Munindar P. Singh'}
+	270 : {'Richard G. Baraniuk'}
+	336 : {'Wolfgang Lehner'}
+	241 : {'Leah Epstein'}
+	355 : {'Hideki Imai'}
+	246 : {'Kai Liu'}
+	406 : {'Ming Li'}
+	224 : {'Daniel Weiskopf'}
+	390 : {'Oscar C. Au'}
+	809 : {'Hai Jin'}
+	320 : {'Bo Chen'}
+	206 : {'Athina P. Petropulu'}
+	219 : {'Guang Gong'}
+	426 : {'Wei Yang'}
+	257 : {'Fan Wu'}
+	212 : {'Lance Fortnow'}
+	483 : {'Wei Liu'}
+	252 : {'Zhi-Quan Luo'}
+	261 : {'Jun Yan'}
+	260 : {'Gregory Gutin'}
+	664 : {'Lei Wang'}
+	726 : {'Bo Zhang'}
+	205 : {'Mukesh Singhal'}
+	231 : {'Yi Shen'}
+	728 : {'Jiawei Han'}
+	218 : {'Stefanos D. Kollias'}
+	202 : {'Luís Moniz Pereira'}
+	303 : {'Jiajun Bu'}
+	228 : {'Jelena V. Misic'}
+	290 : {'Jian Huang'}
+	202 : {'Elena Ferrari'}
+	221 : {'Franz Baader'}
+	394 : {'Stephan Olariu'}
+	290 : {'Xiaofeng Wang'}
+	227 : {'Zheng Zhang'}
+	233 : {'Dong Hoon Lee'}
+	333 : {'Rui Li'}
+	235 : {'Toshihide Ibaraki'}
+	213 : {'Maja J. Mataric'}
+	256 : {'Bart Dhoedt'}
+	256 : {'Alan L. Yuille'}
+	232 : {'Sébastien Tixeuil'}
+	345 : {'Guillermo Sapiro'}
+	389 : {'Victor O. K. Li'}
+	361 : {'Kian-Lee Tan'}
+	202 : {'Ping Chen'}
+	293 : {'Osvaldo Simeone'}
+	229 : {'Mikhail J. Atallah'}
+	235 : {'Iadh Ounis'}
+	327 : {'Ness B. Shroff'}
+	334 : {'Ivan Stojmenovic'}
+	275 : {'Keqin Li'}
+	244 : {'Gregory M. P. O'Hare'}
+	225 : {'Christof Paar'}
+	382 : {'Lionel M. Ni'}
+	318 : {'Peng Liu'}
+	221 : {'Michael Luck'}
+	376 : {'Xiang-Gen Xia'}
+	301 : {'Minyi Guo'}
+	203 : {'Xuan Wang'}
+	397 : {'Michael R. Lyu'}
+	205 : {'Noureddine Boudriga'}
+	227 : {'Derick Wood'}
+	227 : {'Tao Zhou'}
+	202 : {'Anne-Marie Kermarrec'}
+	279 : {'Jeffrey D. Ullman'}
+	421 : {'Bin Wu'}
+	350 : {'Amit P. Sheth'}
+	316 : {'Ting Wang'}
+	221 : {'Jian Cao'}
+	233 : {'Kim Guldstrand Larsen'}
+	232 : {'Jong-Hwan Kim'}
+	201 : {'D. T. Lee'}
+	301 : {'Martial Hebert'}
+	250 : {'Lei Xie'}
+	235 : {'Ming Xu'}
+	628 : {'Hong Liu'}
+	226 : {'Won Kim'}
+	231 : {'Malgorzata Marek-Sadowska'}
+	596 : {'Li Li'}
+	220 : {'Huaping Liu'}
+	236 : {'Daniel Cohen-Or'}
+	262 : {'Shouyang Wang'}
+	337 : {'Yishay Mansour'}
+	629 : {'Jing Zhang'}
+	300 : {'Zhiyong Feng'}
+	218 : {'Hui Tian'}
+	206 : {'Lei Zhao'}
+	410 : {'Manuela M. Veloso'}
+	241 : {'Tanja Schultz'}
+	306 : {'Kwan-Liu Ma'}
+	200 : {'Sandip Kundu'}
+	227 : {'Sargur N. Srihari'}
+	369 : {'Jeffrey Xu Yu'}
+	343 : {'Jon Crowcroft'}
+	348 : {'Abhijit Chatterjee'}
+	203 : {'Marek Chrobak'}
+	263 : {'Weihua Zhuang'}
+	556 : {'Licheng Jiao'}
+	245 : {'Halim Yanikomeroglu'}
+	641 : {'Azzedine Boukerche'}
+	253 : {'Wei Zhao'}
+	252 : {'Kiyoharu Aizawa'}
+	222 : {'Bin Luo'}
+	230 : {'Jun Zheng'}
+	995 : {'Wei Wang'}
+	293 : {'Chin-Teng Lin'}
+	387 : {'Pramod K. Varshney'}
+	303 : {'Oscar Castillo'}
+	560 : {'Dacheng Tao'}
+	213 : {'Justin Zobel'}
+	534 : {'Hui Wang'}
+	209 : {'Yan Yan'}
+	201 : {'Anton van den Hengel'}
+	339 : {'Feng Zhao'}
+	349 : {'Jun Yang'}
+	262 : {'Abdelhak M. Zoubir'}
+	200 : {'Arogyaswami Paulraj'}
+	273 : {'Ian R. Petersen'}
+	276 : {'Bernhard Preim'}
+	265 : {'Dieter Schmalstieg'}
+	299 : {'Arthur W. Toga'}
+	310 : {'David J. Evans'}
+	246 : {'Lorenzo Bruzzone'}
+	212 : {'Yervant Zorian'}
+	293 : {'Marc Pollefeys'}
+	220 : {'David B. Lomet'}
+	305 : {'Wei-Ying Ma'}
+	211 : {'Wan Kyun Chung'}
+	246 : {'Torsten Schaub'}
+	322 : {'Tao Liu'}
+	567 : {'Norman C. Beaulieu'}
+	247 : {'Juan M. Corchado'}
+	307 : {'Jie Chen'}
+	258 : {'Mark Billinghurst'}
+	236 : {'Xu Li'}
+	271 : {'Petri Mähönen'}
+	319 : {'Yuan Xie 0001'}
+	207 : {'Louis Kruh'}
+	275 : {'Saeid Nahavandi'}
+	423 : {'Qian Wang'}
+	332 : {'Tao Chen'}
+	308 : {'Insup Lee'}
+	225 : {'Stephen G. Kobourov'}
+	318 : {'Wei-Tek Tsai'}
+	202 : {'William H. Sanders'}
+	433 : {'Tho Le-Ngoc'}
+	226 : {'Michael Brady 0001'}
+	693 : {'Leonard Barolli'}
+	248 : {'Madhu Sudan'}
+	269 : {'Gang Chen'}
+	713 : {'Yan Wang'}
+	221 : {'Riichiro Mizoguchi'}
+	253 : {'Ioannis Kompatsiaris'}
+	237 : {'Laurence B. Milstein'}
+	284 : {'Nadeem Javaid'}
+	236 : {'Jun'ichi Tsujii'}
+	208 : {'Georgy L. Gimel'farb'}
+	318 : {'Sheng Li'}
+	380 : {'Hao Wu'}
+	214 : {'Enhong Chen'}
+	242 : {'Arto Salomaa'}
+	289 : {'Qingming Huang'}
+	245 : {'Chao-Tung Yang'}
+	240 : {'Trevor J. M. Bench-Capon'}
+	598 : {'Yan Li'}
+	296 : {'Kun Yang'}
+	325 : {'Jin Zhang'}
+	705 : {'Yang Li'}
+	226 : {'Zeshui Xu'}
+	236 : {'Qiang Ji'}
+	238 : {'Grigoris Antoniou'}
+	246 : {'Victor R. Lesser'}
+	229 : {'Vicenç Torra'}
+	514 : {'Feng Wang'}
+	355 : {'Ricardo A. Baeza-Yates'}
+	336 : {'A. Robert Calderbank'}
+	483 : {'Ronald R. Yager'}
+	311 : {'Dan Wang'}
+	669 : {'Luca Benini'}
+	296 : {'Anthony Ephremides'}
+	308 : {'Kalyanmoy Deb'}
+	304 : {'Sanjay Jain'}
+	341 : {'Minglu Li'}
+	442 : {'Qi Li'}
+	202 : {'Biao Chen'}
+	335 : {'Jun Luo'}
+	331 : {'Shuzhi Sam Ge'}
+	304 : {'Bir Bhanu'}
+	264 : {'Feng Gao'}
+	224 : {'T. C. Edwin Cheng'}
+	313 : {'Amr El Abbadi'}
+	204 : {'Yu Zheng'}
+	357 : {'Thomas Eiter'}
+	408 : {'Jia Liu'}
+	307 : {'Vijay K. Bhargava'}
+	221 : {'C. L. Philip Chen'}
+	202 : {'Simon X. Yang'}
+	411 : {'Hanqing Lu'}
+	224 : {'Michael Backes 0001'}
+	363 : {'Tat-Seng Chua'}
+	383 : {'Xiaoou Tang'}
+	269 : {'Enrico Pontelli'}
+	216 : {'Salil P. Vadhan'}
+	257 : {'Zhiwen Yu'}
+	332 : {'Fedor V. Fomin'}
+	245 : {'Zhong Chen'}
+	215 : {'Rina Dechter'}
+	329 : {'Erol Gelenbe'}
+	261 : {'Yun Yang'}
+	239 : {'Jaideep Srivastava'}
+	208 : {'Hamid Jafarkhani'}
+	233 : {'Klaus Jansen'}
+	313 : {'S. Muthukrishnan'}
+	212 : {'Hideo Saito'}
+	325 : {'Lei He'}
+	644 : {'C.-C. Jay Kuo'}
+	549 : {'Qing Wang'}
+	221 : {'Alexandru Nicolau'}
+	205 : {'Hongke Zhang'}
+	234 : {'Petar M. Djuric'}
+	417 : {'Björn E. Ottersten'}
+	268 : {'Joseph O'Rourke'}
+	408 : {'Chao Li'}
+	274 : {'Zhen Wang'}
+	213 : {'Adriano Camps'}
+	208 : {'Yasushi Yagi'}
+	231 : {'Ian H. Witten'}
+	479 : {'Liang Zhang'}
+	331 : {'B. Sundar Rajan'}
+	210 : {'Yang Zhao'}
+	230 : {'Eckehard G. Steinbach'}
+	241 : {'Tatsuo Nakajima'}
+	257 : {'Béla Bollobás'}
+	219 : {'Andrea De Lucia'}
+	351 : {'Katsushi Ikeuchi'}
+	529 : {'Henri Prade'}
+	314 : {'Elizabeth Chang'}
+	203 : {'Tian He'}
+	232 : {'Tao Huang'}
+	241 : {'Klaus-Robert Müller'}
+	248 : {'Kevin W. Bowyer'}
+	290 : {'Gareth J. F. Jones'}
+	316 : {'Long Wang'}
+	251 : {'David Harel'}
+	207 : {'Haifeng Wang'}
+	238 : {'Mihalis Yannakakis'}
+	212 : {'Xiao Zhang'}
+	221 : {'Wiebe van der Hoek'}
+	340 : {'Hong Wang'}
+	362 : {'Bhavani M. Thuraisingham'}
+	206 : {'Michael S. Hsiao'}
+	261 : {'Saket Saurabh'}
+	216 : {'Yue Li'}
+	255 : {'Danilo P. Mandic'}
+	201 : {'Holger Hermanns'}
+	215 : {'Christos V. Verikoukis'}
+	406 : {'Jason Cong'}
+	364 : {'Peter J. Stuckey'}
+	791 : {'Bin Li'}
+	276 : {'Baochun Li'}
+	293 : {'Li Guo'}
+	218 : {'Mostafa H. Ammar'}
+	367 : {'Ching Y. Suen'}
+	286 : {'Bhaskar D. Rao'}
+	253 : {'Frank Stephan'}
+	200 : {'Stefan Schulz'}
+	302 : {'Venkatesan Guruswami'}
+	263 : {'Antonio Bicchi'}
+	349 : {'Elke A. Rundensteiner'}
+	201 : {'Michael R. Fellows'}
+	280 : {'Sonia Aïssa'}
+	215 : {'Rodney A. Kennedy'}
+	338 : {'Albrecht Schmidt 0001'}
+	268 : {'Lei Shu'}
+	420 : {'Xuelong Li'}
+	299 : {'Moe Z. Win'}
+	216 : {'Peter Loos'}
+	226 : {'Béatrice Pesquet-Popescu'}
+	352 : {'Gerhard Rigoll'}
+	336 : {'Pascal Frossard'}
+	282 : {'Jesús Labarta'}
+	224 : {'Eyke Hüllermeier'}
+	259 : {'Diane J. Cook'}
+	355 : {'Kannan Ramchandran'}
+	388 : {'Qiang Liu'}
+	280 : {'Cong Wang'}
+	275 : {'Hans L. Bodlaender'}
+	205 : {'Petru Eles'}
+	367 : {'Mikael Skoglund'}
+	204 : {'Pierangela Samarati'}
+	252 : {'Li Yu'}
+	228 : {'Massimiliano Di Penta'}
+	353 : {'Bernd Girod'}
+	338 : {'Ali H. Sayed'}
+	378 : {'Lei Liu'}
+	220 : {'Hongxun Yao'}
+	298 : {'Radko Mesiar'}
+	306 : {'Erik G. Larsson'}
+	227 : {'Juan Liu'}
+	262 : {'Peng Xu'}
+	373 : {'Katsumi Tanaka'}
+	256 : {'Yao-Wen Chang'}
+	232 : {'Max A. Viergever'}
+	246 : {'Marcos André Gonçalves'}
+	400 : {'Vishwani D. Agrawal'}
+	250 : {'Hang Li'}
+	291 : {'Jue Wang'}
+	201 : {'Rainer Stiefelhagen'}
+	302 : {'Barry Smyth'}
+	273 : {'Xin Yang'}
+	450 : {'Jian Chen'}
+	200 : {'Martin Gogolla'}
+	290 : {'Howard Jay Siegel'}
+	220 : {'Thomas Sikora'}
+	364 : {'Xi Li'}
+	227 : {'Weiming Hu'}
+	285 : {'Yueh-Min Huang'}
+	209 : {'Wei Feng'}
+	257 : {'Yi Xu'}
+	253 : {'Bart De Moor'}
+	504 : {'Qi Zhang'}
+	266 : {'Brad A. Myers'}
+	456 : {'Gerhard Fettweis'}
+	219 : {'Alexander F. Gelbukh'}
+	261 : {'Xinbing Wang'}
+	285 : {'Zhao Zhang'}
+	790 : {'Wei Li'}
+	228 : {'Kinshuk'}
+	283 : {'Jun He'}
+	275 : {'Minoru Asada'}
+	306 : {'Divesh Srivastava'}
+	287 : {'Konstantinos N. Plataniotis'}
+	432 : {'Hao Li'}
+	208 : {'Arun K. Somani'}
+	218 : {'Shang-Hua Teng'}
+	231 : {'William I. Gasarch'}
+	240 : {'Hua Xu'}
+	246 : {'Eby G. Friedman'}
+	401 : {'Hong Shen'}
+	273 : {'Xue Liu'}
+	222 : {'David R. Karger'}
+	323 : {'Hiroshi Harada'}
+	202 : {'Ping Guo'}
+	276 : {'Guihai Chen'}
+	514 : {'Yang Zhang'}
+	248 : {'Mohan S. Kankanhalli'}
+	504 : {'Khaled Ben Letaief'}
+	345 : {'Pankaj K. Agarwal'}
+	218 : {'Michael J. Carey'}
+	455 : {'Ming Liu'}
+	377 : {'Mengjie Zhang'}
+	209 : {'Jianhua Li'}
+	287 : {'Jiangchuan Liu'}
+	222 : {'Qi Liu'}
+	231 : {'Jerry L. Prince'}
+	302 : {'Enrique Alba'}
+	278 : {'David Taniar'}
+	266 : {'Matti Latva-aho'}
+	210 : {'Qunsheng Peng'}
+	378 : {'Shih-Fu Chang'}
+	215 : {'Richard F. Paige'}
+	228 : {'Walid Saad'}
+	228 : {'Etienne E. Kerre'}
+	243 : {'Noel E. O'Connor'}
+	341 : {'John A. Stankovic'}
+	278 : {'Xiaolong Wang'}
+	350 : {'T. Aaron Gulliver'}
+	307 : {'Qiang Wu'}
+	215 : {'Imrich Chlamtac'}
+	249 : {'Hugo De Man'}
+	200 : {'Mirko Viroli'}
+	304 : {'Roberto Cipolla'}
+	214 : {'Xiaogang Wang'}
+	355 : {'Prosenjit Bose'}
+	298 : {'Hannu Tenhunen'}
+	219 : {'George Pavlou'}
+	390 : {'Ben Shneiderman'}
+	294 : {'Robert K. Brayton'}
+	207 : {'Gustavo Alonso'}
+	261 : {'Wanlei Zhou'}
+	355 : {'Ning Zhang'}
+	214 : {'Hiroyuki Kitagawa'}
+	307 : {'HongJiang Zhang'}
+	545 : {'Moshe Y. Vardi'}
+	279 : {'Jan Mendling'}
+	215 : {'Alfredo De Santis'}
+	249 : {'Yen-Wei Chen'}
+	217 : {'Weili Wu'}
+	273 : {'Hong Mei'}
+	243 : {'Igor E. Shparlinski'}
+	287 : {'Carlos José Pereira de Lucena'}
+	290 : {'Song Guo'}
+	235 : {'Mugen Peng'}
+	232 : {'John Shawe-Taylor'}
+	262 : {'Manfred Broy'}
+	230 : {'Mark H. Overmars'}
+	205 : {'Genoveffa Tortora'}
+	314 : {'Jun Zhu'}
+	276 : {'Antonio Ortega'}
+	252 : {'Thomas Seidl 0001'}
+	243 : {'Joost-Pieter Katoen'}
+	303 : {'Edward J. Delp'}
+	591 : {'Kaushik Roy 0001'}
+	226 : {'Xu Chen'}
+	226 : {'Gregory D. Abowd'}
+	483 : {'Hui Liu'}
+	459 : {'Guanrong Chen'}
+	281 : {'Jia Li'}
+	239 : {'Young-Koo Lee'}
+	871 : {'Jing Li'}
+	216 : {'Zhiying Wang'}
+	211 : {'Herwig Bruneel'}
+	246 : {'Sergio Verdú'}
+	231 : {'Guido Governatori'}
+	237 : {'John H. Reif'}
+	344 : {'Wolfgang Nejdl'}
+	278 : {'Xian-Sheng Hua'}
+	420 : {'Ning Wang'}
+	250 : {'Hiroshi Nagamochi'}
+	255 : {'Randy H. Katz'}
+	285 : {'Robert L. Glass'}
+
+Threshold: 200
+Groupsize: 2
+Results: 75
+	246 : {'Anton van den Hengel', 'Chunhua Shen'}
+	326 : {'Arjan Durresi', 'Leonard Barolli'}
+	262 : {'Norihiro Hagita', 'Hiroshi Ishiguro'}
+	200 : {'Karen O. Egiazarian', 'Jaakko Astola'}
+	260 : {'Ping Wang', 'Dusit Niyato'}
+	238 : {'Yan Chen', 'K. J. Ray Liu'}
+	294 : {'Mary Jane Irwin', 'Mahmut T. Kandemir'}
+	270 : {'Jan Marco Leimeister', 'Helmut Krcmar'}
+	316 : {'Toshio Fukuda', 'Fumihito Arai'}
+	206 : {'Wayne Luk', 'Peter Y. K. Cheung'}
+	210 : {'Mahmut T. Kandemir', 'Narayanan Vijaykrishnan'}
+	334 : {'Arthur W. Toga', 'Paul M. Thompson'}
+	302 : {'Mary Jane Irwin', 'Narayanan Vijaykrishnan'}
+	302 : {'Nobuaki Minematsu', 'Keikichi Hirose'}
+	208 : {'Francky Catthoor', 'Hugo De Man'}
+	326 : {'Shiguang Shan', 'Xilin Chen'}
+	202 : {'Dacheng Tao', 'Xinbo Gao'}
+	560 : {'Chun Chen', 'Jiajun Bu'}
+	332 : {'Hiroshi G. Okuno', 'Tetsuya Ogata'}
+	210 : {'Robert H. Deng', 'Feng Bao'}
+	218 : {'Niraj K. Jha', 'Anand Raghunathan'}
+	230 : {'Wen Gao 0001', 'Shiguang Shan'}
+	258 : {'Wenbo Wang 0007', 'Mugen Peng'}
+	200 : {'Fedor V. Fomin', 'Saket Saurabh'}
+	360 : {'Leonard Barolli', 'Makoto Ikeda'}
+	326 : {'Bart Dhoedt', 'Filip De Turck'}
+	264 : {'Sheng Chen 0001', 'Lajos Hanzo'}
+	220 : {'Thomas A. Henzinger', 'Krishnendu Chatterjee'}
+	206 : {'Gerhard Rigoll', 'Björn W. Schuller'}
+	264 : {'Xuemin Shen', 'Jon W. Mark'}
+	304 : {'Wen Gao 0001', 'Siwei Ma'}
+	234 : {'Kian-Lee Tan', 'Beng Chin Ooi'}
+	264 : {'M. Omair Ahmad', 'M. N. S. Swamy'}
+	408 : {'Oscar Castillo', 'Patricia Melin'}
+	238 : {'David Taniar', 'J. Wenny Rahayu'}
+	252 : {'Maurizio Lenzerini', 'Giuseppe De Giacomo'}
+	374 : {'Tharam S. Dillon', 'Elizabeth Chang'}
+	350 : {'Sungyoung Lee', 'Young-Koo Lee'}
+	214 : {'Wen Gao 0001', 'Qingming Huang'}
+	284 : {'Danny Krizanc', 'Evangelos Kranakis'}
+	334 : {'Branka Vucetic', 'Yonghui Li'}
+	396 : {'Willy Susilo', 'Yi Mu'}
+	648 : {'Makoto Takizawa', 'Tomoya Enokido'}
+	214 : {'Bhavani M. Thuraisingham', 'Latifur Khan'}
+	222 : {'David Zhang', 'Lei Zhang 0006'}
+	450 : {'Takahiro Hara', 'Shojiro Nishio'}
+	368 : {'Hiroshi Saruwatari', 'Kiyohiro Shikano'}
+	226 : {'Diego Calvanese', 'Maurizio Lenzerini'}
+	622 : {'Leonard Barolli', 'Fatos Xhafa'}
+	260 : {'Wen Gao 0001', 'Xilin Chen'}
+	326 : {'Bart Dhoedt', 'Piet Demeester'}
+	240 : {'Makoto Takizawa', 'Leonard Barolli'}
+	370 : {'Petru Eles', 'Zebo Peng'}
+	202 : {'Dimitrios Tzovaras', 'Michael G. Strintzis'}
+	206 : {'Lingyang Song', 'Zhu Han'}
+	210 : {'Jun Ota', 'Tamio Arai'}
+	250 : {'Irwin King', 'Michael R. Lyu'}
+	510 : {'Dennis Sylvester', 'David Blaauw'}
+	318 : {'Nadia Magnenat-Thalmann', 'Daniel Thalmann'}
+	850 : {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+	274 : {'Bin Ma', 'Haizhou Li'}
+	310 : {'Lie-Liang Yang', 'Lajos Hanzo'}
+	274 : {'Luca Benini', 'Giovanni De Micheli'}
+	274 : {'Diego Calvanese', 'Giuseppe De Giacomo'}
+	530 : {'Amr El Abbadi', 'Divyakant Agrawal'}
+	650 : {'Henri Prade', 'Didier Dubois'}
+	386 : {'Massimo Poncino', 'Enrico Macii'}
+	292 : {'Leendert W. N. van der Torre', 'Guido Boella'}
+	284 : {'Yici Cai', 'Xianlong Hong'}
+	242 : {'Ming C. Lin', 'Dinesh Manocha'}
+	224 : {'Catholijn M. Jonker', 'Jan Treur'}
+	330 : {'Xuelong Li', 'Dacheng Tao'}
+	336 : {'Filip De Turck', 'Piet Demeester'}
+	376 : {'Wen Gao 0001', 'Debin Zhao'}
+	254 : {'John M. Carroll', 'Mary Beth Rosson'}
+
+Threshold: 200
+Groupsize: 3
+Results: 4
+	309 : {'Diego Calvanese', 'Maurizio Lenzerini', 'Giuseppe De Giacomo'}
+	282 : {'Mary Jane Irwin', 'Mahmut T. Kandemir', 'Narayanan Vijaykrishnan'}
+	375 : {'Bart Dhoedt', 'Filip De Turck', 'Piet Demeester'}
+	240 : {'Wen Gao 0001', 'Shiguang Shan', 'Xilin Chen'}
+
+Threshold: 200
 Groupsize: 4
 Results: 0

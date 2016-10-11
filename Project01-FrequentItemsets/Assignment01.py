@@ -74,21 +74,21 @@ def applyThreshold(candidates):
     return list
 
 def step(k, list):
-    # candidates = createNewCandidates(list, k)
-    # print("\t Candidates created.")
     candidates = {}
     file.seek(0, 0)
     for line in file:
         authors = line.replace("[", "").replace("]", "").strip().split(",")
         frequentAuthors = []
         for author in authors:
+            found = False
             for listItem in list:
-                if author in listItem:
+                if not found and author in listItem and author not in frequentAuthors:
                     frequentAuthors.append(author)
+                    found = True
         authorCombinations = itertools.combinations(frequentAuthors, k)
         for combination in authorCombinations:
-            for author in list:
-                if author.issubset(frozenset(combination)):
+            for authorSet in list:
+                if authorSet.issubset(frozenset(combination)):
                     key = frozenset(combination)
                     if key in candidates:
                         candidates[key] += 1
@@ -106,7 +106,6 @@ def createNewCandidates(list, k):
     for key in keys:
         candidates[key] = 0
     return candidates
-
 
 aPriori()
 file.close()

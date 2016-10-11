@@ -1,9 +1,11 @@
 T:700, K:1, Max = 1307 {'H. Vincent Poor'}
 T:600, K:1, Max = 1307 {'H. Vincent Poor'}
 T:500, K:1, Max = 1307 {'H. Vincent Poor'}
-T:500, K:2, Max = 850 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+T:500, K:2, Max = 850 {'Sudhakar M. Reddy', 'Irith Pomeranz'}
 T:400, K:1, Max = 1307 {'H. Vincent Poor'}
 T:400, K:2, Max = 850 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
 T:300, K:1, Max = 1307 {'H. Vincent Poor'}
-T:300, K:2, Max = 850 {'Sudhakar M. Reddy', 'Irith Pomeranz'}
-T:300, K:3, Max = 311 {'Fatos Xhafa', 'Leonard Barolli'}
+T:300, K:2, Max = 850 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+T:200, K:1, Max = 1307 {'H. Vincent Poor'}
+T:200, K:2, Max = 850 {'Irith Pomeranz', 'Sudhakar M. Reddy'}
+T:200, K:3, Max = 375 {'Bart Dhoedt', 'Filip De Turck', 'Piet Demeester'}
