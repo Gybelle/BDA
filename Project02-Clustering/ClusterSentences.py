@@ -51,3 +51,38 @@ centers2D = pca.transform(kmeans.cluster_centers_)
 plt.hold(True)
 plt.scatter(centers2D[:,0], centers2D[:,1], marker='x', s=200, linewidths=3, c='r')
 plt.show()
+
+
+## Functions based on the code above:
+def vectorizeTitles(titles):
+    vectorizer = TfidfVectorizer(stop_words='english')
+    titleVectors = vectorizer.fit_transform(titles)
+    return titleVectors
+
+def executeKMeans(k, titleVectors):
+    kmeans = KMeans(n_clusters=k)
+    kmeans.fit(titleVectors.toarray())
+    return kmeans
+
+def printClusters(topicRange, clusterList, k):
+    print("Top topics per cluster:")
+    order_centroids = clusterList.cluster_centers_.argsort()[:, ::-1]
+    topics = vectorizer.get_feature_names()
+    for i in range(k):
+        print("Cluster %d:" % (i+1))
+        for j in order_centroids[i, :topicRange]:
+            print(' %s' % topics[j])
+        print()
+
+def plotClusters(titleVectors, clusterList):
+    # Plot: data
+    pca = PCA(n_components=2).fit(titleVectors.toarray())
+    data = pca.transform(titleVectors.toarray())
+    plt.scatter(data[:, 0], data[:, 1], c=clusterList.labels_)
+
+    # Plot: centers
+    centers = pca.transform(clusterList.cluster_centers_)
+    plt.hold(True)
+    plt.scatter(centers[:, 0], centers[:, 1], marker='x', s=200, linewidths=2, c='r')
+    plt.show()
+
