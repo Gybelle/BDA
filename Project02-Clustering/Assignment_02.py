@@ -9,18 +9,21 @@ from sklearn.metrics import adjusted_rand_score
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
-bigDataset = True
+bigDataset = False
 k = 2
-startYear = 2010
+startYear = 2000
 endYear = startYear + 5
 overlap = 2
+topicPrintRange = 20
 
 if not bigDataset:
     file = open("../Input/titles.txt", "r", encoding="utf8")
-    # results = open("../Output/titlesResult.txt", "a", encoding="utf8")
+    resultsFile = "../Output/titlesResult_%d_%d-%d.txt" % (k, (startYear-overlap), (endYear+overlap))
+    results = open(resultsFile, "w", encoding="utf8")
 else:
     file = open("../Input/titlesBIG.txt", "r", encoding="utf8")
-    # results = open("../Output/titlesResultBIG.txt", "a", encoding="utf8")
+    resultsFile = "../Output/titlesResult_%d_%d-%d_BIG.txt" % (k, (startYear - overlap), (endYear + overlap))
+    results = open(resultsFile, "w", encoding="utf8")
 
 def stemLines(lines):
     result = []
@@ -52,6 +55,16 @@ def printClusters(topicRange, clusterList, k):
             print(' %s' % topics[j])
         print()
 
+def printClustersToFile(topicRange, clusterList, k):
+    results.write("Top topics per cluster:\n")
+    order_centroids = clusterList.cluster_centers_.argsort()[:, ::-1]
+    topics = vectorizer.get_feature_names()
+    for i in range(k):
+        results.write("Cluster %d:\n" % (i+1))
+        for j in order_centroids[i, :topicRange]:
+            results.write(' %s\n' % topics[j])
+        results.write("\n")
+
 def plotClusters(titleVectors, clusterList):
     # Plot: data
     pca = PCA(n_components=2).fit(titleVectors.toarray())
@@ -74,9 +87,10 @@ titleVectors = vectorizer.fit_transform(stemmedTitles)
 
 kmeans = executeKMeans(k, titleVectors)
 
-# printClusters(topicRange, clusterList, k):
-printClusters(10, kmeans, k)
-plotClusters(titleVectors, kmeans)
+printClusters(topicPrintRange, kmeans, k)
+printClustersToFile(topicPrintRange, kmeans, k)
 
 file.close()
-# results.close()
+results.close()
+
+plotClusters(titleVectors, kmeans)
