@@ -11,6 +11,9 @@ from sklearn.decomposition import PCA
 
 bigDataset = True
 k = 2
+startYear = 2010
+endYear = startYear + 5
+overlap = 2
 
 if not bigDataset:
     file = open("../Input/titles.txt", "r", encoding="utf8")
@@ -23,12 +26,15 @@ def stemLines(lines):
     result = []
     for line in lines:
             line = line.strip().replace("[", "").replace("]", "")
-            stemmedLine = ""
-            for word in line.split(" "):
-                word = re.sub(r'\W+', '', word).lower() # to alphanumeric lowercase
-                stemmedLine += stem(word)
-                stemmedLine += " "
-            result.append(stemmedLine.strip())
+            year = int(line.split("\t")[0])
+            if year >= (startYear-overlap) and year <= (endYear+overlap):
+                line = line.split("\t")[1]
+                stemmedLine = ""
+                for word in line.split(" "):
+                    word = re.sub(r'\W+', '', word).lower() # to alphanumeric lowercase
+                    stemmedLine += stem(word)
+                    stemmedLine += " "
+                result.append(stemmedLine.strip())
     return result
 
 def executeKMeans(k, titleVectors):

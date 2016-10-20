@@ -5,13 +5,15 @@ correctBookTitles = ["KDD", "PKDD", "ICDM", "SDM"]
 bigDataset = True
 
 class ListOfAllTitles(xml.sax.ContentHandler):
-    map = {}
     title = ""
     booktitle = ""
+    year = ""
     correctType = False
     isTitle = False
     isBookTitle = False
+    isYear = False
     correctBookTitle = False
+    minYear = 2016
 
     def startElement(self, name, attrs):
         if name == "article" or name == "inproceedings":
@@ -22,12 +24,17 @@ class ListOfAllTitles(xml.sax.ContentHandler):
         elif self.correctType and name == "booktitle":
             self.booktitle = ""
             self.isBookTitle = True
+        elif self.correctType and name == "year":
+            self.year = ""
+            self.isYear = True
 
     def characters(self, content):
         if self.isTitle:
             self.title += content
         elif self.isBookTitle:
             self.booktitle += content
+        elif self.isYear:
+            self.year += content
 
     def endElement(self, name):
         if self.correctType and name == "article" or name == "inproceedings":
@@ -37,10 +44,15 @@ class ListOfAllTitles(xml.sax.ContentHandler):
         elif self.isBookTitle and name == "booktitle":
             self.isBookTitle = False
             if self.booktitle in correctBookTitles:
-                f.write(self.title + "\n")
+                f.write(self.year + "\t" + self.title + "\n")
+                if int(self.year) < self.minYear:
+                    self.minYear = int(self.year)
+                    print(self.minYear)
             self.title = ""
             self.booktitle = ""
-
+            self.year = ""
+        elif self.isYear and name == "year":
+            self.isYear = False
 
 class ListOfTitlesPerPublication(xml.sax.ContentHandler):
     map = {}

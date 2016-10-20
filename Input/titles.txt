@@ -1,130 +1,130 @@
-PVA: a self-adaptive personal view agent system.
-Probabilistic modeling of transaction data with applications to profiling, visualization, and prediction.
-Partial Classification Using Association Rules.
-An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications.
-A theoretical framework for learning from a pool of disparate data sources.
-Using Rough Sets as Tools for Knowledge Discovery.
-Frequent term-based text clustering.
-Joins that Generalize: Text Classification Using WHIRL.
-Extracting decision trees from trained neural networks.
-An Interactive Visualization Environment for Data Exploration.
-Estimating the Robustness of Discovered Knowledge.
-Planning Tasks for Knowledge Discovery in Databases; Performing Task-Oriented User-Guidance.
-Robust Decision Trees: Removing Outliers from Databases.
-Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions.
-Accelerating Exact k-means Algorithms with Geometric Reasoning.
-Using Recon for Data Cleaning.
-Interactive Knowledge Discovery from Marketing Questionnaire Using Simulated Breeding and Inductive Learning Methods.
-2001: A Statistical Odyssey (Invited talk, Abstract only).
-Shrinkage estimator generalizations of Proximal Support Vector Machines.
-New Algorithms for Fast Discovery of Association Rules.
-Efficient search for association rules.
-What's the code?: automatic classification of source code archives.
-MineSet: An Integrated System for Data Mining.
-Mining for Causes of Cancer: Machine Learning Experiments at Various Levels of Detail.
-Data mining with sparse grids using simplicial basis functions.
-Maximal Association Rules: A New Tool for Mining for Keyword Co-Occurrences in Document Collections.
-Textual data mining of service center call records.
-Similarity of Attributes by External Probes.
-Infominer: mining surprising periodic patterns.
-Transforming classifier scores into accurate multiclass probability estimates.
-Extensibility in Data Mining Systems.
-Empirical bayes screening for multi-item associations.
-Entropy-based Subspace Clustering for Mining Numerical Data.
-Handling very large numbers of association rules in the analysis of microarray data.
-Data mining techniques for optimizing inventories for electronic commerce.
-Recommender systems in commerce and community.
-Automated Discovery of Active Motifs in Three Dimensional Molecules.
-Data mining to detect abnormal behavior in aerospace data.
-Discovering unexpected information from your competitors' web sites.
-Online Generation of Profile Association Rules.
-Trajectory Clustering with Mixtures of Regression Models.
-Process-Based Database Support for the Early Indicator Method.
-Extracting collective probabilistic forecasts from web games.
-Extending Naïve Bayes Classifiers Using Long Itemsets.
-Mining knowledge-sharing sites for viral marketing.
-Discovering the set of fundamental rule changes.
-Comparing Massive High-Dimensional Data Sets.
-WAPS, a Data Mining Support Environment for the Planning of Warranty and Goodwill Costs in the Automobile Industry.
-Imputation of Missing Data Using Machine Learning Techniques.
-Direct Marketing Response Models Using Genetic Algorithms.
-KDD Process Planning.
-Single-shot detection of multiple categories of text using parametric mixture models.
-Combining clustering and co-training to enhance text classification using unlabelled data.
-Methods for Linking and Mining Massive Heterogeneous Databases.
-On using Page Cooccurrences for Computing Clickstream Similarity.
-Feature Mining Paradigms for Scientific Data.
-Shared Memory Paraellization of Data Mining Algorithms: Techniques, Programming Interface, and Performance.
-MedMeSH Summarizer: Text Mining for Gene Clusters.
-Evaluating the Performance of Association Mining Methods in 3-D Medical Image Databases.
-A New Gravitational Clustering Algorithm.
-Mining Significant Associations in Large Scale Text Corpora.
-An Algebraic Approach to Data Mining: Some Examples.
-Intersection Based Generalization Rules for the Analysis of Symbolic Septic Shock Patient Data.
-Linear Causal Model Discovery Using the MML criterion.
-Evolutionary Structure Learning Algorithm for Bayesian Network and Penalized Mutual Information Metric.
-Anchor Text Mining for Translation of Web Queries.
-An Efficient Fuzzy C-Means Clustering Algorithm.
-Distance Measures for Effective Clustering of ARIMA Time-Series.
-Multivariate supervised discretization, a neighborhood graph approach.
-Mining Genes in DNA Using GeneScout.
-Using Text Mining to Infer Semantic Attributes for Retail Data Mining.
-FD_Mine: Discovering Functional Dependencies in a Database Using Equivalences.
-Cluster merging and splitting in hierarchical clustering algorithms.
-FARM: A Framework for Exploring Mining Spaces with Multiple Attributes.
-Empirical Comparison of Various Reinforcement Learning Strategies for Sequential Targeted Marketing.
-Measuring Real-Time Predictive Models.
-Mining Surveillance Video for Independent Motion Detection.
-Indiscernibility Degree of Objects for Evaluating Simplicity of Knowledge in the Clustering Procedure.
-The Representative Basis for Association Rules.
-Mining Generalized Association Rules Using Pruning Techniques.
-A Lazy Approach to Pruning Classification Rules.
-Automatic Topic Identification Using Webpage Clustering.
-Document Clustering and Cluster Topic Extraction in Multilingual Corpora.
-Mixtures of ARMA Models for Model-Based Time Series Clustering.
-Exploring the Parameter State Space of Stacking.
-ExAnte: Anticipated Data Reduction in Constrained Pattern Mining.
-Spatial Subgroup Mining Integrated in an Object-Relational Spatial Database.
-Unsupervised Profiling for Identifying Superimposed Fraud.
-Efficient Score-Based Learning of Equivalence Classes of Bayesian Networks.
-Inductive Logic Programming in Clementine.
-Using Grammatical Inference to Automate Information Extraction from the Web.
-Finding Hidden Factors UsingIndependent Component Analysis.
-On Meta Levels of an Organized Society of KDD Agents.
-Automatic Construction and Refinement of a Class Hierarchy over Multi-valued Data.
-Discovery of Generalized Association Rules with Multiple Minimum Supports.
-The Pronciple of Transformation between Efficiency and Effectiveness: Towards a Fair Evaluation of the Cost-Effectiveness of KDD Techniques.
-Classification Algorithms Based on Linear Combinations of Features.
-Attribute Discovery and Rough Sets.
-Pattern Extraction for Time Series Classification.
-The Musical Expression Project: A Challenge for Machine Learning and Knowledge Discovery.
-Trees and Induction Graphs for Multivariate Response.
-Identification of ECG Arrhythmias Using Phase Space Reconstruction.
-Finding Similar Time Series.
-A Comparison of Model Selection Procedures for Predicting Turning Points in Financial Time Series.
-Preference Mining: A Novel Approach on Mining User Preferences for Personalized Applications.
-Applying Objective Interestingness Measures in Data Mining Systems.
-Confirmation Rule Sets.
-Algorithms for Mining Share Frequent Itemsets Containing Infrequent Subsets.
-Privacy-Oriented Data Mining by Proof Checking.
-Rough Sets for Data Mining and Knowledge Discovery (Abstract).
-Model Switching for Bayesian Classification Trees with Soft Splits.
-Regression by Feature Projections.
-Experiments on a Representation-Independent "Top-Down and Prune" Induction Scheme.
-The ESPRIT Project CreditMine and Its Relevance for the Internet Market.
-Multiscale Comparison of Temporal Patternsin Time-Series Medical Databases.
-Conceptual Knowledge Discovery in Databases Using Formal Concept Analysis Methods.
-Automated Detection of Epidemics from the Usage Logs of a Physicians' Reference Database.
-Discovery of Surprising Exception Rules Based on Intensity of Implication.
-Lightweight Collaborative Filtering Method for Binary-Encoded Data.
-Comparison of Three Objective Functions for Conceptual Clustering.
-Relative Unsupervised Discretization for Association Rule Mining.
-Support Vectors for Reinforcement Learning.
-Bivariate Decision Trees.
-Handling Missing Data in Trees: Surrogate Splits or Statistical Imputation.
-Selection and Statistical Validation of Features and Prototypes.
-Sentence Filtering for Information Extraction in Genomics, a Classification Problem.
-Majority Classification by Means of Association Rules.
-Specifying Mining Algorithms with Iterative User-Defined Aggregates: A Case Study.
-Generating Linguistic Fuzzy Rules for Pattern Classification with Genetic Algorithms.
-Using Condensed Representations for Interactive Association Rule Mining.
+2001	PVA: a self-adaptive personal view agent system.
+2001	Probabilistic modeling of transaction data with applications to profiling, visualization, and prediction.
+1997	Partial Classification Using Association Rules.
+1996	An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications.
+2002	A theoretical framework for learning from a pool of disparate data sources.
+1995	Using Rough Sets as Tools for Knowledge Discovery.
+2002	Frequent term-based text clustering.
+1998	Joins that Generalize: Text Classification Using WHIRL.
+2002	Extracting decision trees from trained neural networks.
+1997	An Interactive Visualization Environment for Data Exploration.
+1995	Estimating the Robustness of Discovered Knowledge.
+1996	Planning Tasks for Knowledge Discovery in Databases; Performing Task-Oriented User-Guidance.
+1995	Robust Decision Trees: Removing Outliers from Databases.
+1999	Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions.
+1999	Accelerating Exact k-means Algorithms with Geometric Reasoning.
+1995	Using Recon for Data Cleaning.
+1996	Interactive Knowledge Discovery from Marketing Questionnaire Using Simulated Breeding and Inductive Learning Methods.
+1999	2001: A Statistical Odyssey (Invited talk, Abstract only).
+2002	Shrinkage estimator generalizations of Proximal Support Vector Machines.
+1997	New Algorithms for Fast Discovery of Association Rules.
+2000	Efficient search for association rules.
+2002	What's the code?: automatic classification of source code archives.
+1997	MineSet: An Integrated System for Data Mining.
+1997	Mining for Causes of Cancer: Machine Learning Experiments at Various Levels of Detail.
+2001	Data mining with sparse grids using simplicial basis functions.
+1997	Maximal Association Rules: A New Tool for Mining for Keyword Co-Occurrences in Document Collections.
+2000	Textual data mining of service center call records.
+1998	Similarity of Attributes by External Probes.
+2001	Infominer: mining surprising periodic patterns.
+2002	Transforming classifier scores into accurate multiclass probability estimates.
+1996	Extensibility in Data Mining Systems.
+2001	Empirical bayes screening for multi-item associations.
+1999	Entropy-based Subspace Clustering for Mining Numerical Data.
+2002	Handling very large numbers of association rules in the analysis of microarray data.
+2000	Data mining techniques for optimizing inventories for electronic commerce.
+2001	Recommender systems in commerce and community.
+1997	Automated Discovery of Active Motifs in Three Dimensional Molecules.
+2000	Data mining to detect abnormal behavior in aerospace data.
+2001	Discovering unexpected information from your competitors' web sites.
+1998	Online Generation of Profile Association Rules.
+1999	Trajectory Clustering with Mixtures of Regression Models.
+1997	Process-Based Database Support for the Early Indicator Method.
+2001	Extracting collective probabilistic forecasts from web games.
+1999	Extending Naïve Bayes Classifiers Using Long Itemsets.
+2002	Mining knowledge-sharing sites for viral marketing.
+2001	Discovering the set of fundamental rule changes.
+1998	Comparing Massive High-Dimensional Data Sets.
+1999	WAPS, a Data Mining Support Environment for the Planning of Warranty and Goodwill Costs in the Automobile Industry.
+1996	Imputation of Missing Data Using Machine Learning Techniques.
+1998	Direct Marketing Response Models Using Genetic Algorithms.
+1997	KDD Process Planning.
+2002	Single-shot detection of multiple categories of text using parametric mixture models.
+2002	Combining clustering and co-training to enhance text classification using unlabelled data.
+1998	Methods for Linking and Mining Massive Heterogeneous Databases.
+2003	On using Page Cooccurrences for Computing Clickstream Similarity.
+2003	Feature Mining Paradigms for Scientific Data.
+2002	Shared Memory Paraellization of Data Mining Algorithms: Techniques, Programming Interface, and Performance.
+2002	MedMeSH Summarizer: Text Mining for Gene Clusters.
+2002	Evaluating the Performance of Association Mining Methods in 3-D Medical Image Databases.
+2003	A New Gravitational Clustering Algorithm.
+2002	Mining Significant Associations in Large Scale Text Corpora.
+2002	An Algebraic Approach to Data Mining: Some Examples.
+2002	Intersection Based Generalization Rules for the Analysis of Symbolic Septic Shock Patient Data.
+2002	Linear Causal Model Discovery Using the MML criterion.
+2001	Evolutionary Structure Learning Algorithm for Bayesian Network and Penalized Mutual Information Metric.
+2001	Anchor Text Mining for Translation of Web Queries.
+2001	An Efficient Fuzzy C-Means Clustering Algorithm.
+2001	Distance Measures for Effective Clustering of ARIMA Time-Series.
+2002	Multivariate supervised discretization, a neighborhood graph approach.
+2002	Mining Genes in DNA Using GeneScout.
+2002	Using Text Mining to Infer Semantic Attributes for Retail Data Mining.
+2002	FD_Mine: Discovering Functional Dependencies in a Database Using Equivalences.
+2002	Cluster merging and splitting in hierarchical clustering algorithms.
+2001	FARM: A Framework for Exploring Mining Spaces with Multiple Attributes.
+2002	Empirical Comparison of Various Reinforcement Learning Strategies for Sequential Targeted Marketing.
+2001	Measuring Real-Time Predictive Models.
+2002	Mining Surveillance Video for Independent Motion Detection.
+2001	Indiscernibility Degree of Objects for Evaluating Simplicity of Knowledge in the Clustering Procedure.
+2001	The Representative Basis for Association Rules.
+2002	Mining Generalized Association Rules Using Pruning Techniques.
+2002	A Lazy Approach to Pruning Classification Rules.
+2001	Automatic Topic Identification Using Webpage Clustering.
+2001	Document Clustering and Cluster Topic Extraction in Multilingual Corpora.
+2002	Mixtures of ARMA Models for Model-Based Time Series Clustering.
+2002	Exploring the Parameter State Space of Stacking.
+2003	ExAnte: Anticipated Data Reduction in Constrained Pattern Mining.
+2002	Spatial Subgroup Mining Integrated in an Object-Relational Spatial Database.
+1999	Unsupervised Profiling for Identifying Superimposed Fraud.
+2000	Efficient Score-Based Learning of Equivalence Classes of Bayesian Networks.
+2000	Inductive Logic Programming in Clementine.
+2001	Using Grammatical Inference to Automate Information Extraction from the Web.
+2002	Finding Hidden Factors UsingIndependent Component Analysis.
+1997	On Meta Levels of an Organized Society of KDD Agents.
+2001	Automatic Construction and Refinement of a Class Hierarchy over Multi-valued Data.
+2000	Discovery of Generalized Association Rules with Multiple Minimum Supports.
+1997	The Pronciple of Transformation between Efficiency and Effectiveness: Towards a Fair Evaluation of the Cost-Effectiveness of KDD Techniques.
+1999	Classification Algorithms Based on Linear Combinations of Features.
+1997	Attribute Discovery and Rough Sets.
+2001	Pattern Extraction for Time Series Classification.
+2001	The Musical Expression Project: A Challenge for Machine Learning and Knowledge Discovery.
+2000	Trees and Induction Graphs for Multivariate Response.
+2001	Identification of ECG Arrhythmias Using Phase Space Reconstruction.
+1997	Finding Similar Time Series.
+1999	A Comparison of Model Selection Procedures for Predicting Turning Points in Financial Time Series.
+2003	Preference Mining: A Novel Approach on Mining User Preferences for Personalized Applications.
+2000	Applying Objective Interestingness Measures in Data Mining Systems.
+2000	Confirmation Rule Sets.
+2000	Algorithms for Mining Share Frequent Itemsets Containing Infrequent Subsets.
+2002	Privacy-Oriented Data Mining by Proof Checking.
+1997	Rough Sets for Data Mining and Knowledge Discovery (Abstract).
+1998	Model Switching for Bayesian Classification Trees with Soft Splits.
+1999	Regression by Feature Projections.
+1999	Experiments on a Representation-Independent "Top-Down and Prune" Induction Scheme.
+1999	The ESPRIT Project CreditMine and Its Relevance for the Internet Market.
+2002	Multiscale Comparison of Temporal Patternsin Time-Series Medical Databases.
+1998	Conceptual Knowledge Discovery in Databases Using Formal Concept Analysis Methods.
+2003	Automated Detection of Epidemics from the Usage Logs of a Physicians' Reference Database.
+1998	Discovery of Surprising Exception Rules Based on Intensity of Implication.
+2001	Lightweight Collaborative Filtering Method for Binary-Encoded Data.
+2001	Comparison of Three Objective Functions for Conceptual Clustering.
+2000	Relative Unsupervised Discretization for Association Rule Mining.
+2001	Support Vectors for Reinforcement Learning.
+1997	Bivariate Decision Trees.
+1999	Handling Missing Data in Trees: Surrogate Splits or Statistical Imputation.
+1999	Selection and Statistical Validation of Features and Prototypes.
+2001	Sentence Filtering for Information Extraction in Genomics, a Classification Problem.
+2003	Majority Classification by Means of Association Rules.
+2001	Specifying Mining Algorithms with Iterative User-Defined Aggregates: A Case Study.
+1999	Generating Linguistic Fuzzy Rules for Pattern Classification with Genetic Algorithms.
+2002	Using Condensed Representations for Interactive Association Rule Mining.
