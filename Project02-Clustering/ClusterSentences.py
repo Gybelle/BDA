@@ -20,7 +20,7 @@ titles = ["Human machine interface for lab abc computer applications",
 vectorizer = TfidfVectorizer(stop_words='english')
 X = vectorizer.fit_transform(titles)
 
-k = 2
+k = 3
 kmeans = KMeans(n_clusters=k)
 kmeans.fit(X.toarray())
 
@@ -42,12 +42,12 @@ for i in range(k):
 #Plot: data
 pca = PCA(n_components=2).fit(X.toarray())
 data2D = pca.transform(X.toarray())
-plt.scatter(data2D[:,0], data2D[:,1], c=['r', 'b'])
+plt.scatter(data2D[:,0], data2D[:,1], c=kmeans.labels_)
 #plt.show()
 
 
 # Plot: centers
 centers2D = pca.transform(kmeans.cluster_centers_)
 plt.hold(True)
-plt.scatter(centers2D[:,0], centers2D[:,1], marker='x', s=200, linewidths=3, c=['r', 'b'])
+plt.scatter(centers2D[:,0], centers2D[:,1], marker='x', s=200, linewidths=3, c='r')
 plt.show()
