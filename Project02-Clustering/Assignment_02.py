@@ -4,20 +4,26 @@
 from stemming.porter2 import stem
 import re
 
-file = open("../Input/titles.txt", "r")
-# results = open("../Output/results.txt", "a")
+bigDataset = False
+if not bigDataset:
+    file = open("../Input/titles.txt", "r", encoding="utf8")
+    # results = open("../Output/titlesResult.txt", "a", encoding="utf8")
+else:
+    file = open("../Input/titlesBIG.txt", "r", encoding="utf8")
+    # results = open("../Output/titlesResultBIG.txt", "a", encoding="utf8")
 
-index = 0
-for line in file:
-    if index < 20:
-        line = line.strip().replace("[", "").replace("]", "")
-        for word in line.split(" "):
-            word = re.sub(r'\W+', '', word).lower()
-            if word:
-                print(stem(word), end=" ")
-        print()
-    index += 1
+def stemLines(lines):
+    result = []
+    for line in lines:
+            line = line.strip().replace("[", "").replace("]", "")
+            stemmedLine = ""
+            for word in line.split(" "):
+                word = re.sub(r'\W+', '', word).lower() # to alphanumeric lowercase
+                stemmedLine += stem(word)
+                stemmedLine += " "
+            result.append(stemmedLine.strip())
+    return result
 
-
+print(stemLines(file))
 file.close()
 # results.close()

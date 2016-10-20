@@ -41,7 +41,7 @@ Online Generation of Profile Association Rules.
 Trajectory Clustering with Mixtures of Regression Models.
 Process-Based Database Support for the Early Indicator Method.
 Extracting collective probabilistic forecasts from web games.
-Extending Naïve Bayes Classifiers Using Long Itemsets.
+Extending NaÃ¯ve Bayes Classifiers Using Long Itemsets.
 Mining knowledge-sharing sites for viral marketing.
 Discovering the set of fundamental rule changes.
 Comparing Massive High-Dimensional Data Sets.
