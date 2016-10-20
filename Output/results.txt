@@ -4554,3 +4554,52 @@ Results: 6
 Threshold: 5 
 Groupsize: 5 
 Results: 0 
+Threshold: 20
+Groupsize: 1
+Results: 36
+	22 : {'Jiawei Han'}
+	35 : {'Micha Sharir'}
+	27 : {'Moti Yung'}
+	21 : {'Oscar H. Ibarra'}
+	25 : {'Zvi Galil'}
+	20 : {'Nancy A. Lynch'}
+	27 : {'Leonidas J. Guibas'}
+	31 : {'Moshe Y. Vardi'}
+	22 : {'Hermann A. Maurer'}
+	25 : {'Christos H. Papadimitriou'}
+	35 : {'Philip S. Yu'}
+	31 : {'Sudhakar M. Reddy'}
+	25 : {'Amir Pnueli'}
+	20 : {'Hartmut Ehrig'}
+	25 : {'Prithviraj Banerjee'}
+	24 : {'Robert Endre Tarjan'}
+	20 : {'Krithi Ramamritham'}
+	22 : {'Alok N. Choudhary'}
+	20 : {'Sushil Jajodia'}
+	21 : {'Arto Salomaa'}
+	21 : {'Thomas A. Henzinger'}
+	24 : {'Kang G. Shin'}
+	25 : {'Hector Garcia-Molina'}
+	21 : {'Pankaj K. Agarwal'}
+	21 : {'Michael Wooldridge'}
+	26 : {'Grzegorz Rozenberg'}
+	30 : {'Elisa Bertino'}
+	20 : {'Divyakant Agrawal'}
+	21 : {'Alan M. Frieze'}
+	24 : {'Michael Stonebraker'}
+	27 : {'Oded Goldreich'}
+	22 : {'Irith Pomeranz'}
+	22 : {'Kurt Mehlhorn'}
+	22 : {'Michel Raynal'}
+	23 : {'Hans-Peter Kriegel'}
+	21 : {'Joseph Y. Halpern'}
+
+Threshold: 20
+Groupsize: 2
+Results: 1
+	40 : {'Sudhakar M. Reddy', 'Irith Pomeranz'}
+
+Threshold: 20
+Groupsize: 3
+Results: 0
+
