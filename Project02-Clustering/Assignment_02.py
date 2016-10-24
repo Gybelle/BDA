@@ -26,6 +26,11 @@ else:
     results = open(resultsFile, "w", encoding="utf8")
 
 def stemLines(lines):
+    """
+    Convert each title to a string which contains only stemmed words.
+    :param lines: File containing the titles.
+    :return: List with converted titles.
+    """
     result = []
     for line in lines:
             line = line.strip().replace("[", "").replace("]", "")
@@ -41,11 +46,24 @@ def stemLines(lines):
     return result
 
 def executeKMeans(k, titleVectors):
+    """
+    Execute the K-Means clustering algorith with specified parameters.
+    :param k: Number of desired clusters.
+    :param titleVectors: Vector containing the vectorized titles.
+    :return: Resulting clusters.
+    """
     kmeans = KMeans(n_clusters=k)
     kmeans.fit(titleVectors.toarray())
     return kmeans
 
 def printClusters(topicRange, clusterList, k):
+    """
+    Print a subset of the clusters to the console. This subset contains only the (stemmed) words with most occurrences.
+    :param topicRange: Number of words of each cluster that will be printed to the console.
+    :param clusterList: The generated clusters.
+    :param k: Number of clusters.
+    :return:
+    """
     print("Top topics per cluster:")
     order_centroids = clusterList.cluster_centers_.argsort()[:, ::-1]
     topics = vectorizer.get_feature_names()
@@ -56,6 +74,13 @@ def printClusters(topicRange, clusterList, k):
         print()
 
 def printClustersToFile(topicRange, clusterList, k):
+    """
+       Print a subset of the clusters to a file. This subset contains only the (stemmed) words with most occurrences.
+       :param topicRange: Number of words of each cluster that will be printed to a file.
+       :param clusterList: The generated clusters.
+       :param k: Number of clusters.
+       :return:
+       """
     results.write("Top topics per cluster:\n")
     order_centroids = clusterList.cluster_centers_.argsort()[:, ::-1]
     topics = vectorizer.get_feature_names()
@@ -66,6 +91,12 @@ def printClustersToFile(topicRange, clusterList, k):
         results.write("\n")
 
 def plotClusters(titleVectors, clusterList):
+    """
+    Plot the clusters for a visual representation.
+    :param titleVectors: Vector containing the vectorized titles.
+    :param clusterList: The generated clusters.
+    :return:
+    """
     # Plot: data
     pca = PCA(n_components=2).fit(titleVectors.toarray())
     data = pca.transform(titleVectors.toarray())
@@ -81,12 +112,14 @@ def plotClusters(titleVectors, clusterList):
 
 stemmedTitles = stemLines(file)
 
-# vectorize
+# vectorize the textual data
 vectorizer = TfidfVectorizer(stop_words='english')
 titleVectors = vectorizer.fit_transform(stemmedTitles)
 
+# execute clustering algorithm
 kmeans = executeKMeans(k, titleVectors)
 
+# print the n words with most occurences within each cluster
 printClusters(topicPrintRange, kmeans, k)
 printClustersToFile(topicPrintRange, kmeans, k)
 
