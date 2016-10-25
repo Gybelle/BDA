@@ -5,41 +5,41 @@ Cluster 1:
  use
  algorithm
  model
- text
- classif
- databas
- extract
  learn
- featur
+ databas
+ text
  web
- tree
  market
- method
+ featur
  detect
- inform
  comparison
  measur
+ extract
  project
+ induct
+ object
+ attribut
+ function
 
 Cluster 2:
  rule
  associ
- set
- general
  classif
+ general
+ base
+ use
+ set
+ text
  prune
  generat
+ combin
+ pattern
+ larg
+ code
+ extract
  discoveri
- base
  confirm
- data
  search
  repres
  analysi
- use
- basi
- major
- mean
- lazi
- onlin
 

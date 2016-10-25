@@ -8,10 +8,11 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
+import numpy as np
 
-bigDataset = False
-k = 2
-startYear = 2000
+bigDataset = True
+k = 8  # should be smaller than 11
+startYear = 2010
 endYear = startYear + 5
 overlap = 2
 topicPrintRange = 20
@@ -90,7 +91,7 @@ def printClustersToFile(topicRange, clusterList, k):
             results.write(' %s\n' % topics[j])
         results.write("\n")
 
-def plotClusters(titleVectors, clusterList):
+def plotClusters(topicRange, titleVectors, clusterList):
     """
     Plot the clusters for a visual representation.
     :param titleVectors: Vector containing the vectorized titles.
@@ -100,14 +101,32 @@ def plotClusters(titleVectors, clusterList):
     # Plot: data
     pca = PCA(n_components=2).fit(titleVectors.toarray())
     data = pca.transform(titleVectors.toarray())
-    plt.scatter(data[:, 0], data[:, 1], c=clusterList.labels_)
+    clusterPoints = {}
+    for i in range(k):
+        for j in range(len(clusterList.labels_)):
+            if clusterList.labels_[j] == i:
+                if not i in clusterPoints:
+                    clusterPoints[i] = []
+                clusterPoints[i].append([data[j, 0], data[j, 1]])
 
-    # Plot: centers
-    centers = pca.transform(clusterList.cluster_centers_)
-    plt.hold(True)
-    plt.scatter(centers[:, 0], centers[:, 1], marker='x', s=200, linewidths=2, c='r')
+    # Plot clusters
+    colors = ['#FF8A42','#47A8BD','#7AC74F','#EFA8B8','#F5E663','#1E3888','#9C3848', 'c', 'm', 'y', 'g', 'b']
+    labels = []
+    for i in range(k):
+        if i in clusterPoints:
+            labels.append("Cluster %d (%d)" % ((i+1), len(clusterPoints[i])))
+            list = np.array(clusterPoints[i])
+        plt.scatter(list[:,0], list[:,1], color=colors[i], marker='o')
+
+    # Add labels
+    plt.legend(labels, scatterpoints=1, loc='lower right', ncol=3, fontsize=9)
+
+    # Plot centers
+    # centers = pca.transform(clusterList.cluster_centers_)
+    # plt.hold(True)
+    # plt.scatter(centers[:, 0], centers[:, 1], marker='x', s=200, linewidths=2, c='r')
+
     plt.show()
-
 
 
 stemmedTitles = stemLines(file)
@@ -126,4 +145,4 @@ printClustersToFile(topicPrintRange, kmeans, k)
 file.close()
 results.close()
 
-plotClusters(titleVectors, kmeans)
+plotClusters(topicPrintRange, titleVectors, kmeans)
