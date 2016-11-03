@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import csv
 
 bigDataset = True
+labelThreshold = 10
 authorMap = {}
 authorGraph = nx.Graph()
 
@@ -18,9 +19,16 @@ else:
     outputFile = "../Output/authorImportance_BIG.csv"
 
 def printAuthorGraph():
-    pos = nx.spring_layout(authorGraph)
-    nx.draw_networkx_labels(authorGraph, pos)
-    nx.draw(authorGraph, pos)
+    d = {}
+    lab = {}
+    for node in authorGraph.nodes():
+        size = authorMap[node][0]  # set size of node
+        d[node] = size
+        if size > labelThreshold:
+            lab[node] = node  # set label
+        else:
+            lab[node] = ""
+    nx.draw_random(authorGraph, nodelist=d.keys(), node_size=[v * 100 for v in d.values()], labels=lab, with_labels=True, node_color='c', edge_color='#7F7F7F', font_weight='bold')
     plt.show()
 
 def createNetwork():
@@ -52,7 +60,7 @@ def printResults():
 
 #testing
 createNetwork()
-#printAuthorMap()
+# printAuthorMap()
 printResults()
-#printAuthorGraph()
+printAuthorGraph()
 
