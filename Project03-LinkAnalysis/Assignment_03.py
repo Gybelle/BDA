@@ -33,7 +33,13 @@ def createNetwork():
                 authorMap[author] = (1, 0, 0)  #Tuple: ("Publication count", "PageRank", "Authority Score"
         authorCombinations = itertools.combinations(paperAuthors, 2)
         for combination in authorCombinations:
-            authorGraph.add_edge(combination[0], combination[1])
+            if(authorGraph.has_node(combination[0]) and authorGraph.has_node(combination[1]) and
+                   combination[0] in authorGraph.neighbors(combination[1])):
+                authorGraph.add_edge(combination[0], combination[1])
+                authorGraph[combination[0]][combination[1]]["weight"] += 1
+            else:
+                authorGraph.add_edge(combination[0], combination[1])
+                authorGraph[combination[0]][combination[1]]["weight"] = 0
 
 
 def printResults():
