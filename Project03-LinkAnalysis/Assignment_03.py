@@ -4,6 +4,7 @@
 import itertools
 import networkx as nx
 import matplotlib.pyplot as plt
+import csv
 
 bigDataset = True
 authorMap = {}
@@ -11,10 +12,10 @@ authorGraph = nx.Graph()
 
 if not bigDataset:
     file = open("../Input/pods.txt", "r", encoding="utf8")
-    results = open("../Output/authorImportance.txt", "w", encoding="utf8")
+    outputFile = "../Output/authorImportance.csv"
 else:
     file = open("../Input/podsBIG.txt", "r", encoding="utf8")
-    results = open("../Output/authorImportance_BIG.txt", "w", encoding="utf8")
+    outputFile = "../Output/authorImportance_BIG.csv"
 
 def printAuthorGraph():
     pos = nx.spring_layout(authorGraph)
@@ -26,23 +27,26 @@ def createNetwork():
     for line in file:
         paperAuthors = frozenset(line.replace("[", "").replace("]", "").strip().split(","))
         for author in paperAuthors:
-            #results.write("%s\n" % author)
             if author in authorMap:
-                authorMap[author] += 1
+                authorMap[author] = (authorMap[author][0] + 1, authorMap[author][1], authorMap[author][2])
             else:
-                authorMap[author] = 1
-
+                authorMap[author] = (1, 0, 0)  #Tuple: ("Publication count", "PageRank", "Authority Score"
         authorCombinations = itertools.combinations(paperAuthors, 2)
         for combination in authorCombinations:
             authorGraph.add_edge(combination[0], combination[1])
 
-def printAuthorMap():
-    for author in authorMap:
-        results.write("%s: %d\n" % (author, authorMap[author]))
+
+def printResults():
+    with open(outputFile, 'w', newline='') as csvfile:
+        csvWriter = csv.writer(csvfile, delimiter=';', quotechar=';', quoting=csv.QUOTE_MINIMAL)
+        csvWriter.writerow(['Author', 'Publication count', 'PageRank', 'Authority score'])
+        for author in authorMap:
+            csvWriter.writerow([author, authorMap[author][0], authorMap[author][1], authorMap[author][2]])
 
 
 #testing
 createNetwork()
-printAuthorGraph()
-printAuthorMap()
+#printAuthorMap()
+printResults()
+#printAuthorGraph()
 
