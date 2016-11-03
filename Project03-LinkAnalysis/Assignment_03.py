@@ -41,6 +41,10 @@ def createNetwork():
                 authorGraph.add_edge(combination[0], combination[1])
                 authorGraph[combination[0]][combination[1]]["weight"] = 0
 
+def calculatePageRank():
+    pRank = nx.pagerank(authorGraph)
+    for author in pRank:
+        authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
 
 def printResults():
     with open(outputFile, 'w', newline='') as csvfile:
@@ -52,6 +56,7 @@ def printResults():
 
 #testing
 createNetwork()
+calculatePageRank()
 #printAuthorMap()
 printResults()
 #printAuthorGraph()
