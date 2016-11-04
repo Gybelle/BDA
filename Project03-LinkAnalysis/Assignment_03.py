@@ -63,6 +63,9 @@ def calculatePageRank():
     for author in pRank:
         authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
 
+def calculateAuthorityScore():
+    #do something
+
 def printResults():
     with open(outputFile, 'w', newline='') as csvfile:
         csvWriter = csv.writer(csvfile, delimiter=';', quotechar=';', quoting=csv.QUOTE_MINIMAL)
