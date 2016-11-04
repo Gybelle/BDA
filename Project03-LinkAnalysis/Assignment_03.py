@@ -6,7 +6,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import csv
 
-bigDataset = False
+bigDataset = True
 labelThreshold = 0.07
 authorMap = {}
 authorGraph = nx.Graph()
@@ -58,15 +58,14 @@ def createNetwork():
                 authorGraph.add_edge(combination[0], combination[1])
                 authorGraph[combination[0]][combination[1]]["weight"] = 1
 
-def calculatePageRank():
+def perfomLinkAnalysis():
     pRank = nx.pagerank(authorGraph)
-    for author in pRank:
-        authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
-
-def calculateAuthorityScore():
     hubs, authorities = nx.hits(authorGraph)
-    for author in authorities:
-        authorMap[author] = (authorMap[author][0], authorMap[author][1], authorities[author])
+    for author in authorMap:
+        if (author in pRank):
+            authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
+        if (author in authorities):
+            authorMap[author] = (authorMap[author][0], authorMap[author][1], authorities[author])
 
 def printResults():
     with open(outputFile, 'w', newline='') as csvfile:
@@ -76,11 +75,9 @@ def printResults():
             csvWriter.writerow([author, authorMap[author][0], authorMap[author][1], authorMap[author][2]])
 
 
-#testing
+
 createNetwork()
-calculatePageRank()
-calculateAuthorityScore()
-#printAuthorMap()
+perfomLinkAnalysis()
 printResults()
 printAuthorGraph()
 
