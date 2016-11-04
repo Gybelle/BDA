@@ -64,7 +64,9 @@ def calculatePageRank():
         authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
 
 def calculateAuthorityScore():
-    #do something
+    hubs, authorities = nx.hits(authorGraph)
+    for author in authorities:
+        authorMap[author] = (authorMap[author][0], authorMap[author][1], authorities[author])
 
 def printResults():
     with open(outputFile, 'w', newline='') as csvfile:
@@ -77,6 +79,7 @@ def printResults():
 #testing
 createNetwork()
 calculatePageRank()
+calculateAuthorityScore()
 #printAuthorMap()
 printResults()
 printAuthorGraph()
