@@ -6,8 +6,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import csv
 
-bigDataset = True
-labelThreshold = 10
+bigDataset = False
+labelThreshold = 0.07
 authorMap = {}
 authorGraph = nx.Graph()
 
@@ -21,10 +21,19 @@ else:
 def printAuthorGraph():
     d = {}
     lab = {}
+    weights = []
     for node in authorGraph.nodes():
-        size = authorMap[node][0]  # set size of node
+        weights.append(float(authorMap[node][1]))
+    weights.sort()
+    labThreshold = int(round(len(weights)*(1.0-labelThreshold), 0))
+    while labThreshold > 0 and labThreshold < len(weights)-1 and weights[labThreshold-1] == weights[labThreshold]:
+        labThreshold += 1
+    labThreshold = weights[labThreshold] * 1000
+
+    for node in authorGraph.nodes():
+        size = authorMap[node][1] * 1000  # set size of node
         d[node] = size
-        if size > labelThreshold:
+        if size > labThreshold:
             lab[node] = node  # set label
         else:
             lab[node] = ""
@@ -38,7 +47,7 @@ def createNetwork():
             if author in authorMap:
                 authorMap[author] = (authorMap[author][0] + 1, authorMap[author][1], authorMap[author][2])
             else:
-                authorMap[author] = (1, 0, 0)  #Tuple: ("Publication count", "PageRank", "Authority Score"
+                authorMap[author] = (1, 0, 0)  #Tuple: ("Publication count", "PageRank", "Authority Score")
         authorCombinations = itertools.combinations(paperAuthors, 2)
         for combination in authorCombinations:
             if(authorGraph.has_node(combination[0]) and authorGraph.has_node(combination[1]) and
@@ -47,7 +56,7 @@ def createNetwork():
                 authorGraph[combination[0]][combination[1]]["weight"] += 1
             else:
                 authorGraph.add_edge(combination[0], combination[1])
-                authorGraph[combination[0]][combination[1]]["weight"] = 0
+                authorGraph[combination[0]][combination[1]]["weight"] = 1
 
 def calculatePageRank():
     pRank = nx.pagerank(authorGraph)
