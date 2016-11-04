@@ -41,6 +41,9 @@ def printAuthorGraph():
     plt.show()
 
 def createNetwork():
+    """
+    Generate a network of the authors. A hashmap will also be created containing the publication count per author.
+    """
     for line in file:
         paperAuthors = frozenset(line.replace("[", "").replace("]", "").strip().split(","))
         for author in paperAuthors:
@@ -59,6 +62,10 @@ def createNetwork():
                 authorGraph[combination[0]][combination[1]]["weight"] = 1
 
 def perfomLinkAnalysis():
+    """
+    For each author in the network, the 'PageRank' and 'Authority Score' will be calculated. The hashmap already
+    containing all the authors and 'Publication Count' will also be updated with these values.
+    """
     pRank = nx.pagerank(authorGraph)
     hubs, authorities = nx.hits(authorGraph)
     for author in authorMap:
@@ -68,6 +75,10 @@ def perfomLinkAnalysis():
             authorMap[author] = (authorMap[author][0], authorMap[author][1], authorities[author])
 
 def printResults():
+    """
+    Save the results in a CSV file. The file contains the following columns: Author, Publication count, PageRank and
+    Authority Score.
+    """
     with open(outputFile, 'w', newline='') as csvfile:
         csvWriter = csv.writer(csvfile, delimiter=';', quotechar=';', quoting=csv.QUOTE_MINIMAL)
         csvWriter.writerow(['Author', 'Publication count', 'PageRank', 'Authority score'])
