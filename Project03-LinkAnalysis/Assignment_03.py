@@ -8,7 +8,7 @@ import csv
 
 bigDataset = True
 labelThreshold = 0.08
-dataElement = 2  # 0 = publ. count, 1 = PageRank, 2 = authority
+dataElement = 0  # 0 = publ. count, 1 = PageRank, 2 = authority
 authorMap = {}
 authorGraph = nx.Graph()
 highlightNames = {"Frank Neven", "Jan Van den Bussche", "Marc Gyssens", "Stijn Vansummeren", "Bas Ketsman", "Tom J. Ameloot"}
@@ -40,7 +40,6 @@ def printAuthorGraph():
                 labCol[node] = ""
             else:
                 lab[node] = ""
-    print(labCol)
 
     pos = nx.random_layout(authorGraph)
     nx.draw(authorGraph, pos=pos, nodelist=d.keys(), node_size=[v * 100 for v in d.values()], labels=lab, with_labels=True, node_color='c', edge_color='#9F9F9F', font_weight='bold')
