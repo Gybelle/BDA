@@ -21,6 +21,9 @@ else:
     outputFile = "../Output/authorImportance_BIG.csv"
 
 def printAuthorGraph():
+    """
+    Visualize the graph on screen.
+    """
     d = {}
     lab = {}
     labCol = {}
@@ -107,8 +110,15 @@ def printResults():
         for author in authorMap:
             csvWriter.writerow([author, authorMap[author][0], authorMap[author][1], authorMap[author][2]])
 
+
+
+#####################################
+#       Run the program:            #
+#       Execute functions           #
+#####################################
 createNetwork()
 perfomLinkAnalysis()
 printResults()
 printAuthorGraph()
+
 
