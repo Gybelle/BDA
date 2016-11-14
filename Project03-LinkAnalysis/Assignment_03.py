@@ -50,6 +50,10 @@ def printAuthorGraph():
     plt.show()
 
 def calculateThreshold():
+    """
+    Calculate the threshold above which labels should be displayed. Threshold represents a percentage x, so the value at
+    1-x percent of the sorted values is returned, resulting in the threshold-value of the upper x percent.
+    """
     weights = []
     if dataElement == 0:
         factor = 1
