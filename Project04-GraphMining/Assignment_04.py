@@ -1,4 +1,4 @@
-# Assignment 3: Importance of researches
+# Assignment 4: Graph Mining
 # Authors: Michelle Gybels & Anaïs Ools
 
 import itertools
