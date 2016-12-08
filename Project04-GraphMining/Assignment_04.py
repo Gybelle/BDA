@@ -5,124 +5,133 @@ import itertools
 import networkx as nx
 import matplotlib.pyplot as plt
 import csv
+import community
+import igraph
 
 bigDataset = True
-labelThreshold = 0.08
-dataElement = 0  # 0 = publ. count, 1 = PageRank, 2 = authority
-authorMap = {}
 authorGraph = nx.Graph()
-highlightNames = {"Frank Neven", "Jan Van den Bussche", "Marc Gyssens", "Stijn Vansummeren", "Bas Ketsman", "Tom J. Ameloot"}
+otherGraph = igraph.Graph(directed=False)
+startYear = 2006
+endYear = 2016
 
 if not bigDataset:
-    file = open("../Input/podsOld.txt", "r", encoding="utf8")
-    outputFile = "../Output/authorImportance.csv"
+    file = open("../Input/pods.txt", "r", encoding="utf8")
+    # outputFile = "../Output/authorImportance.csv"
 else:
     file = open("../Input/podsBIG.txt", "r", encoding="utf8")
-    outputFile = "../Output/authorImportance_BIG.csv"
+    # outputFile = "../Output/authorImportance_BIG.csv"
 
-def printAuthorGraph():
-    """
-    Visualize the graph on screen.
-    """
-    d = {}
-    lab = {}
-    labCol = {}
-    calculatedThreshold = calculateThreshold()
-    threshold = calculatedThreshold[0]
-    factor = calculatedThreshold[1]
-    for node in authorGraph.nodes():
-        size = authorMap[node][dataElement] * factor  # set size of node
-        d[node] = size
-        if size > threshold:
-            if node in highlightNames:
-                labCol[node] = node  # set label
-            else:
-                lab[node] = node
-        else:
-            if node in highlightNames:
-                labCol[node] = ""
-            else:
-                lab[node] = ""
 
-    pos = nx.random_layout(authorGraph)
-    nx.draw(authorGraph, pos=pos, nodelist=d.keys(), node_size=[v * 100 for v in d.values()], labels=lab, with_labels=True, node_color='c', edge_color='#9F9F9F', font_weight='bold')
-    nx.draw_networkx_labels(authorGraph, pos=pos, labels=labCol, font_weight='bold', font_color='#E12707')
-    plt.show()
-
-def calculateThreshold():
-    """
-    Calculate the threshold above which labels should be displayed. Threshold represents a percentage x, so the value at
-    1-x percent of the sorted values is returned, resulting in the threshold-value of the upper x percent.
-    """
-    weights = []
-    if dataElement == 0:
-        factor = 1
-    elif dataElement == 1:
-        factor = 1000
-    elif dataElement == 2:
-        factor = 1000
-    for node in authorGraph.nodes():
-        weights.append(float(authorMap[node][dataElement]))
-    weights.sort()
-    labThreshold = int(round(len(weights)*(1.0-labelThreshold), 0))
-    while labThreshold > 0 and labThreshold < len(weights)-1 and weights[labThreshold-1] == weights[labThreshold]:
-        labThreshold += 1
-    return weights[labThreshold] * factor, factor
-
-def createNetwork():
+def createGraph():
     """
     Generate a network of the authors. A hashmap will also be created containing the publication count per author.
     """
     for line in file:
-        paperAuthors = frozenset(line.replace("[", "").replace("]", "").strip().split(","))
-        for author in paperAuthors:
-            if author in authorMap:
-                authorMap[author] = (authorMap[author][0] + 1, authorMap[author][1], authorMap[author][2])
-            else:
-                authorMap[author] = (1, 0, 0)  #Tuple: ("Publication count", "PageRank", "Authority Score")
-        authorCombinations = itertools.combinations(paperAuthors, 2)
-        for combination in authorCombinations:
-            if(authorGraph.has_node(combination[0]) and authorGraph.has_node(combination[1]) and
-                   combination[0] in authorGraph.neighbors(combination[1])):
-                authorGraph.add_edge(combination[0], combination[1])
-                authorGraph[combination[0]][combination[1]]["weight"] += 1
-            else:
-                authorGraph.add_edge(combination[0], combination[1])
-                authorGraph[combination[0]][combination[1]]["weight"] = 1
+        year = int(line[:line.find(" ")])
+        if year >= startYear and year <= endYear:
+            authors = line[line.find(" ")+1:]
+            paperAuthors = frozenset(authors.replace("[", "").replace("]", "").strip().split(","))
+            # print(year, end=" ")
+            # print(paperAuthors)
+            authorCombinations = itertools.combinations(paperAuthors, 2)
+            for combination in authorCombinations:
+                if(authorGraph.has_node(combination[0]) and authorGraph.has_node(combination[1]) and
+                       combination[0] in authorGraph.neighbors(combination[1])):
+                    authorGraph.add_edge(combination[0], combination[1])
+                    authorGraph[combination[0]][combination[1]]["weight"] += 1
+                else:
+                    authorGraph.add_edge(combination[0], combination[1])
+                    authorGraph[combination[0]][combination[1]]["weight"] = 1
 
-def perfomLinkAnalysis():
-    """
-    For each author in the network, the 'PageRank' and 'Authority Score' will be calculated. The hashmap already
-    containing all the authors and 'Publication Count' will also be updated with these values.
-    """
-    pRank = nx.pagerank(authorGraph)
-    hubs, authorities = nx.hits(authorGraph)
-    for author in authorMap:
-        if (author in pRank):
-            authorMap[author] = (authorMap[author][0], pRank[author], authorMap[author][2])
-        if (author in authorities):
-            authorMap[author] = (authorMap[author][0], authorMap[author][1], authorities[author])
+                addNode(combination[0])
+                addNode(combination[1])
+                otherGraph.add_edge(combination[0], combination[1])
 
-def printResults():
-    """
-    Save the results in a CSV file. The file contains the following columns: Author, Publication count, PageRank and
-    Authority Score.
-    """
-    with open(outputFile, 'w', newline='') as csvfile:
-        csvWriter = csv.writer(csvfile, delimiter=';', quotechar=';', quoting=csv.QUOTE_MINIMAL)
-        csvWriter.writerow(['Author', 'Publication count', 'PageRank', 'Authority score'])
-        for author in authorMap:
-            csvWriter.writerow([author, authorMap[author][0], authorMap[author][1], authorMap[author][2]])
 
+def addNode(node):
+    """
+    Add a node to the global graph if it does not exist yet.
+    :param node: the node to add
+    """
+    # Graph has no nodes
+    if len(otherGraph.vs) == 0:
+        otherGraph.add_vertex(node)
+        return
+    # Graph does not have node
+    if node not in otherGraph.vs["name"]:
+        otherGraph.add_vertex(node)
+
+
+def flattenGraph(graph):
+    """
+    Merges multiple edges into one edge with the count as weight.
+    """
+    graph.es["width"] = 1
+    graph.simplify(combine_edges={"width": "sum"})
+    graph.simplify()
+
+
+def fix_dendrogram(graph, cl):
+    """
+    Takes a graph and an incomplete dendrogram and completes the dendrogram by merging the remaining nodes in arbitrary
+    order.
+    Source: https://lists.nongnu.org/archive/html/igraph-help/2014-02/msg00067.html
+    :param graph: original graph
+    :param cl: dendrogram
+    """
+    already_merged = set()
+    for merge in cl.merges:
+        already_merged.update(merge)
+
+    num_dendrogram_nodes = graph.vcount() + len(cl.merges)
+    not_merged_yet = sorted(set(range(num_dendrogram_nodes)) - already_merged)
+    if len(not_merged_yet) < 2:
+        return
+
+    v1, v2 = not_merged_yet[:2]
+    cl._merges.append((v1, v2))
+    del not_merged_yet[:2]
+
+    missing_nodes = range(num_dendrogram_nodes,
+            num_dendrogram_nodes + len(not_merged_yet))
+    cl._merges.extend(zip(not_merged_yet, missing_nodes))
+    cl._nmerges = graph.vcount()-1
+
+
+def calculateBetweenness():
+
+    result = nx.betweenness_centrality(authorGraph)
+    for item in result:
+        print(item, end=" --> ")
+        print(result[item])
+    # draw with highlighted belangrijke nodes
+    # http://glowingpython.blogspot.be/2013/02/betweenness-centrality.html
+
+
+def calculateCommunities():
+    # calculate dendrogram
+    dendrogram = otherGraph.community_edge_betweenness()
+    fix_dendrogram(otherGraph, dendrogram)
+    print(dendrogram)
+
+    # convert it into a flat clustering
+    clusters = dendrogram.as_clustering()
+    print(clusters)
+
+    # print memberships
+    # membership = clusters.membership
+    # for name, membership in zip(g.vs["name"], membership):
+    #     print([name, membership])
 
 
 #####################################
 #       Run the program:            #
 #       Execute functions           #
 #####################################
-createNetwork()
-perfomLinkAnalysis()
-printResults()
-printAuthorGraph()
+createGraph()
 
+# calculateBetweenness()
 
+flattenGraph(otherGraph)
+
+calculateCommunities()
