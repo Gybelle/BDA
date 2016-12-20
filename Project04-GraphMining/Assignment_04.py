@@ -3,16 +3,13 @@
 
 import itertools
 import networkx as nx
-import matplotlib.pyplot as plt
-import csv
-import community
 import igraph
 
 bigDataset = True
 authorGraph = nx.Graph()
 otherGraph = igraph.Graph(directed=False)
-startYear = 2006
-endYear = 2016
+startYear = 206
+endYear = startYear + 5
 
 if not bigDataset:
     file = open("../Input/pods.txt", "r", encoding="utf8")
@@ -31,8 +28,6 @@ def createGraph():
         if year >= startYear and year <= endYear:
             authors = line[line.find(" ")+1:]
             paperAuthors = frozenset(authors.replace("[", "").replace("]", "").strip().split(","))
-            # print(year, end=" ")
-            # print(paperAuthors)
             authorCombinations = itertools.combinations(paperAuthors, 2)
             for combination in authorCombinations:
                 if(authorGraph.has_node(combination[0]) and authorGraph.has_node(combination[1]) and
@@ -99,13 +94,11 @@ def fix_dendrogram(graph, cl):
 
 
 def calculateBetweenness():
-
     result = nx.betweenness_centrality(authorGraph)
     for item in result:
-        print(item, end=" --> ")
-        print(result[item])
-    # draw with highlighted belangrijke nodes
-    # http://glowingpython.blogspot.be/2013/02/betweenness-centrality.html
+        if result[item] > 0:
+            print(item, end=" --> ")
+            print(result[item])
 
 
 def calculateCommunities():
@@ -118,11 +111,6 @@ def calculateCommunities():
     clusters = dendrogram.as_clustering()
     print(clusters)
 
-    # print memberships
-    # membership = clusters.membership
-    # for name, membership in zip(g.vs["name"], membership):
-    #     print([name, membership])
-
 
 #####################################
 #       Run the program:            #
@@ -130,7 +118,7 @@ def calculateCommunities():
 #####################################
 createGraph()
 
-# calculateBetweenness()
+calculateBetweenness()
 
 flattenGraph(otherGraph)
 

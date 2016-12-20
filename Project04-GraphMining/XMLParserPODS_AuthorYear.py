@@ -2,7 +2,7 @@
 import xml.sax
 
 conference = "PODS"
-bigDataset = True
+bigDataset = False
 
 class ListOfAuthorsPerPublication(xml.sax.ContentHandler):
     authorList = ""
@@ -65,5 +65,5 @@ parser.setContentHandler(ListOfAuthorsPerPublication())
 if not bigDataset:
     parser.parse(open("../Input/dblp50000.xml", "r", encoding="utf8"))
 else:
-    parser.parse(open("../Input/dblp.xml", "r", encoding="utf8"))
+    parser.parse(open("../../dblp/dblp.xml", "r", encoding="utf8"))
 f.close()
